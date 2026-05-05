@@ -1,0 +1,32 @@
+name: Playwright Scraper
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Cada 6 horas
+  workflow_dispatch:
+
+jobs:
+  playwright:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Instalar Playwright
+        run: |
+          pip install playwright
+          playwright install chromium
+          playwright install-deps
+      
+      - name: Ejecutar scraper.py
+        run: python scraper.py
+      
+      - name: Commit all_events.json
+        run: |
+          git config user.email "actions@github.com"
+          git config user.name "GitHub Actions"
+          git add all_events.json
+          git commit -m "Actualización eventos $(date -u '+%Y-%m-%d %H:%M')" || echo "No changes"
+          git push
