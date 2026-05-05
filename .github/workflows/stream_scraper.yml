@@ -1,0 +1,72 @@
+name: Stream Scraper
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'  # Cada 2 horas
+  workflow_dispatch:
+
+jobs:
+  scrape-complete:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v4
+      
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      # ============================================
+      # PRIMERO: scraper.py (Playwright - 1 vez al día)
+      # ============================================
+      - name: Verificar si toca ejecutar Playwright
+        id: check_playwright
+        run: |
+          # Obtener fecha del último commit de all_events.json
+          LAST_COMMIT=$(git log -1 --format=%ct -- all_events.json 2>/dev/null || echo 0)
+          NOW=$(date +%s)
+          DIFF=$((NOW - LAST_COMMIT))
+          
+          # Si pasaron más de 24 horas (86400 segundos)
+          if [ $DIFF -gt 86400 ]; then
+            echo "needs_update=true" >> $GITHUB_OUTPUT
+          else
+            echo "needs_update=false" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: Instalar Playwright
+        if: steps.check_playwright.outputs.needs_update == 'true'
+        run: |
+          pip install playwright
+          playwright install chromium
+          playwright install-deps
+      
+      - name: Ejecutar scraper.py (Playwright - eventos)
+        if: steps.check_playwright.outputs.needs_update == 'true'
+        run: python scraper.py
+      
+      - name: Commit all_events.json (si cambió)
+        if: steps.check_playwright.outputs.needs_update == 'true'
+        run: |
+          git config user.email "actions@github.com"
+          git config user.name "GitHub Actions"
+          git add all_events.json
+          git commit -m "Actualización eventos $(date -u '+%Y-%m-%d %H:%M')" || echo "No changes"
+          git push
+      
+      # ============================================
+      # SEGUNDO: git_scraper.py (requests - cada ejecución)
+      # ============================================
+      - name: Instalar dependencias
+        run: pip install requests beautifulsoup4
+      
+      - name: Ejecutar git_scraper.py (servidores)
+        run: python git_scraper.py
+      
+      - name: Commit events_clean.json
+        run: |
+          git config user.email "actions@github.com"
+          git config user.name "GitHub Actions"
+          git add events_clean.json
+          git commit -m "Actualización streams $(date -u '+%Y-%m-%d %H:%M')" || echo "No changes"
+          git push
