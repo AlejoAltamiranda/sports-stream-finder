@@ -1,208 +1,103 @@
 {
-  "scraping_date": "2026-05-05T23:39:32.702156",
-  "total_events": 35,
+  "scraping_date": "2026-05-06T03:45:05.024886",
+  "total_events": 20,
   "events": [
-    {
-      "title": "Tampa Bay Rays vs Toronto Blue Jays",
-      "datetime": "Tuesday, May 5, 2026, 6:40 PM ET",
-      "league": "MLB",
-      "status": "LIVE",
-      "event_url": "https://istreameast.is/links/tampa-bay-rays-vs-toronto-blue-jays-2387403"
-    },
-    {
-      "title": "Philadelphia Phillies vs Athletics",
-      "datetime": "Tuesday, May 5, 2026, 6:40 PM ET",
-      "league": "MLB",
-      "status": "LIVE",
-      "event_url": "https://istreameast.is/links/philadelphia-phillies-vs-athletics-2387407"
-    },
-    {
-      "title": "Miami Marlins vs Baltimore Orioles",
-      "datetime": "Tuesday, May 5, 2026, 6:40 PM ET",
-      "league": "MLB",
-      "status": "LIVE",
-      "event_url": "https://istreameast.is/links/miami-marlins-vs-baltimore-orioles-2387409"
-    },
-    {
-      "title": "Detroit Tigers vs Boston Red Sox",
-      "datetime": "Tuesday, May 5, 2026, 6:40 PM ET",
-      "league": "MLB",
-      "status": "LIVE",
-      "event_url": "https://istreameast.is/links/detroit-tigers-vs-boston-red-sox-2387411"
-    },
-    {
-      "title": "Washington Nationals vs Minnesota Twins",
-      "datetime": "Tuesday, May 5, 2026, 6:45 PM ET",
-      "league": "MLB",
-      "status": "LIVE",
-      "event_url": "https://istreameast.is/links/washington-nationals-vs-minnesota-twins-2387402"
-    },
-    {
-      "title": "Detroit Pistons vs Cleveland Cavaliers",
-      "datetime": "Tuesday, May 5, 2026, 7:00 PM ET",
-      "league": "NBA",
-      "status": "LIVE",
-      "event_url": "https://istreameast.is/links/detroit-pistons-vs-cleveland-cavaliers-2470000"
-    },
-    {
-      "title": "New York Yankees vs Texas Rangers",
-      "datetime": "Tuesday, May 5, 2026, 7:05 PM ET",
-      "league": "MLB",
-      "status": "LIVE",
-      "event_url": "https://istreameast.is/links/new-york-yankees-vs-texas-rangers-2387401"
-    },
-    {
-      "title": "Chicago Cubs vs Cincinnati Reds",
-      "datetime": "Tuesday, May 5, 2026, 7:40 PM ET",
-      "league": "MLB",
-      "status": "0 minutes from now",
-      "event_url": "https://istreameast.is/links/chicago-cubs-vs-cincinnati-reds-2387413"
-    },
-    {
-      "title": "Kansas City Royals vs Cleveland Guardians",
-      "datetime": "Tuesday, May 5, 2026, 7:40 PM ET",
-      "league": "MLB",
-      "status": "0 minutes from now",
-      "event_url": "https://istreameast.is/links/kansas-city-royals-vs-cleveland-guardians-2387415"
-    },
-    {
-      "title": "St. Louis Cardinals vs Milwaukee Brewers",
-      "datetime": "Tuesday, May 5, 2026, 7:45 PM ET",
-      "league": "MLB",
-      "status": "5 minutes from now",
-      "event_url": "https://istreameast.is/links/st-louis-cardinals-vs-milwaukee-brewers-2387404"
-    },
-    {
-      "title": "Colorado Avalanche vs Minnesota Wild",
-      "datetime": "Tuesday, May 5, 2026, 8:00 PM ET",
-      "league": "NHL",
-      "status": "20 minutes from now",
-      "event_url": "https://istreameast.is/links/colorado-avalanche-vs-minnesota-wild-2469658"
-    },
-    {
-      "title": "NXT #836",
-      "datetime": "Tuesday, May 5, 2026, 8:00 PM ET",
-      "league": "WWE",
-      "status": "20 minutes from now",
-      "event_url": "https://istreameast.is/links/nxt-836-2468421"
-    },
-    {
-      "title": "Houston Astros vs Los Angeles Dodgers",
-      "datetime": "Tuesday, May 5, 2026, 8:10 PM ET",
-      "league": "MLB",
-      "status": "30 minutes from now",
-      "event_url": "https://istreameast.is/links/houston-astros-vs-los-angeles-dodgers-2387410"
-    },
-    {
-      "title": "Oklahoma City Thunder vs Los Angeles Lakers",
-      "datetime": "Tuesday, May 5, 2026, 8:30 PM ET",
-      "league": "NBA",
-      "status": "50 minutes from now",
-      "event_url": "https://istreameast.is/links/oklahoma-city-thunder-vs-los-angeles-lakers-2469468"
-    },
-    {
-      "title": "Colorado Rockies vs New York Mets",
-      "datetime": "Tuesday, May 5, 2026, 8:40 PM ET",
-      "league": "MLB",
-      "status": "1 hour from now",
-      "event_url": "https://istreameast.is/links/colorado-rockies-vs-new-york-mets-2387412"
-    },
     {
       "title": "Tigres vs Nashville SC",
       "datetime": "Tuesday, May 5, 2026, 9:30 PM ET",
       "league": "Soccer",
-      "status": "1 hour from now",
+      "status": "LIVE",
       "event_url": "https://istreameast.is/links/tigres-vs-nashville-sc-2469089"
     },
     {
       "title": "Los Angeles Angels vs Chicago White Sox",
       "datetime": "Tuesday, May 5, 2026, 9:38 PM ET",
       "league": "MLB",
-      "status": "1 hour from now",
+      "status": "LIVE",
       "event_url": "https://istreameast.is/links/los-angeles-angels-vs-chicago-white-sox-2387408"
     },
     {
       "title": "Seattle Mariners vs Atlanta Braves",
       "datetime": "Tuesday, May 5, 2026, 9:40 PM ET",
       "league": "MLB",
-      "status": "2 hours from now",
+      "status": "LIVE",
       "event_url": "https://istreameast.is/links/seattle-mariners-vs-atlanta-braves-2387405"
     },
     {
       "title": "Arizona Diamondbacks vs Pittsburgh Pirates",
       "datetime": "Tuesday, May 5, 2026, 9:40 PM ET",
       "league": "MLB",
-      "status": "2 hours from now",
+      "status": "LIVE",
       "event_url": "https://istreameast.is/links/arizona-diamondbacks-vs-pittsburgh-pirates-2387414"
     },
     {
       "title": "San Francisco Giants vs San Diego Padres",
       "datetime": "Tuesday, May 5, 2026, 9:45 PM ET",
       "league": "MLB",
-      "status": "2 hours from now",
+      "status": "LIVE",
       "event_url": "https://istreameast.is/links/san-francisco-giants-vs-san-diego-padres-2387406"
     },
     {
       "title": "Almere City vs De Graafschap",
       "datetime": "Wednesday, May 6, 2026, 12:45 PM ET",
       "league": "Soccer",
-      "status": "17 hours from now",
+      "status": "12 hours from now",
       "event_url": "https://istreameast.is/links/almere-city-vs-de-graafschap-2469522"
     },
     {
       "title": "Al-Ahli vs Al-Fateh",
       "datetime": "Wednesday, May 6, 2026, 2:00 PM ET",
       "league": "Soccer",
-      "status": "18 hours from now",
+      "status": "14 hours from now",
       "event_url": "https://istreameast.is/links/al-ahli-vs-al-fateh-2311930"
     },
     {
       "title": "Bayern Munich vs Paris SG",
       "datetime": "Wednesday, May 6, 2026, 3:00 PM ET",
       "league": "Soccer",
-      "status": "19 hours from now",
+      "status": "15 hours from now",
       "event_url": "https://istreameast.is/links/bayern-munich-vs-paris-sg-2466175"
     },
     {
       "title": "New York Knicks vs Philadelphia 76ers",
       "datetime": "Wednesday, May 6, 2026, 7:00 PM ET",
       "league": "NBA",
-      "status": "23 hours from now",
+      "status": "19 hours from now",
       "event_url": "https://istreameast.is/links/new-york-knicks-vs-philadelphia-76ers-2469601"
     },
     {
       "title": "Buffalo Sabres vs Montreal Canadiens",
       "datetime": "Wednesday, May 6, 2026, 7:00 PM ET",
       "league": "NHL",
-      "status": "23 hours from now",
+      "status": "19 hours from now",
       "event_url": "https://istreameast.is/links/buffalo-sabres-vs-montreal-canadiens-2469659"
     },
     {
       "title": "New York Yankees vs Texas Rangers",
       "datetime": "Wednesday, May 6, 2026, 7:05 PM ET",
       "league": "MLB",
-      "status": "23 hours from now",
+      "status": "19 hours from now",
       "event_url": "https://istreameast.is/links/new-york-yankees-vs-texas-rangers-2387416"
     },
     {
       "title": "San Antonio Spurs vs Minnesota Timberwolves",
       "datetime": "Wednesday, May 6, 2026, 9:30 PM ET",
       "league": "NBA",
-      "status": "1 day from now",
+      "status": "21 hours from now",
       "event_url": "https://istreameast.is/links/san-antonio-spurs-vs-minnesota-timberwolves-2469469"
     },
     {
       "title": "Vegas Golden Knights vs Anaheim Ducks",
       "datetime": "Wednesday, May 6, 2026, 9:30 PM ET",
       "league": "NHL",
-      "status": "1 day from now",
+      "status": "21 hours from now",
       "event_url": "https://istreameast.is/links/vegas-golden-knights-vs-anaheim-ducks-2469660"
     },
     {
       "title": "Toluca vs Los Angeles FC",
       "datetime": "Wednesday, May 6, 2026, 9:30 PM ET",
       "league": "Soccer",
-      "status": "1 day from now",
+      "status": "21 hours from now",
       "event_url": "https://istreameast.is/links/toluca-vs-los-angeles-fc-2466050"
     },
     {
