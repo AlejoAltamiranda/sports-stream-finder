@@ -1,145 +1,138 @@
 {
-  "scraping_date": "2026-05-11T04:05:03.155100",
-  "total_events": 28,
+  "scraping_date": "2026-05-11T09:53:30.725861",
+  "total_events": 27,
   "events": [
-    {
-      "title": "Anaheim Ducks vs Vegas Golden Knights",
-      "datetime": "Sunday, May 10, 2026, 9:30 PM ET",
-      "league": "NHL",
-      "status": "LIVE",
-      "event_url": "https://istreameast.is/links/anaheim-ducks-vs-vegas-golden-knights-2469667"
-    },
     {
       "title": "Neom vs Al-Shabab",
       "datetime": "Monday, May 11, 2026, 12:50 PM ET",
       "league": "Soccer",
-      "status": "12 hours from now",
+      "status": "6 hours from now",
       "event_url": "https://istreameast.is/links/neom-vs-al-shabab-2311965"
     },
     {
       "title": "Al-Taawoun vs Al-Ahli",
       "datetime": "Monday, May 11, 2026, 2:00 PM ET",
       "league": "Soccer",
-      "status": "13 hours from now",
+      "status": "8 hours from now",
       "event_url": "https://istreameast.is/links/al-taawoun-vs-al-ahli-2311973"
     },
     {
       "title": "Napoli vs Bologna",
       "datetime": "Monday, May 11, 2026, 2:45 PM ET",
       "league": "Soccer",
-      "status": "14 hours from now",
+      "status": "8 hours from now",
       "event_url": "https://istreameast.is/links/napoli-vs-bologna-2265392"
     },
     {
       "title": "Tottenham Hotspur vs Leeds United",
       "datetime": "Monday, May 11, 2026, 3:00 PM ET",
       "league": "Soccer",
-      "status": "14 hours from now",
+      "status": "9 hours from now",
       "event_url": "https://istreameast.is/links/tottenham-hotspur-vs-leeds-united-2267431"
     },
     {
       "title": "Rayo Vallecano vs Girona",
       "datetime": "Monday, May 11, 2026, 3:00 PM ET",
       "league": "Soccer",
-      "status": "14 hours from now",
+      "status": "9 hours from now",
       "event_url": "https://istreameast.is/links/rayo-vallecano-vs-girona-2279740"
     },
     {
       "title": "Benfica vs Braga",
       "datetime": "Monday, May 11, 2026, 3:15 PM ET",
       "league": "Soccer",
-      "status": "15 hours from now",
+      "status": "9 hours from now",
       "event_url": "https://istreameast.is/links/benfica-vs-braga-2283619"
     },
     {
       "title": "Estrela Amadora vs Famalicao",
       "datetime": "Monday, May 11, 2026, 3:15 PM ET",
       "league": "Soccer",
-      "status": "15 hours from now",
+      "status": "9 hours from now",
       "event_url": "https://istreameast.is/links/estrela-amadora-vs-famalicao-2283620"
     },
     {
       "title": "Gil Vicente vs Arouca",
       "datetime": "Monday, May 11, 2026, 3:15 PM ET",
       "league": "Soccer",
-      "status": "15 hours from now",
+      "status": "9 hours from now",
       "event_url": "https://istreameast.is/links/gil-vicente-vs-arouca-2283621"
     },
     {
       "title": "Rio Ave vs Sporting CP",
       "datetime": "Monday, May 11, 2026, 3:15 PM ET",
       "league": "Soccer",
-      "status": "15 hours from now",
+      "status": "9 hours from now",
       "event_url": "https://istreameast.is/links/rio-ave-vs-sporting-cp-2283622"
     },
     {
       "title": "Santa Clara vs Nacional de Madeira",
       "datetime": "Monday, May 11, 2026, 3:15 PM ET",
       "league": "Soccer",
-      "status": "15 hours from now",
+      "status": "9 hours from now",
       "event_url": "https://istreameast.is/links/santa-clara-vs-nacional-de-madeira-2283623"
     },
     {
       "title": "Tondela vs Moreirense",
       "datetime": "Monday, May 11, 2026, 3:15 PM ET",
       "league": "Soccer",
-      "status": "15 hours from now",
+      "status": "9 hours from now",
       "event_url": "https://istreameast.is/links/tondela-vs-moreirense-2283624"
     },
     {
       "title": "Vitória de Guimarães vs Casa Pia",
       "datetime": "Monday, May 11, 2026, 3:15 PM ET",
       "league": "Soccer",
-      "status": "15 hours from now",
+      "status": "9 hours from now",
       "event_url": "https://istreameast.is/links/vitoria-de-guimaraes-vs-casa-pia-2283625"
     },
     {
       "title": "Cleveland Guardians vs Los Angeles Angels",
       "datetime": "Monday, May 11, 2026, 6:10 PM ET",
       "league": "MLB",
-      "status": "18 hours from now",
+      "status": "12 hours from now",
       "event_url": "https://istreameast.is/links/cleveland-guardians-vs-los-angeles-angels-2387490"
     },
     {
       "title": "Baltimore Orioles vs New York Yankees",
       "datetime": "Monday, May 11, 2026, 6:35 PM ET",
       "league": "MLB",
-      "status": "18 hours from now",
+      "status": "12 hours from now",
       "event_url": "https://istreameast.is/links/baltimore-orioles-vs-new-york-yankees-2387489"
     },
     {
       "title": "Toronto Blue Jays vs Tampa Bay Rays",
       "datetime": "Monday, May 11, 2026, 7:07 PM ET",
       "league": "MLB",
-      "status": "19 hours from now",
+      "status": "13 hours from now",
       "event_url": "https://istreameast.is/links/toronto-blue-jays-vs-tampa-bay-rays-2387485"
     },
     {
       "title": "Cleveland Cavaliers vs Detroit Pistons",
       "datetime": "Monday, May 11, 2026, 8:00 PM ET",
       "league": "NBA",
-      "status": "19 hours from now",
+      "status": "14 hours from now",
       "event_url": "https://istreameast.is/links/cleveland-cavaliers-vs-detroit-pistons-2470003"
     },
     {
       "title": "Minnesota Wild vs Colorado Avalanche",
       "datetime": "Monday, May 11, 2026, 8:00 PM ET",
       "league": "NHL",
-      "status": "19 hours from now",
+      "status": "14 hours from now",
       "event_url": "https://istreameast.is/links/minnesota-wild-vs-colorado-avalanche-2469668"
     },
     {
       "title": "NXT #837",
       "datetime": "Monday, May 11, 2026, 8:00 PM ET",
       "league": "WWE",
-      "status": "19 hours from now",
+      "status": "14 hours from now",
       "event_url": "https://istreameast.is/links/nxt-837-2471095"
     },
     {
       "title": "Los Angeles Lakers vs Oklahoma City Thunder",
       "datetime": "Monday, May 11, 2026, 10:30 PM ET",
       "league": "NBA",
-      "status": "22 hours from now",
+      "status": "16 hours from now",
       "event_url": "https://istreameast.is/links/los-angeles-lakers-vs-oklahoma-city-thunder-2469474"
     },
     {
