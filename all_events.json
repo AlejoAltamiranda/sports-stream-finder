@@ -1,208 +1,201 @@
 {
-  "scraping_date": "2026-05-11T15:26:30.661236",
-  "total_events": 66,
+  "scraping_date": "2026-05-11T19:57:19.239549",
+  "total_events": 65,
   "events": [
-    {
-      "title": "Neom vs Al-Shabab",
-      "datetime": "Monday, May 11, 2026, 12:50 PM ET",
-      "league": "Soccer",
-      "status": "1 hour from now",
-      "event_url": "https://istreameast.is/links/neom-vs-al-shabab-2311965"
-    },
     {
       "title": "Al-Taawoun vs Al-Ahli",
       "datetime": "Monday, May 11, 2026, 2:00 PM ET",
       "league": "Soccer",
-      "status": "2 hours from now",
+      "status": "LIVE",
       "event_url": "https://istreameast.is/links/al-taawoun-vs-al-ahli-2311973"
     },
     {
       "title": "Napoli vs Bologna",
       "datetime": "Monday, May 11, 2026, 2:45 PM ET",
       "league": "Soccer",
-      "status": "3 hours from now",
+      "status": "LIVE",
       "event_url": "https://istreameast.is/links/napoli-vs-bologna-2265392"
     },
     {
       "title": "Tottenham Hotspur vs Leeds United",
       "datetime": "Monday, May 11, 2026, 3:00 PM ET",
       "league": "Soccer",
-      "status": "3 hours from now",
+      "status": "LIVE",
       "event_url": "https://istreameast.is/links/tottenham-hotspur-vs-leeds-united-2267431"
     },
     {
       "title": "Rayo Vallecano vs Girona",
       "datetime": "Monday, May 11, 2026, 3:00 PM ET",
       "league": "Soccer",
-      "status": "3 hours from now",
+      "status": "LIVE",
       "event_url": "https://istreameast.is/links/rayo-vallecano-vs-girona-2279740"
     },
     {
       "title": "Benfica vs Braga",
       "datetime": "Monday, May 11, 2026, 3:15 PM ET",
       "league": "Soccer",
-      "status": "3 hours from now",
+      "status": "LIVE",
       "event_url": "https://istreameast.is/links/benfica-vs-braga-2283619"
     },
     {
       "title": "Estrela Amadora vs Famalicao",
       "datetime": "Monday, May 11, 2026, 3:15 PM ET",
       "league": "Soccer",
-      "status": "3 hours from now",
+      "status": "LIVE",
       "event_url": "https://istreameast.is/links/estrela-amadora-vs-famalicao-2283620"
     },
     {
       "title": "Gil Vicente vs Arouca",
       "datetime": "Monday, May 11, 2026, 3:15 PM ET",
       "league": "Soccer",
-      "status": "3 hours from now",
+      "status": "LIVE",
       "event_url": "https://istreameast.is/links/gil-vicente-vs-arouca-2283621"
     },
     {
       "title": "Rio Ave vs Sporting CP",
       "datetime": "Monday, May 11, 2026, 3:15 PM ET",
       "league": "Soccer",
-      "status": "3 hours from now",
+      "status": "LIVE",
       "event_url": "https://istreameast.is/links/rio-ave-vs-sporting-cp-2283622"
     },
     {
       "title": "Santa Clara vs Nacional de Madeira",
       "datetime": "Monday, May 11, 2026, 3:15 PM ET",
       "league": "Soccer",
-      "status": "3 hours from now",
+      "status": "LIVE",
       "event_url": "https://istreameast.is/links/santa-clara-vs-nacional-de-madeira-2283623"
     },
     {
       "title": "Tondela vs Moreirense",
       "datetime": "Monday, May 11, 2026, 3:15 PM ET",
       "league": "Soccer",
-      "status": "3 hours from now",
+      "status": "LIVE",
       "event_url": "https://istreameast.is/links/tondela-vs-moreirense-2283624"
     },
     {
       "title": "Vitória de Guimarães vs Casa Pia",
       "datetime": "Monday, May 11, 2026, 3:15 PM ET",
       "league": "Soccer",
-      "status": "3 hours from now",
+      "status": "LIVE",
       "event_url": "https://istreameast.is/links/vitoria-de-guimaraes-vs-casa-pia-2283625"
     },
     {
       "title": "Cleveland Guardians vs Los Angeles Angels",
       "datetime": "Monday, May 11, 2026, 6:10 PM ET",
       "league": "MLB",
-      "status": "6 hours from now",
+      "status": "2 hours from now",
       "event_url": "https://istreameast.is/links/cleveland-guardians-vs-los-angeles-angels-2387490"
     },
     {
       "title": "Baltimore Orioles vs New York Yankees",
       "datetime": "Monday, May 11, 2026, 6:35 PM ET",
       "league": "MLB",
-      "status": "7 hours from now",
+      "status": "2 hours from now",
       "event_url": "https://istreameast.is/links/baltimore-orioles-vs-new-york-yankees-2387489"
     },
     {
       "title": "Toronto Blue Jays vs Tampa Bay Rays",
       "datetime": "Monday, May 11, 2026, 7:07 PM ET",
       "league": "MLB",
-      "status": "7 hours from now",
+      "status": "3 hours from now",
       "event_url": "https://istreameast.is/links/toronto-blue-jays-vs-tampa-bay-rays-2387485"
     },
     {
       "title": "Cleveland Cavaliers vs Detroit Pistons",
       "datetime": "Monday, May 11, 2026, 8:00 PM ET",
       "league": "NBA",
-      "status": "8 hours from now",
+      "status": "4 hours from now",
       "event_url": "https://istreameast.is/links/cleveland-cavaliers-vs-detroit-pistons-2470003"
     },
     {
       "title": "Minnesota Wild vs Colorado Avalanche",
       "datetime": "Monday, May 11, 2026, 8:00 PM ET",
       "league": "NHL",
-      "status": "8 hours from now",
+      "status": "4 hours from now",
       "event_url": "https://istreameast.is/links/minnesota-wild-vs-colorado-avalanche-2469668"
     },
     {
       "title": "RAW #1720",
       "datetime": "Monday, May 11, 2026, 8:00 PM ET",
       "league": "WWE",
-      "status": "8 hours from now",
+      "status": "4 hours from now",
       "event_url": "https://istreameast.is/links/raw-1720-2462429"
     },
     {
       "title": "NXT #837",
       "datetime": "Monday, May 11, 2026, 8:00 PM ET",
       "league": "WWE",
-      "status": "8 hours from now",
+      "status": "4 hours from now",
       "event_url": "https://istreameast.is/links/nxt-837-2471095"
     },
     {
       "title": "Texas Rangers vs Arizona Diamondbacks",
       "datetime": "Monday, May 11, 2026, 8:05 PM ET",
       "league": "MLB",
-      "status": "8 hours from now",
+      "status": "4 hours from now",
       "event_url": "https://istreameast.is/links/texas-rangers-vs-arizona-diamondbacks-2387486"
     },
     {
       "title": "Houston Astros vs Seattle Mariners",
       "datetime": "Monday, May 11, 2026, 8:10 PM ET",
       "league": "MLB",
-      "status": "8 hours from now",
+      "status": "4 hours from now",
       "event_url": "https://istreameast.is/links/houston-astros-vs-seattle-mariners-2387487"
     },
     {
       "title": "Los Angeles Dodgers vs San Francisco Giants",
       "datetime": "Monday, May 11, 2026, 10:10 PM ET",
       "league": "MLB",
-      "status": "10 hours from now",
+      "status": "6 hours from now",
       "event_url": "https://istreameast.is/links/los-angeles-dodgers-vs-san-francisco-giants-2387488"
     },
     {
       "title": "Los Angeles Lakers vs Oklahoma City Thunder",
       "datetime": "Monday, May 11, 2026, 10:30 PM ET",
       "league": "NBA",
-      "status": "11 hours from now",
+      "status": "6 hours from now",
       "event_url": "https://istreameast.is/links/los-angeles-lakers-vs-oklahoma-city-thunder-2469474"
     },
     {
       "title": "Al-Kholood vs Al-Okhdood",
       "datetime": "Tuesday, May 12, 2026, 12:20 PM ET",
       "league": "Soccer",
-      "status": "1 day from now",
+      "status": "20 hours from now",
       "event_url": "https://istreameast.is/links/al-kholood-vs-al-okhdood-2311971"
     },
     {
       "title": "Celta Vigo vs Levante",
       "datetime": "Tuesday, May 12, 2026, 1:00 PM ET",
       "league": "Soccer",
-      "status": "1 day from now",
+      "status": "21 hours from now",
       "event_url": "https://istreameast.is/links/celta-vigo-vs-levante-2279746"
     },
     {
       "title": "Real Betis vs Elche",
       "datetime": "Tuesday, May 12, 2026, 2:00 PM ET",
       "league": "Soccer",
-      "status": "1 day from now",
+      "status": "22 hours from now",
       "event_url": "https://istreameast.is/links/real-betis-vs-elche-2279745"
     },
     {
       "title": "Al-Nassr vs Al-Hilal",
       "datetime": "Tuesday, May 12, 2026, 2:00 PM ET",
       "league": "Soccer",
-      "status": "1 day from now",
+      "status": "22 hours from now",
       "event_url": "https://istreameast.is/links/al-nassr-vs-al-hilal-2311968"
     },
     {
       "title": "Red Star vs Rodez AF",
       "datetime": "Tuesday, May 12, 2026, 2:30 PM ET",
       "league": "Soccer",
-      "status": "1 day from now",
+      "status": "22 hours from now",
       "event_url": "https://istreameast.is/links/red-star-vs-rodez-af-2472200"
     },
     {
       "title": "Osasuna vs Atlético Madrid",
       "datetime": "Tuesday, May 12, 2026, 3:30 PM ET",
       "league": "Soccer",
-      "status": "1 day from now",
+      "status": "23 hours from now",
       "event_url": "https://istreameast.is/links/osasuna-vs-atletico-madrid-2279750"
     },
     {
@@ -349,56 +342,56 @@
       "title": "Espanyol vs Athletic Bilbao",
       "datetime": "Wednesday, May 13, 2026, 1:00 PM ET",
       "league": "Soccer",
-      "status": "2 days from now",
+      "status": "1 day from now",
       "event_url": "https://istreameast.is/links/espanyol-vs-athletic-bilbao-2279747"
     },
     {
       "title": "Villarreal vs Sevilla",
       "datetime": "Wednesday, May 13, 2026, 1:00 PM ET",
       "league": "Soccer",
-      "status": "2 days from now",
+      "status": "1 day from now",
       "event_url": "https://istreameast.is/links/villarreal-vs-sevilla-2279753"
     },
     {
       "title": "Brest vs Strasbourg",
       "datetime": "Wednesday, May 13, 2026, 1:00 PM ET",
       "league": "Soccer",
-      "status": "2 days from now",
+      "status": "1 day from now",
       "event_url": "https://istreameast.is/links/brest-vs-strasbourg-2278362"
     },
     {
       "title": "Manchester City vs Crystal Palace",
       "datetime": "Wednesday, May 13, 2026, 3:00 PM ET",
       "league": "Soccer",
-      "status": "2 days from now",
+      "status": "1 day from now",
       "event_url": "https://istreameast.is/links/manchester-city-vs-crystal-palace-2267379"
     },
     {
       "title": "Lens vs Paris SG",
       "datetime": "Wednesday, May 13, 2026, 3:00 PM ET",
       "league": "Soccer",
-      "status": "2 days from now",
+      "status": "1 day from now",
       "event_url": "https://istreameast.is/links/lens-vs-paris-sg-2278363"
     },
     {
       "title": "Lazio vs Inter Milan",
       "datetime": "Wednesday, May 13, 2026, 3:00 PM ET",
       "league": "Soccer",
-      "status": "2 days from now",
+      "status": "1 day from now",
       "event_url": "https://istreameast.is/links/lazio-vs-inter-milan-2467959"
     },
     {
       "title": "Deportivo Alavés vs Barcelona",
       "datetime": "Wednesday, May 13, 2026, 3:30 PM ET",
       "league": "Soccer",
-      "status": "2 days from now",
+      "status": "1 day from now",
       "event_url": "https://istreameast.is/links/deportivo-alaves-vs-barcelona-2279744"
     },
     {
       "title": "Getafe vs Mallorca",
       "datetime": "Wednesday, May 13, 2026, 3:30 PM ET",
       "league": "Soccer",
-      "status": "2 days from now",
+      "status": "1 day from now",
       "event_url": "https://istreameast.is/links/getafe-vs-mallorca-2279748"
     },
     {
