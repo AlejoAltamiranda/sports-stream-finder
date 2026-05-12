@@ -1,38 +1,10 @@
 [
   {
-    "title": "Celta Vigo vs Levante",
-    "category": "Soccer",
-    "time": "2026-05-12 17:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embedsports.top/embed/admin/ppv-celta-vigo-vs-levante/1"
-  },
-  {
-    "title": "Celta Vigo vs Levante",
-    "category": "Soccer",
-    "time": "2026-05-12 17:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embedsports.top/embed/delta/live_laliga_celta-levante-live-streaming-1096317585/1"
-  },
-  {
-    "title": "Celta Vigo vs Levante",
-    "category": "Soccer",
-    "time": "2026-05-12 17:00 UTC",
-    "channel": "Server 3",
-    "link": "https://embedsports.top/embed/echo/celta-vigo-vs-levante-football-1391171/1"
-  },
-  {
     "title": "Real Betis vs Elche",
     "category": "Soccer",
     "time": "2026-05-12 18:00 UTC",
     "channel": "Main Server",
     "link": "https://embedsports.top/embed/admin/ppv-real-betis-vs-elche/1"
-  },
-  {
-    "title": "Real Betis vs Elche",
-    "category": "Soccer",
-    "time": "2026-05-12 18:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embedsports.top/embed/echo/real-betis-vs-elche-football-1391170/1"
   },
   {
     "title": "Al-Nassr vs Al-Hilal",
@@ -68,6 +40,13 @@
     "time": "2026-05-12 19:30 UTC",
     "channel": "Main Server",
     "link": "https://embedsports.top/embed/admin/ppv-osasuna-vs-atl-tico-madrid/1"
+  },
+  {
+    "title": "Osasuna vs Atlético Madrid",
+    "category": "Soccer",
+    "time": "2026-05-12 19:30 UTC",
+    "channel": "Server 2",
+    "link": "https://embedsports.top/embed/delta/live_laliga_osasuna-atl-madrid-live-streaming-1096322580/1"
   },
   {
     "title": "Cleveland Guardians vs Los Angeles Angels",
