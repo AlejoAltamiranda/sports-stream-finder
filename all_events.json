@@ -1,187 +1,201 @@
 {
-  "scraping_date": "2026-05-12T09:03:15.611871",
-  "total_events": 43,
+  "scraping_date": "2026-05-12T14:41:45.129313",
+  "total_events": 65,
   "events": [
     {
       "title": "Al-Kholood vs Al-Okhdood",
       "datetime": "Tuesday, May 12, 2026, 12:20 PM ET",
       "league": "Soccer",
-      "status": "7 hours from now",
+      "status": "1 hour from now",
       "event_url": "https://istreameast.is/links/al-kholood-vs-al-okhdood-2311971"
     },
     {
       "title": "Celta Vigo vs Levante",
       "datetime": "Tuesday, May 12, 2026, 1:00 PM ET",
       "league": "Soccer",
-      "status": "7 hours from now",
+      "status": "2 hours from now",
       "event_url": "https://istreameast.is/links/celta-vigo-vs-levante-2279746"
     },
     {
       "title": "Real Betis vs Elche",
       "datetime": "Tuesday, May 12, 2026, 2:00 PM ET",
       "league": "Soccer",
-      "status": "8 hours from now",
+      "status": "3 hours from now",
       "event_url": "https://istreameast.is/links/real-betis-vs-elche-2279745"
     },
     {
       "title": "Al-Nassr vs Al-Hilal",
       "datetime": "Tuesday, May 12, 2026, 2:00 PM ET",
       "league": "Soccer",
-      "status": "8 hours from now",
+      "status": "3 hours from now",
       "event_url": "https://istreameast.is/links/al-nassr-vs-al-hilal-2311968"
     },
     {
       "title": "Red Star vs Rodez AF",
       "datetime": "Tuesday, May 12, 2026, 2:30 PM ET",
       "league": "Soccer",
-      "status": "9 hours from now",
+      "status": "3 hours from now",
       "event_url": "https://istreameast.is/links/red-star-vs-rodez-af-2472200"
     },
     {
       "title": "Osasuna vs Atlético Madrid",
       "datetime": "Tuesday, May 12, 2026, 3:30 PM ET",
       "league": "Soccer",
-      "status": "10 hours from now",
+      "status": "4 hours from now",
       "event_url": "https://istreameast.is/links/osasuna-vs-atletico-madrid-2279750"
-    },
-    {
-      "title": "San Antonio Spurs vs Minnesota Timberwolves",
-      "datetime": "Tuesday, May 12, 2026, 4:00 PM ET",
-      "league": "NBA",
-      "status": "10 hours from now",
-      "event_url": "https://istreameast.is/links/san-antonio-spurs-vs-minnesota-timberwolves-2470476"
     },
     {
       "title": "Cleveland Guardians vs Los Angeles Angels",
       "datetime": "Tuesday, May 12, 2026, 6:10 PM ET",
       "league": "MLB",
-      "status": "13 hours from now",
+      "status": "7 hours from now",
       "event_url": "https://istreameast.is/links/cleveland-guardians-vs-los-angeles-angels-2387499"
     },
     {
       "title": "Baltimore Orioles vs New York Yankees",
       "datetime": "Tuesday, May 12, 2026, 6:35 PM ET",
       "league": "MLB",
-      "status": "13 hours from now",
+      "status": "7 hours from now",
       "event_url": "https://istreameast.is/links/baltimore-orioles-vs-new-york-yankees-2387503"
     },
     {
       "title": "Pittsburgh Pirates vs Colorado Rockies",
       "datetime": "Tuesday, May 12, 2026, 6:40 PM ET",
       "league": "MLB",
-      "status": "13 hours from now",
+      "status": "7 hours from now",
       "event_url": "https://istreameast.is/links/pittsburgh-pirates-vs-colorado-rockies-2387494"
     },
     {
       "title": "Cincinnati Reds vs Washington Nationals",
       "datetime": "Tuesday, May 12, 2026, 6:40 PM ET",
       "league": "MLB",
-      "status": "13 hours from now",
+      "status": "7 hours from now",
       "event_url": "https://istreameast.is/links/cincinnati-reds-vs-washington-nationals-2387500"
     },
     {
       "title": "Boston Red Sox vs Philadelphia Phillies",
       "datetime": "Tuesday, May 12, 2026, 6:45 PM ET",
       "league": "MLB",
-      "status": "13 hours from now",
+      "status": "8 hours from now",
       "event_url": "https://istreameast.is/links/boston-red-sox-vs-philadelphia-phillies-2387502"
     },
     {
       "title": "Montreal Canadiens vs Buffalo Sabres",
       "datetime": "Tuesday, May 12, 2026, 7:00 PM ET",
       "league": "NHL",
-      "status": "13 hours from now",
+      "status": "8 hours from now",
       "event_url": "https://istreameast.is/links/montreal-canadiens-vs-buffalo-sabres-2469669"
     },
     {
       "title": "Toronto Blue Jays vs Tampa Bay Rays",
       "datetime": "Tuesday, May 12, 2026, 7:07 PM ET",
       "league": "MLB",
-      "status": "14 hours from now",
+      "status": "8 hours from now",
       "event_url": "https://istreameast.is/links/toronto-blue-jays-vs-tampa-bay-rays-2387492"
     },
     {
       "title": "New York Mets vs Detroit Tigers",
       "datetime": "Tuesday, May 12, 2026, 7:10 PM ET",
       "league": "MLB",
-      "status": "14 hours from now",
+      "status": "8 hours from now",
       "event_url": "https://istreameast.is/links/new-york-mets-vs-detroit-tigers-2387495"
     },
     {
       "title": "Atlanta Braves vs Chicago Cubs",
       "datetime": "Tuesday, May 12, 2026, 7:15 PM ET",
       "league": "MLB",
-      "status": "14 hours from now",
+      "status": "8 hours from now",
       "event_url": "https://istreameast.is/links/atlanta-braves-vs-chicago-cubs-2387504"
     },
     {
       "title": "Minnesota Twins vs Miami Marlins",
       "datetime": "Tuesday, May 12, 2026, 7:40 PM ET",
       "league": "MLB",
-      "status": "14 hours from now",
+      "status": "8 hours from now",
       "event_url": "https://istreameast.is/links/minnesota-twins-vs-miami-marlins-2387496"
     },
     {
       "title": "Milwaukee Brewers vs San Diego Padres",
       "datetime": "Tuesday, May 12, 2026, 7:40 PM ET",
       "league": "MLB",
-      "status": "14 hours from now",
+      "status": "8 hours from now",
       "event_url": "https://istreameast.is/links/milwaukee-brewers-vs-san-diego-padres-2387497"
     },
     {
       "title": "Chicago White Sox vs Kansas City Royals",
       "datetime": "Tuesday, May 12, 2026, 7:40 PM ET",
       "league": "MLB",
-      "status": "14 hours from now",
+      "status": "8 hours from now",
       "event_url": "https://istreameast.is/links/chicago-white-sox-vs-kansas-city-royals-2387501"
+    },
+    {
+      "title": "San Antonio Spurs vs Minnesota Timberwolves",
+      "datetime": "Tuesday, May 12, 2026, 8:00 PM ET",
+      "league": "NBA",
+      "status": "9 hours from now",
+      "event_url": "https://istreameast.is/links/san-antonio-spurs-vs-minnesota-timberwolves-2470476"
     },
     {
       "title": "Dallas Wings vs Atlanta Dream",
       "datetime": "Tuesday, May 12, 2026, 8:00 PM ET",
       "league": "WNBA",
-      "status": "14 hours from now",
+      "status": "9 hours from now",
       "event_url": "https://istreameast.is/links/dallas-wings-vs-atlanta-dream-2448989"
+    },
+    {
+      "title": "NXT #837",
+      "datetime": "Tuesday, May 12, 2026, 8:00 PM ET",
+      "league": "WWE",
+      "status": "9 hours from now",
+      "event_url": "https://istreameast.is/links/nxt-837-2471095"
     },
     {
       "title": "Texas Rangers vs Arizona Diamondbacks",
       "datetime": "Tuesday, May 12, 2026, 8:05 PM ET",
       "league": "MLB",
-      "status": "15 hours from now",
+      "status": "9 hours from now",
       "event_url": "https://istreameast.is/links/texas-rangers-vs-arizona-diamondbacks-2387493"
     },
     {
       "title": "Houston Astros vs Seattle Mariners",
       "datetime": "Tuesday, May 12, 2026, 8:10 PM ET",
       "league": "MLB",
-      "status": "15 hours from now",
+      "status": "9 hours from now",
       "event_url": "https://istreameast.is/links/houston-astros-vs-seattle-mariners-2387498"
     },
     {
       "title": "Vegas Golden Knights vs Anaheim Ducks",
       "datetime": "Tuesday, May 12, 2026, 9:30 PM ET",
       "league": "NHL",
-      "status": "16 hours from now",
+      "status": "10 hours from now",
       "event_url": "https://istreameast.is/links/vegas-golden-knights-vs-anaheim-ducks-2470572"
+    },
+    {
+      "title": "Athletics vs St. Louis Cardinals",
+      "datetime": "Tuesday, May 12, 2026, 9:40 PM ET",
+      "league": "MLB",
+      "status": "10 hours from now",
+      "event_url": "https://istreameast.is/links/athletics-vs-st-louis-cardinals-2387505"
     },
     {
       "title": "Phoenix Mercury vs Minnesota Lynx",
       "datetime": "Tuesday, May 12, 2026, 10:00 PM ET",
       "league": "WNBA",
-      "status": "16 hours from now",
+      "status": "11 hours from now",
       "event_url": "https://istreameast.is/links/phoenix-mercury-vs-minnesota-lynx-2448990"
     },
     {
       "title": "Portland Fire vs New York Liberty",
       "datetime": "Tuesday, May 12, 2026, 10:00 PM ET",
       "league": "WNBA",
-      "status": "16 hours from now",
+      "status": "11 hours from now",
       "event_url": "https://istreameast.is/links/portland-fire-vs-new-york-liberty-2469352"
     },
     {
       "title": "Los Angeles Dodgers vs San Francisco Giants",
       "datetime": "Tuesday, May 12, 2026, 10:10 PM ET",
       "league": "MLB",
-      "status": "17 hours from now",
+      "status": "11 hours from now",
       "event_url": "https://istreameast.is/links/los-angeles-dodgers-vs-san-francisco-giants-2387491"
     },
     {
@@ -241,6 +255,13 @@
       "event_url": "https://istreameast.is/links/getafe-vs-mallorca-2279748"
     },
     {
+      "title": "Pittsburgh Pirates vs Colorado Rockies",
+      "datetime": "Wednesday, May 13, 2026, 6:40 PM ET",
+      "league": "MLB",
+      "status": "1 day from now",
+      "event_url": "https://istreameast.is/links/pittsburgh-pirates-vs-colorado-rockies-2387508"
+    },
+    {
       "title": "Detroit Pistons vs Cleveland Cavaliers",
       "datetime": "Wednesday, May 13, 2026, 7:00 PM ET",
       "league": "NBA",
@@ -253,6 +274,13 @@
       "league": "WNBA",
       "status": "1 day from now",
       "event_url": "https://istreameast.is/links/toronto-tempo-vs-seattle-storm-2449297"
+    },
+    {
+      "title": "Toronto Blue Jays vs Tampa Bay Rays",
+      "datetime": "Wednesday, May 13, 2026, 7:07 PM ET",
+      "league": "MLB",
+      "status": "1 day from now",
+      "event_url": "https://istreameast.is/links/toronto-blue-jays-vs-tampa-bay-rays-2387506"
     },
     {
       "title": "Charlotte FC vs New York City FC",
@@ -302,6 +330,132 @@
       "league": "Soccer",
       "status": "1 day from now",
       "event_url": "https://istreameast.is/links/dc-united-vs-chicago-fire-2406889"
+    },
+    {
+      "title": "Colorado Avalanche vs Minnesota Wild",
+      "datetime": "Wednesday, May 13, 2026, 8:00 PM ET",
+      "league": "NHL",
+      "status": "1 day from now",
+      "event_url": "https://istreameast.is/links/colorado-avalanche-vs-minnesota-wild-2472107"
+    },
+    {
+      "title": "Connecticut Sun vs Las Vegas Aces",
+      "datetime": "Wednesday, May 13, 2026, 8:00 PM ET",
+      "league": "WNBA",
+      "status": "1 day from now",
+      "event_url": "https://istreameast.is/links/connecticut-sun-vs-las-vegas-aces-2448991"
+    },
+    {
+      "title": "St. Louis City SC vs Los Angeles FC",
+      "datetime": "Wednesday, May 13, 2026, 8:30 PM ET",
+      "league": "Soccer",
+      "status": "1 day from now",
+      "event_url": "https://istreameast.is/links/st-louis-city-sc-vs-los-angeles-fc-2406890"
+    },
+    {
+      "title": "Sporting Kansas City vs LA Galaxy",
+      "datetime": "Wednesday, May 13, 2026, 8:30 PM ET",
+      "league": "Soccer",
+      "status": "1 day from now",
+      "event_url": "https://istreameast.is/links/sporting-kansas-city-vs-la-galaxy-2406891"
+    },
+    {
+      "title": "FC Dallas vs Vancouver Whitecaps",
+      "datetime": "Wednesday, May 13, 2026, 8:30 PM ET",
+      "league": "Soccer",
+      "status": "1 day from now",
+      "event_url": "https://istreameast.is/links/fc-dallas-vs-vancouver-whitecaps-2406892"
+    },
+    {
+      "title": "Minnesota United vs Colorado Rapids",
+      "datetime": "Wednesday, May 13, 2026, 8:30 PM ET",
+      "league": "Soccer",
+      "status": "1 day from now",
+      "event_url": "https://istreameast.is/links/minnesota-united-vs-colorado-rapids-2406893"
+    },
+    {
+      "title": "Seattle Sounders vs San Jose Earthquakes",
+      "datetime": "Wednesday, May 13, 2026, 9:30 PM ET",
+      "league": "Soccer",
+      "status": "1 day from now",
+      "event_url": "https://istreameast.is/links/seattle-sounders-vs-san-jose-earthquakes-2406894"
+    },
+    {
+      "title": "San Diego FC vs Austin FC",
+      "datetime": "Wednesday, May 13, 2026, 9:30 PM ET",
+      "league": "Soccer",
+      "status": "1 day from now",
+      "event_url": "https://istreameast.is/links/san-diego-fc-vs-austin-fc-2406895"
+    },
+    {
+      "title": "Real Salt Lake vs Houston Dynamo",
+      "datetime": "Wednesday, May 13, 2026, 9:30 PM ET",
+      "league": "Soccer",
+      "status": "1 day from now",
+      "event_url": "https://istreameast.is/links/real-salt-lake-vs-houston-dynamo-2406896"
+    },
+    {
+      "title": "Golden State Valkyries vs Chicago Sky",
+      "datetime": "Wednesday, May 13, 2026, 10:00 PM ET",
+      "league": "WNBA",
+      "status": "1 day from now",
+      "event_url": "https://istreameast.is/links/golden-state-valkyries-vs-chicago-sky-2448992"
+    },
+    {
+      "title": "Los Angeles Sparks vs Indiana Fever",
+      "datetime": "Wednesday, May 13, 2026, 10:30 PM ET",
+      "league": "WNBA",
+      "status": "1 day from now",
+      "event_url": "https://istreameast.is/links/los-angeles-sparks-vs-indiana-fever-2448993"
+    },
+    {
+      "title": "Al-Fateh vs Al-Najma Unaizah",
+      "datetime": "Thursday, May 14, 2026, 11:55 AM ET",
+      "league": "Soccer",
+      "status": "2 days from now",
+      "event_url": "https://istreameast.is/links/al-fateh-vs-al-najma-unaizah-2315891"
+    },
+    {
+      "title": "Valencia vs Rayo Vallecano",
+      "datetime": "Thursday, May 14, 2026, 1:00 PM ET",
+      "league": "Soccer",
+      "status": "2 days from now",
+      "event_url": "https://istreameast.is/links/valencia-vs-rayo-vallecano-2279752"
+    },
+    {
+      "title": "Girona vs Real Sociedad",
+      "datetime": "Thursday, May 14, 2026, 2:00 PM ET",
+      "league": "Soccer",
+      "status": "2 days from now",
+      "event_url": "https://istreameast.is/links/girona-vs-real-sociedad-2279749"
+    },
+    {
+      "title": "Al-Ettifaq vs Al-Ittihad",
+      "datetime": "Thursday, May 14, 2026, 2:00 PM ET",
+      "league": "Soccer",
+      "status": "2 days from now",
+      "event_url": "https://istreameast.is/links/al-ettifaq-vs-al-ittihad-2311976"
+    },
+    {
+      "title": "Al-Qadsiah vs Al-Hazem",
+      "datetime": "Thursday, May 14, 2026, 2:00 PM ET",
+      "league": "Soccer",
+      "status": "2 days from now",
+      "event_url": "https://istreameast.is/links/al-qadsiah-vs-al-hazem-2311981"
+    },
+    {
+      "title": "Real Madrid vs Real Oviedo",
+      "datetime": "Thursday, May 14, 2026, 3:30 PM ET",
+      "league": "Soccer",
+      "status": "2 days from now",
+      "event_url": "https://istreameast.is/links/real-madrid-vs-real-oviedo-2279751"
+    },
+    {
+      "title": "Buffalo Sabres vs Montreal Canadiens",
+      "datetime": "Thursday, May 14, 2026, 7:00 PM ET",
+      "league": "NHL",
+      "status": "2 days from now",
+      "event_url": "https://istreameast.is/links/buffalo-sabres-vs-montreal-canadiens-2471081"
     }
   ]
 }
