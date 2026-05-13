@@ -95,14 +95,7 @@
     "category": "MLB",
     "time": "2026-05-13 22:40 UTC",
     "channel": "Main Server",
-    "link": "https://embedsports.top/embed/admin/ppv-colorado-rockies-vs-pittsburgh-pirates/1"
-  },
-  {
-    "title": "Pittsburgh Pirates vs Colorado Rockies",
-    "category": "MLB",
-    "time": "2026-05-13 22:40 UTC",
-    "channel": "Server 2",
-    "link": "https://embedsports.top/embed/golf/22355/1"
+    "link": "https://embedsports.top/embed/golf/22374/1"
   },
   {
     "title": "Detroit Pistons vs Cleveland Cavaliers",
@@ -313,5 +306,12 @@
     "time": "2026-05-14 19:30 UTC",
     "channel": "Main Server",
     "link": "https://embedsports.top/embed/admin/ppv-real-madrid-vs-real-oviedo/1"
+  },
+  {
+    "title": "Buffalo Sabres vs Montreal Canadiens",
+    "category": "NHL",
+    "time": "2026-05-14 23:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/golf/22371/1"
   }
 ]
