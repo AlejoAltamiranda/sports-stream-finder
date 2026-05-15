@@ -1,152 +1,131 @@
 {
-  "scraping_date": "2026-05-15T04:00:40.174786",
-  "total_events": 55,
+  "scraping_date": "2026-05-15T08:57:16.074572",
+  "total_events": 52,
   "events": [
-    {
-      "title": "Anaheim Ducks vs Vegas Golden Knights",
-      "datetime": "Thursday, May 14, 2026, 9:30 PM ET",
-      "league": "NHL",
-      "status": "LIVE",
-      "event_url": "https://istreameast.is/links/anaheim-ducks-vs-vegas-golden-knights-2472332"
-    },
-    {
-      "title": "Portland Fire vs New York Liberty",
-      "datetime": "Thursday, May 14, 2026, 10:00 PM ET",
-      "league": "WNBA",
-      "status": "LIVE",
-      "event_url": "https://istreameast.is/links/portland-fire-vs-new-york-liberty-2469353"
-    },
-    {
-      "title": "Los Angeles Dodgers vs San Francisco Giants",
-      "datetime": "Thursday, May 14, 2026, 10:10 PM ET",
-      "league": "MLB",
-      "status": "LIVE",
-      "event_url": "https://istreameast.is/links/los-angeles-dodgers-vs-san-francisco-giants-2387525"
-    },
     {
       "title": "Damac vs Al-Fayha",
       "datetime": "Friday, May 15, 2026, 12:15 PM ET",
       "league": "Soccer",
-      "status": "12 hours from now",
+      "status": "7 hours from now",
       "event_url": "https://istreameast.is/links/damac-vs-al-fayha-2311974"
     },
     {
       "title": "Al-Taawoun vs Al-Riyadh",
       "datetime": "Friday, May 15, 2026, 2:00 PM ET",
       "league": "Soccer",
-      "status": "13 hours from now",
+      "status": "9 hours from now",
       "event_url": "https://istreameast.is/links/al-taawoun-vs-al-riyadh-2311980"
     },
     {
       "title": "St Etienne vs Rodez AF",
       "datetime": "Friday, May 15, 2026, 2:30 PM ET",
       "league": "Soccer",
-      "status": "14 hours from now",
+      "status": "9 hours from now",
       "event_url": "https://istreameast.is/links/st-etienne-vs-rodez-af-2472610"
     },
     {
       "title": "Aston Villa vs Liverpool",
       "datetime": "Friday, May 15, 2026, 3:00 PM ET",
       "league": "Soccer",
-      "status": "14 hours from now",
+      "status": "10 hours from now",
       "event_url": "https://istreameast.is/links/aston-villa-vs-liverpool-2267434"
     },
     {
       "title": "Pittsburgh Pirates vs Philadelphia Phillies",
       "datetime": "Friday, May 15, 2026, 6:40 PM ET",
       "league": "MLB",
-      "status": "18 hours from now",
+      "status": "13 hours from now",
       "event_url": "https://istreameast.is/links/pittsburgh-pirates-vs-philadelphia-phillies-2387537"
     },
     {
       "title": "Washington Nationals vs Baltimore Orioles",
       "datetime": "Friday, May 15, 2026, 6:45 PM ET",
       "league": "MLB",
-      "status": "18 hours from now",
+      "status": "13 hours from now",
       "event_url": "https://istreameast.is/links/washington-nationals-vs-baltimore-orioles-2387532"
     },
     {
       "title": "Cleveland Cavaliers vs Detroit Pistons",
       "datetime": "Friday, May 15, 2026, 7:00 PM ET",
       "league": "NBA",
-      "status": "18 hours from now",
+      "status": "14 hours from now",
       "event_url": "https://istreameast.is/links/cleveland-cavaliers-vs-detroit-pistons-2472480"
     },
     {
       "title": "Tampa Bay Rays vs Miami Marlins",
       "datetime": "Friday, May 15, 2026, 7:10 PM ET",
       "league": "MLB",
-      "status": "19 hours from now",
+      "status": "14 hours from now",
       "event_url": "https://istreameast.is/links/tampa-bay-rays-vs-miami-marlins-2387533"
     },
     {
       "title": "Minnesota Twins vs Milwaukee Brewers",
       "datetime": "Friday, May 15, 2026, 7:10 PM ET",
       "league": "MLB",
-      "status": "19 hours from now",
+      "status": "14 hours from now",
       "event_url": "https://istreameast.is/links/minnesota-twins-vs-milwaukee-brewers-2387535"
     },
     {
       "title": "New York Mets vs New York Yankees",
       "datetime": "Friday, May 15, 2026, 7:15 PM ET",
       "league": "MLB",
-      "status": "19 hours from now",
+      "status": "14 hours from now",
       "event_url": "https://istreameast.is/links/new-york-mets-vs-new-york-yankees-2387538"
     },
     {
       "title": "Connecticut Sun vs Las Vegas Aces",
       "datetime": "Friday, May 15, 2026, 7:30 PM ET",
       "league": "WNBA",
-      "status": "19 hours from now",
+      "status": "14 hours from now",
       "event_url": "https://istreameast.is/links/connecticut-sun-vs-las-vegas-aces-2448995"
     },
     {
       "title": "Indiana Fever vs Washington Mystics",
       "datetime": "Friday, May 15, 2026, 7:30 PM ET",
       "league": "WNBA",
-      "status": "19 hours from now",
+      "status": "14 hours from now",
       "event_url": "https://istreameast.is/links/indiana-fever-vs-washington-mystics-2448996"
     },
     {
       "title": "Dallas Renegades vs Orlando Storm",
       "datetime": "Friday, May 15, 2026, 8:00 PM ET",
       "league": "NFL",
-      "status": "19 hours from now",
+      "status": "15 hours from now",
       "event_url": "https://istreameast.is/links/dallas-renegades-vs-orlando-storm-2432123"
     },
     {
       "title": "UFC Fight Night 276 Allen vs Costa",
       "datetime": "Friday, May 15, 2026, 8:00 PM ET",
       "league": "UFC",
-      "status": "19 hours from now",
+      "status": "15 hours from now",
       "event_url": "https://istreameast.is/links/ufc-fight-night-276-allen-vs-costa-2449567"
     },
     {
       "title": "Catalonia Sprint Race",
       "datetime": "Friday, May 15, 2026, 8:00 PM ET",
       "league": "MotoGP",
-      "status": "19 hours from now",
+      "status": "15 hours from now",
       "event_url": "https://istreameast.is/links/catalonia-sprint-race-2366141"
     },
     {
       "title": "Minnesota Timberwolves vs San Antonio Spurs",
       "datetime": "Friday, May 15, 2026, 9:30 PM ET",
       "league": "NBA",
-      "status": "21 hours from now",
+      "status": "16 hours from now",
       "event_url": "https://istreameast.is/links/minnesota-timberwolves-vs-san-antonio-spurs-2472342"
     },
     {
       "title": "Phoenix Mercury vs Chicago Sky",
       "datetime": "Friday, May 15, 2026, 10:00 PM ET",
       "league": "WNBA",
-      "status": "21 hours from now",
+      "status": "17 hours from now",
       "event_url": "https://istreameast.is/links/phoenix-mercury-vs-chicago-sky-2448997"
     },
     {
       "title": "Los Angeles Sparks vs Toronto Tempo",
       "datetime": "Friday, May 15, 2026, 10:00 PM ET",
       "league": "WNBA",
-      "status": "21 hours from now",
+      "status": "17 hours from now",
       "event_url": "https://istreameast.is/links/los-angeles-sparks-vs-toronto-tempo-2449298"
     },
     {
