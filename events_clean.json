@@ -1,40 +1,5 @@
 [
   {
-    "title": "Louisville Kings vs DC Defenders",
-    "category": "NFL",
-    "time": "2026-05-16 16:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embedsports.top/embed/admin/ppv-dc-defenders-vs-louisville-kings/1"
-  },
-  {
-    "title": "Louisville Kings vs DC Defenders",
-    "category": "NFL",
-    "time": "2026-05-16 16:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embedsports.top/embed/delta/live_ufl_louisville-kings-dc-defenders-live-streaming-1277303418/1"
-  },
-  {
-    "title": "Arouca vs Tondela",
-    "category": "Soccer",
-    "time": "2026-05-16 17:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embedsports.top/embed/echo/arouca-vs-tondela-football-1396534/1"
-  },
-  {
-    "title": "Braga vs Estrela Amadora",
-    "category": "Soccer",
-    "time": "2026-05-16 17:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embedsports.top/embed/echo/sc-braga-vs-estrela-football-1396535/1"
-  },
-  {
-    "title": "Casa Pia vs Rio Ave",
-    "category": "Soccer",
-    "time": "2026-05-16 17:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embedsports.top/embed/echo/casa-pia-vs-rio-ave-football-1396536/1"
-  },
-  {
     "title": "Detroit Tigers vs Toronto Blue Jays",
     "category": "MLB",
     "time": "2026-05-16 17:10 UTC",
@@ -158,6 +123,13 @@
     "category": "Soccer",
     "time": "2026-05-16 20:30 UTC",
     "channel": "Server 2",
+    "link": "https://embedsports.top/embed/delta/live_mls_montreal-chicago-live-streaming-1241977779/1"
+  },
+  {
+    "title": "CF Montréal vs Chicago Fire",
+    "category": "Soccer",
+    "time": "2026-05-16 20:30 UTC",
+    "channel": "Server 3",
     "link": "https://embedsports.top/embed/echo/cf-montreal-vs-chicago-fire-football-1490299/1"
   },
   {
