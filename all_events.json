@@ -1,54 +1,54 @@
 {
-  "scraping_date": "2026-05-18T04:14:02.501069",
+  "scraping_date": "2026-05-18T10:17:50.125772",
   "total_events": 9,
   "events": [
     {
       "title": "Arsenal vs Burnley",
       "datetime": "Monday, May 18, 2026, 3:00 PM ET",
       "league": "Soccer",
-      "status": "14 hours from now",
+      "status": "8 hours from now",
       "event_url": "https://istreameast.is/links/arsenal-vs-burnley-2267433"
     },
     {
       "title": "Calgary Stampeders vs Saskatchewan Roughriders",
       "datetime": "Monday, May 18, 2026, 3:00 PM ET",
       "league": "CFL",
-      "status": "14 hours from now",
+      "status": "8 hours from now",
       "event_url": "https://istreameast.is/links/calgary-stampeders-vs-saskatchewan-roughriders-2432526"
     },
     {
       "title": "Tampa Bay Rays vs Baltimore Orioles",
       "datetime": "Monday, May 18, 2026, 6:40 PM ET",
       "league": "MLB",
-      "status": "18 hours from now",
+      "status": "12 hours from now",
       "event_url": "https://istreameast.is/links/tampa-bay-rays-vs-baltimore-orioles-2387579"
     },
     {
       "title": "Washington Nationals vs New York Mets",
       "datetime": "Monday, May 18, 2026, 6:45 PM ET",
       "league": "MLB",
-      "status": "18 hours from now",
+      "status": "12 hours from now",
       "event_url": "https://istreameast.is/links/washington-nationals-vs-new-york-mets-2387578"
     },
     {
       "title": "New York Yankees vs Toronto Blue Jays",
       "datetime": "Monday, May 18, 2026, 7:05 PM ET",
       "league": "MLB",
-      "status": "18 hours from now",
+      "status": "12 hours from now",
       "event_url": "https://istreameast.is/links/new-york-yankees-vs-toronto-blue-jays-2387577"
     },
     {
       "title": "Dallas Wings vs Washington Mystics",
       "datetime": "Monday, May 18, 2026, 8:00 PM ET",
       "league": "WNBA",
-      "status": "19 hours from now",
+      "status": "13 hours from now",
       "event_url": "https://istreameast.is/links/dallas-wings-vs-washington-mystics-2449001"
     },
     {
       "title": "Portland Fire vs Connecticut Sun",
       "datetime": "Monday, May 18, 2026, 10:00 PM ET",
       "league": "WNBA",
-      "status": "21 hours from now",
+      "status": "15 hours from now",
       "event_url": "https://istreameast.is/links/portland-fire-vs-connecticut-sun-2469354"
     },
     {
