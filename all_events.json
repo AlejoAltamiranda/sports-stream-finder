@@ -1,138 +1,131 @@
 {
-  "scraping_date": "2026-05-20T15:44:33.508240",
-  "total_events": 19,
+  "scraping_date": "2026-05-20T20:26:02.128181",
+  "total_events": 18,
   "events": [
-    {
-      "title": "Torreense vs Casa Pia",
-      "datetime": "Wednesday, May 20, 2026, 1:00 PM ET",
-      "league": "Soccer",
-      "status": "1 hour from now",
-      "event_url": "https://istreameast.is/links/torreense-vs-casa-pia-2475097"
-    },
     {
       "title": "Al-Khaleej vs Al-Ahli",
       "datetime": "Wednesday, May 20, 2026, 2:00 PM ET",
       "league": "Soccer",
-      "status": "2 hours from now",
+      "status": "LIVE",
       "event_url": "https://istreameast.is/links/al-khaleej-vs-al-ahli-2311986"
     },
     {
       "title": "Al-Najma Unaizah vs Al-Shabab",
       "datetime": "Wednesday, May 20, 2026, 2:00 PM ET",
       "league": "Soccer",
-      "status": "2 hours from now",
+      "status": "LIVE",
       "event_url": "https://istreameast.is/links/al-najma-unaizah-vs-al-shabab-2315893"
     },
     {
       "title": "Freiburg vs Aston Villa",
       "datetime": "Wednesday, May 20, 2026, 3:00 PM ET",
       "league": "Soccer",
-      "status": "3 hours from now",
+      "status": "LIVE",
       "event_url": "https://istreameast.is/links/freiburg-vs-aston-villa-2470620"
     },
     {
       "title": "Indiana Fever vs Portland Fire",
       "datetime": "Wednesday, May 20, 2026, 7:00 PM ET",
       "league": "WNBA",
-      "status": "7 hours from now",
+      "status": "2 hours from now",
       "event_url": "https://istreameast.is/links/indiana-fever-vs-portland-fire-2469355"
     },
     {
       "title": "Colorado Avalanche vs Vegas Golden Knights",
       "datetime": "Wednesday, May 20, 2026, 8:00 PM ET",
       "league": "NHL",
-      "status": "8 hours from now",
+      "status": "3 hours from now",
       "event_url": "https://istreameast.is/links/colorado-avalanche-vs-vegas-golden-knights-2473833"
     },
     {
       "title": "Oklahoma City Thunder vs San Antonio Spurs",
       "datetime": "Wednesday, May 20, 2026, 8:30 PM ET",
       "league": "NBA",
-      "status": "8 hours from now",
+      "status": "4 hours from now",
       "event_url": "https://istreameast.is/links/oklahoma-city-thunder-vs-san-antonio-spurs-2475185"
     },
     {
       "title": "Chicago Sky vs Dallas Wings",
       "datetime": "Wednesday, May 20, 2026, 9:00 PM ET",
       "league": "WNBA",
-      "status": "9 hours from now",
+      "status": "4 hours from now",
       "event_url": "https://istreameast.is/links/chicago-sky-vs-dallas-wings-2449002"
     },
     {
       "title": "Seattle Storm vs Connecticut Sun",
       "datetime": "Wednesday, May 20, 2026, 10:00 PM ET",
       "league": "WNBA",
-      "status": "10 hours from now",
+      "status": "5 hours from now",
       "event_url": "https://istreameast.is/links/seattle-storm-vs-connecticut-sun-2449003"
     },
     {
       "title": "Ajax vs Groningen",
       "datetime": "Thursday, May 21, 2026, 12:45 PM ET",
       "league": "Soccer",
-      "status": "1 day from now",
+      "status": "20 hours from now",
       "event_url": "https://istreameast.is/links/ajax-vs-groningen-2475105"
     },
     {
       "title": "Al-Kholood vs Al-Fateh",
       "datetime": "Thursday, May 21, 2026, 2:00 PM ET",
       "league": "Soccer",
-      "status": "1 day from now",
+      "status": "21 hours from now",
       "event_url": "https://istreameast.is/links/al-kholood-vs-al-fateh-2311982"
     },
     {
       "title": "Al-Nassr vs Damac",
       "datetime": "Thursday, May 21, 2026, 2:00 PM ET",
       "league": "Soccer",
-      "status": "1 day from now",
+      "status": "21 hours from now",
       "event_url": "https://istreameast.is/links/al-nassr-vs-damac-2311983"
     },
     {
       "title": "Al-Ittihad vs Al-Qadsiah",
       "datetime": "Thursday, May 21, 2026, 2:00 PM ET",
       "league": "Soccer",
-      "status": "1 day from now",
+      "status": "21 hours from now",
       "event_url": "https://istreameast.is/links/al-ittihad-vs-al-qadsiah-2311984"
     },
     {
       "title": "Neom vs Al-Ettifaq",
       "datetime": "Thursday, May 21, 2026, 2:00 PM ET",
       "league": "Soccer",
-      "status": "1 day from now",
+      "status": "21 hours from now",
       "event_url": "https://istreameast.is/links/neom-vs-al-ettifaq-2311985"
     },
     {
       "title": "Al-Hazem vs Al-Taawoun",
       "datetime": "Thursday, May 21, 2026, 2:00 PM ET",
       "league": "Soccer",
-      "status": "1 day from now",
+      "status": "21 hours from now",
       "event_url": "https://istreameast.is/links/al-hazem-vs-al-taawoun-2311987"
     },
     {
       "title": "Al-Riyadh vs Al-Okhdood",
       "datetime": "Thursday, May 21, 2026, 2:00 PM ET",
       "league": "Soccer",
-      "status": "1 day from now",
+      "status": "21 hours from now",
       "event_url": "https://istreameast.is/links/al-riyadh-vs-al-okhdood-2315892"
     },
     {
       "title": "Al-Fayha vs Al-Hilal",
       "datetime": "Thursday, May 21, 2026, 2:00 PM ET",
       "league": "Soccer",
-      "status": "1 day from now",
+      "status": "21 hours from now",
       "event_url": "https://istreameast.is/links/al-fayha-vs-al-hilal-2315894"
     },
     {
       "title": "Wolfsburg vs Paderborn",
       "datetime": "Thursday, May 21, 2026, 2:30 PM ET",
       "league": "Soccer",
-      "status": "1 day from now",
+      "status": "22 hours from now",
       "event_url": "https://istreameast.is/links/wolfsburg-vs-paderborn-2475152"
     },
     {
       "title": "Utrecht vs Heerenveen",
       "datetime": "Thursday, May 21, 2026, 3:00 PM ET",
       "league": "Soccer",
-      "status": "1 day from now",
+      "status": "22 hours from now",
       "event_url": "https://istreameast.is/links/utrecht-vs-heerenveen-2475106"
     }
   ]
