@@ -1,110 +1,75 @@
 {
-  "scraping_date": "2026-05-20T04:08:50.570420",
-  "total_events": 25,
+  "scraping_date": "2026-05-20T09:46:55.055519",
+  "total_events": 20,
   "events": [
-    {
-      "title": "Los Angeles Angels vs Athletics",
-      "datetime": "Tuesday, May 19, 2026, 9:38 PM ET",
-      "league": "MLB",
-      "status": "LIVE",
-      "event_url": "https://istreameast.is/links/los-angeles-angels-vs-athletics-2387599"
-    },
-    {
-      "title": "San Diego Padres vs Los Angeles Dodgers",
-      "datetime": "Tuesday, May 19, 2026, 9:40 PM ET",
-      "league": "MLB",
-      "status": "LIVE",
-      "event_url": "https://istreameast.is/links/san-diego-padres-vs-los-angeles-dodgers-2387595"
-    },
-    {
-      "title": "Seattle Mariners vs Chicago White Sox",
-      "datetime": "Tuesday, May 19, 2026, 9:40 PM ET",
-      "league": "MLB",
-      "status": "LIVE",
-      "event_url": "https://istreameast.is/links/seattle-mariners-vs-chicago-white-sox-2387597"
-    },
-    {
-      "title": "Arizona Diamondbacks vs San Francisco Giants",
-      "datetime": "Tuesday, May 19, 2026, 9:40 PM ET",
-      "league": "MLB",
-      "status": "LIVE",
-      "event_url": "https://istreameast.is/links/arizona-diamondbacks-vs-san-francisco-giants-2387601"
-    },
-    {
-      "title": "Phoenix Mercury vs Toronto Tempo",
-      "datetime": "Tuesday, May 19, 2026, 10:00 PM ET",
-      "league": "WNBA",
-      "status": "LIVE",
-      "event_url": "https://istreameast.is/links/phoenix-mercury-vs-toronto-tempo-2449300"
-    },
     {
       "title": "Hungary U17 vs Austria U17",
       "datetime": "Wednesday, May 20, 2026, 7:00 AM ET",
       "league": "Soccer",
-      "status": "6 hours from now",
+      "status": "1 hour from now",
       "event_url": "https://istreameast.is/links/hungary-u17-vs-austria-u17-2474203"
     },
     {
       "title": "Torreense vs Casa Pia",
       "datetime": "Wednesday, May 20, 2026, 1:00 PM ET",
       "league": "Soccer",
-      "status": "12 hours from now",
+      "status": "7 hours from now",
       "event_url": "https://istreameast.is/links/torreense-vs-casa-pia-2475097"
     },
     {
       "title": "Al-Khaleej vs Al-Ahli",
       "datetime": "Wednesday, May 20, 2026, 2:00 PM ET",
       "league": "Soccer",
-      "status": "13 hours from now",
+      "status": "8 hours from now",
       "event_url": "https://istreameast.is/links/al-khaleej-vs-al-ahli-2311986"
     },
     {
       "title": "Al-Najma Unaizah vs Al-Shabab",
       "datetime": "Wednesday, May 20, 2026, 2:00 PM ET",
       "league": "Soccer",
-      "status": "13 hours from now",
+      "status": "8 hours from now",
       "event_url": "https://istreameast.is/links/al-najma-unaizah-vs-al-shabab-2315893"
     },
     {
       "title": "Freiburg vs Aston Villa",
       "datetime": "Wednesday, May 20, 2026, 3:00 PM ET",
       "league": "Soccer",
-      "status": "14 hours from now",
+      "status": "9 hours from now",
       "event_url": "https://istreameast.is/links/freiburg-vs-aston-villa-2470620"
     },
     {
       "title": "Indiana Fever vs Portland Fire",
       "datetime": "Wednesday, May 20, 2026, 7:00 PM ET",
       "league": "WNBA",
-      "status": "18 hours from now",
+      "status": "13 hours from now",
       "event_url": "https://istreameast.is/links/indiana-fever-vs-portland-fire-2469355"
     },
     {
       "title": "Colorado Avalanche vs Vegas Golden Knights",
       "datetime": "Wednesday, May 20, 2026, 8:00 PM ET",
       "league": "NHL",
-      "status": "19 hours from now",
+      "status": "14 hours from now",
       "event_url": "https://istreameast.is/links/colorado-avalanche-vs-vegas-golden-knights-2473833"
     },
     {
       "title": "Oklahoma City Thunder vs San Antonio Spurs",
       "datetime": "Wednesday, May 20, 2026, 8:30 PM ET",
       "league": "NBA",
-      "status": "20 hours from now",
+      "status": "14 hours from now",
       "event_url": "https://istreameast.is/links/oklahoma-city-thunder-vs-san-antonio-spurs-2475185"
     },
     {
       "title": "Chicago Sky vs Dallas Wings",
       "datetime": "Wednesday, May 20, 2026, 9:00 PM ET",
       "league": "WNBA",
-      "status": "20 hours from now",
+      "status": "15 hours from now",
       "event_url": "https://istreameast.is/links/chicago-sky-vs-dallas-wings-2449002"
     },
     {
       "title": "Seattle Storm vs Connecticut Sun",
       "datetime": "Wednesday, May 20, 2026, 10:00 PM ET",
       "league": "WNBA",
-      "status": "21 hours from now",
+      "status": "16 hours from now",
       "event_url": "https://istreameast.is/links/seattle-storm-vs-connecticut-sun-2449003"
     },
     {
