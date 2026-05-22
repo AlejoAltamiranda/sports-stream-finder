@@ -35,18 +35,25 @@
     "link": "https://embedsports.top/embed/admin/ppv-fiorentina-vs-atalanta/1"
   },
   {
-    "title": "Lens vs Nice",
-    "category": "Soccer",
-    "time": "2026-05-22 19:00 UTC",
+    "title": "Canadian Grand Prix Sprint Qualifying",
+    "category": "Formula 1",
+    "time": "2026-05-22 21:30 UTC",
     "channel": "Main Server",
-    "link": "https://embedsports.top/embed/delta/live_coupe-de-france_lens-nice-live-streaming-1314714969/1"
+    "link": "https://embedsports.top/embed/admin/ppv-canadian-grand-prix-sprint-qualifying/1"
   },
   {
-    "title": "Lens vs Nice",
-    "category": "Soccer",
-    "time": "2026-05-22 19:00 UTC",
+    "title": "Canadian Grand Prix Sprint Qualifying",
+    "category": "Formula 1",
+    "time": "2026-05-22 21:30 UTC",
     "channel": "Server 2",
-    "link": "https://embedsports.top/embed/echo/lens-vs-nice-football-1542551/1"
+    "link": "https://embedsports.top/embed/admin/ppv-canadian-grand-prix-sprint-qualifying/2"
+  },
+  {
+    "title": "Canadian Grand Prix Sprint Qualifying",
+    "category": "Formula 1",
+    "time": "2026-05-22 21:30 UTC",
+    "channel": "Server 3",
+    "link": "https://embedsports.top/embed/admin/ppv-canadian-grand-prix-sprint-qualifying/3"
   },
   {
     "title": "Philadelphia Phillies vs Cleveland Guardians",
@@ -467,27 +474,6 @@
     "time": "2026-05-23 20:30 UTC",
     "channel": "Server 2",
     "link": "https://embedsports.top/embed/golf/22518/1"
-  },
-  {
-    "title": "Canadian Grand Prix Qualifying",
-    "category": "Formula 1",
-    "time": "2026-05-23 21:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embedsports.top/embed/admin/ppv-canadian-grand-prix-sprint-qualifying/1"
-  },
-  {
-    "title": "Canadian Grand Prix Qualifying",
-    "category": "Formula 1",
-    "time": "2026-05-23 21:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embedsports.top/embed/echo/sprint-miami-international-autodrome-formula-1-2540/1"
-  },
-  {
-    "title": "Canadian Grand Prix Qualifying",
-    "category": "Formula 1",
-    "time": "2026-05-23 21:00 UTC",
-    "channel": "Server 3",
-    "link": "https://embedsports.top/embed/golf/21892/1"
   },
   {
     "title": "Toronto Tempo vs Portland Fire",
