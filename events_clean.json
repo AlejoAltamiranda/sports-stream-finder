@@ -32,7 +32,7 @@
     "category": "Soccer",
     "time": "2026-05-24 15:00 UTC",
     "channel": "Server 2",
-    "link": "https://embedsports.top/embed/golf/22562/1"
+    "link": "https://embedsports.top/embed/echo/brighton-vs-manchester-united-football-1379339/1"
   },
   {
     "title": "Burnley vs Wolverhampton Wanderers",
@@ -60,7 +60,7 @@
     "category": "Soccer",
     "time": "2026-05-24 15:00 UTC",
     "channel": "Server 2",
-    "link": "https://embedsports.top/embed/golf/22564/1"
+    "link": "https://embedsports.top/embed/echo/crystal-palace-vs-arsenal-football-1379341/1"
   },
   {
     "title": "Fulham vs Newcastle United",
@@ -84,13 +84,6 @@
     "link": "https://embedsports.top/embed/admin/ppv-liverpool-vs-brentford/1"
   },
   {
-    "title": "Liverpool vs Brentford",
-    "category": "Soccer",
-    "time": "2026-05-24 15:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embedsports.top/embed/golf/22566/1"
-  },
-  {
     "title": "Manchester City vs Aston Villa",
     "category": "Soccer",
     "time": "2026-05-24 15:00 UTC",
@@ -105,18 +98,18 @@
     "link": "https://embedsports.top/embed/golf/22567/1"
   },
   {
-    "title": "Nottingham Forest vs Bournemouth",
+    "title": "Manchester City vs Aston Villa",
     "category": "Soccer",
     "time": "2026-05-24 15:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embedsports.top/embed/admin/ppv-nottingham-forest-vs-afc-bournemouth/1"
+    "channel": "Server 3",
+    "link": "https://embedsports.top/embed/echo/manchester-city-vs-aston-villa-football-1379344/1"
   },
   {
     "title": "Nottingham Forest vs Bournemouth",
     "category": "Soccer",
     "time": "2026-05-24 15:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embedsports.top/embed/golf/22568/1"
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/admin/ppv-nottingham-forest-vs-afc-bournemouth/1"
   },
   {
     "title": "Sunderland vs Chelsea",
@@ -144,7 +137,7 @@
     "category": "Soccer",
     "time": "2026-05-24 15:00 UTC",
     "channel": "Server 2",
-    "link": "https://embedsports.top/embed/golf/22570/1"
+    "link": "https://embedsports.top/embed/echo/tottenham-vs-everton-football-1379347/1"
   },
   {
     "title": "West Ham United vs Leeds United",
@@ -159,6 +152,13 @@
     "time": "2026-05-24 15:00 UTC",
     "channel": "Server 2",
     "link": "https://embedsports.top/embed/golf/22571/1"
+  },
+  {
+    "title": "West Ham United vs Leeds United",
+    "category": "Soccer",
+    "time": "2026-05-24 15:00 UTC",
+    "channel": "Server 3",
+    "link": "https://embedsports.top/embed/echo/west-ham-vs-leeds-football-1379348/1"
   },
   {
     "title": "Napoli vs Udinese",
