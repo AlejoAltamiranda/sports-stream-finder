@@ -1,166 +1,166 @@
 {
-  "scraping_date": "2026-05-25T15:20:26.916557",
+  "scraping_date": "2026-05-25T19:50:23.821028",
   "total_events": 37,
   "events": [
     {
       "title": "Pittsburgh Pirates vs Chicago Cubs",
       "datetime": "Monday, May 25, 2026, 1:35 PM ET",
       "league": "MLB",
-      "status": "2 hours from now",
+      "status": "LIVE",
       "event_url": "https://istreameast.cx/links/pittsburgh-pirates-vs-chicago-cubs-2387678"
     },
     {
       "title": "Baltimore Orioles vs Tampa Bay Rays",
       "datetime": "Monday, May 25, 2026, 1:35 PM ET",
       "league": "MLB",
-      "status": "2 hours from now",
+      "status": "LIVE",
       "event_url": "https://istreameast.cx/links/baltimore-orioles-vs-tampa-bay-rays-2387684"
     },
     {
       "title": "Milwaukee Brewers vs St. Louis Cardinals",
       "datetime": "Monday, May 25, 2026, 2:10 PM ET",
       "league": "MLB",
-      "status": "2 hours from now",
+      "status": "LIVE",
       "event_url": "https://istreameast.cx/links/milwaukee-brewers-vs-st-louis-cardinals-2387679"
     },
     {
       "title": "Chicago White Sox vs Minnesota Twins",
       "datetime": "Monday, May 25, 2026, 2:10 PM ET",
       "league": "MLB",
-      "status": "2 hours from now",
+      "status": "LIVE",
       "event_url": "https://istreameast.cx/links/chicago-white-sox-vs-minnesota-twins-2387683"
     },
     {
       "title": "Paderborn vs Wolfsburg",
       "datetime": "Monday, May 25, 2026, 2:30 PM ET",
       "league": "Soccer",
-      "status": "3 hours from now",
+      "status": "LIVE",
       "event_url": "https://istreameast.cx/links/paderborn-vs-wolfsburg-2475153"
     },
     {
       "title": "Kansas City Royals vs New York Yankees",
       "datetime": "Monday, May 25, 2026, 3:40 PM ET",
       "league": "MLB",
-      "status": "4 hours from now",
+      "status": "LIVE",
       "event_url": "https://istreameast.cx/links/kansas-city-royals-vs-new-york-yankees-2387681"
     },
     {
       "title": "New York Mets vs Cincinnati Reds",
       "datetime": "Monday, May 25, 2026, 4:10 PM ET",
       "league": "MLB",
-      "status": "4 hours from now",
+      "status": "19 minutes from now",
       "event_url": "https://istreameast.cx/links/new-york-mets-vs-cincinnati-reds-2387673"
     },
     {
       "title": "San Francisco Giants vs Arizona Diamondbacks",
       "datetime": "Monday, May 25, 2026, 5:05 PM ET",
       "league": "MLB",
-      "status": "5 hours from now",
+      "status": "1 hour from now",
       "event_url": "https://istreameast.cx/links/san-francisco-giants-vs-arizona-diamondbacks-2387676"
     },
     {
       "title": "Cleveland Guardians vs Washington Nationals",
       "datetime": "Monday, May 25, 2026, 6:10 PM ET",
       "league": "MLB",
-      "status": "6 hours from now",
+      "status": "2 hours from now",
       "event_url": "https://istreameast.cx/links/cleveland-guardians-vs-washington-nationals-2387682"
     },
     {
       "title": "San Diego Padres vs Philadelphia Phillies",
       "datetime": "Monday, May 25, 2026, 6:40 PM ET",
       "league": "MLB",
-      "status": "7 hours from now",
+      "status": "2 hours from now",
       "event_url": "https://istreameast.cx/links/san-diego-padres-vs-philadelphia-phillies-2387677"
     },
     {
       "title": "Texas Rangers vs Houston Astros",
       "datetime": "Monday, May 25, 2026, 7:05 PM ET",
       "league": "MLB",
-      "status": "7 hours from now",
+      "status": "3 hours from now",
       "event_url": "https://istreameast.cx/links/texas-rangers-vs-houston-astros-2387675"
     },
     {
       "title": "Toronto Blue Jays vs Miami Marlins",
       "datetime": "Monday, May 25, 2026, 7:07 PM ET",
       "league": "MLB",
-      "status": "7 hours from now",
+      "status": "3 hours from now",
       "event_url": "https://istreameast.cx/links/toronto-blue-jays-vs-miami-marlins-2387674"
     },
     {
       "title": "Cleveland Cavaliers vs New York Knicks",
       "datetime": "Monday, May 25, 2026, 8:00 PM ET",
       "league": "NBA",
-      "status": "8 hours from now",
+      "status": "4 hours from now",
       "event_url": "https://istreameast.cx/links/cleveland-cavaliers-vs-new-york-knicks-2475190"
     },
     {
       "title": "Montreal Canadiens vs Carolina Hurricanes",
       "datetime": "Monday, May 25, 2026, 8:00 PM ET",
       "league": "NHL",
-      "status": "8 hours from now",
+      "status": "4 hours from now",
       "event_url": "https://istreameast.cx/links/montreal-canadiens-vs-carolina-hurricanes-2475664"
     },
     {
       "title": "New York Liberty vs Portland Fire",
       "datetime": "Monday, May 25, 2026, 8:00 PM ET",
       "league": "WNBA",
-      "status": "8 hours from now",
+      "status": "4 hours from now",
       "event_url": "https://istreameast.cx/links/new-york-liberty-vs-portland-fire-2469357"
     },
     {
       "title": "RAW #1722",
       "datetime": "Monday, May 25, 2026, 8:00 PM ET",
       "league": "WWE",
-      "status": "8 hours from now",
+      "status": "4 hours from now",
       "event_url": "https://istreameast.cx/links/raw-1722-2475923"
     },
     {
       "title": "Los Angeles Dodgers vs Colorado Rockies",
       "datetime": "Monday, May 25, 2026, 9:10 PM ET",
       "league": "MLB",
-      "status": "9 hours from now",
+      "status": "5 hours from now",
       "event_url": "https://istreameast.cx/links/los-angeles-dodgers-vs-colorado-rockies-2387680"
     },
     {
       "title": "Athletics vs Seattle Mariners",
       "datetime": "Monday, May 25, 2026, 9:40 PM ET",
       "league": "MLB",
-      "status": "10 hours from now",
+      "status": "5 hours from now",
       "event_url": "https://istreameast.cx/links/athletics-vs-seattle-mariners-2387685"
     },
     {
       "title": "Golden State Valkyries vs Connecticut Sun",
       "datetime": "Monday, May 25, 2026, 10:00 PM ET",
       "league": "WNBA",
-      "status": "10 hours from now",
+      "status": "6 hours from now",
       "event_url": "https://istreameast.cx/links/golden-state-valkyries-vs-connecticut-sun-2449014"
     },
     {
       "title": "Nigeria vs India",
       "datetime": "Tuesday, May 26, 2026, 11:00 AM ET",
       "league": "Soccer",
-      "status": "23 hours from now",
+      "status": "19 hours from now",
       "event_url": "https://istreameast.cx/links/nigeria-vs-india-2461935"
     },
     {
       "title": "Morocco vs Burundi",
       "datetime": "Tuesday, May 26, 2026, 11:00 AM ET",
       "league": "Soccer",
-      "status": "23 hours from now",
+      "status": "19 hours from now",
       "event_url": "https://istreameast.cx/links/morocco-vs-burundi-2474204"
     },
     {
       "title": "Nigeria vs Zimbabwe",
       "datetime": "Tuesday, May 26, 2026, 2:30 PM ET",
       "league": "Soccer",
-      "status": "1 day from now",
+      "status": "22 hours from now",
       "event_url": "https://istreameast.cx/links/nigeria-vs-zimbabwe-2464796"
     },
     {
       "title": "St Etienne vs Nice",
       "datetime": "Tuesday, May 26, 2026, 2:45 PM ET",
       "league": "Soccer",
-      "status": "1 day from now",
+      "status": "22 hours from now",
       "event_url": "https://istreameast.cx/links/st-etienne-vs-nice-2475111"
     },
     {
@@ -244,14 +244,14 @@
       "title": "Jamaica vs India",
       "datetime": "Wednesday, May 27, 2026, 2:30 PM ET",
       "league": "Soccer",
-      "status": "2 days from now",
+      "status": "1 day from now",
       "event_url": "https://istreameast.cx/links/jamaica-vs-india-2464797"
     },
     {
       "title": "Crystal Palace vs Rayo Vallecano",
       "datetime": "Wednesday, May 27, 2026, 3:00 PM ET",
       "league": "Soccer",
-      "status": "2 days from now",
+      "status": "1 day from now",
       "event_url": "https://istreameast.cx/links/crystal-palace-vs-rayo-vallecano-2470622"
     },
     {
