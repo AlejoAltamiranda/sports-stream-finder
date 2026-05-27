@@ -74,14 +74,7 @@
     "category": "MLB",
     "time": "2026-05-27 00:05 UTC",
     "channel": "Main Server",
-    "link": "https://embedsports.top/embed/admin/ppv-houston-astros-vs-texas-rangers/1"
-  },
-  {
-    "title": "Texas Rangers vs Houston Astros",
-    "category": "MLB",
-    "time": "2026-05-27 00:05 UTC",
-    "channel": "Server 2",
-    "link": "https://embedsports.top/embed/golf/22710/1"
+    "link": "https://embedsports.top/embed/golf/22731/1"
   },
   {
     "title": "Oklahoma City Thunder vs San Antonio Spurs",
@@ -98,6 +91,20 @@
     "link": "https://embedsports.top/embed/golf/22698/1"
   },
   {
+    "title": "Oklahoma City Thunder vs San Antonio Spurs",
+    "category": "NBA",
+    "time": "2026-05-27 00:30 UTC",
+    "channel": "Server 3",
+    "link": "https://embedsports.top/embed/delta/live_nba_thunder-spurs-live-streaming-1319137542/1"
+  },
+  {
+    "title": "Oklahoma City Thunder vs San Antonio Spurs",
+    "category": "NBA",
+    "time": "2026-05-27 00:30 UTC",
+    "channel": "Server 4",
+    "link": "https://embedsports.top/embed/echo/oklahoma-city-thunder-vs-san-antonio-spurs-basketball-499789/1"
+  },
+  {
     "title": "Vegas Golden Knights vs Colorado Avalanche",
     "category": "NHL",
     "time": "2026-05-27 01:00 UTC",
@@ -110,6 +117,20 @@
     "time": "2026-05-27 01:00 UTC",
     "channel": "Server 2",
     "link": "https://embedsports.top/embed/golf/22699/1"
+  },
+  {
+    "title": "Vegas Golden Knights vs Colorado Avalanche",
+    "category": "NHL",
+    "time": "2026-05-27 01:00 UTC",
+    "channel": "Server 3",
+    "link": "https://embedsports.top/embed/delta/live_nhl-playoffs_golden-knights-avalanche-live-streaming-1319136543/1"
+  },
+  {
+    "title": "Vegas Golden Knights vs Colorado Avalanche",
+    "category": "NHL",
+    "time": "2026-05-27 01:00 UTC",
+    "channel": "Server 4",
+    "link": "https://embedsports.top/embed/echo/vegas-golden-knights-vs-colorado-avalanche-hockey-425577/1"
   },
   {
     "title": "San Diego Padres vs Philadelphia Phillies",
@@ -137,14 +158,7 @@
     "category": "MLB",
     "time": "2026-05-27 02:10 UTC",
     "channel": "Main Server",
-    "link": "https://embedsports.top/embed/admin/ppv-colorado-rockies-vs-los-angeles-dodgers/1"
-  },
-  {
-    "title": "Los Angeles Dodgers vs Colorado Rockies",
-    "category": "MLB",
-    "time": "2026-05-27 02:10 UTC",
-    "channel": "Server 2",
-    "link": "https://embedsports.top/embed/golf/22714/1"
+    "link": "https://embedsports.top/embed/golf/22732/1"
   },
   {
     "title": "Toronto Blue Jays vs Miami Marlins",
@@ -180,5 +194,12 @@
     "time": "2026-05-27 19:45 UTC",
     "channel": "Main Server",
     "link": "https://embedsports.top/embed/golf/22722/1"
+  },
+  {
+    "title": "Montreal Canadiens vs Carolina Hurricanes",
+    "category": "NHL",
+    "time": "2026-05-28 00:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/golf/22717/1"
   }
 ]
