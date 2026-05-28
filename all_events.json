@@ -1,152 +1,138 @@
 {
-  "scraping_date": "2026-05-28T10:15:21.487161",
-  "total_events": 58,
+  "scraping_date": "2026-05-28T16:14:41.433382",
+  "total_events": 56,
   "events": [
-    {
-      "title": "Road to UFC Season 5 Episode 1",
-      "datetime": "Thursday, May 28, 2026, 6:00 AM ET",
-      "league": "UFC",
-      "status": "LIVE",
-      "event_url": "https://istreameast.cx/links/road-to-ufc-season-5-episode-1-2476374"
-    },
-    {
-      "title": "Road to UFC Season 5 Episode 2",
-      "datetime": "Thursday, May 28, 2026, 8:00 AM ET",
-      "league": "UFC",
-      "status": "1 hour from now",
-      "event_url": "https://istreameast.cx/links/road-to-ufc-season-5-episode-2-2476375"
-    },
     {
       "title": "Detroit Tigers vs Los Angeles Angels",
       "datetime": "Thursday, May 28, 2026, 1:10 PM ET",
       "league": "MLB",
-      "status": "6 hours from now",
+      "status": "55 minutes from now",
       "event_url": "https://istreameast.cx/links/detroit-tigers-vs-los-angeles-angels-2387719"
     },
     {
       "title": "Egypt vs Russia",
       "datetime": "Thursday, May 28, 2026, 2:00 PM ET",
       "league": "Soccer",
-      "status": "7 hours from now",
+      "status": "1 hour from now",
       "event_url": "https://istreameast.cx/links/egypt-vs-russia-2469946"
     },
     {
       "title": "Chicago White Sox vs Minnesota Twins",
       "datetime": "Thursday, May 28, 2026, 2:10 PM ET",
       "league": "MLB",
-      "status": "7 hours from now",
+      "status": "1 hour from now",
       "event_url": "https://istreameast.cx/links/chicago-white-sox-vs-minnesota-twins-2387718"
     },
     {
       "title": "Ireland vs Qatar",
       "datetime": "Thursday, May 28, 2026, 2:45 PM ET",
       "league": "Soccer",
-      "status": "8 hours from now",
+      "status": "2 hours from now",
       "event_url": "https://istreameast.cx/links/ireland-vs-qatar-2440220"
     },
     {
       "title": "Casa Pia vs Torreense",
       "datetime": "Thursday, May 28, 2026, 3:00 PM ET",
       "league": "Soccer",
-      "status": "8 hours from now",
+      "status": "2 hours from now",
       "event_url": "https://istreameast.cx/links/casa-pia-vs-torreense-2475098"
     },
     {
       "title": "Boston Red Sox vs Atlanta Braves",
       "datetime": "Thursday, May 28, 2026, 4:10 PM ET",
       "league": "MLB",
-      "status": "9 hours from now",
+      "status": "3 hours from now",
       "event_url": "https://istreameast.cx/links/boston-red-sox-vs-atlanta-braves-2387720"
     },
     {
       "title": "Baltimore Orioles vs Toronto Blue Jays",
       "datetime": "Thursday, May 28, 2026, 6:35 PM ET",
       "league": "MLB",
-      "status": "12 hours from now",
+      "status": "6 hours from now",
       "event_url": "https://istreameast.cx/links/baltimore-orioles-vs-toronto-blue-jays-2387721"
     },
     {
       "title": "Pittsburgh Pirates vs Chicago Cubs",
       "datetime": "Thursday, May 28, 2026, 6:40 PM ET",
       "league": "MLB",
-      "status": "12 hours from now",
+      "status": "6 hours from now",
       "event_url": "https://istreameast.cx/links/pittsburgh-pirates-vs-chicago-cubs-2387717"
     },
     {
       "title": "Dallas Wings vs Las Vegas Aces",
       "datetime": "Thursday, May 28, 2026, 8:00 PM ET",
       "league": "WNBA",
-      "status": "13 hours from now",
+      "status": "7 hours from now",
       "event_url": "https://istreameast.cx/links/dallas-wings-vs-las-vegas-aces-2449018"
     },
     {
       "title": "Texas Rangers vs Houston Astros",
       "datetime": "Thursday, May 28, 2026, 8:05 PM ET",
       "league": "MLB",
-      "status": "13 hours from now",
+      "status": "7 hours from now",
       "event_url": "https://istreameast.cx/links/texas-rangers-vs-houston-astros-2387716"
     },
     {
       "title": "San Antonio Spurs vs Oklahoma City Thunder",
       "datetime": "Thursday, May 28, 2026, 8:30 PM ET",
       "league": "NBA",
-      "status": "14 hours from now",
+      "status": "8 hours from now",
       "event_url": "https://istreameast.cx/links/san-antonio-spurs-vs-oklahoma-city-thunder-2477439"
     },
     {
       "title": "Golden State Valkyries vs Indiana Fever",
       "datetime": "Thursday, May 28, 2026, 10:00 PM ET",
       "league": "WNBA",
-      "status": "15 hours from now",
+      "status": "9 hours from now",
       "event_url": "https://istreameast.cx/links/golden-state-valkyries-vs-indiana-fever-2449019"
     },
     {
       "title": "Road to UFC Season 5 Episode 3",
       "datetime": "Friday, May 29, 2026, 6:00 AM ET",
       "league": "UFC",
-      "status": "23 hours from now",
+      "status": "17 hours from now",
       "event_url": "https://istreameast.cx/links/road-to-ufc-season-5-episode-3-2476376"
     },
     {
       "title": "Road to UFC Season 5 Episode 4",
       "datetime": "Friday, May 29, 2026, 8:00 AM ET",
       "league": "UFC",
-      "status": "1 day from now",
+      "status": "19 hours from now",
       "event_url": "https://istreameast.cx/links/road-to-ufc-season-5-episode-4-2476377"
     },
     {
       "title": "Mexico U17 vs England U17",
       "datetime": "Friday, May 29, 2026, 11:00 AM ET",
       "league": "Soccer",
-      "status": "1 day from now",
+      "status": "22 hours from now",
       "event_url": "https://istreameast.cx/links/mexico-u17-vs-england-u17-2469948"
     },
     {
       "title": "Iran vs Gambia",
       "datetime": "Friday, May 29, 2026, 11:30 AM ET",
       "league": "Soccer",
-      "status": "1 day from now",
+      "status": "23 hours from now",
       "event_url": "https://istreameast.cx/links/iran-vs-gambia-2472345"
     },
     {
       "title": "South Africa vs Nicaragua",
       "datetime": "Friday, May 29, 2026, 12:00 PM ET",
       "league": "Soccer",
-      "status": "1 day from now",
+      "status": "23 hours from now",
       "event_url": "https://istreameast.cx/links/south-africa-vs-nicaragua-2469947"
     },
     {
       "title": "Andorra vs Iraq",
       "datetime": "Friday, May 29, 2026, 12:00 PM ET",
       "league": "Soccer",
-      "status": "1 day from now",
+      "status": "23 hours from now",
       "event_url": "https://istreameast.cx/links/andorra-vs-iraq-2470305"
     },
     {
       "title": "Lebanon vs Sudan",
       "datetime": "Friday, May 29, 2026, 12:00 PM ET",
       "league": "Soccer",
-      "status": "1 day from now",
+      "status": "23 hours from now",
       "event_url": "https://istreameast.cx/links/lebanon-vs-sudan-2477719"
     },
     {
@@ -356,21 +342,21 @@
       "title": "Scotland vs Curaçao",
       "datetime": "Saturday, May 30, 2026, 8:00 AM ET",
       "league": "Soccer",
-      "status": "2 days from now",
+      "status": "1 day from now",
       "event_url": "https://istreameast.cx/links/scotland-vs-curacao-2422315"
     },
     {
       "title": "Croatia U21 vs Greece U21",
       "datetime": "Saturday, May 30, 2026, 9:00 AM ET",
       "league": "Soccer",
-      "status": "2 days from now",
+      "status": "1 day from now",
       "event_url": "https://istreameast.cx/links/croatia-u21-vs-greece-u21-2474205"
     },
     {
       "title": "Paris SG vs Arsenal",
       "datetime": "Saturday, May 30, 2026, 12:00 PM ET",
       "league": "Soccer",
-      "status": "2 days from now",
+      "status": "1 day from now",
       "event_url": "https://istreameast.cx/links/paris-sg-vs-arsenal-2470477"
     },
     {
