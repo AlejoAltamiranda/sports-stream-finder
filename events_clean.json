@@ -14,13 +14,6 @@
     "link": "https://embedsports.top/embed/delta/live-event_friday-night-smackdown-live-stream/1"
   },
   {
-    "title": "Bosnia-Herzegovina vs North Macedonia",
-    "category": "Soccer",
-    "time": "2026-05-29 18:30 UTC",
-    "channel": "Main Server",
-    "link": "https://embedsports.top/embed/echo/bosnia-herzegovina-vs-fyr-macedonia-football-1540947/1"
-  },
-  {
     "title": "Nice vs St Etienne",
     "category": "Soccer",
     "time": "2026-05-29 18:45 UTC",
@@ -47,6 +40,13 @@
     "time": "2026-05-29 22:45 UTC",
     "channel": "Main Server",
     "link": "https://embedsports.top/embed/golf/22776/1"
+  },
+  {
+    "title": "Toronto Argonauts vs Hamilton Tiger-Cats",
+    "category": "CFL",
+    "time": "2026-05-29 23:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/admin/ppv-hamilton-tiger-cats-vs-toronto-argonauts/1"
   },
   {
     "title": "Ottawa Redblacks vs Montreal Alouettes",
@@ -140,6 +140,13 @@
     "link": "https://embedsports.top/embed/golf/22746/1"
   },
   {
+    "title": "Carolina Hurricanes vs Montreal Canadiens",
+    "category": "NHL",
+    "time": "2026-05-30 00:00 UTC",
+    "channel": "Server 3",
+    "link": "https://embedsports.top/embed/echo/carolina-hurricanes-vs-montreal-canadiens-hockey-425616/1"
+  },
+  {
     "title": "Texas Rangers vs Kansas City Royals",
     "category": "MLB",
     "time": "2026-05-30 00:05 UTC",
@@ -152,6 +159,13 @@
     "time": "2026-05-30 00:10 UTC",
     "channel": "Main Server",
     "link": "https://embedsports.top/embed/golf/22783/1"
+  },
+  {
+    "title": "Winnipeg Blue Bombers vs BC Lions",
+    "category": "CFL",
+    "time": "2026-05-30 00:30 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/admin/ppv-bc-lions-vs-winnipeg-blue-bombers/1"
   },
   {
     "title": "Colorado Rockies vs San Francisco Giants",
