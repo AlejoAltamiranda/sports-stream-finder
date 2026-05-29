@@ -14,13 +14,6 @@
     "link": "https://embedsports.top/embed/delta/live-event_friday-night-smackdown-live-stream/1"
   },
   {
-    "title": "Nice vs St Etienne",
-    "category": "Soccer",
-    "time": "2026-05-29 18:45 UTC",
-    "channel": "Main Server",
-    "link": "https://embedsports.top/embed/echo/nice-vs-saint-etienne-football-1545409/1"
-  },
-  {
     "title": "Cincinnati Reds vs Atlanta Braves",
     "category": "MLB",
     "time": "2026-05-29 22:40 UTC",
@@ -105,6 +98,13 @@
     "link": "https://embedsports.top/embed/admin/ppv-phoenix-mercury-vs-new-york-liberty/1"
   },
   {
+    "title": "New York Liberty vs Phoenix Mercury",
+    "category": "WNBA",
+    "time": "2026-05-29 23:30 UTC",
+    "channel": "Server 2",
+    "link": "https://embedsports.top/embed/delta/live_wnba_liberty-mercury-live-streaming-1210627161/1"
+  },
+  {
     "title": "Chicago Sky vs Minnesota Lynx",
     "category": "WNBA",
     "time": "2026-05-29 23:30 UTC",
@@ -124,6 +124,13 @@
     "time": "2026-05-30 00:00 UTC",
     "channel": "Main Server",
     "link": "https://embedsports.top/embed/admin/ppv-dallas-renegades-vs-st-louis-battlehawks/1"
+  },
+  {
+    "title": "St Louis BattleHawks vs Dallas Renegades",
+    "category": "NFL",
+    "time": "2026-05-30 00:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embedsports.top/embed/delta/live_ufl_st-louis-battlehawks-dallas-renegades-live-streaming-1308729960/1"
   },
   {
     "title": "Carolina Hurricanes vs Montreal Canadiens",
