@@ -154,13 +154,6 @@
     "link": "https://embedsports.top/embed/admin/ppv-houston-gamblers-vs-birmingham-stallions/1"
   },
   {
-    "title": "Birmingham Stallions vs Houston Gamblers",
-    "category": "NFL",
-    "time": "2026-05-30 19:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embedsports.top/embed/delta/live_ufl_birmingham-stallions-houston-gamblers-live-streaming-1308874815/1"
-  },
-  {
     "title": "Washington Nationals vs San Diego Padres",
     "category": "MLB",
     "time": "2026-05-30 20:05 UTC",
@@ -189,6 +182,13 @@
     "link": "https://embedsports.top/embed/golf/22798/1"
   },
   {
+    "title": "Connecticut Sun vs Los Angeles Sparks",
+    "category": "WNBA",
+    "time": "2026-05-30 22:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/admin/ppv-los-angeles-sparks-vs-connecticut-sun/1"
+  },
+  {
     "title": "Ecuador vs Saudi Arabia",
     "category": "Soccer",
     "time": "2026-05-30 23:30 UTC",
@@ -210,11 +210,39 @@
     "link": "https://embedsports.top/embed/admin/ppv-indiana-fever-vs-portland-fire/1"
   },
   {
+    "title": "Switzerland vs Jordan",
+    "category": "Soccer",
+    "time": "2026-05-31 13:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/admin/ppv-switzerland-vs-jordan/1"
+  },
+  {
+    "title": "Poland vs Ukraine",
+    "category": "Soccer",
+    "time": "2026-05-31 15:30 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/admin/ppv-poland-vs-ukraine/1"
+  },
+  {
     "title": "DC Defenders vs Orlando Storm",
     "category": "NFL",
     "time": "2026-05-31 16:00 UTC",
     "channel": "Main Server",
     "link": "https://embedsports.top/embed/admin/ppv-orlando-storm-vs-dc-defenders/1"
+  },
+  {
+    "title": "Germany vs Finland",
+    "category": "Soccer",
+    "time": "2026-05-31 18:45 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/admin/ppv-germany-vs-finland/1"
+  },
+  {
+    "title": "USA vs Senegal",
+    "category": "Soccer",
+    "time": "2026-05-31 19:30 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/admin/ppv-united-states-vs-senegal/1"
   },
   {
     "title": "Columbus Aviators vs Louisville Kings",
