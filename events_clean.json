@@ -147,13 +147,6 @@
     "link": "https://pooembed.eu/embed/ucl/2026-05-30/psg-ars/paramount"
   },
   {
-    "title": "Birmingham Stallions vs Houston Gamblers",
-    "category": "NFL",
-    "time": "2026-05-30 19:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embedsports.top/embed/admin/ppv-houston-gamblers-vs-birmingham-stallions/1"
-  },
-  {
     "title": "Washington Nationals vs San Diego Padres",
     "category": "MLB",
     "time": "2026-05-30 20:05 UTC",
@@ -182,13 +175,6 @@
     "link": "https://embedsports.top/embed/golf/22798/1"
   },
   {
-    "title": "Connecticut Sun vs Los Angeles Sparks",
-    "category": "WNBA",
-    "time": "2026-05-30 22:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embedsports.top/embed/admin/ppv-los-angeles-sparks-vs-connecticut-sun/1"
-  },
-  {
     "title": "Ecuador vs Saudi Arabia",
     "category": "Soccer",
     "time": "2026-05-30 23:30 UTC",
@@ -208,6 +194,20 @@
     "time": "2026-05-31 00:00 UTC",
     "channel": "Main Server",
     "link": "https://embedsports.top/embed/admin/ppv-indiana-fever-vs-portland-fire/1"
+  },
+  {
+    "title": "Portland Fire vs Indiana Fever",
+    "category": "WNBA",
+    "time": "2026-05-31 00:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embedsports.top/embed/delta/live_wnba_fire-fever-live-streaming-1210697091/1"
+  },
+  {
+    "title": "Mexico vs Australia",
+    "category": "Soccer",
+    "time": "2026-05-31 02:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/echo/mexico-vs-australia-football-1527865/1"
   },
   {
     "title": "Switzerland vs Jordan",
