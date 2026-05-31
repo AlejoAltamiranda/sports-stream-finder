@@ -308,6 +308,13 @@
     "link": "https://embedsports.top/embed/admin/ppv-switzerland-vs-jordan/1"
   },
   {
+    "title": "Switzerland vs Jordan",
+    "category": "Soccer",
+    "time": "2026-05-31 13:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embedsports.top/embed/echo/switzerland-vs-jordan-football-1528283/1"
+  },
+  {
     "title": "Poland vs Ukraine",
     "category": "Soccer",
     "time": "2026-05-31 15:30 UTC",
@@ -329,11 +336,11 @@
     "link": "https://embedsports.top/embed/admin/ppv-germany-vs-finland/1"
   },
   {
-    "title": "USA vs Senegal",
+    "title": "Germany vs Finland",
     "category": "Soccer",
-    "time": "2026-05-31 19:30 UTC",
-    "channel": "Main Server",
-    "link": "https://embedsports.top/embed/admin/ppv-united-states-vs-senegal/1"
+    "time": "2026-05-31 18:45 UTC",
+    "channel": "Server 2",
+    "link": "https://embedsports.top/embed/echo/germany-vs-finland-football-1501818/1"
   },
   {
     "title": "Golden State Valkyries vs Las Vegas Aces",
