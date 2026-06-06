@@ -1,59 +1,10 @@
 [
   {
-    "title": "Monaco Grand Prix Qualifying",
-    "category": "Formula 1",
-    "time": "2026-06-06 14:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embedindia.st/embed/f1/2026/monaco/qualifying\""
-  },
-  {
-    "title": "Monaco Grand Prix Qualifying",
-    "category": "Formula 1",
-    "time": "2026-06-06 14:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embedsports.top/embed/echo/1st-qualifying-circuit-de-monaco-formula-1-2653/1"
-  },
-  {
-    "title": "Monaco Grand Prix Qualifying",
-    "category": "Formula 1",
-    "time": "2026-06-06 14:00 UTC",
-    "channel": "Server 3",
-    "link": "https://embedsports.top/embed/echo/1st-qualifying-circuit-de-monaco-formula-1-2653/2"
-  },
-  {
-    "title": "Josh Padley vs Aqib Fiaz",
-    "category": "Boxing",
-    "time": "2026-06-06 16:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/golf/22970/1"
-  },
-  {
-    "title": "Josh Padley vs Aqib Fiaz",
-    "category": "Boxing",
-    "time": "2026-06-06 16:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/delta/live-event_padley-vs-fiaz-live-stream/1"
-  },
-  {
-    "title": "Josh Padley vs Aqib Fiaz",
-    "category": "Boxing",
-    "time": "2026-06-06 16:00 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/echo/ppv-event-05-padley-v-fiaz-ppv-05/1"
-  },
-  {
     "title": "Minnesota Lynx vs Seattle Storm",
     "category": "WNBA",
     "time": "2026-06-06 17:00 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/golf/22908/1"
-  },
-  {
-    "title": "Minnesota Lynx vs Seattle Storm",
-    "category": "WNBA",
-    "time": "2026-06-06 17:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/delta/live_wnba_lynx-storm-live-streaming-1210819968/1"
   },
   {
     "title": "Detroit Tigers vs Seattle Mariners",
@@ -67,20 +18,27 @@
     "category": "Soccer",
     "time": "2026-06-06 17:45 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/golf/22938/1"
+    "link": "https://embed.st/embed/admin/admin-portugal-vs-chile/1"
   },
   {
     "title": "Portugal vs Chile",
     "category": "Soccer",
     "time": "2026-06-06 17:45 UTC",
     "channel": "Server 2",
-    "link": "https://embed.st/embed/delta/live_int-friendly-games_portugal-chile-live-streaming-1337591070/1"
+    "link": "https://embed.st/embed/golf/22938/1"
   },
   {
     "title": "Portugal vs Chile",
     "category": "Soccer",
     "time": "2026-06-06 17:45 UTC",
     "channel": "Server 3",
+    "link": "https://embed.st/embed/delta/live_int-friendly-games_portugal-chile-live-streaming-1337591070/1"
+  },
+  {
+    "title": "Portugal vs Chile",
+    "category": "Soccer",
+    "time": "2026-06-06 17:45 UTC",
+    "channel": "Server 4",
     "link": "https://embed.st/embed/echo/portugal-vs-chile-football-1528286/1"
   },
   {
@@ -89,6 +47,13 @@
     "time": "2026-06-06 17:45 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/delta/live_int-friendly-games_romania-wales-live-streaming-1337592069/1"
+  },
+  {
+    "title": "Romania vs Wales",
+    "category": "Soccer",
+    "time": "2026-06-06 17:45 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/echo/romania-vs-wales-football-1542180/1"
   },
   {
     "title": "Zuffa Boxing 7 Billam-Smith vs Rozicki",
@@ -133,13 +98,6 @@
     "link": "https://embed.st/embed/delta/live_mlb_cubs-giants-live-streaming-1309696992/1"
   },
   {
-    "title": "Chicago Cubs vs San Francisco Giants",
-    "category": "MLB",
-    "time": "2026-06-06 18:20 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/echo/chicago-cubs-vs-san-francisco-giants-baseball-178977/1"
-  },
-  {
     "title": "USA vs Germany",
     "category": "Soccer",
     "time": "2026-06-06 18:30 UTC",
@@ -168,11 +126,25 @@
     "link": "https://embed.st/embed/delta/live_int-friendly-games_switzerland-australia-live-streaming-1337595066/1"
   },
   {
+    "title": "Switzerland vs Australia",
+    "category": "Soccer",
+    "time": "2026-06-06 19:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/echo/switzerland-vs-australia-football-1542181/1"
+  },
+  {
     "title": "Las Vegas Aces vs Golden State Valkyries",
     "category": "WNBA",
     "time": "2026-06-06 19:00 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/golf/22909/1"
+  },
+  {
+    "title": "Las Vegas Aces vs Golden State Valkyries",
+    "category": "WNBA",
+    "time": "2026-06-06 19:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/delta/live_wnba_las-vegas-valkyries-live-streaming-1210820967/1"
   },
   {
     "title": "Toronto Blue Jays vs Baltimore Orioles",
@@ -271,6 +243,13 @@
     "time": "2026-06-06 21:00 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/golf/22968/1"
+  },
+  {
+    "title": "UFC Fight Night 278 Muhammad vs Bonfim",
+    "category": "UFC",
+    "time": "2026-06-06 21:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/echo/ppv-event-01-ufc-fight-night-muhammad-v-bonfim-ppv-01/1"
   },
   {
     "title": "Brazil vs Egypt",
