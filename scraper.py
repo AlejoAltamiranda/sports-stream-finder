@@ -3,7 +3,7 @@ import time
 import json
 from datetime import datetime
 
-BASE = "https://istreameast.is"
+BASE = "https://istreameast.cx"
 MAIN_URL = BASE
 
 def get_all_events(page):
