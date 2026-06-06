@@ -1,73 +1,10 @@
 [
   {
-    "title": "Minnesota Lynx vs Seattle Storm",
-    "category": "WNBA",
-    "time": "2026-06-06 17:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/golf/22908/1"
-  },
-  {
     "title": "Detroit Tigers vs Seattle Mariners",
     "category": "MLB",
     "time": "2026-06-06 17:10 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/golf/22957/1"
-  },
-  {
-    "title": "Portugal vs Chile",
-    "category": "Soccer",
-    "time": "2026-06-06 17:45 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/admin-portugal-vs-chile/1"
-  },
-  {
-    "title": "Portugal vs Chile",
-    "category": "Soccer",
-    "time": "2026-06-06 17:45 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/22938/1"
-  },
-  {
-    "title": "Portugal vs Chile",
-    "category": "Soccer",
-    "time": "2026-06-06 17:45 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/delta/live_int-friendly-games_portugal-chile-live-streaming-1337591070/1"
-  },
-  {
-    "title": "Portugal vs Chile",
-    "category": "Soccer",
-    "time": "2026-06-06 17:45 UTC",
-    "channel": "Server 4",
-    "link": "https://embed.st/embed/echo/portugal-vs-chile-football-1528286/1"
-  },
-  {
-    "title": "Romania vs Wales",
-    "category": "Soccer",
-    "time": "2026-06-06 17:45 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/delta/live_int-friendly-games_romania-wales-live-streaming-1337592069/1"
-  },
-  {
-    "title": "Romania vs Wales",
-    "category": "Soccer",
-    "time": "2026-06-06 17:45 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/echo/romania-vs-wales-football-1542180/1"
-  },
-  {
-    "title": "Zuffa Boxing 7 Billam-Smith vs Rozicki",
-    "category": "Boxing",
-    "time": "2026-06-06 18:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/golf/22969/1"
-  },
-  {
-    "title": "Zuffa Boxing 7 Billam-Smith vs Rozicki",
-    "category": "Boxing",
-    "time": "2026-06-06 18:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/echo/ppv-event-03-billam-smith-v-rozicki-ppv-03/1"
   },
   {
     "title": "Minnesota Twins vs Kansas City Royals",
@@ -91,60 +28,11 @@
     "link": "https://embed.st/embed/golf/22918/1"
   },
   {
-    "title": "Chicago Cubs vs San Francisco Giants",
-    "category": "MLB",
-    "time": "2026-06-06 18:20 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/delta/live_mlb_cubs-giants-live-streaming-1309696992/1"
-  },
-  {
-    "title": "USA vs Germany",
-    "category": "Soccer",
-    "time": "2026-06-06 18:30 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/golf/22941/1"
-  },
-  {
-    "title": "USA vs Germany",
-    "category": "Soccer",
-    "time": "2026-06-06 18:30 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/delta/live_int-friendly-games_usa-germany-live-streaming-1337594067/1"
-  },
-  {
-    "title": "USA vs Germany",
-    "category": "Soccer",
-    "time": "2026-06-06 18:30 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/echo/usa-vs-germany-football-1502474/1"
-  },
-  {
-    "title": "Switzerland vs Australia",
-    "category": "Soccer",
-    "time": "2026-06-06 19:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/delta/live_int-friendly-games_switzerland-australia-live-streaming-1337595066/1"
-  },
-  {
-    "title": "Switzerland vs Australia",
-    "category": "Soccer",
-    "time": "2026-06-06 19:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/echo/switzerland-vs-australia-football-1542181/1"
-  },
-  {
     "title": "Las Vegas Aces vs Golden State Valkyries",
     "category": "WNBA",
     "time": "2026-06-06 19:00 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/golf/22909/1"
-  },
-  {
-    "title": "Las Vegas Aces vs Golden State Valkyries",
-    "category": "WNBA",
-    "time": "2026-06-06 19:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/delta/live_wnba_las-vegas-valkyries-live-streaming-1210820967/1"
   },
   {
     "title": "Toronto Blue Jays vs Baltimore Orioles",
@@ -158,42 +46,7 @@
     "category": "Soccer",
     "time": "2026-06-06 20:00 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/golf/22945/1"
-  },
-  {
-    "title": "England vs New Zealand",
-    "category": "Soccer",
-    "time": "2026-06-06 20:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/delta/live_int-friendly-games_england-new-zealand-live-streaming-1337597064/1"
-  },
-  {
-    "title": "England vs New Zealand",
-    "category": "Soccer",
-    "time": "2026-06-06 20:00 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/echo/england-vs-new-zealand-football-1525492/1"
-  },
-  {
-    "title": "Bolivia vs Scotland",
-    "category": "Soccer",
-    "time": "2026-06-06 20:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/golf/22944/1"
-  },
-  {
-    "title": "Bolivia vs Scotland",
-    "category": "Soccer",
-    "time": "2026-06-06 20:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/delta/live_int-friendly-games_bolivia-scotland-live-streaming-1337596065/1"
-  },
-  {
-    "title": "Bolivia vs Scotland",
-    "category": "Soccer",
-    "time": "2026-06-06 20:00 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/echo/bolivia-vs-scotland-football-1540949/1"
+    "link": "https://embed.st/embed/admin/admin-england-vs-new-zealand/1"
   },
   {
     "title": "Qatar vs El Salvador",
@@ -242,13 +95,27 @@
     "category": "UFC",
     "time": "2026-06-06 21:00 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/golf/22968/1"
+    "link": "https://embed.st/embed/admin/admin-ufc-fight-night-278-muhammad-vs-bonfim/1"
   },
   {
     "title": "UFC Fight Night 278 Muhammad vs Bonfim",
     "category": "UFC",
     "time": "2026-06-06 21:00 UTC",
     "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/22968/1"
+  },
+  {
+    "title": "UFC Fight Night 278 Muhammad vs Bonfim",
+    "category": "UFC",
+    "time": "2026-06-06 21:00 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/delta/live-event_ufc-fight-night-muhammad-vs-bonfim-live-stream/1"
+  },
+  {
+    "title": "UFC Fight Night 278 Muhammad vs Bonfim",
+    "category": "UFC",
+    "time": "2026-06-06 21:00 UTC",
+    "channel": "Server 4",
     "link": "https://embed.st/embed/echo/ppv-event-01-ufc-fight-night-muhammad-v-bonfim-ppv-01/1"
   },
   {
@@ -256,13 +123,27 @@
     "category": "Soccer",
     "time": "2026-06-06 22:00 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/golf/22947/1"
+    "link": "https://embed.st/embed/admin/admin-brazil-vs-egypt/1"
   },
   {
     "title": "Brazil vs Egypt",
     "category": "Soccer",
     "time": "2026-06-06 22:00 UTC",
     "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/22947/1"
+  },
+  {
+    "title": "Brazil vs Egypt",
+    "category": "Soccer",
+    "time": "2026-06-06 22:00 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/delta/live_int-friendly-games_brazil-egypt-live-streaming-1337599062/1"
+  },
+  {
+    "title": "Brazil vs Egypt",
+    "category": "Soccer",
+    "time": "2026-06-06 22:00 UTC",
+    "channel": "Server 4",
     "link": "https://embed.st/embed/echo/brazil-vs-egypt-football-1528287/1"
   },
   {
@@ -271,6 +152,13 @@
     "time": "2026-06-06 22:00 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/golf/22910/1"
+  },
+  {
+    "title": "Atlanta Dream vs Washington Mystics",
+    "category": "WNBA",
+    "time": "2026-06-06 22:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/delta/live_wnba_atlanta-mystics-live-streaming-1210821966/1"
   },
   {
     "title": "Texas Rangers vs Cleveland Guardians",
@@ -298,6 +186,13 @@
     "category": "WNBA",
     "time": "2026-06-07 00:00 UTC",
     "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-indiana-fever-vs-new-york-liberty/1"
+  },
+  {
+    "title": "New York Liberty vs Indiana Fever",
+    "category": "WNBA",
+    "time": "2026-06-07 00:00 UTC",
+    "channel": "Server 2",
     "link": "https://embed.st/embed/golf/22911/1"
   },
   {
@@ -334,6 +229,13 @@
     "time": "2026-06-07 19:00 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/golf/22951/1"
+  },
+  {
+    "title": "St Louis BattleHawks vs Louisville Kings",
+    "category": "NFL",
+    "time": "2026-06-07 22:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-louisville-kings-vs-st-louis-battlehawks/1"
   },
   {
     "title": "Los Angeles Sparks vs Portland Fire",
