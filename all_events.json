@@ -1,131 +1,96 @@
 {
-  "scraping_date": "2026-06-06T04:02:40.113147",
-  "total_events": 23,
+  "scraping_date": "2026-06-06T08:41:42.231374",
+  "total_events": 18,
   "events": [
-    {
-      "title": "San Diego Padres vs New York Mets",
-      "datetime": "Friday, Jun 5, 2026, 9:40 PM ET",
-      "league": "MLB",
-      "status": "LIVE",
-      "event_url": "https://istreameast.cx/links/san-diego-padres-vs-new-york-mets-2387819"
-    },
-    {
-      "title": "Arizona Diamondbacks vs Washington Nationals",
-      "datetime": "Friday, Jun 5, 2026, 9:40 PM ET",
-      "league": "MLB",
-      "status": "LIVE",
-      "event_url": "https://istreameast.cx/links/arizona-diamondbacks-vs-washington-nationals-2387829"
-    },
-    {
-      "title": "Los Angeles Sparks vs Dallas Wings",
-      "datetime": "Friday, Jun 5, 2026, 10:00 PM ET",
-      "league": "WNBA",
-      "status": "LIVE",
-      "event_url": "https://istreameast.cx/links/los-angeles-sparks-vs-dallas-wings-2449033"
-    },
-    {
-      "title": "Portland Fire vs Phoenix Mercury",
-      "datetime": "Friday, Jun 5, 2026, 10:00 PM ET",
-      "league": "WNBA",
-      "status": "LIVE",
-      "event_url": "https://istreameast.cx/links/portland-fire-vs-phoenix-mercury-2469362"
-    },
-    {
-      "title": "Los Angeles Dodgers vs Los Angeles Angels",
-      "datetime": "Friday, Jun 5, 2026, 10:10 PM ET",
-      "league": "MLB",
-      "status": "LIVE",
-      "event_url": "https://istreameast.cx/links/los-angeles-dodgers-vs-los-angeles-angels-2387824"
-    },
     {
       "title": "Monaco Grand Prix Practice 3",
       "datetime": "Saturday, Jun 6, 2026, 6:30 AM ET",
       "league": "Formula 1",
-      "status": "6 hours from now",
+      "status": "1 hour from now",
       "event_url": "https://istreameast.cx/links/monaco-grand-prix-practice-3-2408144"
     },
     {
       "title": "Monaco Grand Prix Qualifying",
       "datetime": "Saturday, Jun 6, 2026, 10:00 AM ET",
       "league": "Formula 1",
-      "status": "9 hours from now",
+      "status": "5 hours from now",
       "event_url": "https://istreameast.cx/links/monaco-grand-prix-qualifying-2408145"
     },
     {
       "title": "Minnesota Lynx vs Seattle Storm",
       "datetime": "Saturday, Jun 6, 2026, 1:00 PM ET",
       "league": "WNBA",
-      "status": "12 hours from now",
+      "status": "8 hours from now",
       "event_url": "https://istreameast.cx/links/minnesota-lynx-vs-seattle-storm-2449034"
     },
     {
       "title": "Zuffa Boxing 7 Billam-Smith vs Rozicki",
       "datetime": "Saturday, Jun 6, 2026, 2:00 PM ET",
       "league": "Boxing",
-      "status": "13 hours from now",
+      "status": "9 hours from now",
       "event_url": "https://istreameast.cx/links/zuffa-boxing-7-billam-smith-vs-rozicki-2470171"
     },
     {
       "title": "Minnesota Twins vs Kansas City Royals",
       "datetime": "Saturday, Jun 6, 2026, 2:10 PM ET",
       "league": "MLB",
-      "status": "14 hours from now",
+      "status": "9 hours from now",
       "event_url": "https://istreameast.cx/links/minnesota-twins-vs-kansas-city-royals-2387830"
     },
     {
       "title": "Las Vegas Aces vs Golden State Valkyries",
       "datetime": "Saturday, Jun 6, 2026, 3:00 PM ET",
       "league": "WNBA",
-      "status": "14 hours from now",
+      "status": "10 hours from now",
       "event_url": "https://istreameast.cx/links/las-vegas-aces-vs-golden-state-valkyries-2449035"
     },
     {
       "title": "Toronto Blue Jays vs Baltimore Orioles",
       "datetime": "Saturday, Jun 6, 2026, 3:07 PM ET",
       "league": "MLB",
-      "status": "15 hours from now",
+      "status": "10 hours from now",
       "event_url": "https://istreameast.cx/links/toronto-blue-jays-vs-baltimore-orioles-2387831"
     },
     {
       "title": "UFC Fight Night 278 Muhammad vs Bonfim",
       "datetime": "Saturday, Jun 6, 2026, 5:00 PM ET",
       "league": "UFC",
-      "status": "16 hours from now",
+      "status": "12 hours from now",
       "event_url": "https://istreameast.cx/links/ufc-fight-night-278-muhammad-vs-bonfim-2449569"
     },
     {
       "title": "Atlanta Dream vs Washington Mystics",
       "datetime": "Saturday, Jun 6, 2026, 6:00 PM ET",
       "league": "WNBA",
-      "status": "17 hours from now",
+      "status": "13 hours from now",
       "event_url": "https://istreameast.cx/links/atlanta-dream-vs-washington-mystics-2449036"
     },
     {
       "title": "Ottawa Redblacks vs Edmonton Elks",
       "datetime": "Saturday, Jun 6, 2026, 7:00 PM ET",
       "league": "CFL",
-      "status": "18 hours from now",
+      "status": "14 hours from now",
       "event_url": "https://istreameast.cx/links/ottawa-redblacks-vs-edmonton-elks-2432536"
     },
     {
       "title": "Vegas Golden Knights vs Carolina Hurricanes",
       "datetime": "Saturday, Jun 6, 2026, 8:00 PM ET",
       "league": "NHL",
-      "status": "19 hours from now",
+      "status": "15 hours from now",
       "event_url": "https://istreameast.cx/links/vegas-golden-knights-vs-carolina-hurricanes-2478591"
     },
     {
       "title": "Hungary GP",
       "datetime": "Saturday, Jun 6, 2026, 8:00 PM ET",
       "league": "MotoGP",
-      "status": "19 hours from now",
+      "status": "15 hours from now",
       "event_url": "https://istreameast.cx/links/hungary-gp-2366146"
     },
     {
       "title": "New York Liberty vs Indiana Fever",
       "datetime": "Saturday, Jun 6, 2026, 8:00 PM ET",
       "league": "WNBA",
-      "status": "19 hours from now",
+      "status": "15 hours from now",
       "event_url": "https://istreameast.cx/links/new-york-liberty-vs-indiana-fever-2449037"
     },
     {
