@@ -32,6 +32,13 @@
     "category": "Boxing",
     "time": "2026-06-06 16:00 UTC",
     "channel": "Server 2",
+    "link": "https://embed.st/embed/delta/live-event_padley-vs-fiaz-live-stream/1"
+  },
+  {
+    "title": "Josh Padley vs Aqib Fiaz",
+    "category": "Boxing",
+    "time": "2026-06-06 16:00 UTC",
+    "channel": "Server 3",
     "link": "https://embed.st/embed/echo/ppv-event-05-padley-v-fiaz-ppv-05/1"
   },
   {
@@ -67,7 +74,21 @@
     "category": "Soccer",
     "time": "2026-06-06 17:45 UTC",
     "channel": "Server 2",
+    "link": "https://embed.st/embed/delta/live_int-friendly-games_portugal-chile-live-streaming-1337591070/1"
+  },
+  {
+    "title": "Portugal vs Chile",
+    "category": "Soccer",
+    "time": "2026-06-06 17:45 UTC",
+    "channel": "Server 3",
     "link": "https://embed.st/embed/echo/portugal-vs-chile-football-1528286/1"
+  },
+  {
+    "title": "Romania vs Wales",
+    "category": "Soccer",
+    "time": "2026-06-06 17:45 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/delta/live_int-friendly-games_romania-wales-live-streaming-1337592069/1"
   },
   {
     "title": "Zuffa Boxing 7 Billam-Smith vs Rozicki",
@@ -109,6 +130,13 @@
     "category": "MLB",
     "time": "2026-06-06 18:20 UTC",
     "channel": "Server 2",
+    "link": "https://embed.st/embed/delta/live_mlb_cubs-giants-live-streaming-1309696992/1"
+  },
+  {
+    "title": "Chicago Cubs vs San Francisco Giants",
+    "category": "MLB",
+    "time": "2026-06-06 18:20 UTC",
+    "channel": "Server 3",
     "link": "https://embed.st/embed/echo/chicago-cubs-vs-san-francisco-giants-baseball-178977/1"
   },
   {
