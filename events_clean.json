@@ -25,14 +25,7 @@
     "category": "MLB",
     "time": "2026-06-06 18:20 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/golf/22918/1"
-  },
-  {
-    "title": "Las Vegas Aces vs Golden State Valkyries",
-    "category": "WNBA",
-    "time": "2026-06-06 19:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/golf/22909/1"
+    "link": "https://embed.st/embed/golf/22967/1"
   },
   {
     "title": "Toronto Blue Jays vs Baltimore Orioles",
@@ -40,20 +33,6 @@
     "time": "2026-06-06 19:07 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/golf/22956/1"
-  },
-  {
-    "title": "England vs New Zealand",
-    "category": "Soccer",
-    "time": "2026-06-06 20:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/admin-england-vs-new-zealand/1"
-  },
-  {
-    "title": "Qatar vs El Salvador",
-    "category": "Soccer",
-    "time": "2026-06-06 20:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/delta/live_int-friendly-games_qatar-el-salvador-live-streaming-1337598063/1"
   },
   {
     "title": "Philadelphia Phillies vs Chicago White Sox",
@@ -95,7 +74,7 @@
     "category": "UFC",
     "time": "2026-06-06 21:00 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/admin-ufc-fight-night-278-muhammad-vs-bonfim/1"
+    "link": "https://embed.st/embed/admin/ppv-ufc-fight-night-muhammad-vs-bonfim/1"
   },
   {
     "title": "UFC Fight Night 278 Muhammad vs Bonfim",
@@ -119,46 +98,11 @@
     "link": "https://embed.st/embed/echo/ppv-event-01-ufc-fight-night-muhammad-v-bonfim-ppv-01/1"
   },
   {
-    "title": "Brazil vs Egypt",
-    "category": "Soccer",
-    "time": "2026-06-06 22:00 UTC",
+    "title": "Ottawa Redblacks vs Edmonton Elks",
+    "category": "CFL",
+    "time": "2026-06-06 23:00 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/admin-brazil-vs-egypt/1"
-  },
-  {
-    "title": "Brazil vs Egypt",
-    "category": "Soccer",
-    "time": "2026-06-06 22:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/22947/1"
-  },
-  {
-    "title": "Brazil vs Egypt",
-    "category": "Soccer",
-    "time": "2026-06-06 22:00 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/delta/live_int-friendly-games_brazil-egypt-live-streaming-1337599062/1"
-  },
-  {
-    "title": "Brazil vs Egypt",
-    "category": "Soccer",
-    "time": "2026-06-06 22:00 UTC",
-    "channel": "Server 4",
-    "link": "https://embed.st/embed/echo/brazil-vs-egypt-football-1528287/1"
-  },
-  {
-    "title": "Atlanta Dream vs Washington Mystics",
-    "category": "WNBA",
-    "time": "2026-06-06 22:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/golf/22910/1"
-  },
-  {
-    "title": "Atlanta Dream vs Washington Mystics",
-    "category": "WNBA",
-    "time": "2026-06-06 22:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/delta/live_wnba_atlanta-mystics-live-streaming-1210821966/1"
+    "link": "https://embed.st/embed/admin/ppv-edmonton-elks-vs-ottawa-red-blacks/1"
   },
   {
     "title": "Texas Rangers vs Cleveland Guardians",
@@ -179,7 +123,28 @@
     "category": "NHL",
     "time": "2026-06-07 00:00 UTC",
     "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-carolina-hurricanes-vs-vegas-golden-knights/1"
+  },
+  {
+    "title": "Vegas Golden Knights vs Carolina Hurricanes",
+    "category": "NHL",
+    "time": "2026-06-07 00:00 UTC",
+    "channel": "Server 2",
     "link": "https://embed.st/embed/golf/22912/1"
+  },
+  {
+    "title": "Vegas Golden Knights vs Carolina Hurricanes",
+    "category": "NHL",
+    "time": "2026-06-07 00:00 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/delta/live_nhl-playoffs_golden-knights-hurricanes-live-streaming-1335317346/1"
+  },
+  {
+    "title": "Vegas Golden Knights vs Carolina Hurricanes",
+    "category": "NHL",
+    "time": "2026-06-07 00:00 UTC",
+    "channel": "Server 4",
+    "link": "https://embed.st/embed/echo/vegas-golden-knights-vs-carolina-hurricanes-hockey-425704/1"
   },
   {
     "title": "New York Liberty vs Indiana Fever",
@@ -222,6 +187,13 @@
     "time": "2026-06-07 13:00 UTC",
     "channel": "Server 4",
     "link": "https://embedsports.top/embed/admin/ppv-monaco-grand-prix-race/4"
+  },
+  {
+    "title": "Orlando Storm vs DC Defenders",
+    "category": "NFL",
+    "time": "2026-06-07 19:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-dc-defenders-vs-orlando-storm/1"
   },
   {
     "title": "Toronto Tempo vs Chicago Sky",
