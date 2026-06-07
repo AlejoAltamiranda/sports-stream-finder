@@ -1,33 +1,5 @@
 [
   {
-    "title": "Monaco Grand Prix",
-    "category": "Formula 1",
-    "time": "2026-06-07 13:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embedsports.top/embed/admin/ppv-monaco-grand-prix-race/1"
-  },
-  {
-    "title": "Monaco Grand Prix",
-    "category": "Formula 1",
-    "time": "2026-06-07 13:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embedsports.top/embed/echo/race-circuit-de-monaco-2603-kms-formula-1-2550/1"
-  },
-  {
-    "title": "Monaco Grand Prix",
-    "category": "Formula 1",
-    "time": "2026-06-07 13:00 UTC",
-    "channel": "Server 3",
-    "link": "https://embedsports.top/embed/admin/ppv-monaco-grand-prix-race/3"
-  },
-  {
-    "title": "Monaco Grand Prix",
-    "category": "Formula 1",
-    "time": "2026-06-07 13:00 UTC",
-    "channel": "Server 4",
-    "link": "https://embedsports.top/embed/admin/ppv-monaco-grand-prix-race/4"
-  },
-  {
     "title": "Philadelphia Phillies vs Chicago White Sox",
     "category": "MLB",
     "time": "2026-06-07 17:35 UTC",
@@ -70,13 +42,6 @@
     "link": "https://embed.st/embed/golf/22953/1"
   },
   {
-    "title": "New York Yankees vs Boston Red Sox",
-    "category": "MLB",
-    "time": "2026-06-07 17:35 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/delta/live_mlb_yankees-red-sox-live-streaming-1309855833/1"
-  },
-  {
     "title": "Atlanta Braves vs Pittsburgh Pirates",
     "category": "MLB",
     "time": "2026-06-07 17:35 UTC",
@@ -91,20 +56,6 @@
     "link": "https://embed.st/embed/golf/22955/1"
   },
   {
-    "title": "Atlanta Braves vs Pittsburgh Pirates",
-    "category": "MLB",
-    "time": "2026-06-07 17:35 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/delta/live_mlb_braves-pirates-live-streaming-1309854834/1"
-  },
-  {
-    "title": "Atlanta Braves vs Pittsburgh Pirates",
-    "category": "MLB",
-    "time": "2026-06-07 17:35 UTC",
-    "channel": "Server 4",
-    "link": "https://embed.st/embed/echo/atlanta-braves-vs-pittsburgh-pirates-baseball-178993/1"
-  },
-  {
     "title": "Toronto Blue Jays vs Baltimore Orioles",
     "category": "MLB",
     "time": "2026-06-07 17:37 UTC",
@@ -117,20 +68,6 @@
     "time": "2026-06-07 17:37 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/22956/1"
-  },
-  {
-    "title": "Toronto Blue Jays vs Baltimore Orioles",
-    "category": "MLB",
-    "time": "2026-06-07 17:37 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/delta/live_mlb_blue-jays-orioles-live-streaming-1309857831/1"
-  },
-  {
-    "title": "Toronto Blue Jays vs Baltimore Orioles",
-    "category": "MLB",
-    "time": "2026-06-07 17:37 UTC",
-    "channel": "Server 4",
-    "link": "https://embed.st/embed/echo/toronto-blue-jays-vs-baltimore-orioles-baseball-178981/1"
   },
   {
     "title": "Miami Marlins vs Tampa Bay Rays",
@@ -159,34 +96,6 @@
     "time": "2026-06-07 17:40 UTC",
     "channel": "Server 4",
     "link": "https://embed.st/embed/echo/miami-marlins-vs-tampa-bay-rays-baseball-178988/1"
-  },
-  {
-    "title": "Detroit Tigers vs Seattle Mariners",
-    "category": "MLB",
-    "time": "2026-06-07 17:40 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-seattle-mariners-vs-detroit-tigers/1"
-  },
-  {
-    "title": "Detroit Tigers vs Seattle Mariners",
-    "category": "MLB",
-    "time": "2026-06-07 17:40 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/22957/1"
-  },
-  {
-    "title": "Detroit Tigers vs Seattle Mariners",
-    "category": "MLB",
-    "time": "2026-06-07 17:40 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/delta/live_mlb_tigers-mariners-live-streaming-1309858830/1"
-  },
-  {
-    "title": "Detroit Tigers vs Seattle Mariners",
-    "category": "MLB",
-    "time": "2026-06-07 17:40 UTC",
-    "channel": "Server 4",
-    "link": "https://embed.st/embed/echo/detroit-tigers-vs-seattle-mariners-baseball-178990/1"
   },
   {
     "title": "Kosovo vs Andorra",
