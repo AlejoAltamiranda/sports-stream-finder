@@ -1,26 +1,5 @@
 [
   {
-    "title": "Netherlands vs Uzbekistan",
-    "category": "Soccer",
-    "time": "2026-06-08 18:45 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-netherlands-vs-uzbekistan/1"
-  },
-  {
-    "title": "Netherlands vs Uzbekistan",
-    "category": "Soccer",
-    "time": "2026-06-08 18:45 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23006/1"
-  },
-  {
-    "title": "Netherlands vs Uzbekistan",
-    "category": "Soccer",
-    "time": "2026-06-08 18:45 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/echo/netherlands-vs-uzbekistan-football-1544812/1"
-  },
-  {
     "title": "Baltimore Orioles vs Seattle Mariners",
     "category": "MLB",
     "time": "2026-06-08 22:35 UTC",
@@ -56,6 +35,13 @@
     "link": "https://embed.st/embed/golf/22972/1"
   },
   {
+    "title": "Connecticut Sun vs New York Liberty",
+    "category": "WNBA",
+    "time": "2026-06-08 23:00 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/delta/live_wnba_connecticut-liberty-live-streaming-1210858929/1"
+  },
+  {
     "title": "Washington Mystics vs Indiana Fever",
     "category": "WNBA",
     "time": "2026-06-08 23:00 UTC",
@@ -68,6 +54,13 @@
     "time": "2026-06-08 23:00 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/22973/1"
+  },
+  {
+    "title": "Washington Mystics vs Indiana Fever",
+    "category": "WNBA",
+    "time": "2026-06-08 23:00 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/delta/live_wnba_mystics-fever-live-streaming-1210859928/1"
   },
   {
     "title": "Toronto Blue Jays vs Philadelphia Phillies",
