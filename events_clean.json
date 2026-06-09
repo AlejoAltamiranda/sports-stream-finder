@@ -1,12 +1,5 @@
 [
   {
-    "title": "Azerbaijan vs San Marino",
-    "category": "Soccer",
-    "time": "2026-06-09 18:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-azerbaijan-vs-san-marino/1"
-  },
-  {
     "title": "Baltimore Orioles vs Seattle Mariners",
     "category": "MLB",
     "time": "2026-06-09 22:35 UTC",
@@ -61,6 +54,13 @@
     "time": "2026-06-09 23:00 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/22985/1"
+  },
+  {
+    "title": "Chicago Sky vs Atlanta Dream",
+    "category": "WNBA",
+    "time": "2026-06-09 23:00 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/delta/live_wnba_chicago-atlanta-live-streaming-1210863924/1"
   },
   {
     "title": "Toronto Blue Jays vs Philadelphia Phillies",
