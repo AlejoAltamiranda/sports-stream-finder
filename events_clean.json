@@ -28,39 +28,11 @@
     "link": "https://embed.st/embed/admin/ppv-new-york-liberty-vs-connecticut-sun/1"
   },
   {
-    "title": "Connecticut Sun vs New York Liberty",
-    "category": "WNBA",
-    "time": "2026-06-08 23:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/22972/1"
-  },
-  {
-    "title": "Connecticut Sun vs New York Liberty",
-    "category": "WNBA",
-    "time": "2026-06-08 23:00 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/delta/live_wnba_connecticut-liberty-live-streaming-1210858929/1"
-  },
-  {
     "title": "Washington Mystics vs Indiana Fever",
     "category": "WNBA",
     "time": "2026-06-08 23:00 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/admin/ppv-indiana-fever-vs-washington-mystics/1"
-  },
-  {
-    "title": "Washington Mystics vs Indiana Fever",
-    "category": "WNBA",
-    "time": "2026-06-08 23:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/22973/1"
-  },
-  {
-    "title": "Washington Mystics vs Indiana Fever",
-    "category": "WNBA",
-    "time": "2026-06-08 23:00 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/delta/live_wnba_mystics-fever-live-streaming-1210859928/1"
   },
   {
     "title": "Toronto Blue Jays vs Philadelphia Phillies",
@@ -70,46 +42,53 @@
     "link": "https://embed.st/embed/golf/22995/1"
   },
   {
-    "title": "Los Angeles Angels vs Houston Astros",
-    "category": "MLB",
-    "time": "2026-06-09 01:38 UTC",
+    "title": "New York Knicks vs San Antonio Spurs",
+    "category": "NBA",
+    "time": "2026-06-09 00:30 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-houston-astros-vs-los-angeles-angels/1"
+    "link": "https://embed.st/embed/admin/ppv-san-antonio-spurs-vs-new-york-knicks/1"
+  },
+  {
+    "title": "New York Knicks vs San Antonio Spurs",
+    "category": "NBA",
+    "time": "2026-06-09 00:30 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/22971/1"
+  },
+  {
+    "title": "New York Knicks vs San Antonio Spurs",
+    "category": "NBA",
+    "time": "2026-06-09 00:30 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/delta/live_nba_knicks-spurs-live-streaming-1338401259/1"
+  },
+  {
+    "title": "New York Knicks vs San Antonio Spurs",
+    "category": "NBA",
+    "time": "2026-06-09 00:30 UTC",
+    "channel": "Server 4",
+    "link": "https://embed.st/embed/echo/new-york-knicks-vs-san-antonio-spurs-basketball-500299/1"
   },
   {
     "title": "Los Angeles Angels vs Houston Astros",
     "category": "MLB",
     "time": "2026-06-09 01:38 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/22979/1"
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23000/1"
   },
   {
     "title": "San Diego Padres vs Cincinnati Reds",
     "category": "MLB",
     "time": "2026-06-09 01:40 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-cincinnati-reds-vs-san-diego-padres/1"
-  },
-  {
-    "title": "San Diego Padres vs Cincinnati Reds",
-    "category": "MLB",
-    "time": "2026-06-09 01:40 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/22980/1"
+    "link": "https://embed.st/embed/golf/23001/1"
   },
   {
     "title": "San Francisco Giants vs Washington Nationals",
     "category": "MLB",
     "time": "2026-06-09 01:45 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-washington-nationals-vs-san-francisco-giants/1"
-  },
-  {
-    "title": "San Francisco Giants vs Washington Nationals",
-    "category": "MLB",
-    "time": "2026-06-09 01:45 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/22981/1"
+    "link": "https://embed.st/embed/golf/23002/1"
   },
   {
     "title": "Peru vs Spain",
@@ -133,6 +112,13 @@
     "link": "https://embed.st/embed/delta/live_int-friendly-games_spain-peru-live-streaming-1344986667/1"
   },
   {
+    "title": "Peru vs Spain",
+    "category": "Soccer",
+    "time": "2026-06-09 02:00 UTC",
+    "channel": "Server 4",
+    "link": "https://embed.st/embed/echo/peru-vs-spain-football-1540356/1"
+  },
+  {
     "title": "Las Vegas Aces vs Seattle Storm",
     "category": "WNBA",
     "time": "2026-06-09 02:00 UTC",
@@ -147,18 +133,18 @@
     "link": "https://embed.st/embed/golf/22974/1"
   },
   {
-    "title": "Athletics vs Milwaukee Brewers",
-    "category": "MLB",
-    "time": "2026-06-09 02:05 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-athletics/1"
+    "title": "Las Vegas Aces vs Seattle Storm",
+    "category": "WNBA",
+    "time": "2026-06-09 02:00 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/delta/live_wnba_las-vegas-storm-live-streaming-1210860927/1"
   },
   {
     "title": "Athletics vs Milwaukee Brewers",
     "category": "MLB",
     "time": "2026-06-09 02:05 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/22982/1"
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23003/1"
   },
   {
     "title": "Baltimore Orioles vs Seattle Mariners",
@@ -245,17 +231,24 @@
     "link": "https://embed.st/embed/golf/22988/1"
   },
   {
-    "title": "San Francisco Giants vs Washington Nationals",
-    "category": "MLB",
-    "time": "2026-06-10 01:45 UTC",
+    "title": "Minnesota Lynx vs Dallas Wings",
+    "category": "WNBA",
+    "time": "2026-06-10 00:00 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-washington-nationals-vs-san-francisco-giants/1"
+    "link": "https://embed.st/embed/golf/22986/1"
   },
   {
     "title": "San Francisco Giants vs Washington Nationals",
     "category": "MLB",
     "time": "2026-06-10 01:45 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/22981/1"
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23002/1"
+  },
+  {
+    "title": "Golden State Valkyries vs Phoenix Mercury",
+    "category": "WNBA",
+    "time": "2026-06-10 02:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/22987/1"
   }
 ]
