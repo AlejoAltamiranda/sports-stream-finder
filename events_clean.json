@@ -28,6 +28,13 @@
     "link": "https://embed.st/embed/golf/23041/1"
   },
   {
+    "title": "Cleveland Guardians vs New York Yankees",
+    "category": "MLB",
+    "time": "2026-06-10 17:10 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/delta/live_mlb_guardians-yankees-live-streaming-1327514157/1"
+  },
+  {
     "title": "San Francisco Giants vs Washington Nationals",
     "category": "MLB",
     "time": "2026-06-10 19:45 UTC",
@@ -81,6 +88,13 @@
     "category": "Soccer",
     "time": "2026-06-10 20:00 UTC",
     "channel": "Server 3",
+    "link": "https://embed.st/embed/delta/live_int-friendly-games_england-costa-rica-live-streaming-1345035618/1"
+  },
+  {
+    "title": "England vs Costa Rica",
+    "category": "Soccer",
+    "time": "2026-06-10 20:00 UTC",
+    "channel": "Server 4",
     "link": "https://embed.st/embed/echo/england-vs-costa-rica-football-1525494/1"
   },
   {
