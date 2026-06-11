@@ -1,82 +1,68 @@
 {
-  "scraping_date": "2026-06-11T04:40:10.125888",
-  "total_events": 16,
+  "scraping_date": "2026-06-11T10:48:56.140269",
+  "total_events": 14,
   "events": [
-    {
-      "title": "Seattle Storm vs Los Angeles Sparks",
-      "datetime": "Wednesday, Jun 10, 2026, 10:00 PM ET",
-      "league": "WNBA",
-      "status": "LIVE",
-      "event_url": "https://istreameast.cx/links/seattle-storm-vs-los-angeles-sparks-2449044"
-    },
-    {
-      "title": "Austria vs Guatemala",
-      "datetime": "Thursday, Jun 11, 2026, 12:00 AM ET",
-      "league": "Soccer",
-      "status": "LIVE",
-      "event_url": "https://istreameast.cx/links/austria-vs-guatemala-2467599"
-    },
     {
       "title": "Mexico vs South Africa",
       "datetime": "Thursday, Jun 11, 2026, 3:00 PM ET",
       "league": "Soccer",
-      "status": "14 hours from now",
+      "status": "8 hours from now",
       "event_url": "https://istreameast.cx/links/mexico-vs-south-africa-2391728"
     },
     {
       "title": "Indiana Fever vs Chicago Sky",
       "datetime": "Thursday, Jun 11, 2026, 7:00 PM ET",
       "league": "WNBA",
-      "status": "18 hours from now",
+      "status": "12 hours from now",
       "event_url": "https://istreameast.cx/links/indiana-fever-vs-chicago-sky-2449045"
     },
     {
       "title": "Atlanta Dream vs New York Liberty",
       "datetime": "Thursday, Jun 11, 2026, 7:30 PM ET",
       "league": "WNBA",
-      "status": "18 hours from now",
+      "status": "12 hours from now",
       "event_url": "https://istreameast.cx/links/atlanta-dream-vs-new-york-liberty-2449046"
     },
     {
       "title": "Carolina Hurricanes vs Vegas Golden Knights",
       "datetime": "Thursday, Jun 11, 2026, 8:00 PM ET",
       "league": "NHL",
-      "status": "19 hours from now",
+      "status": "13 hours from now",
       "event_url": "https://istreameast.cx/links/carolina-hurricanes-vs-vegas-golden-knights-2480612"
     },
     {
       "title": "SmackDown #1399",
       "datetime": "Thursday, Jun 11, 2026, 8:00 PM ET",
       "league": "WWE",
-      "status": "19 hours from now",
+      "status": "13 hours from now",
       "event_url": "https://istreameast.cx/links/smackdown-1399-2468413"
     },
     {
       "title": "Winnipeg Blue Bombers vs Hamilton Tiger-Cats",
       "datetime": "Thursday, Jun 11, 2026, 8:30 PM ET",
       "league": "CFL",
-      "status": "19 hours from now",
+      "status": "13 hours from now",
       "event_url": "https://istreameast.cx/links/winnipeg-blue-bombers-vs-hamilton-tiger-cats-2432537"
     },
     {
       "title": "Dallas Wings vs Phoenix Mercury",
       "datetime": "Thursday, Jun 11, 2026, 9:00 PM ET",
       "league": "WNBA",
-      "status": "20 hours from now",
+      "status": "14 hours from now",
       "event_url": "https://istreameast.cx/links/dallas-wings-vs-phoenix-mercury-2449047"
     },
     {
       "title": "South Korea vs Czech Republic",
       "datetime": "Thursday, Jun 11, 2026, 10:00 PM ET",
       "league": "Soccer",
-      "status": "21 hours from now",
+      "status": "15 hours from now",
       "event_url": "https://istreameast.cx/links/south-korea-vs-czech-republic-2461103"
     },
     {
       "title": "Portland Fire vs Las Vegas Aces",
       "datetime": "Thursday, Jun 11, 2026, 10:00 PM ET",
       "league": "WNBA",
-      "status": "21 hours from now",
+      "status": "15 hours from now",
       "event_url": "https://istreameast.cx/links/portland-fire-vs-las-vegas-aces-2469364"
     },
     {
