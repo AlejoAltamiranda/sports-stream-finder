@@ -1,145 +1,124 @@
 {
-  "scraping_date": "2026-06-11T16:14:20.087962",
-  "total_events": 42,
+  "scraping_date": "2026-06-11T20:29:34.172074",
+  "total_events": 39,
   "events": [
-    {
-      "title": "Miami Marlins vs Arizona Diamondbacks",
-      "datetime": "Thursday, Jun 11, 2026, 1:10 PM ET",
-      "league": "MLB",
-      "status": "55 minutes from now",
-      "event_url": "https://istreameast.cx/links/miami-marlins-vs-arizona-diamondbacks-2387898"
-    },
-    {
-      "title": "New York Mets vs St. Louis Cardinals",
-      "datetime": "Thursday, Jun 11, 2026, 1:10 PM ET",
-      "league": "MLB",
-      "status": "55 minutes from now",
-      "event_url": "https://istreameast.cx/links/new-york-mets-vs-st-louis-cardinals-2387900"
-    },
-    {
-      "title": "Detroit Tigers vs Minnesota Twins",
-      "datetime": "Thursday, Jun 11, 2026, 1:10 PM ET",
-      "league": "MLB",
-      "status": "55 minutes from now",
-      "event_url": "https://istreameast.cx/links/detroit-tigers-vs-minnesota-twins-2387901"
-    },
     {
       "title": "Kansas City Royals vs Texas Rangers",
       "datetime": "Thursday, Jun 11, 2026, 2:10 PM ET",
       "league": "MLB",
-      "status": "1 hour from now",
+      "status": "LIVE",
       "event_url": "https://istreameast.cx/links/kansas-city-royals-vs-texas-rangers-2387902"
     },
     {
       "title": "Mexico vs South Africa",
       "datetime": "Thursday, Jun 11, 2026, 3:00 PM ET",
       "league": "Soccer",
-      "status": "2 hours from now",
+      "status": "LIVE",
       "event_url": "https://istreameast.cx/links/mexico-vs-south-africa-2391728"
     },
     {
       "title": "Colorado Rockies vs Chicago Cubs",
       "datetime": "Thursday, Jun 11, 2026, 3:10 PM ET",
       "league": "MLB",
-      "status": "2 hours from now",
+      "status": "LIVE",
       "event_url": "https://istreameast.cx/links/colorado-rockies-vs-chicago-cubs-2387903"
     },
     {
       "title": "Pittsburgh Pirates vs Los Angeles Dodgers",
       "datetime": "Thursday, Jun 11, 2026, 6:40 PM ET",
       "league": "MLB",
-      "status": "6 hours from now",
+      "status": "2 hours from now",
       "event_url": "https://istreameast.cx/links/pittsburgh-pirates-vs-los-angeles-dodgers-2387899"
     },
     {
       "title": "Indiana Fever vs Chicago Sky",
       "datetime": "Thursday, Jun 11, 2026, 7:00 PM ET",
       "league": "WNBA",
-      "status": "6 hours from now",
+      "status": "2 hours from now",
       "event_url": "https://istreameast.cx/links/indiana-fever-vs-chicago-sky-2449045"
     },
     {
       "title": "Baltimore Orioles vs Seattle Mariners",
       "datetime": "Thursday, Jun 11, 2026, 7:05 PM ET",
       "league": "MLB",
-      "status": "6 hours from now",
+      "status": "2 hours from now",
       "event_url": "https://istreameast.cx/links/baltimore-orioles-vs-seattle-mariners-2387905"
     },
     {
       "title": "Atlanta Dream vs New York Liberty",
       "datetime": "Thursday, Jun 11, 2026, 7:30 PM ET",
       "league": "WNBA",
-      "status": "7 hours from now",
+      "status": "3 hours from now",
       "event_url": "https://istreameast.cx/links/atlanta-dream-vs-new-york-liberty-2449046"
     },
     {
       "title": "Chicago White Sox vs Atlanta Braves",
       "datetime": "Thursday, Jun 11, 2026, 7:40 PM ET",
       "league": "MLB",
-      "status": "7 hours from now",
+      "status": "3 hours from now",
       "event_url": "https://istreameast.cx/links/chicago-white-sox-vs-atlanta-braves-2387904"
     },
     {
       "title": "Carolina Hurricanes vs Vegas Golden Knights",
       "datetime": "Thursday, Jun 11, 2026, 8:00 PM ET",
       "league": "NHL",
-      "status": "7 hours from now",
+      "status": "3 hours from now",
       "event_url": "https://istreameast.cx/links/carolina-hurricanes-vs-vegas-golden-knights-2480612"
     },
     {
       "title": "SmackDown #1399",
       "datetime": "Thursday, Jun 11, 2026, 8:00 PM ET",
       "league": "WWE",
-      "status": "7 hours from now",
+      "status": "3 hours from now",
       "event_url": "https://istreameast.cx/links/smackdown-1399-2468413"
     },
     {
       "title": "Winnipeg Blue Bombers vs Hamilton Tiger-Cats",
       "datetime": "Thursday, Jun 11, 2026, 8:30 PM ET",
       "league": "CFL",
-      "status": "8 hours from now",
+      "status": "4 hours from now",
       "event_url": "https://istreameast.cx/links/winnipeg-blue-bombers-vs-hamilton-tiger-cats-2432537"
     },
     {
       "title": "Dallas Wings vs Phoenix Mercury",
       "datetime": "Thursday, Jun 11, 2026, 9:00 PM ET",
       "league": "WNBA",
-      "status": "8 hours from now",
+      "status": "4 hours from now",
       "event_url": "https://istreameast.cx/links/dallas-wings-vs-phoenix-mercury-2449047"
     },
     {
       "title": "South Korea vs Czech Republic",
       "datetime": "Thursday, Jun 11, 2026, 10:00 PM ET",
       "league": "Soccer",
-      "status": "9 hours from now",
+      "status": "5 hours from now",
       "event_url": "https://istreameast.cx/links/south-korea-vs-czech-republic-2461103"
     },
     {
       "title": "Portland Fire vs Las Vegas Aces",
       "datetime": "Thursday, Jun 11, 2026, 10:00 PM ET",
       "league": "WNBA",
-      "status": "9 hours from now",
+      "status": "5 hours from now",
       "event_url": "https://istreameast.cx/links/portland-fire-vs-las-vegas-aces-2469364"
     },
     {
       "title": "Barcelona-Catalunya Grand Prix Practice 1",
       "datetime": "Friday, Jun 12, 2026, 7:30 AM ET",
       "league": "Formula 1",
-      "status": "19 hours from now",
+      "status": "15 hours from now",
       "event_url": "https://istreameast.cx/links/barcelona-catalunya-grand-prix-practice-1-2408147"
     },
     {
       "title": "Barcelona-Catalunya Grand Prix Practice 2",
       "datetime": "Friday, Jun 12, 2026, 11:00 AM ET",
       "league": "Formula 1",
-      "status": "22 hours from now",
+      "status": "18 hours from now",
       "event_url": "https://istreameast.cx/links/barcelona-catalunya-grand-prix-practice-2-2408148"
     },
     {
       "title": "Canada vs Bosnia-Herzegovina",
       "datetime": "Friday, Jun 12, 2026, 3:00 PM ET",
       "league": "Soccer",
-      "status": "1 day from now",
+      "status": "22 hours from now",
       "event_url": "https://istreameast.cx/links/canada-vs-bosnia-herzegovina-2461104"
     },
     {
@@ -258,14 +237,14 @@
       "title": "Tommy Fury vs Eddie Hall",
       "datetime": "Saturday, Jun 13, 2026, 1:00 PM ET",
       "league": "Boxing",
-      "status": "2 days from now",
+      "status": "1 day from now",
       "event_url": "https://istreameast.cx/links/tommy-fury-vs-eddie-hall-2461296"
     },
     {
       "title": "Qatar vs Switzerland",
       "datetime": "Saturday, Jun 13, 2026, 3:00 PM ET",
       "league": "Soccer",
-      "status": "2 days from now",
+      "status": "1 day from now",
       "event_url": "https://istreameast.cx/links/qatar-vs-switzerland-2391732"
     },
     {
