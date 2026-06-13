@@ -1,26 +1,5 @@
 [
   {
-    "title": "Barcelona-Catalunya Grand Prix Qualifying",
-    "category": "Formula 1",
-    "time": "2026-06-13 14:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-barcelona-grand-prix-qualifying/1\""
-  },
-  {
-    "title": "Barcelona-Catalunya Grand Prix Qualifying",
-    "category": "Formula 1",
-    "time": "2026-06-13 14:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/admin/ppv-barcelona-grand-prix-qualifying/2"
-  },
-  {
-    "title": "Barcelona-Catalunya Grand Prix Qualifying",
-    "category": "Formula 1",
-    "time": "2026-06-13 14:00 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/admin/ppv-barcelona-grand-prix-qualifying/3"
-  },
-  {
     "title": "Tommy Fury vs Eddie Hall",
     "category": "Boxing",
     "time": "2026-06-13 17:00 UTC",
@@ -161,6 +140,13 @@
     "link": "https://embed.st/embed/golf/23095/1"
   },
   {
+    "title": "Brazil vs Morocco",
+    "category": "Soccer",
+    "time": "2026-06-13 22:00 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/echo/brazil-vs-morocco-football-1489371/1"
+  },
+  {
     "title": "Connecticut Sun vs Indiana Fever",
     "category": "WNBA",
     "time": "2026-06-13 22:00 UTC",
@@ -236,6 +222,13 @@
     "time": "2026-06-14 00:30 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23122/1"
+  },
+  {
+    "title": "San Antonio Spurs vs New York Knicks",
+    "category": "NBA",
+    "time": "2026-06-14 00:30 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/delta/live_nba_spurs-knicks-live-streaming-1335639024/1"
   },
   {
     "title": "Portland Fire vs Dallas Wings",
