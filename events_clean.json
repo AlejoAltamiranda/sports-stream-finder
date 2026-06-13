@@ -42,27 +42,6 @@
     "link": "https://embed.st/embed/admin/ppv-qatar-vs-switzerland/1"
   },
   {
-    "title": "Qatar vs Switzerland",
-    "category": "Soccer",
-    "time": "2026-06-13 19:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23094/1"
-  },
-  {
-    "title": "Qatar vs Switzerland",
-    "category": "Soccer",
-    "time": "2026-06-13 19:00 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/delta/live_world-championship-gr-b_qatar-switzerland-live-streaming-1243362393/1"
-  },
-  {
-    "title": "Qatar vs Switzerland",
-    "category": "Soccer",
-    "time": "2026-06-13 19:00 UTC",
-    "channel": "Server 4",
-    "link": "https://embed.st/embed/echo/qatar-vs-switzerland-german-spanish-game-2026/1"
-  },
-  {
     "title": "Toronto Blue Jays vs New York Yankees",
     "category": "MLB",
     "time": "2026-06-13 19:07 UTC",
@@ -144,6 +123,13 @@
     "category": "Soccer",
     "time": "2026-06-13 22:00 UTC",
     "channel": "Server 3",
+    "link": "https://embed.st/embed/delta/live_world-championship-gr-c_brazil-morocco-live-streaming-1243363392/1"
+  },
+  {
+    "title": "Brazil vs Morocco",
+    "category": "Soccer",
+    "time": "2026-06-13 22:00 UTC",
+    "channel": "Server 4",
     "link": "https://embed.st/embed/echo/brazil-vs-morocco-football-1489371/1"
   },
   {
@@ -159,6 +145,13 @@
     "time": "2026-06-13 22:00 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23123/1"
+  },
+  {
+    "title": "Connecticut Sun vs Indiana Fever",
+    "category": "WNBA",
+    "time": "2026-06-13 22:00 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/delta/live_wnba_connecticut-fever-live-streaming-1210957830/1"
   },
   {
     "title": "Jesse Rodriguez vs Antonio Vargas",
