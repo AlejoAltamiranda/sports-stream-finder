@@ -39,6 +39,13 @@
     "category": "Boxing",
     "time": "2026-06-13 17:00 UTC",
     "channel": "Server 3",
+    "link": "https://embed.st/embed/delta/live-event_tommy-fury-vs-eddie-the-beast-hall-live-stream/1"
+  },
+  {
+    "title": "Tommy Fury vs Eddie Hall",
+    "category": "Boxing",
+    "time": "2026-06-13 17:00 UTC",
+    "channel": "Server 4",
     "link": "https://embed.st/embed/echo/ppv-event-07-fury-v-hall-ppv-07/1"
   },
   {
@@ -61,6 +68,20 @@
     "time": "2026-06-13 19:00 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23094/1"
+  },
+  {
+    "title": "Qatar vs Switzerland",
+    "category": "Soccer",
+    "time": "2026-06-13 19:00 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/delta/live_world-championship-gr-b_qatar-switzerland-live-streaming-1243362393/1"
+  },
+  {
+    "title": "Qatar vs Switzerland",
+    "category": "Soccer",
+    "time": "2026-06-13 19:00 UTC",
+    "channel": "Server 4",
+    "link": "https://embed.st/embed/echo/qatar-vs-switzerland-german-spanish-game-2026/1"
   },
   {
     "title": "Toronto Blue Jays vs New York Yankees",
