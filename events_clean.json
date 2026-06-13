@@ -49,25 +49,18 @@
     "link": "https://embed.st/embed/admin/ppv-tommy-fury-vs-eddie-hall/1"
   },
   {
+    "title": "Tommy Fury vs Eddie Hall",
+    "category": "Boxing",
+    "time": "2026-06-13 17:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23176/1"
+  },
+  {
     "title": "Minnesota Twins vs St. Louis Cardinals",
     "category": "MLB",
     "time": "2026-06-13 18:10 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-minnesota-twins/1"
-  },
-  {
-    "title": "Minnesota Twins vs St. Louis Cardinals",
-    "category": "MLB",
-    "time": "2026-06-13 18:10 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23129/1"
-  },
-  {
-    "title": "Minnesota Twins vs St. Louis Cardinals",
-    "category": "MLB",
-    "time": "2026-06-13 18:10 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/echo/minnesota-twins-vs-stlouis-cardinals-baseball-179061/1"
+    "link": "https://embed.st/embed/golf/23165/1"
   },
   {
     "title": "Qatar vs Switzerland",
@@ -88,84 +81,28 @@
     "category": "MLB",
     "time": "2026-06-13 19:07 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-new-york-yankees-vs-toronto-blue-jays/1"
-  },
-  {
-    "title": "Toronto Blue Jays vs New York Yankees",
-    "category": "MLB",
-    "time": "2026-06-13 19:07 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23130/1"
-  },
-  {
-    "title": "Toronto Blue Jays vs New York Yankees",
-    "category": "MLB",
-    "time": "2026-06-13 19:07 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/echo/toronto-blue-jays-vs-new-york-yankees-baseball-179057/1"
+    "link": "https://embed.st/embed/golf/23158/1"
   },
   {
     "title": "Washington Nationals vs Seattle Mariners",
     "category": "MLB",
     "time": "2026-06-13 20:05 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-seattle-mariners-vs-washington-nationals/1"
-  },
-  {
-    "title": "Washington Nationals vs Seattle Mariners",
-    "category": "MLB",
-    "time": "2026-06-13 20:05 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23133/1"
-  },
-  {
-    "title": "Washington Nationals vs Seattle Mariners",
-    "category": "MLB",
-    "time": "2026-06-13 20:05 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/echo/washington-nationals-vs-seattle-mariners-baseball-179056/1"
+    "link": "https://embed.st/embed/golf/23157/1"
   },
   {
     "title": "Pittsburgh Pirates vs Miami Marlins",
     "category": "MLB",
     "time": "2026-06-13 20:05 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-miami-marlins-vs-pittsburgh-pirates/1"
-  },
-  {
-    "title": "Pittsburgh Pirates vs Miami Marlins",
-    "category": "MLB",
-    "time": "2026-06-13 20:05 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23131/1"
-  },
-  {
-    "title": "Pittsburgh Pirates vs Miami Marlins",
-    "category": "MLB",
-    "time": "2026-06-13 20:05 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/echo/pittsburgh-pirates-vs-miami-marlins-baseball-179059/1"
+    "link": "https://embed.st/embed/golf/23155/1"
   },
   {
     "title": "Baltimore Orioles vs San Diego Padres",
     "category": "MLB",
     "time": "2026-06-13 20:05 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-san-diego-padres-vs-baltimore-orioles/1"
-  },
-  {
-    "title": "Baltimore Orioles vs San Diego Padres",
-    "category": "MLB",
-    "time": "2026-06-13 20:05 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23132/1"
-  },
-  {
-    "title": "Baltimore Orioles vs San Diego Padres",
-    "category": "MLB",
-    "time": "2026-06-13 20:05 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/echo/baltimore-orioles-vs-san-diego-padres-baseball-179068/1"
+    "link": "https://embed.st/embed/golf/23156/1"
   },
   {
     "title": "Brazil vs Morocco",
@@ -201,6 +138,13 @@
     "time": "2026-06-13 23:00 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/admin/ppv-bam-rodriguez-vs-antonio-vargas/1"
+  },
+  {
+    "title": "Jesse Rodriguez vs Antonio Vargas",
+    "category": "Boxing",
+    "time": "2026-06-13 23:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23179/1"
   },
   {
     "title": "Saskatchewan Roughriders vs BC Lions",
@@ -313,6 +257,20 @@
     "time": "2026-06-14 17:00 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/admin/ppv-germany-vs-cura-ao/1"
+  },
+  {
+    "title": "New York Liberty vs Washington Mystics",
+    "category": "WNBA",
+    "time": "2026-06-14 19:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23152/1"
+  },
+  {
+    "title": "Toronto Tempo vs Atlanta Dream",
+    "category": "WNBA",
+    "time": "2026-06-14 19:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23153/1"
   },
   {
     "title": "Netherlands vs Japan",
