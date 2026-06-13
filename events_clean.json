@@ -1,47 +1,5 @@
 [
   {
-    "title": "Los Angeles Angels vs Tampa Bay Rays",
-    "category": "MLB",
-    "time": "2026-06-13 01:38 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-los-angeles-angels/1"
-  },
-  {
-    "title": "Los Angeles Angels vs Tampa Bay Rays",
-    "category": "MLB",
-    "time": "2026-06-13 01:38 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23143/1"
-  },
-  {
-    "title": "Athletics vs Colorado Rockies",
-    "category": "MLB",
-    "time": "2026-06-13 02:05 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-colorado-rockies-vs-athletics/1"
-  },
-  {
-    "title": "Athletics vs Colorado Rockies",
-    "category": "MLB",
-    "time": "2026-06-13 02:05 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23142/1"
-  },
-  {
-    "title": "San Francisco Giants vs Chicago Cubs",
-    "category": "MLB",
-    "time": "2026-06-13 02:15 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-chicago-cubs-vs-san-francisco-giants/1"
-  },
-  {
-    "title": "San Francisco Giants vs Chicago Cubs",
-    "category": "MLB",
-    "time": "2026-06-13 02:15 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23141/1"
-  },
-  {
     "title": "Barcelona-Catalunya Grand Prix Practice 3",
     "category": "Formula 1",
     "time": "2026-06-13 10:30 UTC",
@@ -84,6 +42,13 @@
     "link": "https://embed.st/embed/admin/ppv-barcelona-grand-prix-qualifying/3"
   },
   {
+    "title": "Tommy Fury vs Eddie Hall",
+    "category": "Boxing",
+    "time": "2026-06-13 17:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-tommy-fury-vs-eddie-hall/1"
+  },
+  {
     "title": "Minnesota Twins vs St. Louis Cardinals",
     "category": "MLB",
     "time": "2026-06-13 18:10 UTC",
@@ -96,6 +61,13 @@
     "time": "2026-06-13 18:10 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23129/1"
+  },
+  {
+    "title": "Minnesota Twins vs St. Louis Cardinals",
+    "category": "MLB",
+    "time": "2026-06-13 18:10 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/echo/minnesota-twins-vs-stlouis-cardinals-baseball-179061/1"
   },
   {
     "title": "Qatar vs Switzerland",
@@ -126,6 +98,13 @@
     "link": "https://embed.st/embed/golf/23130/1"
   },
   {
+    "title": "Toronto Blue Jays vs New York Yankees",
+    "category": "MLB",
+    "time": "2026-06-13 19:07 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/echo/toronto-blue-jays-vs-new-york-yankees-baseball-179057/1"
+  },
+  {
     "title": "Washington Nationals vs Seattle Mariners",
     "category": "MLB",
     "time": "2026-06-13 20:05 UTC",
@@ -138,6 +117,13 @@
     "time": "2026-06-13 20:05 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23133/1"
+  },
+  {
+    "title": "Washington Nationals vs Seattle Mariners",
+    "category": "MLB",
+    "time": "2026-06-13 20:05 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/echo/washington-nationals-vs-seattle-mariners-baseball-179056/1"
   },
   {
     "title": "Pittsburgh Pirates vs Miami Marlins",
@@ -154,6 +140,13 @@
     "link": "https://embed.st/embed/golf/23131/1"
   },
   {
+    "title": "Pittsburgh Pirates vs Miami Marlins",
+    "category": "MLB",
+    "time": "2026-06-13 20:05 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/echo/pittsburgh-pirates-vs-miami-marlins-baseball-179059/1"
+  },
+  {
     "title": "Baltimore Orioles vs San Diego Padres",
     "category": "MLB",
     "time": "2026-06-13 20:05 UTC",
@@ -166,6 +159,13 @@
     "time": "2026-06-13 20:05 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23132/1"
+  },
+  {
+    "title": "Baltimore Orioles vs San Diego Padres",
+    "category": "MLB",
+    "time": "2026-06-13 20:05 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/echo/baltimore-orioles-vs-san-diego-padres-baseball-179068/1"
   },
   {
     "title": "Brazil vs Morocco",
@@ -194,6 +194,13 @@
     "time": "2026-06-13 22:00 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23123/1"
+  },
+  {
+    "title": "Jesse Rodriguez vs Antonio Vargas",
+    "category": "Boxing",
+    "time": "2026-06-13 23:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-bam-rodriguez-vs-antonio-vargas/1"
   },
   {
     "title": "Saskatchewan Roughriders vs BC Lions",
@@ -299,5 +306,26 @@
     "time": "2026-06-14 13:00 UTC",
     "channel": "Server 4",
     "link": "https://embedsports.top/embed/admin/ppv-monaco-grand-prix-race/4"
+  },
+  {
+    "title": "Germany vs Curaçao",
+    "category": "Soccer",
+    "time": "2026-06-14 17:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-germany-vs-cura-ao/1"
+  },
+  {
+    "title": "Netherlands vs Japan",
+    "category": "Soccer",
+    "time": "2026-06-14 20:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-netherlands-vs-japan/1"
+  },
+  {
+    "title": "Ivory Coast vs Ecuador",
+    "category": "Soccer",
+    "time": "2026-06-14 23:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-ivory-coast-vs-ecuador/1"
   }
 ]
