@@ -1,68 +1,5 @@
 [
   {
-    "title": "San Francisco Giants vs Chicago Cubs",
-    "category": "MLB",
-    "time": "2026-06-14 02:05 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-chicago-cubs-vs-san-francisco-giants/1"
-  },
-  {
-    "title": "San Francisco Giants vs Chicago Cubs",
-    "category": "MLB",
-    "time": "2026-06-14 02:05 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23167/1"
-  },
-  {
-    "title": "Athletics vs Colorado Rockies",
-    "category": "MLB",
-    "time": "2026-06-14 02:05 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-colorado-rockies-vs-athletics/1"
-  },
-  {
-    "title": "Athletics vs Colorado Rockies",
-    "category": "MLB",
-    "time": "2026-06-14 02:05 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23166/1"
-  },
-  {
-    "title": "Los Angeles Angels vs Tampa Bay Rays",
-    "category": "MLB",
-    "time": "2026-06-14 02:07 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-los-angeles-angels/1"
-  },
-  {
-    "title": "Los Angeles Angels vs Tampa Bay Rays",
-    "category": "MLB",
-    "time": "2026-06-14 02:07 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23168/1"
-  },
-  {
-    "title": "Australia vs Turkey",
-    "category": "Soccer",
-    "time": "2026-06-14 04:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-australia-vs-t-rkiye/1"
-  },
-  {
-    "title": "Australia vs Turkey",
-    "category": "Soccer",
-    "time": "2026-06-14 04:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/admin/ppv-australia-vs-t-rkiye/3"
-  },
-  {
-    "title": "Australia vs Turkey",
-    "category": "Soccer",
-    "time": "2026-06-14 04:00 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/admin/ppv-australia-vs-t-rkiye/2"
-  },
-  {
     "title": "Barcelona-Catalunya Grand Prix",
     "category": "Formula 1",
     "time": "2026-06-14 13:00 UTC",
@@ -110,6 +47,13 @@
     "time": "2026-06-14 17:00 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/admin/ppv-germany-vs-cura-ao/1"
+  },
+  {
+    "title": "Germany vs Curaçao",
+    "category": "Soccer",
+    "time": "2026-06-14 17:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23115/1"
   },
   {
     "title": "Washington Nationals vs Seattle Mariners",
@@ -203,11 +147,25 @@
     "link": "https://embed.st/embed/admin/ppv-netherlands-vs-japan/1"
   },
   {
+    "title": "Netherlands vs Japan",
+    "category": "Soccer",
+    "time": "2026-06-14 20:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23116/1"
+  },
+  {
     "title": "Ivory Coast vs Ecuador",
     "category": "Soccer",
     "time": "2026-06-14 23:00 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/admin/ppv-ivory-coast-vs-ecuador/1"
+  },
+  {
+    "title": "Ivory Coast vs Ecuador",
+    "category": "Soccer",
+    "time": "2026-06-14 23:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23117/1"
   },
   {
     "title": "Vegas Golden Knights vs Carolina Hurricanes",
@@ -231,10 +189,73 @@
     "link": "https://embed.st/embed/admin/ppv-ufc-freedom-250-topuria-vs-gaethje/1"
   },
   {
+    "title": "UFC Freedom 250 Topuria vs Gaethje",
+    "category": "UFC",
+    "time": "2026-06-15 00:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23198/1"
+  },
+  {
+    "title": "Jonathan Gonzalez vs Abraham Perez",
+    "category": "Boxing",
+    "time": "2026-06-15 00:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23200/1"
+  },
+  {
     "title": "Sweden vs Tunisia",
     "category": "Soccer",
     "time": "2026-06-15 02:00 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/admin/ppv-sweden-vs-tunisia/1"
+  },
+  {
+    "title": "Sweden vs Tunisia",
+    "category": "Soccer",
+    "time": "2026-06-15 02:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23118/1"
+  },
+  {
+    "title": "Spain vs Cape Verde",
+    "category": "Soccer",
+    "time": "2026-06-15 16:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-spain-vs-cape-verde/1"
+  },
+  {
+    "title": "Spain vs Cape Verde",
+    "category": "Soccer",
+    "time": "2026-06-15 16:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23144/1"
+  },
+  {
+    "title": "Belgium vs Egypt",
+    "category": "Soccer",
+    "time": "2026-06-15 19:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-belgium-vs-egypt/1"
+  },
+  {
+    "title": "Belgium vs Egypt",
+    "category": "Soccer",
+    "time": "2026-06-15 19:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23145/1"
+  },
+  {
+    "title": "Saudi Arabia vs Uruguay",
+    "category": "Soccer",
+    "time": "2026-06-15 22:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-saudi-arabia-vs-uruguay/1"
+  },
+  {
+    "title": "Saudi Arabia vs Uruguay",
+    "category": "Soccer",
+    "time": "2026-06-15 22:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23146/1"
   }
 ]
