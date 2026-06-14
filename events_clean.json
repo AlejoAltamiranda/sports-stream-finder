@@ -1,61 +1,5 @@
 [
   {
-    "title": "Barcelona-Catalunya Grand Prix",
-    "category": "Formula 1",
-    "time": "2026-06-14 13:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-barcelona-grand-prix-race/1"
-  },
-  {
-    "title": "Barcelona-Catalunya Grand Prix",
-    "category": "Formula 1",
-    "time": "2026-06-14 13:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/admin/ppv-barcelona-grand-prix-race/2"
-  },
-  {
-    "title": "Barcelona-Catalunya Grand Prix",
-    "category": "Formula 1",
-    "time": "2026-06-14 13:00 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/admin/ppv-barcelona-grand-prix-race/3"
-  },
-  {
-    "title": "Barcelona-Catalunya Grand Prix",
-    "category": "Formula 1",
-    "time": "2026-06-14 13:00 UTC",
-    "channel": "Server 4",
-    "link": "https://embed.st/embed/admin/ppv-barcelona-grand-prix-race/4"
-  },
-  {
-    "title": "Pittsburgh Pirates vs Miami Marlins",
-    "category": "MLB",
-    "time": "2026-06-14 16:15 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-miami-marlins-vs-pittsburgh-pirates/1"
-  },
-  {
-    "title": "Pittsburgh Pirates vs Miami Marlins",
-    "category": "MLB",
-    "time": "2026-06-14 16:15 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23155/1"
-  },
-  {
-    "title": "Pittsburgh Pirates vs Miami Marlins",
-    "category": "MLB",
-    "time": "2026-06-14 16:15 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/delta/live_mlb_pirates-marlins-live-streaming-1328056614/1"
-  },
-  {
-    "title": "Pittsburgh Pirates vs Miami Marlins",
-    "category": "MLB",
-    "time": "2026-06-14 16:15 UTC",
-    "channel": "Server 4",
-    "link": "https://embed.st/embed/echo/pittsburgh-pirates-vs-miami-marlins-baseball-179074/1"
-  },
-  {
     "title": "Germany vs Curaçao",
     "category": "Soccer",
     "time": "2026-06-14 17:00 UTC",
@@ -96,20 +40,6 @@
     "time": "2026-06-14 17:35 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23157/1"
-  },
-  {
-    "title": "Washington Nationals vs Seattle Mariners",
-    "category": "MLB",
-    "time": "2026-06-14 17:35 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/delta/live_mlb_nationals-mariners-live-streaming-1328058612/1"
-  },
-  {
-    "title": "Washington Nationals vs Seattle Mariners",
-    "category": "MLB",
-    "time": "2026-06-14 17:35 UTC",
-    "channel": "Server 4",
-    "link": "https://embed.st/embed/echo/washington-nationals-vs-seattle-mariners-baseball-179072/1"
   },
   {
     "title": "Baltimore Orioles vs San Diego Padres",
@@ -490,6 +420,13 @@
     "link": "https://embed.st/embed/golf/23168/1"
   },
   {
+    "title": "Los Angeles Angels vs Tampa Bay Rays",
+    "category": "MLB",
+    "time": "2026-06-14 20:07 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/delta/live_mlb_angels-rays-live-streaming-1328069601/1"
+  },
+  {
     "title": "Ivory Coast vs Ecuador",
     "category": "Soccer",
     "time": "2026-06-14 23:00 UTC",
@@ -502,6 +439,13 @@
     "time": "2026-06-14 23:00 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23117/1"
+  },
+  {
+    "title": "Ivory Coast vs Ecuador",
+    "category": "Soccer",
+    "time": "2026-06-14 23:00 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/echo/ivory-coast-vs-ecuador-football-1489375/1"
   },
   {
     "title": "Boston Red Sox vs Texas Rangers",
