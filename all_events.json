@@ -1,117 +1,187 @@
 {
-  "scraping_date": "2026-06-14T09:46:50.046352",
-  "total_events": 19,
+  "scraping_date": "2026-06-14T14:18:32.267912",
+  "total_events": 42,
   "events": [
     {
       "title": "Barcelona-Catalunya Grand Prix",
       "datetime": "Sunday, Jun 14, 2026, 9:00 AM ET",
       "league": "Formula 1",
-      "status": "3 hours from now",
+      "status": "LIVE",
       "event_url": "https://istreameast.cx/links/barcelona-catalunya-grand-prix-2408151"
     },
     {
       "title": "Pittsburgh Pirates vs Miami Marlins",
       "datetime": "Sunday, Jun 14, 2026, 12:15 PM ET",
       "league": "MLB",
-      "status": "6 hours from now",
+      "status": "1 hour from now",
       "event_url": "https://istreameast.cx/links/pittsburgh-pirates-vs-miami-marlins-2387939"
     },
     {
       "title": "Germany vs Curaçao",
       "datetime": "Sunday, Jun 14, 2026, 1:00 PM ET",
       "league": "Soccer",
-      "status": "7 hours from now",
+      "status": "2 hours from now",
       "event_url": "https://istreameast.cx/links/germany-vs-curacao-2391733"
     },
     {
       "title": "Washington Nationals vs Seattle Mariners",
       "datetime": "Sunday, Jun 14, 2026, 1:35 PM ET",
       "league": "MLB",
-      "status": "7 hours from now",
+      "status": "3 hours from now",
       "event_url": "https://istreameast.cx/links/washington-nationals-vs-seattle-mariners-2387937"
     },
     {
       "title": "Baltimore Orioles vs San Diego Padres",
       "datetime": "Sunday, Jun 14, 2026, 1:35 PM ET",
       "league": "MLB",
-      "status": "7 hours from now",
+      "status": "3 hours from now",
       "event_url": "https://istreameast.cx/links/baltimore-orioles-vs-san-diego-padres-2387950"
     },
     {
       "title": "Toronto Blue Jays vs New York Yankees",
       "datetime": "Sunday, Jun 14, 2026, 1:37 PM ET",
       "league": "MLB",
-      "status": "7 hours from now",
+      "status": "3 hours from now",
       "event_url": "https://istreameast.cx/links/toronto-blue-jays-vs-new-york-yankees-2387938"
     },
     {
       "title": "New York Mets vs Atlanta Braves",
       "datetime": "Sunday, Jun 14, 2026, 1:40 PM ET",
       "league": "MLB",
-      "status": "7 hours from now",
+      "status": "3 hours from now",
       "event_url": "https://istreameast.cx/links/new-york-mets-vs-atlanta-braves-2387940"
+    },
+    {
+      "title": "Cleveland Guardians vs Detroit Tigers",
+      "datetime": "Sunday, Jun 14, 2026, 1:40 PM ET",
+      "league": "MLB",
+      "status": "3 hours from now",
+      "event_url": "https://istreameast.cx/links/cleveland-guardians-vs-detroit-tigers-2387945"
+    },
+    {
+      "title": "Cincinnati Reds vs Arizona Diamondbacks",
+      "datetime": "Sunday, Jun 14, 2026, 1:40 PM ET",
+      "league": "MLB",
+      "status": "3 hours from now",
+      "event_url": "https://istreameast.cx/links/cincinnati-reds-vs-arizona-diamondbacks-2387946"
+    },
+    {
+      "title": "Milwaukee Brewers vs Philadelphia Phillies",
+      "datetime": "Sunday, Jun 14, 2026, 2:10 PM ET",
+      "league": "MLB",
+      "status": "3 hours from now",
+      "event_url": "https://istreameast.cx/links/milwaukee-brewers-vs-philadelphia-phillies-2387936"
+    },
+    {
+      "title": "Minnesota Twins vs St. Louis Cardinals",
+      "datetime": "Sunday, Jun 14, 2026, 2:10 PM ET",
+      "league": "MLB",
+      "status": "3 hours from now",
+      "event_url": "https://istreameast.cx/links/minnesota-twins-vs-st-louis-cardinals-2387941"
+    },
+    {
+      "title": "Kansas City Royals vs Houston Astros",
+      "datetime": "Sunday, Jun 14, 2026, 2:10 PM ET",
+      "league": "MLB",
+      "status": "3 hours from now",
+      "event_url": "https://istreameast.cx/links/kansas-city-royals-vs-houston-astros-2387944"
+    },
+    {
+      "title": "Chicago White Sox vs Los Angeles Dodgers",
+      "datetime": "Sunday, Jun 14, 2026, 2:10 PM ET",
+      "league": "MLB",
+      "status": "3 hours from now",
+      "event_url": "https://istreameast.cx/links/chicago-white-sox-vs-los-angeles-dodgers-2387947"
     },
     {
       "title": "New York Liberty vs Washington Mystics",
       "datetime": "Sunday, Jun 14, 2026, 3:00 PM ET",
       "league": "WNBA",
-      "status": "9 hours from now",
+      "status": "4 hours from now",
       "event_url": "https://istreameast.cx/links/new-york-liberty-vs-washington-mystics-2449052"
     },
     {
       "title": "Toronto Tempo vs Atlanta Dream",
       "datetime": "Sunday, Jun 14, 2026, 3:00 PM ET",
       "league": "WNBA",
-      "status": "9 hours from now",
+      "status": "4 hours from now",
       "event_url": "https://istreameast.cx/links/toronto-tempo-vs-atlanta-dream-2449308"
+    },
+    {
+      "title": "Athletics vs Colorado Rockies",
+      "datetime": "Sunday, Jun 14, 2026, 3:05 PM ET",
+      "league": "MLB",
+      "status": "4 hours from now",
+      "event_url": "https://istreameast.cx/links/athletics-vs-colorado-rockies-2387948"
+    },
+    {
+      "title": "San Francisco Giants vs Chicago Cubs",
+      "datetime": "Sunday, Jun 14, 2026, 3:10 PM ET",
+      "league": "MLB",
+      "status": "4 hours from now",
+      "event_url": "https://istreameast.cx/links/san-francisco-giants-vs-chicago-cubs-2387942"
     },
     {
       "title": "Netherlands vs Japan",
       "datetime": "Sunday, Jun 14, 2026, 4:00 PM ET",
       "league": "Soccer",
-      "status": "10 hours from now",
+      "status": "5 hours from now",
       "event_url": "https://istreameast.cx/links/netherlands-vs-japan-2391735"
+    },
+    {
+      "title": "Los Angeles Angels vs Tampa Bay Rays",
+      "datetime": "Sunday, Jun 14, 2026, 4:07 PM ET",
+      "league": "MLB",
+      "status": "5 hours from now",
+      "event_url": "https://istreameast.cx/links/los-angeles-angels-vs-tampa-bay-rays-2387943"
     },
     {
       "title": "Ivory Coast vs Ecuador",
       "datetime": "Sunday, Jun 14, 2026, 7:00 PM ET",
       "league": "Soccer",
-      "status": "13 hours from now",
+      "status": "8 hours from now",
       "event_url": "https://istreameast.cx/links/ivory-coast-vs-ecuador-2391734"
+    },
+    {
+      "title": "Boston Red Sox vs Texas Rangers",
+      "datetime": "Sunday, Jun 14, 2026, 7:20 PM ET",
+      "league": "MLB",
+      "status": "9 hours from now",
+      "event_url": "https://istreameast.cx/links/boston-red-sox-vs-texas-rangers-2387949"
     },
     {
       "title": "Vegas Golden Knights vs Carolina Hurricanes",
       "datetime": "Sunday, Jun 14, 2026, 8:00 PM ET",
       "league": "NHL",
-      "status": "14 hours from now",
+      "status": "9 hours from now",
       "event_url": "https://istreameast.cx/links/vegas-golden-knights-vs-carolina-hurricanes-2483554"
     },
     {
       "title": "UFC Freedom 250 Topuria vs Gaethje",
       "datetime": "Sunday, Jun 14, 2026, 8:00 PM ET",
       "league": "UFC",
-      "status": "14 hours from now",
+      "status": "9 hours from now",
       "event_url": "https://istreameast.cx/links/ufc-freedom-250-topuria-vs-gaethje-2391891"
     },
     {
       "title": "Jonathan Gonzalez vs Abraham Perez",
       "datetime": "Sunday, Jun 14, 2026, 8:00 PM ET",
       "league": "Boxing",
-      "status": "14 hours from now",
+      "status": "9 hours from now",
       "event_url": "https://istreameast.cx/links/jonathan-gonzalez-vs-abraham-perez-2483960"
     },
     {
       "title": "RAW #1725",
       "datetime": "Sunday, Jun 14, 2026, 8:00 PM ET",
       "league": "WWE",
-      "status": "14 hours from now",
+      "status": "9 hours from now",
       "event_url": "https://istreameast.cx/links/raw-1725-2468412"
     },
     {
       "title": "Sweden vs Tunisia",
       "datetime": "Sunday, Jun 14, 2026, 10:00 PM ET",
       "league": "Soccer",
-      "status": "16 hours from now",
+      "status": "11 hours from now",
       "event_url": "https://istreameast.cx/links/sweden-vs-tunisia-2461106"
     },
     {
@@ -134,6 +204,97 @@
       "league": "Soccer",
       "status": "1 day from now",
       "event_url": "https://istreameast.cx/links/saudi-arabia-vs-uruguay-2391738"
+    },
+    {
+      "title": "Philadelphia Phillies vs Miami Marlins",
+      "datetime": "Monday, Jun 15, 2026, 6:40 PM ET",
+      "league": "MLB",
+      "status": "1 day from now",
+      "event_url": "https://istreameast.cx/links/philadelphia-phillies-vs-miami-marlins-2387954"
+    },
+    {
+      "title": "Washington Nationals vs Kansas City Royals",
+      "datetime": "Monday, Jun 15, 2026, 6:45 PM ET",
+      "league": "MLB",
+      "status": "1 day from now",
+      "event_url": "https://istreameast.cx/links/washington-nationals-vs-kansas-city-royals-2387951"
+    },
+    {
+      "title": "Cincinnati Reds vs New York Mets",
+      "datetime": "Monday, Jun 15, 2026, 7:10 PM ET",
+      "league": "MLB",
+      "status": "1 day from now",
+      "event_url": "https://istreameast.cx/links/cincinnati-reds-vs-new-york-mets-2387957"
+    },
+    {
+      "title": "St. Louis Cardinals vs San Diego Padres",
+      "datetime": "Monday, Jun 15, 2026, 7:45 PM ET",
+      "league": "MLB",
+      "status": "1 day from now",
+      "event_url": "https://istreameast.cx/links/st-louis-cardinals-vs-san-diego-padres-2387953"
+    },
+    {
+      "title": "Dallas Wings vs Las Vegas Aces",
+      "datetime": "Monday, Jun 15, 2026, 8:00 PM ET",
+      "league": "WNBA",
+      "status": "1 day from now",
+      "event_url": "https://istreameast.cx/links/dallas-wings-vs-las-vegas-aces-2449053"
+    },
+    {
+      "title": "Minnesota Lynx vs Portland Fire",
+      "datetime": "Monday, Jun 15, 2026, 8:00 PM ET",
+      "league": "WNBA",
+      "status": "1 day from now",
+      "event_url": "https://istreameast.cx/links/minnesota-lynx-vs-portland-fire-2469366"
+    },
+    {
+      "title": "NXT #842",
+      "datetime": "Monday, Jun 15, 2026, 8:00 PM ET",
+      "league": "WWE",
+      "status": "1 day from now",
+      "event_url": "https://istreameast.cx/links/nxt-842-2490765"
+    },
+    {
+      "title": "Texas Rangers vs Minnesota Twins",
+      "datetime": "Monday, Jun 15, 2026, 8:05 PM ET",
+      "league": "MLB",
+      "status": "1 day from now",
+      "event_url": "https://istreameast.cx/links/texas-rangers-vs-minnesota-twins-2387952"
+    },
+    {
+      "title": "Iran vs New Zealand",
+      "datetime": "Monday, Jun 15, 2026, 9:00 PM ET",
+      "league": "Soccer",
+      "status": "1 day from now",
+      "event_url": "https://istreameast.cx/links/iran-vs-new-zealand-2391737"
+    },
+    {
+      "title": "Golden State Valkyries vs Los Angeles Sparks",
+      "datetime": "Monday, Jun 15, 2026, 10:00 PM ET",
+      "league": "WNBA",
+      "status": "1 day from now",
+      "event_url": "https://istreameast.cx/links/golden-state-valkyries-vs-los-angeles-sparks-2449054"
+    },
+    {
+      "title": "France vs Senegal",
+      "datetime": "Tuesday, Jun 16, 2026, 3:00 PM ET",
+      "league": "Soccer",
+      "status": "2 days from now",
+      "event_url": "https://istreameast.cx/links/france-vs-senegal-2391742"
+    },
+    {
+      "title": "Iraq vs Norway",
+      "datetime": "Tuesday, Jun 16, 2026, 6:00 PM ET",
+      "league": "Soccer",
+      "status": "2 days from now",
+      "event_url": "https://istreameast.cx/links/iraq-vs-norway-2461107"
+    },
+    {
+      "title": "Indiana Fever vs Toronto Tempo",
+      "datetime": "Tuesday, Jun 16, 2026, 7:00 PM ET",
+      "league": "WNBA",
+      "status": "2 days from now",
+      "event_url": "https://istreameast.cx/links/indiana-fever-vs-toronto-tempo-2449309"
     }
   ]
 }
