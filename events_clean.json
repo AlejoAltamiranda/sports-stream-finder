@@ -1,33 +1,5 @@
 [
   {
-    "title": "Spain vs Cape Verde",
-    "category": "Soccer",
-    "time": "2026-06-15 16:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-spain-vs-cape-verde/1"
-  },
-  {
-    "title": "Spain vs Cape Verde",
-    "category": "Soccer",
-    "time": "2026-06-15 16:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23144/1"
-  },
-  {
-    "title": "Spain vs Cape Verde",
-    "category": "Soccer",
-    "time": "2026-06-15 16:00 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/delta/live_world-championship-gr-h_spain-cabo-verde-live-streaming-1243554201/1"
-  },
-  {
-    "title": "Spain vs Cape Verde",
-    "category": "Soccer",
-    "time": "2026-06-15 16:00 UTC",
-    "channel": "Server 4",
-    "link": "https://embed.st/embed/echo/spain-vs-cape-verde-islands-football-1489380/1"
-  },
-  {
     "title": "Belgium vs Egypt",
     "category": "Soccer",
     "time": "2026-06-15 19:00 UTC",
@@ -46,6 +18,13 @@
     "category": "Soccer",
     "time": "2026-06-15 19:00 UTC",
     "channel": "Server 3",
+    "link": "https://embed.st/embed/delta/live_world-championship-gr-g_belgium-egypt-live-streaming-1243552203/1"
+  },
+  {
+    "title": "Belgium vs Egypt",
+    "category": "Soccer",
+    "time": "2026-06-15 19:00 UTC",
+    "channel": "Server 4",
     "link": "https://embed.st/embed/echo/belgium-vs-egypt-football-1489377/1"
   },
   {
@@ -182,6 +161,13 @@
     "link": "https://embed.st/embed/golf/23147/1"
   },
   {
+    "title": "Iran vs New Zealand",
+    "category": "Soccer",
+    "time": "2026-06-16 01:00 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/delta/live_world-championship-gr-g_iran-new-zealand-live-streaming-1243553202/1"
+  },
+  {
     "title": "Athletics vs Pittsburgh Pirates",
     "category": "MLB",
     "time": "2026-06-16 01:40 UTC",
@@ -245,11 +231,25 @@
     "link": "https://embed.st/embed/admin/ppv-france-vs-senegal/1"
   },
   {
+    "title": "France vs Senegal",
+    "category": "Soccer",
+    "time": "2026-06-16 19:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23170/1"
+  },
+  {
     "title": "Iraq vs Norway",
     "category": "Soccer",
     "time": "2026-06-16 22:00 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/admin/ppv-iraq-vs-norway/1"
+  },
+  {
+    "title": "Iraq vs Norway",
+    "category": "Soccer",
+    "time": "2026-06-16 22:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23171/1"
   },
   {
     "title": "Philadelphia Phillies vs Miami Marlins",
