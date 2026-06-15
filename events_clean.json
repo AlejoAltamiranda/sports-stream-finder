@@ -7,41 +7,6 @@
     "link": "https://embed.st/embed/admin/ppv-seattle-mariners-vs-washington-nationals/1"
   },
   {
-    "title": "Baltimore Orioles vs San Diego Padres",
-    "category": "MLB",
-    "time": "2026-06-14 17:35 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-san-diego-padres-vs-baltimore-orioles/1"
-  },
-  {
-    "title": "Toronto Blue Jays vs New York Yankees",
-    "category": "MLB",
-    "time": "2026-06-14 17:37 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-new-york-yankees-vs-toronto-blue-jays/1"
-  },
-  {
-    "title": "New York Mets vs Atlanta Braves",
-    "category": "MLB",
-    "time": "2026-06-14 17:40 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-atlanta-braves-vs-new-york-mets/1"
-  },
-  {
-    "title": "Cleveland Guardians vs Detroit Tigers",
-    "category": "MLB",
-    "time": "2026-06-14 17:40 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-detroit-tigers-vs-cleveland-guardians/1"
-  },
-  {
-    "title": "Cincinnati Reds vs Arizona Diamondbacks",
-    "category": "MLB",
-    "time": "2026-06-14 17:40 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-arizona-diamondbacks-vs-cincinnati-reds/1"
-  },
-  {
     "title": "Milwaukee Brewers vs Philadelphia Phillies",
     "category": "MLB",
     "time": "2026-06-14 18:10 UTC",
@@ -56,32 +21,11 @@
     "link": "https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-minnesota-twins/1"
   },
   {
-    "title": "Kansas City Royals vs Houston Astros",
-    "category": "MLB",
-    "time": "2026-06-14 18:10 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-houston-astros-vs-kansas-city-royals/1"
-  },
-  {
     "title": "Chicago White Sox vs Los Angeles Dodgers",
     "category": "MLB",
     "time": "2026-06-14 18:10 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/admin/ppv-los-angeles-dodgers-vs-chicago-white-sox/1"
-  },
-  {
-    "title": "Athletics vs Colorado Rockies",
-    "category": "MLB",
-    "time": "2026-06-14 19:05 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-colorado-rockies-vs-athletics/1"
-  },
-  {
-    "title": "Athletics vs Colorado Rockies",
-    "category": "MLB",
-    "time": "2026-06-14 19:05 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23166/1"
   },
   {
     "title": "San Francisco Giants vs Chicago Cubs",
@@ -91,88 +35,18 @@
     "link": "https://embed.st/embed/admin/ppv-chicago-cubs-vs-san-francisco-giants/1"
   },
   {
-    "title": "San Francisco Giants vs Chicago Cubs",
-    "category": "MLB",
-    "time": "2026-06-14 19:10 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23167/1"
-  },
-  {
-    "title": "Netherlands vs Japan",
-    "category": "Soccer",
-    "time": "2026-06-14 20:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/echo/netherlands-vs-japan-dutch-spanish-wc26-1/1"
-  },
-  {
-    "title": "Los Angeles Angels vs Tampa Bay Rays",
-    "category": "MLB",
-    "time": "2026-06-14 20:07 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-los-angeles-angels/1"
-  },
-  {
-    "title": "Los Angeles Angels vs Tampa Bay Rays",
-    "category": "MLB",
-    "time": "2026-06-14 20:07 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23168/1"
-  },
-  {
-    "title": "Los Angeles Angels vs Tampa Bay Rays",
-    "category": "MLB",
-    "time": "2026-06-14 20:07 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/delta/live_mlb_angels-rays-live-streaming-1328069601/1"
-  },
-  {
-    "title": "Los Angeles Angels vs Tampa Bay Rays",
-    "category": "MLB",
-    "time": "2026-06-14 20:07 UTC",
-    "channel": "Server 4",
-    "link": "https://embed.st/embed/echo/los-angeles-angels-vs-tampa-bay-rays-baseball-179078/1"
-  },
-  {
-    "title": "Ivory Coast vs Ecuador",
-    "category": "Soccer",
-    "time": "2026-06-14 23:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-ivory-coast-vs-ecuador/1"
-  },
-  {
-    "title": "Ivory Coast vs Ecuador",
-    "category": "Soccer",
-    "time": "2026-06-14 23:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23117/1"
-  },
-  {
-    "title": "Ivory Coast vs Ecuador",
-    "category": "Soccer",
-    "time": "2026-06-14 23:00 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/echo/ivory-coast-vs-ecuador-football-1489375/1"
-  },
-  {
     "title": "Boston Red Sox vs Texas Rangers",
     "category": "MLB",
     "time": "2026-06-14 23:20 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-texas-rangers-vs-boston-red-sox/1"
-  },
-  {
-    "title": "Boston Red Sox vs Texas Rangers",
-    "category": "MLB",
-    "time": "2026-06-14 23:20 UTC",
-    "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23169/1"
   },
   {
     "title": "Boston Red Sox vs Texas Rangers",
     "category": "MLB",
     "time": "2026-06-14 23:20 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/delta/live_mlb_red-sox-rangers-live-streaming-1328070600/1"
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/echo/boston-red-sox-vs-texas-rangers-baseball-179084/1"
   },
   {
     "title": "Vegas Golden Knights vs Carolina Hurricanes",
@@ -180,13 +54,6 @@
     "time": "2026-06-15 00:00 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/admin/ppv-carolina-hurricanes-vs-vegas-golden-knights/1"
-  },
-  {
-    "title": "Vegas Golden Knights vs Carolina Hurricanes",
-    "category": "NHL",
-    "time": "2026-06-15 00:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23154/1"
   },
   {
     "title": "UFC Freedom 250 Topuria vs Gaethje",
@@ -217,20 +84,6 @@
     "link": "https://embed.st/embed/echo/ppv-event-01-ufc-freedom-250-prelims-ppv-01/1"
   },
   {
-    "title": "Jonathan Gonzalez vs Abraham Perez",
-    "category": "Boxing",
-    "time": "2026-06-15 00:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/golf/23200/1"
-  },
-  {
-    "title": "Jonathan Gonzalez vs Abraham Perez",
-    "category": "Boxing",
-    "time": "2026-06-15 00:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/delta/live-event_gonzalez-vs-perez-live-stream/1"
-  },
-  {
     "title": "Sweden vs Tunisia",
     "category": "Soccer",
     "time": "2026-06-15 02:00 UTC",
@@ -243,6 +96,20 @@
     "time": "2026-06-15 02:00 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23118/1"
+  },
+  {
+    "title": "Sweden vs Tunisia",
+    "category": "Soccer",
+    "time": "2026-06-15 02:00 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/delta/live_world-championship-gr-f_sweden-tunisia-live-streaming-1243481274/1"
+  },
+  {
+    "title": "Sweden vs Tunisia",
+    "category": "Soccer",
+    "time": "2026-06-15 02:00 UTC",
+    "channel": "Server 4",
+    "link": "https://embed.st/embed/echo/sweden-vs-tunisia-football-1539002/1"
   },
   {
     "title": "Spain vs Cape Verde",
@@ -329,17 +196,17 @@
     "link": "https://embed.st/embed/golf/23181/1"
   },
   {
-    "title": "Iran vs New Zealand",
-    "category": "Soccer",
-    "time": "2026-06-16 01:00 UTC",
+    "title": "Texas Rangers vs Minnesota Twins",
+    "category": "MLB",
+    "time": "2026-06-16 00:05 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-iran-vs-new-zealand/1"
+    "link": "https://embed.st/embed/golf/23188/1"
   },
   {
     "title": "Iran vs New Zealand",
     "category": "Soccer",
     "time": "2026-06-16 01:00 UTC",
-    "channel": "Server 2",
+    "channel": "Main Server",
     "link": "https://embed.st/embed/golf/23147/1"
   },
   {
