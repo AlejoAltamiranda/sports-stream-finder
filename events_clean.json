@@ -1,19 +1,5 @@
 [
   {
-    "title": "Los Angeles Dodgers vs Tampa Bay Rays",
-    "category": "MLB",
-    "time": "2026-06-17 02:10 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-los-angeles-dodgers/1"
-  },
-  {
-    "title": "Los Angeles Dodgers vs Tampa Bay Rays",
-    "category": "MLB",
-    "time": "2026-06-17 02:10 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23233/1"
-  },
-  {
     "title": "Cincinnati Reds vs New York Mets",
     "category": "MLB",
     "time": "2026-06-17 16:40 UTC",
@@ -110,6 +96,13 @@
     "time": "2026-06-17 20:00 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23195/1"
+  },
+  {
+    "title": "England vs Croatia",
+    "category": "Soccer",
+    "time": "2026-06-17 20:00 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/echo/england-vs-croatia-football-1489384/1"
   },
   {
     "title": "Ghana vs Panama",
