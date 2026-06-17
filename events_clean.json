@@ -1,61 +1,5 @@
 [
   {
-    "title": "France vs Senegal",
-    "category": "Soccer",
-    "time": "2026-06-16 19:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-france-vs-senegal/1"
-  },
-  {
-    "title": "France vs Senegal",
-    "category": "Soccer",
-    "time": "2026-06-16 19:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23170/1"
-  },
-  {
-    "title": "France vs Senegal",
-    "category": "Soccer",
-    "time": "2026-06-16 19:00 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/delta/live_world-championship-gr-i_france-senegal-live-streaming-1243570185/1"
-  },
-  {
-    "title": "France vs Senegal",
-    "category": "Soccer",
-    "time": "2026-06-16 19:00 UTC",
-    "channel": "Server 4",
-    "link": "https://embed.st/embed/echo/france-vs-senegal-football-1489383/1"
-  },
-  {
-    "title": "Iraq vs Norway",
-    "category": "Soccer",
-    "time": "2026-06-16 22:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-iraq-vs-norway/1"
-  },
-  {
-    "title": "Iraq vs Norway",
-    "category": "Soccer",
-    "time": "2026-06-16 22:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23171/1"
-  },
-  {
-    "title": "Iraq vs Norway",
-    "category": "Soccer",
-    "time": "2026-06-16 22:00 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/delta/live_world-championship-gr-i_iraq-norway-live-streaming-1243571184/1"
-  },
-  {
-    "title": "Iraq vs Norway",
-    "category": "Soccer",
-    "time": "2026-06-16 22:00 UTC",
-    "channel": "Server 4",
-    "link": "https://embed.st/embed/echo/iraq-vs-norway-football-1539016/1"
-  },
-  {
     "title": "Philadelphia Phillies vs Miami Marlins",
     "category": "MLB",
     "time": "2026-06-16 22:40 UTC",
@@ -75,20 +19,6 @@
     "time": "2026-06-16 22:45 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/golf/23235/1"
-  },
-  {
-    "title": "Indiana Fever vs Toronto Tempo",
-    "category": "WNBA",
-    "time": "2026-06-16 23:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-toronto-tempo-vs-indiana-fever/1"
-  },
-  {
-    "title": "Indiana Fever vs Toronto Tempo",
-    "category": "WNBA",
-    "time": "2026-06-16 23:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23201/1"
   },
   {
     "title": "New York Yankees vs Chicago White Sox",
@@ -140,18 +70,25 @@
     "link": "https://embed.st/embed/golf/23211/1"
   },
   {
-    "title": "Chicago Cubs vs Colorado Rockies",
+    "title": "Texas Rangers vs Minnesota Twins",
     "category": "MLB",
     "time": "2026-06-17 00:05 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-colorado-rockies-vs-chicago-cubs/1"
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/delta/live_mlb_rangers-twins-live-streaming-1328205465/1"
+  },
+  {
+    "title": "Texas Rangers vs Minnesota Twins",
+    "category": "MLB",
+    "time": "2026-06-17 00:05 UTC",
+    "channel": "Server 4",
+    "link": "https://embed.st/embed/echo/texas-rangers-vs-minnesota-twins-baseball-179098/1"
   },
   {
     "title": "Chicago Cubs vs Colorado Rockies",
     "category": "MLB",
     "time": "2026-06-17 00:05 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23210/1"
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23239/1"
   },
   {
     "title": "Houston Astros vs Detroit Tigers",
@@ -175,18 +112,25 @@
     "link": "https://embed.st/embed/golf/23172/1"
   },
   {
-    "title": "Seattle Mariners vs Baltimore Orioles",
-    "category": "MLB",
-    "time": "2026-06-17 01:40 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-baltimore-orioles-vs-seattle-mariners/1"
+    "title": "Argentina vs Algeria",
+    "category": "Soccer",
+    "time": "2026-06-17 01:00 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/delta/live_world-championship-gr-j_argentina-algeria-live-streaming-1243572183/1"
+  },
+  {
+    "title": "Argentina vs Algeria",
+    "category": "Soccer",
+    "time": "2026-06-17 01:00 UTC",
+    "channel": "Server 4",
+    "link": "https://embed.st/embed/echo/argentina-vs-algeria-football-1489381/1"
   },
   {
     "title": "Seattle Mariners vs Baltimore Orioles",
     "category": "MLB",
     "time": "2026-06-17 01:40 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23214/1"
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23240/1"
   },
   {
     "title": "Arizona Diamondbacks vs Los Angeles Angels",
@@ -200,14 +144,7 @@
     "category": "MLB",
     "time": "2026-06-17 01:40 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-pittsburgh-pirates-vs-athletics/1"
-  },
-  {
-    "title": "Athletics vs Pittsburgh Pirates",
-    "category": "MLB",
-    "time": "2026-06-17 01:40 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23215/1"
+    "link": "https://embed.st/embed/golf/23241/1"
   },
   {
     "title": "Los Angeles Dodgers vs Tampa Bay Rays",
@@ -236,6 +173,13 @@
     "time": "2026-06-17 04:00 UTC",
     "channel": "Server 3",
     "link": "https://embed.st/embed/delta/live_world-championship-gr-j_austria-jordan-live-streaming-1243564191/1"
+  },
+  {
+    "title": "Austria vs Jordan",
+    "category": "Soccer",
+    "time": "2026-06-17 04:00 UTC",
+    "channel": "Server 4",
+    "link": "https://embed.st/embed/echo/austria-vs-jordan-football-1489382/1"
   },
   {
     "title": "Cincinnati Reds vs New York Mets",
@@ -322,6 +266,13 @@
     "link": "https://embed.st/embed/golf/23222/1"
   },
   {
+    "title": "Chicago Sky vs New York Liberty",
+    "category": "WNBA",
+    "time": "2026-06-18 00:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23223/1"
+  },
+  {
     "title": "Uzbekistan vs Colombia",
     "category": "Soccer",
     "time": "2026-06-18 02:00 UTC",
@@ -334,5 +285,47 @@
     "time": "2026-06-18 02:00 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23197/1"
+  },
+  {
+    "title": "Phoenix Mercury vs Las Vegas Aces",
+    "category": "WNBA",
+    "time": "2026-06-18 02:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23226/1"
+  },
+  {
+    "title": "Los Angeles Sparks vs Minnesota Lynx",
+    "category": "WNBA",
+    "time": "2026-06-18 02:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23225/1"
+  },
+  {
+    "title": "Golden State Valkyries vs Dallas Wings",
+    "category": "WNBA",
+    "time": "2026-06-18 02:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23224/1"
+  },
+  {
+    "title": "Portland Fire vs Seattle Storm",
+    "category": "WNBA",
+    "time": "2026-06-18 02:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23227/1"
+  },
+  {
+    "title": "Switzerland vs Bosnia-Herzegovina",
+    "category": "Soccer",
+    "time": "2026-06-18 19:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23218/1"
+  },
+  {
+    "title": "Canada vs Qatar",
+    "category": "Soccer",
+    "time": "2026-06-18 22:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23219/1"
   }
 ]
