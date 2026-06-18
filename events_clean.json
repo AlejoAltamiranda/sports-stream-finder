@@ -18,6 +18,13 @@
     "category": "MLB",
     "time": "2026-06-18 17:35 UTC",
     "channel": "Server 3",
+    "link": "https://embed.st/embed/delta/live_mlb_red-sox-blue-jays-live-streaming-1328410260/1"
+  },
+  {
+    "title": "Boston Red Sox vs Toronto Blue Jays",
+    "category": "MLB",
+    "time": "2026-06-18 17:35 UTC",
+    "channel": "Server 4",
     "link": "https://embed.st/embed/echo/boston-red-sox-vs-toronto-blue-jays-baseball-179131/1"
   },
   {
@@ -33,6 +40,13 @@
     "time": "2026-06-18 18:10 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23248/1"
+  },
+  {
+    "title": "Milwaukee Brewers vs Cleveland Guardians",
+    "category": "MLB",
+    "time": "2026-06-18 18:10 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/delta/live_mlb_brewers-guardians-live-streaming-1328411259/1"
   },
   {
     "title": "Texas Rangers vs Minnesota Twins",
@@ -53,6 +67,13 @@
     "category": "MLB",
     "time": "2026-06-18 18:35 UTC",
     "channel": "Server 3",
+    "link": "https://embed.st/embed/delta/live_mlb_rangers-twins-live-streaming-1328412258/1"
+  },
+  {
+    "title": "Texas Rangers vs Minnesota Twins",
+    "category": "MLB",
+    "time": "2026-06-18 18:35 UTC",
+    "channel": "Server 4",
     "link": "https://embed.st/embed/echo/texas-rangers-vs-minnesota-twins-baseball-179126/1"
   },
   {
@@ -74,6 +95,13 @@
     "category": "Soccer",
     "time": "2026-06-18 19:00 UTC",
     "channel": "Server 3",
+    "link": "https://embed.st/embed/delta/live_world-championship-gr-b_switzerland-bih-live-streaming-1243604151/1"
+  },
+  {
+    "title": "Switzerland vs Bosnia-Herzegovina",
+    "category": "Soccer",
+    "time": "2026-06-18 19:00 UTC",
+    "channel": "Server 4",
     "link": "https://embed.st/embed/echo/switzerland-vs-bosnia-herzegovina-football-1539005/1"
   },
   {
@@ -95,6 +123,13 @@
     "category": "MLB",
     "time": "2026-06-18 20:10 UTC",
     "channel": "Server 3",
+    "link": "https://embed.st/embed/delta/live_mlb_mariners-orioles-live-streaming-1328413257/1"
+  },
+  {
+    "title": "Seattle Mariners vs Baltimore Orioles",
+    "category": "MLB",
+    "time": "2026-06-18 20:10 UTC",
+    "channel": "Server 4",
     "link": "https://embed.st/embed/echo/seattle-mariners-vs-baltimore-orioles-baseball-179127/1"
   },
   {
@@ -299,6 +334,13 @@
     "time": "2026-06-20 00:30 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/admin/ppv-brazil-vs-haiti/1"
+  },
+  {
+    "title": "Brazil vs Haiti",
+    "category": "Soccer",
+    "time": "2026-06-20 00:30 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23244/1"
   },
   {
     "title": "Athletics vs Los Angeles Angels",
