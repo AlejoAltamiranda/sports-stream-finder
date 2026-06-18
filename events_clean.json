@@ -14,6 +14,13 @@
     "link": "https://embed.st/embed/golf/23247/1"
   },
   {
+    "title": "Boston Red Sox vs Toronto Blue Jays",
+    "category": "MLB",
+    "time": "2026-06-18 17:35 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/echo/boston-red-sox-vs-toronto-blue-jays-baseball-179131/1"
+  },
+  {
     "title": "Milwaukee Brewers vs Cleveland Guardians",
     "category": "MLB",
     "time": "2026-06-18 18:10 UTC",
@@ -42,6 +49,13 @@
     "link": "https://embed.st/embed/golf/23249/1"
   },
   {
+    "title": "Texas Rangers vs Minnesota Twins",
+    "category": "MLB",
+    "time": "2026-06-18 18:35 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/echo/texas-rangers-vs-minnesota-twins-baseball-179126/1"
+  },
+  {
     "title": "Switzerland vs Bosnia-Herzegovina",
     "category": "Soccer",
     "time": "2026-06-18 19:00 UTC",
@@ -54,6 +68,13 @@
     "time": "2026-06-18 19:00 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23218/1"
+  },
+  {
+    "title": "Switzerland vs Bosnia-Herzegovina",
+    "category": "Soccer",
+    "time": "2026-06-18 19:00 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/echo/switzerland-vs-bosnia-herzegovina-football-1539005/1"
   },
   {
     "title": "Seattle Mariners vs Baltimore Orioles",
@@ -70,6 +91,13 @@
     "link": "https://embed.st/embed/golf/23250/1"
   },
   {
+    "title": "Seattle Mariners vs Baltimore Orioles",
+    "category": "MLB",
+    "time": "2026-06-18 20:10 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/echo/seattle-mariners-vs-baltimore-orioles-baseball-179127/1"
+  },
+  {
     "title": "Canada vs Qatar",
     "category": "Soccer",
     "time": "2026-06-18 22:00 UTC",
@@ -82,6 +110,13 @@
     "time": "2026-06-18 22:00 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23219/1"
+  },
+  {
+    "title": "Canada vs Qatar",
+    "category": "Soccer",
+    "time": "2026-06-18 22:00 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/echo/canada-vs-qatar-football-1489387/1"
   },
   {
     "title": "Philadelphia Phillies vs New York Mets",
@@ -98,11 +133,60 @@
     "link": "https://embed.st/embed/golf/23251/1"
   },
   {
+    "title": "Philadelphia Phillies vs New York Mets",
+    "category": "MLB",
+    "time": "2026-06-18 22:40 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/echo/philadelphia-phillies-vs-new-york-mets-baseball-179125/1"
+  },
+  {
+    "title": "New York Yankees vs Chicago White Sox",
+    "category": "MLB",
+    "time": "2026-06-18 23:05 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-chicago-white-sox-vs-new-york-yankees/1"
+  },
+  {
+    "title": "New York Yankees vs Chicago White Sox",
+    "category": "MLB",
+    "time": "2026-06-18 23:05 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23252/1"
+  },
+  {
+    "title": "Atlanta Braves vs San Francisco Giants",
+    "category": "MLB",
+    "time": "2026-06-18 23:15 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-san-francisco-giants-vs-atlanta-braves/1"
+  },
+  {
+    "title": "Atlanta Braves vs San Francisco Giants",
+    "category": "MLB",
+    "time": "2026-06-18 23:15 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23253/1"
+  },
+  {
     "title": "Indiana Fever vs Atlanta Dream",
     "category": "WNBA",
     "time": "2026-06-18 23:30 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/admin/ppv-atlanta-dream-vs-indiana-fever/1"
+  },
+  {
+    "title": "Kansas City Royals vs St. Louis Cardinals",
+    "category": "MLB",
+    "time": "2026-06-18 23:40 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-kansas-city-royals/1"
+  },
+  {
+    "title": "Kansas City Royals vs St. Louis Cardinals",
+    "category": "MLB",
+    "time": "2026-06-18 23:40 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23254/1"
   },
   {
     "title": "Mexico vs South Korea",
@@ -119,6 +203,27 @@
     "link": "https://embed.st/embed/golf/23220/1"
   },
   {
+    "title": "Athletics vs Los Angeles Angels",
+    "category": "MLB",
+    "time": "2026-06-19 01:40 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-los-angeles-angels-vs-athletics/1"
+  },
+  {
+    "title": "Athletics vs Los Angeles Angels",
+    "category": "MLB",
+    "time": "2026-06-19 01:40 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23255/1"
+  },
+  {
+    "title": "Chicago Cubs vs Toronto Blue Jays",
+    "category": "MLB",
+    "time": "2026-06-19 18:20 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23259/1"
+  },
+  {
     "title": "USA vs Australia",
     "category": "Soccer",
     "time": "2026-06-19 19:00 UTC",
@@ -133,10 +238,108 @@
     "link": "https://embed.st/embed/admin/ppv-scotland-vs-morocco/1"
   },
   {
+    "title": "Detroit Tigers vs Chicago White Sox",
+    "category": "MLB",
+    "time": "2026-06-19 22:40 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23260/1"
+  },
+  {
+    "title": "New York Yankees vs Cincinnati Reds",
+    "category": "MLB",
+    "time": "2026-06-19 23:05 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23261/1"
+  },
+  {
+    "title": "Tampa Bay Rays vs Washington Nationals",
+    "category": "MLB",
+    "time": "2026-06-19 23:10 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23263/1"
+  },
+  {
+    "title": "Miami Marlins vs San Francisco Giants",
+    "category": "MLB",
+    "time": "2026-06-19 23:10 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23262/1"
+  },
+  {
+    "title": "Atlanta Braves vs Milwaukee Brewers",
+    "category": "MLB",
+    "time": "2026-06-19 23:15 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23264/1"
+  },
+  {
     "title": "Hamilton Tiger-Cats vs BC Lions",
     "category": "CFL",
     "time": "2026-06-19 23:30 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/admin/ppv-bc-lions-vs-hamilton-tiger-cats/1"
+  },
+  {
+    "title": "Kansas City Royals vs St. Louis Cardinals",
+    "category": "MLB",
+    "time": "2026-06-20 00:15 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-kansas-city-royals/1"
+  },
+  {
+    "title": "Kansas City Royals vs St. Louis Cardinals",
+    "category": "MLB",
+    "time": "2026-06-20 00:15 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23254/1"
+  },
+  {
+    "title": "Brazil vs Haiti",
+    "category": "Soccer",
+    "time": "2026-06-20 00:30 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-brazil-vs-haiti/1"
+  },
+  {
+    "title": "Athletics vs Los Angeles Angels",
+    "category": "MLB",
+    "time": "2026-06-20 01:40 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-los-angeles-angels-vs-athletics/1"
+  },
+  {
+    "title": "Athletics vs Los Angeles Angels",
+    "category": "MLB",
+    "time": "2026-06-20 01:40 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23255/1"
+  },
+  {
+    "title": "Atlanta Dream vs Indiana Fever",
+    "category": "WNBA",
+    "time": "2026-06-20 17:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-atlanta-dream-vs-indiana-fever/1"
+  },
+  {
+    "title": "Ottawa Redblacks vs Toronto Argonauts",
+    "category": "CFL",
+    "time": "2026-06-20 17:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-toronto-argonauts-vs-ottawa-red-blacks/1"
+  },
+  {
+    "title": "Edmonton Elks vs Montreal Alouettes",
+    "category": "CFL",
+    "time": "2026-06-20 20:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-montreal-alouettes-vs-edmonton-elks/1"
+  },
+  {
+    "title": "Calgary Stampeders vs Saskatchewan Roughriders",
+    "category": "CFL",
+    "time": "2026-06-20 23:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-saskatchewan-roughriders-vs-calgary-stampeders/1"
   }
 ]
