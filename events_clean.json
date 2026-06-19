@@ -1,100 +1,23 @@
 [
   {
-    "title": "Seattle Mariners vs Baltimore Orioles",
-    "category": "MLB",
-    "time": "2026-06-18 20:10 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-baltimore-orioles-vs-seattle-mariners/1"
-  },
-  {
-    "title": "Seattle Mariners vs Baltimore Orioles",
-    "category": "MLB",
-    "time": "2026-06-18 20:10 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23250/1"
-  },
-  {
-    "title": "Canada vs Qatar",
-    "category": "Soccer",
-    "time": "2026-06-18 22:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-canada-vs-qatar/1"
-  },
-  {
-    "title": "Canada vs Qatar",
-    "category": "Soccer",
-    "time": "2026-06-18 22:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23219/1"
-  },
-  {
-    "title": "Canada vs Qatar",
-    "category": "Soccer",
-    "time": "2026-06-18 22:00 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/delta/live_world-championship-gr-b_canada-qatar-live-streaming-1243605150/1"
-  },
-  {
-    "title": "Canada vs Qatar",
-    "category": "Soccer",
-    "time": "2026-06-18 22:00 UTC",
-    "channel": "Server 4",
-    "link": "https://embed.st/embed/echo/canada-vs-qatar-football-1489387/1"
-  },
-  {
     "title": "Philadelphia Phillies vs New York Mets",
     "category": "MLB",
     "time": "2026-06-18 22:40 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-new-york-mets-vs-philadelphia-phillies/1"
-  },
-  {
-    "title": "Philadelphia Phillies vs New York Mets",
-    "category": "MLB",
-    "time": "2026-06-18 22:40 UTC",
-    "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23251/1"
   },
   {
     "title": "Philadelphia Phillies vs New York Mets",
     "category": "MLB",
     "time": "2026-06-18 22:40 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/delta/live_mlb_phillies-mets-live-streaming-1328414256/1"
-  },
-  {
-    "title": "Philadelphia Phillies vs New York Mets",
-    "category": "MLB",
-    "time": "2026-06-18 22:40 UTC",
-    "channel": "Server 4",
+    "channel": "Server 2",
     "link": "https://embed.st/embed/echo/philadelphia-phillies-vs-new-york-mets-baseball-179125/1"
   },
   {
-    "title": "New York Yankees vs Chicago White Sox",
-    "category": "MLB",
-    "time": "2026-06-18 23:05 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-chicago-white-sox-vs-new-york-yankees/1"
-  },
-  {
-    "title": "New York Yankees vs Chicago White Sox",
-    "category": "MLB",
-    "time": "2026-06-18 23:05 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23252/1"
-  },
-  {
     "title": "Atlanta Braves vs San Francisco Giants",
     "category": "MLB",
     "time": "2026-06-18 23:15 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-san-francisco-giants-vs-atlanta-braves/1"
-  },
-  {
-    "title": "Atlanta Braves vs San Francisco Giants",
-    "category": "MLB",
-    "time": "2026-06-18 23:15 UTC",
-    "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23253/1"
   },
   {
@@ -109,21 +32,7 @@
     "category": "MLB",
     "time": "2026-06-18 23:40 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-kansas-city-royals/1"
-  },
-  {
-    "title": "Kansas City Royals vs St. Louis Cardinals",
-    "category": "MLB",
-    "time": "2026-06-18 23:40 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23254/1"
-  },
-  {
-    "title": "Kansas City Royals vs St. Louis Cardinals",
-    "category": "MLB",
-    "time": "2026-06-18 23:40 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/delta/live_mlb_royals-cardinals-live-streaming-1328417253/1"
+    "link": "https://embed.st/embed/golf/23267/1"
   },
   {
     "title": "Mexico vs South Korea",
@@ -140,18 +49,25 @@
     "link": "https://embed.st/embed/golf/23220/1"
   },
   {
-    "title": "Athletics vs Los Angeles Angels",
-    "category": "MLB",
-    "time": "2026-06-19 01:40 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-los-angeles-angels-vs-athletics/1"
+    "title": "Mexico vs South Korea",
+    "category": "Soccer",
+    "time": "2026-06-19 01:00 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/delta/live_world-championship-gr-a_mexico-south-korea-live-streaming-1243603152/1"
+  },
+  {
+    "title": "Mexico vs South Korea",
+    "category": "Soccer",
+    "time": "2026-06-19 01:00 UTC",
+    "channel": "Server 4",
+    "link": "https://embed.st/embed/echo/mexico-vs-south-korea-football-1489388/1"
   },
   {
     "title": "Athletics vs Los Angeles Angels",
     "category": "MLB",
     "time": "2026-06-19 01:40 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23255/1"
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23269/1"
   },
   {
     "title": "Chicago Cubs vs Toronto Blue Jays",
@@ -231,32 +147,25 @@
     "link": "https://embed.st/embed/admin/ppv-bc-lions-vs-hamilton-tiger-cats/1"
   },
   {
+    "title": "Texas Rangers vs San Diego Padres",
+    "category": "MLB",
+    "time": "2026-06-20 00:05 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23265/1"
+  },
+  {
+    "title": "Houston Astros vs Cleveland Guardians",
+    "category": "MLB",
+    "time": "2026-06-20 00:10 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23266/1"
+  },
+  {
     "title": "Kansas City Royals vs St. Louis Cardinals",
     "category": "MLB",
     "time": "2026-06-20 00:15 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-kansas-city-royals/1"
-  },
-  {
-    "title": "Kansas City Royals vs St. Louis Cardinals",
-    "category": "MLB",
-    "time": "2026-06-20 00:15 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23254/1"
-  },
-  {
-    "title": "Kansas City Royals vs St. Louis Cardinals",
-    "category": "MLB",
-    "time": "2026-06-20 00:15 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/delta/live_mlb_royals-cardinals-live-streaming-1328417253/1"
-  },
-  {
-    "title": "Kansas City Royals vs St. Louis Cardinals",
-    "category": "MLB",
-    "time": "2026-06-20 00:15 UTC",
-    "channel": "Server 4",
-    "link": "https://embed.st/embed/echo/kansas-city-royals-vs-stlouis-cardinals-baseball-179130/1"
+    "link": "https://embed.st/embed/golf/23267/1"
   },
   {
     "title": "Brazil vs Haiti",
@@ -273,39 +182,25 @@
     "link": "https://embed.st/embed/golf/23244/1"
   },
   {
+    "title": "Colorado Rockies vs Pittsburgh Pirates",
+    "category": "MLB",
+    "time": "2026-06-20 00:40 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23268/1"
+  },
+  {
     "title": "Athletics vs Los Angeles Angels",
     "category": "MLB",
     "time": "2026-06-20 01:40 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-los-angeles-angels-vs-athletics/1"
+    "link": "https://embed.st/embed/golf/23269/1"
   },
   {
-    "title": "Athletics vs Los Angeles Angels",
-    "category": "MLB",
-    "time": "2026-06-20 01:40 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23255/1"
-  },
-  {
-    "title": "Athletics vs Los Angeles Angels",
-    "category": "MLB",
-    "time": "2026-06-20 01:40 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/echo/athletics-vs-los-angeles-angels-baseball-179133/1"
-  },
-  {
-    "title": "Atlanta Dream vs Indiana Fever",
-    "category": "WNBA",
+    "title": "Netherlands vs Sweden",
+    "category": "Soccer",
     "time": "2026-06-20 17:00 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-atlanta-dream-vs-indiana-fever/1"
-  },
-  {
-    "title": "Atlanta Dream vs Indiana Fever",
-    "category": "WNBA",
-    "time": "2026-06-20 17:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/delta/live_wnba_fever-atlanta-live-streaming-1211024763/1"
+    "link": "https://embed.st/embed/golf/23256/1"
   },
   {
     "title": "Ottawa Redblacks vs Toronto Argonauts",
@@ -313,6 +208,13 @@
     "time": "2026-06-20 17:00 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/admin/ppv-toronto-argonauts-vs-ottawa-red-blacks/1"
+  },
+  {
+    "title": "Germany vs Ivory Coast",
+    "category": "Soccer",
+    "time": "2026-06-20 20:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23257/1"
   },
   {
     "title": "Edmonton Elks vs Montreal Alouettes",
