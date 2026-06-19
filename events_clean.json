@@ -7,34 +7,6 @@
     "link": "https://embed.st/embed/golf/23289/1"
   },
   {
-    "title": "USA vs Australia",
-    "category": "Soccer",
-    "time": "2026-06-19 19:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-united-states-vs-australia/1"
-  },
-  {
-    "title": "USA vs Australia",
-    "category": "Soccer",
-    "time": "2026-06-19 19:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23242/1"
-  },
-  {
-    "title": "USA vs Australia",
-    "category": "Soccer",
-    "time": "2026-06-19 19:00 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/delta/live_world-championship-gr-d_usa-australia-live-streaming-1243624131/1"
-  },
-  {
-    "title": "USA vs Australia",
-    "category": "Soccer",
-    "time": "2026-06-19 19:00 UTC",
-    "channel": "Server 4",
-    "link": "https://embed.st/embed/echo/usa-vs-australia-football-1489391/1"
-  },
-  {
     "title": "Scotland vs Morocco",
     "category": "Soccer",
     "time": "2026-06-19 22:00 UTC",
@@ -112,6 +84,13 @@
     "link": "https://embed.st/embed/admin/ppv-toronto-tempo-vs-connecticut-sun/1"
   },
   {
+    "title": "Connecticut Sun vs Toronto Tempo",
+    "category": "WNBA",
+    "time": "2026-06-19 23:30 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/delta/live_wnba_connecticut-tempo-live-streaming-1211036751/1"
+  },
+  {
     "title": "Hamilton Tiger-Cats vs BC Lions",
     "category": "CFL",
     "time": "2026-06-19 23:30 UTC",
@@ -166,6 +145,13 @@
     "time": "2026-06-20 00:30 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23244/1"
+  },
+  {
+    "title": "Brazil vs Haiti",
+    "category": "Soccer",
+    "time": "2026-06-20 00:30 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/echo/brazil-vs-haiti-football-1489389/1"
   },
   {
     "title": "Colorado Rockies vs Pittsburgh Pirates",
