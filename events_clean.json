@@ -4,14 +4,7 @@
     "category": "MLB",
     "time": "2026-06-19 18:20 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-chicago-cubs/1"
-  },
-  {
-    "title": "Chicago Cubs vs Toronto Blue Jays",
-    "category": "MLB",
-    "time": "2026-06-19 18:20 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23259/1"
+    "link": "https://embed.st/embed/golf/23289/1"
   },
   {
     "title": "USA vs Australia",
@@ -28,6 +21,13 @@
     "link": "https://embed.st/embed/golf/23242/1"
   },
   {
+    "title": "USA vs Australia",
+    "category": "Soccer",
+    "time": "2026-06-19 19:00 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/delta/live_world-championship-gr-d_usa-australia-live-streaming-1243624131/1"
+  },
+  {
     "title": "Scotland vs Morocco",
     "category": "Soccer",
     "time": "2026-06-19 22:00 UTC",
@@ -40,6 +40,13 @@
     "time": "2026-06-19 22:00 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23243/1"
+  },
+  {
+    "title": "Scotland vs Morocco",
+    "category": "Soccer",
+    "time": "2026-06-19 22:00 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/delta/live_world-championship-gr-c_scotland-morocco-live-streaming-1243622133/1"
   },
   {
     "title": "Detroit Tigers vs Chicago White Sox",
@@ -179,6 +186,13 @@
     "category": "Soccer",
     "time": "2026-06-20 17:00 UTC",
     "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-netherlands-vs-sweden/1"
+  },
+  {
+    "title": "Netherlands vs Sweden",
+    "category": "Soccer",
+    "time": "2026-06-20 17:00 UTC",
+    "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23256/1"
   },
   {
@@ -193,6 +207,13 @@
     "category": "Soccer",
     "time": "2026-06-20 20:00 UTC",
     "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-germany-vs-ivory-coast/1"
+  },
+  {
+    "title": "Germany vs Ivory Coast",
+    "category": "Soccer",
+    "time": "2026-06-20 20:00 UTC",
+    "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23257/1"
   },
   {
