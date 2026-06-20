@@ -4,27 +4,20 @@
     "category": "Soccer",
     "time": "2026-06-20 17:00 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-netherlands-vs-sweden/1"
-  },
-  {
-    "title": "Netherlands vs Sweden",
-    "category": "Soccer",
-    "time": "2026-06-20 17:00 UTC",
-    "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23256/1"
   },
   {
     "title": "Netherlands vs Sweden",
     "category": "Soccer",
     "time": "2026-06-20 17:00 UTC",
-    "channel": "Server 3",
+    "channel": "Server 2",
     "link": "https://embed.st/embed/delta/live_world-championship-gr-f_netherlands-sweden-live-streaming-1243654101/1"
   },
   {
     "title": "Netherlands vs Sweden",
     "category": "Soccer",
     "time": "2026-06-20 17:00 UTC",
-    "channel": "Server 4",
+    "channel": "Server 3",
     "link": "https://embed.st/embed/echo/netherlands-vs-sweden-football-1539007/1"
   },
   {
@@ -32,14 +25,7 @@
     "category": "WNBA",
     "time": "2026-06-20 17:00 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-indiana-fever-vs-atlanta-dream/1"
-  },
-  {
-    "title": "Ottawa Redblacks vs Toronto Argonauts",
-    "category": "CFL",
-    "time": "2026-06-20 17:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-toronto-argonauts-vs-ottawa-red-blacks/1"
+    "link": "https://embed.st/embed/delta/live_wnba_atlanta-fever-live-streaming-1211112675/1"
   },
   {
     "title": "Detroit Tigers vs Chicago White Sox",
@@ -60,14 +46,14 @@
     "category": "Boxing",
     "time": "2026-06-20 18:00 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-ryan-garner-vs-michael-magnesi/1"
+    "link": "https://embed.st/embed/golf/23327/1"
   },
   {
     "title": "Ryan Garner vs Michael Magnesi",
     "category": "Boxing",
     "time": "2026-06-20 18:00 UTC",
     "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23327/1"
+    "link": "https://embed.st/embed/delta/live-event_ryan-garner-vs-michael-magnesi-live-stream/1"
   },
   {
     "title": "Ryan Garner vs Michael Magnesi",
@@ -84,32 +70,18 @@
     "link": "https://embed.st/embed/golf/23314/1"
   },
   {
-    "title": "Phoenix Mercury vs Seattle Storm",
-    "category": "WNBA",
-    "time": "2026-06-20 19:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-seattle-storm-vs-phoenix-mercury/1"
-  },
-  {
     "title": "Germany vs Ivory Coast",
     "category": "Soccer",
     "time": "2026-06-20 20:00 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-germany-vs-ivory-coast/1"
+    "link": "https://embed.st/embed/golf/23257/1"
   },
   {
     "title": "Germany vs Ivory Coast",
     "category": "Soccer",
     "time": "2026-06-20 20:00 UTC",
     "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23257/1"
-  },
-  {
-    "title": "Edmonton Elks vs Montreal Alouettes",
-    "category": "CFL",
-    "time": "2026-06-20 20:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-montreal-alouettes-vs-edmonton-elks/1"
+    "link": "https://embed.st/embed/echo/germany-vs-ivory-coast-football-1489393/1"
   },
   {
     "title": "Texas Rangers vs San Diego Padres",
@@ -140,13 +112,6 @@
     "link": "https://embed.st/embed/golf/23308/1"
   },
   {
-    "title": "Calgary Stampeders vs Saskatchewan Roughriders",
-    "category": "CFL",
-    "time": "2026-06-20 23:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-saskatchewan-roughriders-vs-calgary-stampeders/1"
-  },
-  {
     "title": "Philadelphia Phillies vs New York Mets",
     "category": "MLB",
     "time": "2026-06-20 23:15 UTC",
@@ -165,21 +130,7 @@
     "category": "Soccer",
     "time": "2026-06-21 00:00 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-ecuador-vs-cura-ao/1"
-  },
-  {
-    "title": "Ecuador vs Curaçao",
-    "category": "Soccer",
-    "time": "2026-06-21 00:00 UTC",
-    "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23258/1"
-  },
-  {
-    "title": "Dallas Wings vs Chicago Sky",
-    "category": "WNBA",
-    "time": "2026-06-21 00:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-chicago-sky-vs-dallas-wings/1"
   },
   {
     "title": "Colorado Rockies vs Pittsburgh Pirates",
@@ -221,21 +172,7 @@
     "category": "Soccer",
     "time": "2026-06-21 04:00 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-tunisia-vs-japan/1"
-  },
-  {
-    "title": "Tunisia vs Japan",
-    "category": "Soccer",
-    "time": "2026-06-21 04:00 UTC",
-    "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23273/1"
-  },
-  {
-    "title": "Spain vs Saudi Arabia",
-    "category": "Soccer",
-    "time": "2026-06-21 16:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-spain-vs-saudi-arabia/1"
   },
   {
     "title": "New York Yankees vs Cincinnati Reds",
@@ -278,26 +215,5 @@
     "time": "2026-06-21 18:10 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/golf/23313/1"
-  },
-  {
-    "title": "Belgium vs Iran",
-    "category": "Soccer",
-    "time": "2026-06-21 19:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-belgium-vs-iran/1"
-  },
-  {
-    "title": "Uruguay vs Cape Verde",
-    "category": "Soccer",
-    "time": "2026-06-21 22:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-uruguay-vs-cape-verde/1"
-  },
-  {
-    "title": "New Zealand vs Egypt",
-    "category": "Soccer",
-    "time": "2026-06-22 01:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-new-zealand-vs-egypt/1"
   }
 ]
