@@ -4,7 +4,28 @@
     "category": "UFC",
     "time": "2025-06-20 19:00 UTC",
     "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-ufc-fight-night-kape-vs-horiguchi/1"
+  },
+  {
+    "title": "UFC Fight Night: Kape vs Horiguchi",
+    "category": "UFC",
+    "time": "2025-06-20 19:00 UTC",
+    "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23326/1"
+  },
+  {
+    "title": "UFC Fight Night: Kape vs Horiguchi",
+    "category": "UFC",
+    "time": "2025-06-20 19:00 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/delta/live-event_ufc-fight-night-kape-vs-horiguchi-live-stream/1"
+  },
+  {
+    "title": "UFC Fight Night: Kape vs Horiguchi",
+    "category": "UFC",
+    "time": "2025-06-20 19:00 UTC",
+    "channel": "Server 4",
+    "link": "https://embed.st/embed/echo/ppv-event-01-ufc-fight-night-kape-v-horiguchi-ppv-01/1"
   },
   {
     "title": "Oscar Collazo vs Neider Valdez",
@@ -32,7 +53,7 @@
     "category": "Boxing",
     "time": "2026-06-20 18:00 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/golf/23327/1"
+    "link": "https://embed.st/embed/admin/ppv-ryan-garner-vs-michael-magnesi/1"
   },
   {
     "title": "Ryan Garner vs Michael Magnesi",
@@ -56,25 +77,32 @@
     "link": "https://embed.st/embed/golf/23314/1"
   },
   {
-    "title": "Phoenix Mercury vs Seattle Storm",
-    "category": "WNBA",
-    "time": "2026-06-20 19:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/delta/live_wnba_mercury-storm-live-streaming-1211113674/1"
-  },
-  {
     "title": "Germany vs Ivory Coast",
     "category": "Soccer",
     "time": "2026-06-20 20:00 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/golf/23257/1"
+    "link": "https://embed.st/embed/admin/ppv-germany-vs-ivory-coast/1"
   },
   {
     "title": "Germany vs Ivory Coast",
     "category": "Soccer",
     "time": "2026-06-20 20:00 UTC",
     "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23257/1"
+  },
+  {
+    "title": "Germany vs Ivory Coast",
+    "category": "Soccer",
+    "time": "2026-06-20 20:00 UTC",
+    "channel": "Server 3",
     "link": "https://embed.st/embed/echo/germany-vs-ivory-coast-football-1489393/1"
+  },
+  {
+    "title": "Edmonton Elks vs Montreal Alouettes",
+    "category": "CFL",
+    "time": "2026-06-20 20:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-montreal-alouettes-vs-edmonton-elks/1"
   },
   {
     "title": "Texas Rangers vs San Diego Padres",
@@ -105,6 +133,13 @@
     "link": "https://embed.st/embed/golf/23308/1"
   },
   {
+    "title": "Calgary Stampeders vs Saskatchewan Roughriders",
+    "category": "CFL",
+    "time": "2026-06-20 23:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-saskatchewan-roughriders-vs-calgary-stampeders/1"
+  },
+  {
     "title": "Philadelphia Phillies vs New York Mets",
     "category": "MLB",
     "time": "2026-06-20 23:15 UTC",
@@ -131,6 +166,20 @@
     "time": "2026-06-21 00:00 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23258/1"
+  },
+  {
+    "title": "Ecuador vs Curaçao",
+    "category": "Soccer",
+    "time": "2026-06-21 00:00 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/delta/live_world-championship-gr-e_ecuador-curacao-live-streaming-1243653102/1"
+  },
+  {
+    "title": "Ecuador vs Curaçao",
+    "category": "Soccer",
+    "time": "2026-06-21 00:00 UTC",
+    "channel": "Server 4",
+    "link": "https://embed.st/embed/echo/ecuador-vs-curacao-football-1489392/1"
   },
   {
     "title": "Dallas Wings vs Chicago Sky",
@@ -189,6 +238,13 @@
     "link": "https://embed.st/embed/golf/23273/1"
   },
   {
+    "title": "Spain vs Saudi Arabia",
+    "category": "Soccer",
+    "time": "2026-06-21 16:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-spain-vs-saudi-arabia/1"
+  },
+  {
     "title": "New York Yankees vs Cincinnati Reds",
     "category": "MLB",
     "time": "2026-06-21 17:35 UTC",
@@ -236,5 +292,19 @@
     "time": "2026-06-21 19:00 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/admin/ppv-belgium-vs-iran/1"
+  },
+  {
+    "title": "Uruguay vs Cape Verde",
+    "category": "Soccer",
+    "time": "2026-06-21 22:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-uruguay-vs-cape-verde/1"
+  },
+  {
+    "title": "New Zealand vs Egypt",
+    "category": "Soccer",
+    "time": "2026-06-22 01:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-new-zealand-vs-egypt/1"
   }
 ]
