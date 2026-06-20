@@ -7,34 +7,6 @@
     "link": "https://embed.st/embed/golf/23289/1"
   },
   {
-    "title": "Scotland vs Morocco",
-    "category": "Soccer",
-    "time": "2026-06-19 22:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-scotland-vs-morocco/1"
-  },
-  {
-    "title": "Scotland vs Morocco",
-    "category": "Soccer",
-    "time": "2026-06-19 22:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23243/1"
-  },
-  {
-    "title": "Scotland vs Morocco",
-    "category": "Soccer",
-    "time": "2026-06-19 22:00 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/delta/live_world-championship-gr-c_scotland-morocco-live-streaming-1243622133/1"
-  },
-  {
-    "title": "Scotland vs Morocco",
-    "category": "Soccer",
-    "time": "2026-06-19 22:00 UTC",
-    "channel": "Server 4",
-    "link": "https://embed.st/embed/echo/scotland-vs-morocco-football-1489390/1"
-  },
-  {
     "title": "Detroit Tigers vs Chicago White Sox",
     "category": "MLB",
     "time": "2026-06-19 22:40 UTC",
@@ -84,13 +56,6 @@
     "link": "https://embed.st/embed/admin/ppv-toronto-tempo-vs-connecticut-sun/1"
   },
   {
-    "title": "Connecticut Sun vs Toronto Tempo",
-    "category": "WNBA",
-    "time": "2026-06-19 23:30 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/delta/live_wnba_connecticut-tempo-live-streaming-1211036751/1"
-  },
-  {
     "title": "Hamilton Tiger-Cats vs BC Lions",
     "category": "CFL",
     "time": "2026-06-19 23:30 UTC",
@@ -133,6 +98,20 @@
     "link": "https://embed.st/embed/golf/23267/1"
   },
   {
+    "title": "Kansas City Royals vs St. Louis Cardinals",
+    "category": "MLB",
+    "time": "2026-06-20 00:15 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/delta/live_mlb_royals-cardinals-live-streaming-1328535135/1"
+  },
+  {
+    "title": "Kansas City Royals vs St. Louis Cardinals",
+    "category": "MLB",
+    "time": "2026-06-20 00:15 UTC",
+    "channel": "Server 4",
+    "link": "https://embed.st/embed/echo/kansas-city-royals-vs-stlouis-cardinals-baseball-179139/1"
+  },
+  {
     "title": "Brazil vs Haiti",
     "category": "Soccer",
     "time": "2026-06-20 00:30 UTC",
@@ -151,6 +130,13 @@
     "category": "Soccer",
     "time": "2026-06-20 00:30 UTC",
     "channel": "Server 3",
+    "link": "https://embed.st/embed/delta/live_world-championship-gr-c_brazil-haiti-live-streaming-1243623132/1"
+  },
+  {
+    "title": "Brazil vs Haiti",
+    "category": "Soccer",
+    "time": "2026-06-20 00:30 UTC",
+    "channel": "Server 4",
     "link": "https://embed.st/embed/echo/brazil-vs-haiti-football-1489389/1"
   },
   {
@@ -158,42 +144,21 @@
     "category": "MLB",
     "time": "2026-06-20 00:40 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-pittsburgh-pirates-vs-colorado-rockies/1"
-  },
-  {
-    "title": "Colorado Rockies vs Pittsburgh Pirates",
-    "category": "MLB",
-    "time": "2026-06-20 00:40 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23268/1"
+    "link": "https://embed.st/embed/golf/23296/1"
   },
   {
     "title": "Athletics vs Los Angeles Angels",
     "category": "MLB",
     "time": "2026-06-20 01:40 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-los-angeles-angels-vs-athletics/1"
-  },
-  {
-    "title": "Athletics vs Los Angeles Angels",
-    "category": "MLB",
-    "time": "2026-06-20 01:40 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23269/1"
+    "link": "https://embed.st/embed/golf/23297/1"
   },
   {
     "title": "Arizona Diamondbacks vs Minnesota Twins",
     "category": "MLB",
     "time": "2026-06-20 01:45 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-minnesota-twins-vs-arizona-diamondbacks/1"
-  },
-  {
-    "title": "Arizona Diamondbacks vs Minnesota Twins",
-    "category": "MLB",
-    "time": "2026-06-20 01:45 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23270/1"
+    "link": "https://embed.st/embed/golf/23300/1"
   },
   {
     "title": "Golden State Valkyries vs Minnesota Lynx",
@@ -203,32 +168,25 @@
     "link": "https://embed.st/embed/admin/ppv-minnesota-lynx-vs-golden-state-valkyries/1"
   },
   {
-    "title": "Los Angeles Dodgers vs Baltimore Orioles",
-    "category": "MLB",
-    "time": "2026-06-20 02:10 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-baltimore-orioles-vs-los-angeles-dodgers/1"
+    "title": "Golden State Valkyries vs Minnesota Lynx",
+    "category": "WNBA",
+    "time": "2026-06-20 02:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/delta/live_wnba_valkyries-lynx-live-streaming-1211038749/1"
   },
   {
     "title": "Los Angeles Dodgers vs Baltimore Orioles",
     "category": "MLB",
     "time": "2026-06-20 02:10 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23271/1"
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23299/1"
   },
   {
     "title": "Seattle Mariners vs Boston Red Sox",
     "category": "MLB",
     "time": "2026-06-20 02:10 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-boston-red-sox-vs-seattle-mariners/1"
-  },
-  {
-    "title": "Seattle Mariners vs Boston Red Sox",
-    "category": "MLB",
-    "time": "2026-06-20 02:10 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23272/1"
+    "link": "https://embed.st/embed/golf/23298/1"
   },
   {
     "title": "Netherlands vs Sweden",
@@ -334,5 +292,12 @@
     "time": "2026-06-21 00:00 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23258/1"
+  },
+  {
+    "title": "Tunisia vs Japan",
+    "category": "Soccer",
+    "time": "2026-06-21 04:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23273/1"
   }
 ]
