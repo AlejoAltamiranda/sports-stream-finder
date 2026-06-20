@@ -1,31 +1,17 @@
 [
   {
-    "title": "Netherlands vs Sweden",
-    "category": "Soccer",
-    "time": "2026-06-20 17:00 UTC",
+    "title": "UFC Fight Night: Kape vs Horiguchi",
+    "category": "UFC",
+    "time": "2025-06-20 19:00 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/golf/23256/1"
+    "link": "https://embed.st/embed/golf/23326/1"
   },
   {
-    "title": "Netherlands vs Sweden",
-    "category": "Soccer",
-    "time": "2026-06-20 17:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/delta/live_world-championship-gr-f_netherlands-sweden-live-streaming-1243654101/1"
-  },
-  {
-    "title": "Netherlands vs Sweden",
-    "category": "Soccer",
-    "time": "2026-06-20 17:00 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/echo/netherlands-vs-sweden-football-1539007/1"
-  },
-  {
-    "title": "Atlanta Dream vs Indiana Fever",
-    "category": "WNBA",
-    "time": "2026-06-20 17:00 UTC",
+    "title": "Oscar Collazo vs Neider Valdez",
+    "category": "Boxing",
+    "time": "2026-06-21 01:00 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/delta/live_wnba_atlanta-fever-live-streaming-1211112675/1"
+    "link": "https://embed.st/embed/golf/23328/1"
   },
   {
     "title": "Detroit Tigers vs Chicago White Sox",
@@ -68,6 +54,13 @@
     "time": "2026-06-20 18:20 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/golf/23314/1"
+  },
+  {
+    "title": "Phoenix Mercury vs Seattle Storm",
+    "category": "WNBA",
+    "time": "2026-06-20 19:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/delta/live_wnba_mercury-storm-live-streaming-1211113674/1"
   },
   {
     "title": "Germany vs Ivory Coast",
@@ -130,7 +123,21 @@
     "category": "Soccer",
     "time": "2026-06-21 00:00 UTC",
     "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-ecuador-vs-cura-ao/1"
+  },
+  {
+    "title": "Ecuador vs Curaçao",
+    "category": "Soccer",
+    "time": "2026-06-21 00:00 UTC",
+    "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23258/1"
+  },
+  {
+    "title": "Dallas Wings vs Chicago Sky",
+    "category": "WNBA",
+    "time": "2026-06-21 00:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-chicago-sky-vs-dallas-wings/1"
   },
   {
     "title": "Colorado Rockies vs Pittsburgh Pirates",
@@ -172,6 +179,13 @@
     "category": "Soccer",
     "time": "2026-06-21 04:00 UTC",
     "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-tunisia-vs-japan/1"
+  },
+  {
+    "title": "Tunisia vs Japan",
+    "category": "Soccer",
+    "time": "2026-06-21 04:00 UTC",
+    "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23273/1"
   },
   {
@@ -215,5 +229,12 @@
     "time": "2026-06-21 18:10 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/golf/23313/1"
+  },
+  {
+    "title": "Belgium vs Iran",
+    "category": "Soccer",
+    "time": "2026-06-21 19:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-belgium-vs-iran/1"
   }
 ]
