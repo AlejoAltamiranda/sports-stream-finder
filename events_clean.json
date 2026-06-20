@@ -1,61 +1,5 @@
 [
   {
-    "title": "Athletics vs Los Angeles Angels",
-    "category": "MLB",
-    "time": "2026-06-20 01:40 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-los-angeles-angels-vs-athletics/1"
-  },
-  {
-    "title": "Athletics vs Los Angeles Angels",
-    "category": "MLB",
-    "time": "2026-06-20 01:40 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23297/1"
-  },
-  {
-    "title": "Arizona Diamondbacks vs Minnesota Twins",
-    "category": "MLB",
-    "time": "2026-06-20 01:45 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-minnesota-twins-vs-arizona-diamondbacks/1"
-  },
-  {
-    "title": "Arizona Diamondbacks vs Minnesota Twins",
-    "category": "MLB",
-    "time": "2026-06-20 01:45 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23300/1"
-  },
-  {
-    "title": "Los Angeles Dodgers vs Baltimore Orioles",
-    "category": "MLB",
-    "time": "2026-06-20 02:10 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-baltimore-orioles-vs-los-angeles-dodgers/1"
-  },
-  {
-    "title": "Los Angeles Dodgers vs Baltimore Orioles",
-    "category": "MLB",
-    "time": "2026-06-20 02:10 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23299/1"
-  },
-  {
-    "title": "Seattle Mariners vs Boston Red Sox",
-    "category": "MLB",
-    "time": "2026-06-20 02:10 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-boston-red-sox-vs-seattle-mariners/1"
-  },
-  {
-    "title": "Seattle Mariners vs Boston Red Sox",
-    "category": "MLB",
-    "time": "2026-06-20 02:10 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23298/1"
-  },
-  {
     "title": "Netherlands vs Sweden",
     "category": "Soccer",
     "time": "2026-06-20 17:00 UTC",
@@ -88,42 +32,21 @@
     "category": "MLB",
     "time": "2026-06-20 17:10 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-chicago-white-sox-vs-detroit-tigers/1"
-  },
-  {
-    "title": "Detroit Tigers vs Chicago White Sox",
-    "category": "MLB",
-    "time": "2026-06-20 17:10 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23287/1"
+    "link": "https://embed.st/embed/golf/23309/1"
   },
   {
     "title": "New York Yankees vs Cincinnati Reds",
     "category": "MLB",
     "time": "2026-06-20 17:35 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-cincinnati-reds-vs-new-york-yankees/1"
-  },
-  {
-    "title": "New York Yankees vs Cincinnati Reds",
-    "category": "MLB",
-    "time": "2026-06-20 17:35 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23288/1"
+    "link": "https://embed.st/embed/golf/23307/1"
   },
   {
     "title": "Chicago Cubs vs Toronto Blue Jays",
     "category": "MLB",
     "time": "2026-06-20 18:20 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-chicago-cubs/1"
-  },
-  {
-    "title": "Chicago Cubs vs Toronto Blue Jays",
-    "category": "MLB",
-    "time": "2026-06-20 18:20 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23289/1"
+    "link": "https://embed.st/embed/golf/23314/1"
   },
   {
     "title": "Phoenix Mercury vs Seattle Storm",
@@ -158,42 +81,21 @@
     "category": "MLB",
     "time": "2026-06-20 20:05 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-san-diego-padres-vs-texas-rangers/1"
-  },
-  {
-    "title": "Texas Rangers vs San Diego Padres",
-    "category": "MLB",
-    "time": "2026-06-20 20:05 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23290/1"
+    "link": "https://embed.st/embed/golf/23315/1"
   },
   {
     "title": "Miami Marlins vs San Francisco Giants",
     "category": "MLB",
     "time": "2026-06-20 20:10 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-san-francisco-giants-vs-miami-marlins/1"
-  },
-  {
-    "title": "Miami Marlins vs San Francisco Giants",
-    "category": "MLB",
-    "time": "2026-06-20 20:10 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23292/1"
+    "link": "https://embed.st/embed/golf/23310/1"
   },
   {
     "title": "Tampa Bay Rays vs Washington Nationals",
     "category": "MLB",
     "time": "2026-06-20 20:10 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-washington-nationals-vs-tampa-bay-rays/1"
-  },
-  {
-    "title": "Tampa Bay Rays vs Washington Nationals",
-    "category": "MLB",
-    "time": "2026-06-20 20:10 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23293/1"
+    "link": "https://embed.st/embed/golf/23311/1"
   },
   {
     "title": "Calgary Stampeders vs Saskatchewan Roughriders",
