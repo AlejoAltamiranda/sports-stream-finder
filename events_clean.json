@@ -1,73 +1,17 @@
 [
   {
-    "title": "Oscar Collazo vs Neider Valdez",
-    "category": "Boxing",
-    "time": "2026-06-21 01:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/delta/live-event_oscar-collazo-vs-neider-valdez-live-stream/1"
-  },
-  {
-    "title": "Athletics vs Los Angeles Angels",
-    "category": "MLB",
-    "time": "2026-06-21 02:05 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-los-angeles-angels-vs-athletics/1"
-  },
-  {
-    "title": "Athletics vs Los Angeles Angels",
-    "category": "MLB",
-    "time": "2026-06-21 02:05 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23318/1"
-  },
-  {
-    "title": "Los Angeles Dodgers vs Baltimore Orioles",
-    "category": "MLB",
-    "time": "2026-06-21 02:10 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-baltimore-orioles-vs-los-angeles-dodgers/1"
-  },
-  {
-    "title": "Los Angeles Dodgers vs Baltimore Orioles",
-    "category": "MLB",
-    "time": "2026-06-21 02:10 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23319/1"
-  },
-  {
-    "title": "Arizona Diamondbacks vs Minnesota Twins",
-    "category": "MLB",
-    "time": "2026-06-21 02:10 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-minnesota-twins-vs-arizona-diamondbacks/1"
-  },
-  {
-    "title": "Arizona Diamondbacks vs Minnesota Twins",
-    "category": "MLB",
-    "time": "2026-06-21 02:10 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23317/1"
-  },
-  {
-    "title": "Seattle Mariners vs Boston Red Sox",
-    "category": "MLB",
-    "time": "2026-06-21 02:10 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-boston-red-sox-vs-seattle-mariners/1"
-  },
-  {
-    "title": "Seattle Mariners vs Boston Red Sox",
-    "category": "MLB",
-    "time": "2026-06-21 02:10 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23320/1"
-  },
-  {
     "title": "Spain vs Saudi Arabia",
     "category": "Soccer",
     "time": "2026-06-21 16:00 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/admin/ppv-spain-vs-saudi-arabia/1"
+  },
+  {
+    "title": "Spain vs Saudi Arabia",
+    "category": "Soccer",
+    "time": "2026-06-21 16:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23274/1"
   },
   {
     "title": "New York Yankees vs Cincinnati Reds",
@@ -161,6 +105,13 @@
     "link": "https://embed.st/embed/admin/ppv-belgium-vs-iran/1"
   },
   {
+    "title": "Belgium vs Iran",
+    "category": "Soccer",
+    "time": "2026-06-21 19:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23275/1"
+  },
+  {
     "title": "Las Vegas Aces vs Golden State Valkyries",
     "category": "WNBA",
     "time": "2026-06-21 20:00 UTC",
@@ -173,6 +124,13 @@
     "time": "2026-06-21 22:00 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/admin/ppv-uruguay-vs-cape-verde/1"
+  },
+  {
+    "title": "Uruguay vs Cape Verde",
+    "category": "Soccer",
+    "time": "2026-06-21 22:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23276/1"
   },
   {
     "title": "Minnesota Lynx vs Washington Mystics",
@@ -194,6 +152,13 @@
     "time": "2026-06-22 01:00 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/admin/ppv-new-zealand-vs-egypt/1"
+  },
+  {
+    "title": "New Zealand vs Egypt",
+    "category": "Soccer",
+    "time": "2026-06-22 01:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23277/1"
   },
   {
     "title": "Argentina vs Austria",
