@@ -35,6 +35,20 @@
     "link": "https://embed.st/embed/golf/23328/1"
   },
   {
+    "title": "Oscar Collazo vs Neider Valdez",
+    "category": "Boxing",
+    "time": "2026-06-21 01:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/delta/live-event_oscar-collazo-vs-neider-valdez-live-stream/1"
+  },
+  {
+    "title": "Oscar Collazo vs Neider Valdez",
+    "category": "Boxing",
+    "time": "2026-06-21 01:00 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/echo/ppv-event-09-collazo-v-valdez-ppv-09/1"
+  },
+  {
     "title": "Detroit Tigers vs Chicago White Sox",
     "category": "MLB",
     "time": "2026-06-20 17:10 UTC",
@@ -53,21 +67,7 @@
     "category": "Boxing",
     "time": "2026-06-20 18:00 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-ryan-garner-vs-michael-magnesi/1"
-  },
-  {
-    "title": "Ryan Garner vs Michael Magnesi",
-    "category": "Boxing",
-    "time": "2026-06-20 18:00 UTC",
-    "channel": "Server 2",
     "link": "https://embed.st/embed/delta/live-event_ryan-garner-vs-michael-magnesi-live-stream/1"
-  },
-  {
-    "title": "Ryan Garner vs Michael Magnesi",
-    "category": "Boxing",
-    "time": "2026-06-20 18:00 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/echo/ppv-event-02-garner-v-magnesi-ppv-02/1"
   },
   {
     "title": "Chicago Cubs vs Toronto Blue Jays",
@@ -75,34 +75,6 @@
     "time": "2026-06-20 18:20 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/golf/23314/1"
-  },
-  {
-    "title": "Germany vs Ivory Coast",
-    "category": "Soccer",
-    "time": "2026-06-20 20:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-germany-vs-ivory-coast/1"
-  },
-  {
-    "title": "Germany vs Ivory Coast",
-    "category": "Soccer",
-    "time": "2026-06-20 20:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23257/1"
-  },
-  {
-    "title": "Germany vs Ivory Coast",
-    "category": "Soccer",
-    "time": "2026-06-20 20:00 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/echo/germany-vs-ivory-coast-football-1489393/1"
-  },
-  {
-    "title": "Edmonton Elks vs Montreal Alouettes",
-    "category": "CFL",
-    "time": "2026-06-20 20:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-montreal-alouettes-vs-edmonton-elks/1"
   },
   {
     "title": "Texas Rangers vs San Diego Padres",
@@ -189,6 +161,13 @@
     "link": "https://embed.st/embed/admin/ppv-chicago-sky-vs-dallas-wings/1"
   },
   {
+    "title": "Dallas Wings vs Chicago Sky",
+    "category": "WNBA",
+    "time": "2026-06-21 00:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/delta/live_wnba_wings-chicago-live-streaming-1211114673/1"
+  },
+  {
     "title": "Colorado Rockies vs Pittsburgh Pirates",
     "category": "MLB",
     "time": "2026-06-21 01:10 UTC",
@@ -236,6 +215,20 @@
     "time": "2026-06-21 04:00 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23273/1"
+  },
+  {
+    "title": "Tunisia vs Japan",
+    "category": "Soccer",
+    "time": "2026-06-21 04:00 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/delta/live_world-championship-gr-f_tunisia-japan-live-streaming-1243625130/1"
+  },
+  {
+    "title": "Tunisia vs Japan",
+    "category": "Soccer",
+    "time": "2026-06-21 04:00 UTC",
+    "channel": "Server 4",
+    "link": "https://embed.st/embed/echo/tunisia-vs-japan-football-1489394/1"
   },
   {
     "title": "Spain vs Saudi Arabia",
