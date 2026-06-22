@@ -14,6 +14,20 @@
     "link": "https://embed.st/embed/golf/23301/1"
   },
   {
+    "title": "Argentina vs Austria",
+    "category": "Soccer",
+    "time": "2026-06-22 17:00 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/delta/live_world-championship-gr-j_argentina-austria-live-streaming-1243775979/1"
+  },
+  {
+    "title": "Argentina vs Austria",
+    "category": "Soccer",
+    "time": "2026-06-22 17:00 UTC",
+    "channel": "Server 4",
+    "link": "https://embed.st/embed/echo/argentina-vs-austria-football-1489399/1"
+  },
+  {
     "title": "France vs Iraq",
     "category": "Soccer",
     "time": "2026-06-22 21:00 UTC",
@@ -133,6 +147,13 @@
     "link": "https://embed.st/embed/admin/ppv-portugal-vs-uzbekistan/1"
   },
   {
+    "title": "Portugal vs Uzbekistan",
+    "category": "Soccer",
+    "time": "2026-06-23 17:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23322/1"
+  },
+  {
     "title": "England vs Ghana",
     "category": "Soccer",
     "time": "2026-06-23 20:00 UTC",
@@ -140,10 +161,24 @@
     "link": "https://embed.st/embed/admin/ppv-england-vs-ghana/1"
   },
   {
+    "title": "England vs Ghana",
+    "category": "Soccer",
+    "time": "2026-06-23 20:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23323/1"
+  },
+  {
     "title": "Panama vs Croatia",
     "category": "Soccer",
     "time": "2026-06-23 23:00 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/admin/ppv-panama-vs-croatia/1"
+  },
+  {
+    "title": "Panama vs Croatia",
+    "category": "Soccer",
+    "time": "2026-06-23 23:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23324/1"
   }
 ]
