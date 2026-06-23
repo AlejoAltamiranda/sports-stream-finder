@@ -7,27 +7,6 @@
     "link": "https://embed.st/embed/admin/ppv-france-vs-iraq/1"
   },
   {
-    "title": "France vs Iraq",
-    "category": "Soccer",
-    "time": "2026-06-22 21:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23302/1"
-  },
-  {
-    "title": "France vs Iraq",
-    "category": "Soccer",
-    "time": "2026-06-22 21:00 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/delta/live_world-championship-gr-i_france-iraq-live-streaming-1243773981/1"
-  },
-  {
-    "title": "France vs Iraq",
-    "category": "Soccer",
-    "time": "2026-06-22 21:00 UTC",
-    "channel": "Server 4",
-    "link": "https://embed.st/embed/echo/france-vs-iraq-football-1539017/1"
-  },
-  {
     "title": "Detroit Tigers vs New York Yankees",
     "category": "MLB",
     "time": "2026-06-22 22:10 UTC",
@@ -74,7 +53,7 @@
     "category": "MLB",
     "time": "2026-06-22 23:10 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/golf/23354/1"
+    "link": "https://embed.st/embed/echo/new-york-mets-vs-chicago-cubs-baseball-179182/1"
   },
   {
     "title": "Cincinnati Reds vs Milwaukee Brewers",
@@ -89,6 +68,13 @@
     "time": "2026-06-22 23:30 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/admin/ppv-toronto-tempo-vs-atlanta-dream/1"
+  },
+  {
+    "title": "Atlanta Dream vs Toronto Tempo",
+    "category": "WNBA",
+    "time": "2026-06-22 23:30 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/delta/live_wnba_atlanta-tempo-live-streaming-1211169618/1"
   },
   {
     "title": "Minnesota Twins vs Los Angeles Dodgers",
@@ -126,6 +112,20 @@
     "link": "https://embed.st/embed/golf/23303/1"
   },
   {
+    "title": "Norway vs Senegal",
+    "category": "Soccer",
+    "time": "2026-06-23 00:00 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/delta/live_world-championship-gr-i_norway-senegal-live-streaming-1243774980/1"
+  },
+  {
+    "title": "Norway vs Senegal",
+    "category": "Soccer",
+    "time": "2026-06-23 00:00 UTC",
+    "channel": "Server 4",
+    "link": "https://embed.st/embed/echo/norway-vs-senegal-football-1489401/1"
+  },
+  {
     "title": "Indiana Fever vs Phoenix Mercury",
     "category": "WNBA",
     "time": "2026-06-23 00:00 UTC",
@@ -133,32 +133,25 @@
     "link": "https://embed.st/embed/admin/ppv-phoenix-mercury-vs-indiana-fever/1"
   },
   {
-    "title": "Colorado Rockies vs Boston Red Sox",
-    "category": "MLB",
-    "time": "2026-06-23 00:40 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-boston-red-sox-vs-colorado-rockies/1"
+    "title": "Indiana Fever vs Phoenix Mercury",
+    "category": "WNBA",
+    "time": "2026-06-23 00:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/delta/live_wnba_fever-mercury-live-streaming-1211170617/1"
   },
   {
     "title": "Colorado Rockies vs Boston Red Sox",
     "category": "MLB",
     "time": "2026-06-23 00:40 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23339/1"
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23359/1"
   },
   {
     "title": "Los Angeles Angels vs Baltimore Orioles",
     "category": "MLB",
     "time": "2026-06-23 01:38 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-baltimore-orioles-vs-los-angeles-angels/1"
-  },
-  {
-    "title": "Los Angeles Angels vs Baltimore Orioles",
-    "category": "MLB",
-    "time": "2026-06-23 01:38 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23340/1"
+    "link": "https://embed.st/embed/golf/23360/1"
   },
   {
     "title": "Seattle Storm vs Dallas Wings",
@@ -168,18 +161,18 @@
     "link": "https://embed.st/embed/admin/ppv-dallas-wings-vs-seattle-storm/1"
   },
   {
-    "title": "San Diego Padres vs Atlanta Braves",
-    "category": "MLB",
-    "time": "2026-06-23 02:10 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-atlanta-braves-vs-san-diego-padres/1"
+    "title": "Seattle Storm vs Dallas Wings",
+    "category": "WNBA",
+    "time": "2026-06-23 02:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/delta/live_wnba_storm-wings-live-streaming-1211171616/1"
   },
   {
     "title": "San Diego Padres vs Atlanta Braves",
     "category": "MLB",
     "time": "2026-06-23 02:10 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23341/1"
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23361/1"
   },
   {
     "title": "Jordan vs Algeria",
@@ -200,6 +193,13 @@
     "category": "Soccer",
     "time": "2026-06-23 03:00 UTC",
     "channel": "Server 3",
+    "link": "https://embed.st/embed/delta/live_world-championship-gr-j_jordan-algeria-live-streaming-1243776978/1"
+  },
+  {
+    "title": "Jordan vs Algeria",
+    "category": "Soccer",
+    "time": "2026-06-23 03:00 UTC",
+    "channel": "Server 4",
     "link": "https://embed.st/embed/echo/jordan-vs-algeria-football-1489400/1"
   },
   {
@@ -292,6 +292,48 @@
     "time": "2026-06-23 23:10 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/golf/23355/1"
+  },
+  {
+    "title": "Colombia vs DR Congo",
+    "category": "Soccer",
+    "time": "2026-06-24 02:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-colombia-vs-congo-dr/1"
+  },
+  {
+    "title": "Colombia vs DR Congo",
+    "category": "Soccer",
+    "time": "2026-06-24 02:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23325/1"
+  },
+  {
+    "title": "Switzerland vs Canada",
+    "category": "Soccer",
+    "time": "2026-06-24 19:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23343/1"
+  },
+  {
+    "title": "Bosnia-Herzegovina vs Qatar",
+    "category": "Soccer",
+    "time": "2026-06-24 19:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23342/1"
+  },
+  {
+    "title": "Morocco vs Haiti",
+    "category": "Soccer",
+    "time": "2026-06-24 22:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23344/1"
+  },
+  {
+    "title": "Scotland vs Brazil",
+    "category": "Soccer",
+    "time": "2026-06-24 22:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23345/1"
   },
   {
     "title": "Indiana Fever vs Phoenix Mercury",
