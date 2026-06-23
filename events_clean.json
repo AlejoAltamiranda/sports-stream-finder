@@ -1,33 +1,5 @@
 [
   {
-    "title": "England vs Ghana",
-    "category": "Soccer",
-    "time": "2026-06-23 20:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-england-vs-ghana/1"
-  },
-  {
-    "title": "England vs Ghana",
-    "category": "Soccer",
-    "time": "2026-06-23 20:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23323/1"
-  },
-  {
-    "title": "England vs Ghana",
-    "category": "Soccer",
-    "time": "2026-06-23 20:00 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/delta/live_world-championship-gr-l_england-ghana-live-streaming-1243795959/1"
-  },
-  {
-    "title": "England vs Ghana",
-    "category": "Soccer",
-    "time": "2026-06-23 20:00 UTC",
-    "channel": "Server 4",
-    "link": "https://embed.st/embed/echo/england-vs-ghana-football-1489402/1"
-  },
-  {
     "title": "Toronto Blue Jays vs Houston Astros",
     "category": "MLB",
     "time": "2026-06-23 20:07 UTC",
@@ -194,6 +166,13 @@
     "time": "2026-06-24 02:00 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/admin/ppv-new-york-liberty-vs-las-vegas-aces/1"
+  },
+  {
+    "title": "Las Vegas Aces vs New York Liberty",
+    "category": "WNBA",
+    "time": "2026-06-24 02:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/delta/live_wnba_las-vegas-liberty-live-streaming-1211174613/1"
   },
   {
     "title": "Miami Marlins vs Texas Rangers",
