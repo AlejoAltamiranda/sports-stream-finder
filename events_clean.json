@@ -1,33 +1,5 @@
 [
   {
-    "title": "Portugal vs Uzbekistan",
-    "category": "Soccer",
-    "time": "2026-06-23 17:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-portugal-vs-uzbekistan/1"
-  },
-  {
-    "title": "Portugal vs Uzbekistan",
-    "category": "Soccer",
-    "time": "2026-06-23 17:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23322/1"
-  },
-  {
-    "title": "Portugal vs Uzbekistan",
-    "category": "Soccer",
-    "time": "2026-06-23 17:00 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/delta/live_world-championship-gr-k_portugal-uzbekistan-live-streaming-1243793961/1"
-  },
-  {
-    "title": "Portugal vs Uzbekistan",
-    "category": "Soccer",
-    "time": "2026-06-23 17:00 UTC",
-    "channel": "Server 4",
-    "link": "https://embed.st/embed/echo/portugal-vs-uzbekistan-football-1489404/1"
-  },
-  {
     "title": "England vs Ghana",
     "category": "Soccer",
     "time": "2026-06-23 20:00 UTC",
@@ -46,6 +18,13 @@
     "category": "Soccer",
     "time": "2026-06-23 20:00 UTC",
     "channel": "Server 3",
+    "link": "https://embed.st/embed/delta/live_world-championship-gr-l_england-ghana-live-streaming-1243795959/1"
+  },
+  {
+    "title": "England vs Ghana",
+    "category": "Soccer",
+    "time": "2026-06-23 20:00 UTC",
+    "channel": "Server 4",
     "link": "https://embed.st/embed/echo/england-vs-ghana-football-1489402/1"
   },
   {
