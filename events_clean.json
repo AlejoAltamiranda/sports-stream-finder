@@ -1,19 +1,5 @@
 [
   {
-    "title": "Miami Marlins vs Texas Rangers",
-    "category": "MLB",
-    "time": "2026-06-24 16:10 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-texas-rangers-vs-miami-marlins/1"
-  },
-  {
-    "title": "Miami Marlins vs Texas Rangers",
-    "category": "MLB",
-    "time": "2026-06-24 16:10 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23375/1"
-  },
-  {
     "title": "New York Mets vs Chicago Cubs",
     "category": "MLB",
     "time": "2026-06-24 17:10 UTC",
@@ -61,13 +47,6 @@
     "time": "2026-06-24 19:00 UTC",
     "channel": "Server 3",
     "link": "https://embed.st/embed/delta/live_world-championship-gr-b_switzerland-canada-live-streaming-1243801953/1"
-  },
-  {
-    "title": "Switzerland vs Canada",
-    "category": "Soccer",
-    "time": "2026-06-24 19:00 UTC",
-    "channel": "Server 4",
-    "link": "https://embed.st/embed/echo/switzerland-vs-canada-football-1489408/1"
   },
   {
     "title": "Bosnia-Herzegovina vs Qatar",
@@ -144,6 +123,13 @@
     "category": "MLB",
     "time": "2026-06-24 20:07 UTC",
     "channel": "Server 3",
+    "link": "https://embed.st/embed/delta/live_mlb_angels-orioles-live-streaming-1341893763/1"
+  },
+  {
+    "title": "Los Angeles Angels vs Baltimore Orioles",
+    "category": "MLB",
+    "time": "2026-06-24 20:07 UTC",
+    "channel": "Server 4",
     "link": "https://embed.st/embed/echo/los-angeles-angels-vs-baltimore-orioles-baseball-179215/1"
   },
   {
@@ -383,6 +369,20 @@
     "time": "2026-06-25 19:45 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/golf/23399/1"
+  },
+  {
+    "title": "Curaçao vs Ivory Coast",
+    "category": "Soccer",
+    "time": "2026-06-25 20:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-cura-ao-vs-ivory-coast/1"
+  },
+  {
+    "title": "Curaçao vs Ivory Coast",
+    "category": "Soccer",
+    "time": "2026-06-25 20:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23363/1"
   },
   {
     "title": "Ecuador vs Germany",
