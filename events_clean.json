@@ -14,20 +14,6 @@
     "link": "https://embed.st/embed/golf/23375/1"
   },
   {
-    "title": "Miami Marlins vs Texas Rangers",
-    "category": "MLB",
-    "time": "2026-06-24 16:10 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/delta/live_mlb_marlins-rangers-live-streaming-1341890766/1"
-  },
-  {
-    "title": "Miami Marlins vs Texas Rangers",
-    "category": "MLB",
-    "time": "2026-06-24 16:10 UTC",
-    "channel": "Server 4",
-    "link": "https://embed.st/embed/echo/miami-marlins-vs-texas-rangers-baseball-179214/1"
-  },
-  {
     "title": "New York Mets vs Chicago Cubs",
     "category": "MLB",
     "time": "2026-06-24 17:10 UTC",
@@ -54,13 +40,6 @@
     "time": "2026-06-24 18:10 UTC",
     "channel": "Server 3",
     "link": "https://embed.st/embed/delta/live_mlb_white-sox-guardians-live-streaming-1341891765/1"
-  },
-  {
-    "title": "Chicago White Sox vs Cleveland Guardians",
-    "category": "MLB",
-    "time": "2026-06-24 18:10 UTC",
-    "channel": "Server 4",
-    "link": "https://embed.st/embed/echo/chicago-white-sox-vs-cleveland-guardians-baseball-179219/1"
   },
   {
     "title": "Switzerland vs Canada",
@@ -137,6 +116,13 @@
     "category": "MLB",
     "time": "2026-06-24 19:10 UTC",
     "channel": "Server 3",
+    "link": "https://embed.st/embed/delta/live_mlb_rockies-red-sox-live-streaming-1341892764/1"
+  },
+  {
+    "title": "Colorado Rockies vs Boston Red Sox",
+    "category": "MLB",
+    "time": "2026-06-24 19:10 UTC",
+    "channel": "Server 4",
     "link": "https://embed.st/embed/echo/colorado-rockies-vs-boston-red-sox-baseball-179217/1"
   },
   {
@@ -397,20 +383,6 @@
     "time": "2026-06-25 19:45 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/golf/23399/1"
-  },
-  {
-    "title": "Curaçao vs Ivory Coast",
-    "category": "Soccer",
-    "time": "2026-06-25 20:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-cura-ao-vs-ivory-coast/1"
-  },
-  {
-    "title": "Curaçao vs Ivory Coast",
-    "category": "Soccer",
-    "time": "2026-06-25 20:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23363/1"
   },
   {
     "title": "Ecuador vs Germany",
