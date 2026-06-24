@@ -1,145 +1,110 @@
 {
-  "scraping_date": "2026-06-24T04:06:54.186349",
-  "total_events": 25,
+  "scraping_date": "2026-06-24T09:41:39.704447",
+  "total_events": 20,
   "events": [
-    {
-      "title": "Los Angeles Angels vs Baltimore Orioles",
-      "datetime": "Tuesday, Jun 23, 2026, 9:38 PM ET",
-      "league": "MLB",
-      "status": "LIVE",
-      "event_url": "https://istreameast.cx/links/los-angeles-angels-vs-baltimore-orioles-2388065"
-    },
-    {
-      "title": "San Diego Padres vs Atlanta Braves",
-      "datetime": "Tuesday, Jun 23, 2026, 9:40 PM ET",
-      "league": "MLB",
-      "status": "LIVE",
-      "event_url": "https://istreameast.cx/links/san-diego-padres-vs-atlanta-braves-2388061"
-    },
-    {
-      "title": "San Francisco Giants vs Athletics",
-      "datetime": "Tuesday, Jun 23, 2026, 9:45 PM ET",
-      "league": "MLB",
-      "status": "LIVE",
-      "event_url": "https://istreameast.cx/links/san-francisco-giants-vs-athletics-2388060"
-    },
-    {
-      "title": "Colombia vs DR Congo",
-      "datetime": "Tuesday, Jun 23, 2026, 10:00 PM ET",
-      "league": "Soccer",
-      "status": "LIVE",
-      "event_url": "https://istreameast.cx/links/colombia-vs-dr-congo-2461114"
-    },
-    {
-      "title": "Las Vegas Aces vs New York Liberty",
-      "datetime": "Tuesday, Jun 23, 2026, 10:00 PM ET",
-      "league": "WNBA",
-      "status": "LIVE",
-      "event_url": "https://istreameast.cx/links/las-vegas-aces-vs-new-york-liberty-2449072"
-    },
     {
       "title": "Miami Marlins vs Texas Rangers",
       "datetime": "Wednesday, Jun 24, 2026, 12:10 PM ET",
       "league": "MLB",
-      "status": "12 hours from now",
+      "status": "6 hours from now",
       "event_url": "https://istreameast.cx/links/miami-marlins-vs-texas-rangers-2388079"
     },
     {
       "title": "New York Mets vs Chicago Cubs",
       "datetime": "Wednesday, Jun 24, 2026, 1:10 PM ET",
       "league": "MLB",
-      "status": "13 hours from now",
+      "status": "7 hours from now",
       "event_url": "https://istreameast.cx/links/new-york-mets-vs-chicago-cubs-2388047"
     },
     {
       "title": "Chicago White Sox vs Cleveland Guardians",
       "datetime": "Wednesday, Jun 24, 2026, 2:10 PM ET",
       "league": "MLB",
-      "status": "14 hours from now",
+      "status": "8 hours from now",
       "event_url": "https://istreameast.cx/links/chicago-white-sox-vs-cleveland-guardians-2388084"
     },
     {
       "title": "Switzerland vs Canada",
       "datetime": "Wednesday, Jun 24, 2026, 3:00 PM ET",
       "league": "Soccer",
-      "status": "14 hours from now",
+      "status": "9 hours from now",
       "event_url": "https://istreameast.cx/links/switzerland-vs-canada-2391767"
     },
     {
       "title": "Bosnia-Herzegovina vs Qatar",
       "datetime": "Wednesday, Jun 24, 2026, 3:00 PM ET",
       "league": "Soccer",
-      "status": "14 hours from now",
+      "status": "9 hours from now",
       "event_url": "https://istreameast.cx/links/bosnia-herzegovina-vs-qatar-2461115"
     },
     {
       "title": "Colorado Rockies vs Boston Red Sox",
       "datetime": "Wednesday, Jun 24, 2026, 3:10 PM ET",
       "league": "MLB",
-      "status": "15 hours from now",
+      "status": "9 hours from now",
       "event_url": "https://istreameast.cx/links/colorado-rockies-vs-boston-red-sox-2388082"
     },
     {
       "title": "Los Angeles Angels vs Baltimore Orioles",
       "datetime": "Wednesday, Jun 24, 2026, 4:07 PM ET",
       "league": "MLB",
-      "status": "16 hours from now",
+      "status": "10 hours from now",
       "event_url": "https://istreameast.cx/links/los-angeles-angels-vs-baltimore-orioles-2388080"
     },
     {
       "title": "Morocco vs Haiti",
       "datetime": "Wednesday, Jun 24, 2026, 6:00 PM ET",
       "league": "Soccer",
-      "status": "17 hours from now",
+      "status": "12 hours from now",
       "event_url": "https://istreameast.cx/links/morocco-vs-haiti-2391764"
     },
     {
       "title": "Scotland vs Brazil",
       "datetime": "Wednesday, Jun 24, 2026, 6:00 PM ET",
       "league": "Soccer",
-      "status": "17 hours from now",
+      "status": "12 hours from now",
       "event_url": "https://istreameast.cx/links/scotland-vs-brazil-2391765"
     },
     {
       "title": "Indiana Fever vs Phoenix Mercury",
       "datetime": "Wednesday, Jun 24, 2026, 7:30 PM ET",
       "league": "WNBA",
-      "status": "19 hours from now",
+      "status": "13 hours from now",
       "event_url": "https://istreameast.cx/links/indiana-fever-vs-phoenix-mercury-2449073"
     },
     {
       "title": "Washington Mystics vs Minnesota Lynx",
       "datetime": "Wednesday, Jun 24, 2026, 7:30 PM ET",
       "league": "WNBA",
-      "status": "19 hours from now",
+      "status": "13 hours from now",
       "event_url": "https://istreameast.cx/links/washington-mystics-vs-minnesota-lynx-2449074"
     },
     {
       "title": "Chicago Sky vs Portland Fire",
       "datetime": "Wednesday, Jun 24, 2026, 8:00 PM ET",
       "league": "WNBA",
-      "status": "19 hours from now",
+      "status": "14 hours from now",
       "event_url": "https://istreameast.cx/links/chicago-sky-vs-portland-fire-2469368"
     },
     {
       "title": "South Africa vs South Korea",
       "datetime": "Wednesday, Jun 24, 2026, 9:00 PM ET",
       "league": "Soccer",
-      "status": "20 hours from now",
+      "status": "15 hours from now",
       "event_url": "https://istreameast.cx/links/south-africa-vs-south-korea-2391766"
     },
     {
       "title": "Czech Republic vs Mexico",
       "datetime": "Wednesday, Jun 24, 2026, 9:00 PM ET",
       "league": "Soccer",
-      "status": "20 hours from now",
+      "status": "15 hours from now",
       "event_url": "https://istreameast.cx/links/czech-republic-vs-mexico-2461116"
     },
     {
       "title": "Golden State Valkyries vs Atlanta Dream",
       "datetime": "Wednesday, Jun 24, 2026, 10:00 PM ET",
       "league": "WNBA",
-      "status": "21 hours from now",
+      "status": "16 hours from now",
       "event_url": "https://istreameast.cx/links/golden-state-valkyries-vs-atlanta-dream-2449075"
     },
     {
