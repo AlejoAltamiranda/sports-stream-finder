@@ -14,18 +14,18 @@
     "link": "https://embed.st/embed/golf/23375/1"
   },
   {
-    "title": "New York Mets vs Chicago Cubs",
+    "title": "Miami Marlins vs Texas Rangers",
     "category": "MLB",
-    "time": "2026-06-24 17:10 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-chicago-cubs-vs-new-york-mets/1"
+    "time": "2026-06-24 16:10 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/echo/miami-marlins-vs-texas-rangers-baseball-179214/1"
   },
   {
     "title": "New York Mets vs Chicago Cubs",
     "category": "MLB",
     "time": "2026-06-24 17:10 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23376/1"
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23403/1"
   },
   {
     "title": "Chicago White Sox vs Cleveland Guardians",
@@ -56,6 +56,13 @@
     "link": "https://embed.st/embed/golf/23343/1"
   },
   {
+    "title": "Switzerland vs Canada",
+    "category": "Soccer",
+    "time": "2026-06-24 19:00 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/echo/switzerland-vs-canada-football-1489408/1"
+  },
+  {
     "title": "Bosnia-Herzegovina vs Qatar",
     "category": "Soccer",
     "time": "2026-06-24 19:00 UTC",
@@ -68,6 +75,20 @@
     "time": "2026-06-24 19:00 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23342/1"
+  },
+  {
+    "title": "Bosnia-Herzegovina vs Qatar",
+    "category": "Soccer",
+    "time": "2026-06-24 19:00 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/delta/live_world-championship-gr-b_bih-qatar-live-streaming-1243800954/1"
+  },
+  {
+    "title": "Bosnia-Herzegovina vs Qatar",
+    "category": "Soccer",
+    "time": "2026-06-24 19:00 UTC",
+    "channel": "Server 4",
+    "link": "https://embed.st/embed/echo/bosnia-herzegovina-vs-qatar-football-1539009/1"
   },
   {
     "title": "Colorado Rockies vs Boston Red Sox",
@@ -112,6 +133,13 @@
     "link": "https://embed.st/embed/golf/23344/1"
   },
   {
+    "title": "Morocco vs Haiti",
+    "category": "Soccer",
+    "time": "2026-06-24 22:00 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/delta/live_world-championship-gr-c_morocco-haiti-live-streaming-1243802952/1"
+  },
+  {
     "title": "Scotland vs Brazil",
     "category": "Soccer",
     "time": "2026-06-24 22:00 UTC",
@@ -124,6 +152,13 @@
     "time": "2026-06-24 22:00 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23345/1"
+  },
+  {
+    "title": "Scotland vs Brazil",
+    "category": "Soccer",
+    "time": "2026-06-24 22:00 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/delta/live_world-championship-gr-c_scotland-brazil-live-streaming-1243803951/1"
   },
   {
     "title": "Indiana Fever vs Phoenix Mercury",
@@ -175,11 +210,25 @@
     "link": "https://embed.st/embed/admin/ppv-cura-ao-vs-ivory-coast/1"
   },
   {
+    "title": "Curaçao vs Ivory Coast",
+    "category": "Soccer",
+    "time": "2026-06-25 20:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23363/1"
+  },
+  {
     "title": "Ecuador vs Germany",
     "category": "Soccer",
     "time": "2026-06-25 20:00 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/admin/ppv-ecuador-vs-germany/1"
+  },
+  {
+    "title": "Ecuador vs Germany",
+    "category": "Soccer",
+    "time": "2026-06-25 20:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23364/1"
   },
   {
     "title": "Tunisia vs Netherlands",
@@ -189,10 +238,24 @@
     "link": "https://embed.st/embed/admin/ppv-tunisia-vs-netherlands/1"
   },
   {
+    "title": "Tunisia vs Netherlands",
+    "category": "Soccer",
+    "time": "2026-06-25 23:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23366/1"
+  },
+  {
     "title": "Japan vs Sweden",
     "category": "Soccer",
     "time": "2026-06-25 23:00 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/admin/ppv-japan-vs-sweden/1"
+  },
+  {
+    "title": "Japan vs Sweden",
+    "category": "Soccer",
+    "time": "2026-06-25 23:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23365/1"
   }
 ]
