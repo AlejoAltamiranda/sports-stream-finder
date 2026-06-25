@@ -35,48 +35,6 @@
     "link": "https://embed.st/embed/admin/ppv-cura-ao-vs-ivory-coast/1"
   },
   {
-    "title": "Curaçao vs Ivory Coast",
-    "category": "Soccer",
-    "time": "2026-06-25 20:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23363/1"
-  },
-  {
-    "title": "Curaçao vs Ivory Coast",
-    "category": "Soccer",
-    "time": "2026-06-25 20:00 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/echo/curacao-vs-ivory-coast-football-1489409/1"
-  },
-  {
-    "title": "Ecuador vs Germany",
-    "category": "Soccer",
-    "time": "2026-06-25 20:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-ecuador-vs-germany/1"
-  },
-  {
-    "title": "Ecuador vs Germany",
-    "category": "Soccer",
-    "time": "2026-06-25 20:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23364/1"
-  },
-  {
-    "title": "Ecuador vs Germany",
-    "category": "Soccer",
-    "time": "2026-06-25 20:00 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/delta/live_world-championship-gr-e_ecuador-germany-live-streaming-1243815939/1"
-  },
-  {
-    "title": "Ecuador vs Germany",
-    "category": "Soccer",
-    "time": "2026-06-25 20:00 UTC",
-    "channel": "Server 4",
-    "link": "https://embed.st/embed/echo/ecuador-vs-germany-football-1489410/1"
-  },
-  {
     "title": "Detroit Tigers vs Houston Astros",
     "category": "MLB",
     "time": "2026-06-25 22:40 UTC",
@@ -145,6 +103,13 @@
     "time": "2026-06-25 23:00 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/admin/ppv-los-angeles-sparks-vs-toronto-tempo/1"
+  },
+  {
+    "title": "Toronto Tempo vs Los Angeles Sparks",
+    "category": "WNBA",
+    "time": "2026-06-25 23:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/delta/live_wnba_tempo-sparks-live-streaming-1211183604/1"
   },
   {
     "title": "Toronto Blue Jays vs Texas Rangers",
