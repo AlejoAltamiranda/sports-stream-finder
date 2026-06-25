@@ -1,124 +1,110 @@
 {
-  "scraping_date": "2026-06-25T04:07:17.911974",
-  "total_events": 23,
+  "scraping_date": "2026-06-25T09:34:05.502330",
+  "total_events": 21,
   "events": [
-    {
-      "title": "San Francisco Giants vs Athletics",
-      "datetime": "Wednesday, Jun 24, 2026, 9:45 PM ET",
-      "league": "MLB",
-      "status": "LIVE",
-      "event_url": "https://istreameast.cx/links/san-francisco-giants-vs-athletics-2388075"
-    },
-    {
-      "title": "Golden State Valkyries vs Atlanta Dream",
-      "datetime": "Wednesday, Jun 24, 2026, 10:00 PM ET",
-      "league": "WNBA",
-      "status": "LIVE",
-      "event_url": "https://istreameast.cx/links/golden-state-valkyries-vs-atlanta-dream-2449075"
-    },
     {
       "title": "Tampa Bay Rays vs Kansas City Royals",
       "datetime": "Thursday, Jun 25, 2026, 12:10 PM ET",
       "league": "MLB",
-      "status": "12 hours from now",
+      "status": "6 hours from now",
       "event_url": "https://istreameast.cx/links/tampa-bay-rays-vs-kansas-city-royals-2388088"
     },
     {
       "title": "Pittsburgh Pirates vs Seattle Mariners",
       "datetime": "Thursday, Jun 25, 2026, 12:35 PM ET",
       "league": "MLB",
-      "status": "12 hours from now",
+      "status": "7 hours from now",
       "event_url": "https://istreameast.cx/links/pittsburgh-pirates-vs-seattle-mariners-2388090"
     },
     {
       "title": "San Francisco Giants vs Athletics",
       "datetime": "Thursday, Jun 25, 2026, 3:45 PM ET",
       "league": "MLB",
-      "status": "15 hours from now",
+      "status": "10 hours from now",
       "event_url": "https://istreameast.cx/links/san-francisco-giants-vs-athletics-2388089"
     },
     {
       "title": "Curaçao vs Ivory Coast",
       "datetime": "Thursday, Jun 25, 2026, 4:00 PM ET",
       "league": "Soccer",
-      "status": "15 hours from now",
+      "status": "10 hours from now",
       "event_url": "https://istreameast.cx/links/curacao-vs-ivory-coast-2391768"
     },
     {
       "title": "Ecuador vs Germany",
       "datetime": "Thursday, Jun 25, 2026, 4:00 PM ET",
       "league": "Soccer",
-      "status": "15 hours from now",
+      "status": "10 hours from now",
       "event_url": "https://istreameast.cx/links/ecuador-vs-germany-2391769"
     },
     {
       "title": "Detroit Tigers vs Houston Astros",
       "datetime": "Thursday, Jun 25, 2026, 6:40 PM ET",
       "league": "MLB",
-      "status": "18 hours from now",
+      "status": "13 hours from now",
       "event_url": "https://istreameast.cx/links/detroit-tigers-vs-houston-astros-2388092"
     },
     {
       "title": "Tunisia vs Netherlands",
       "datetime": "Thursday, Jun 25, 2026, 7:00 PM ET",
       "league": "Soccer",
-      "status": "18 hours from now",
+      "status": "13 hours from now",
       "event_url": "https://istreameast.cx/links/tunisia-vs-netherlands-2391771"
     },
     {
       "title": "Japan vs Sweden",
       "datetime": "Thursday, Jun 25, 2026, 7:00 PM ET",
       "league": "Soccer",
-      "status": "18 hours from now",
+      "status": "13 hours from now",
       "event_url": "https://istreameast.cx/links/japan-vs-sweden-2461117"
     },
     {
       "title": "Toronto Tempo vs Los Angeles Sparks",
       "datetime": "Thursday, Jun 25, 2026, 7:00 PM ET",
       "league": "WNBA",
-      "status": "18 hours from now",
+      "status": "13 hours from now",
       "event_url": "https://istreameast.cx/links/toronto-tempo-vs-los-angeles-sparks-2449312"
     },
     {
       "title": "SmackDown #1401",
       "datetime": "Thursday, Jun 25, 2026, 8:00 PM ET",
       "league": "WWE",
-      "status": "19 hours from now",
+      "status": "14 hours from now",
       "event_url": "https://istreameast.cx/links/smackdown-1401-2490770"
     },
     {
       "title": "Winnipeg Blue Bombers vs Edmonton Elks",
       "datetime": "Thursday, Jun 25, 2026, 8:30 PM ET",
       "league": "CFL",
-      "status": "20 hours from now",
+      "status": "14 hours from now",
       "event_url": "https://istreameast.cx/links/winnipeg-blue-bombers-vs-edmonton-elks-2432544"
     },
     {
       "title": "Paraguay vs Australia",
       "datetime": "Thursday, Jun 25, 2026, 10:00 PM ET",
       "league": "Soccer",
-      "status": "21 hours from now",
+      "status": "16 hours from now",
       "event_url": "https://istreameast.cx/links/paraguay-vs-australia-2391770"
     },
     {
       "title": "Turkey vs USA",
       "datetime": "Thursday, Jun 25, 2026, 10:00 PM ET",
       "league": "Soccer",
-      "status": "21 hours from now",
+      "status": "16 hours from now",
       "event_url": "https://istreameast.cx/links/turkey-vs-usa-2461118"
     },
     {
       "title": "Las Vegas Aces vs Dallas Wings",
       "datetime": "Thursday, Jun 25, 2026, 10:00 PM ET",
       "league": "WNBA",
-      "status": "21 hours from now",
+      "status": "16 hours from now",
       "event_url": "https://istreameast.cx/links/las-vegas-aces-vs-dallas-wings-2449076"
     },
     {
       "title": "Seattle Storm vs New York Liberty",
       "datetime": "Thursday, Jun 25, 2026, 10:00 PM ET",
       "league": "WNBA",
-      "status": "21 hours from now",
+      "status": "16 hours from now",
       "event_url": "https://istreameast.cx/links/seattle-storm-vs-new-york-liberty-2449077"
     },
     {
