@@ -1,40 +1,5 @@
 [
   {
-    "title": "San Francisco Giants vs Athletics",
-    "category": "MLB",
-    "time": "2026-06-25 19:45 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-athletics-vs-san-francisco-giants/1"
-  },
-  {
-    "title": "San Francisco Giants vs Athletics",
-    "category": "MLB",
-    "time": "2026-06-25 19:45 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23399/1"
-  },
-  {
-    "title": "San Francisco Giants vs Athletics",
-    "category": "MLB",
-    "time": "2026-06-25 19:45 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/delta/live_mlb_giants-athletics-live-streaming-1342019637/1"
-  },
-  {
-    "title": "San Francisco Giants vs Athletics",
-    "category": "MLB",
-    "time": "2026-06-25 19:45 UTC",
-    "channel": "Server 4",
-    "link": "https://embed.st/embed/echo/san-francisco-giants-vs-athletics-baseball-179224/1"
-  },
-  {
-    "title": "Curaçao vs Ivory Coast",
-    "category": "Soccer",
-    "time": "2026-06-25 20:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-cura-ao-vs-ivory-coast/1"
-  },
-  {
     "title": "Detroit Tigers vs Houston Astros",
     "category": "MLB",
     "time": "2026-06-25 22:40 UTC",
@@ -60,6 +25,13 @@
     "category": "MLB",
     "time": "2026-06-25 22:45 UTC",
     "channel": "Server 3",
+    "link": "https://embed.st/embed/delta/live_mlb_nationals-phillies-live-streaming-1342021635/1"
+  },
+  {
+    "title": "Washington Nationals vs Philadelphia Phillies",
+    "category": "MLB",
+    "time": "2026-06-25 22:45 UTC",
+    "channel": "Server 4",
     "link": "https://embed.st/embed/echo/washington-nationals-vs-philadelphia-phillies-baseball-179221/1"
   },
   {
@@ -75,13 +47,6 @@
     "time": "2026-06-25 23:00 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23366/1"
-  },
-  {
-    "title": "Tunisia vs Netherlands",
-    "category": "Soccer",
-    "time": "2026-06-25 23:00 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/delta/live_world-championship-gr-f_tunisia-netherlands-live-streaming-1243817937/1"
   },
   {
     "title": "Japan vs Sweden",
@@ -133,6 +98,20 @@
     "link": "https://embed.st/embed/golf/23403/1"
   },
   {
+    "title": "New York Mets vs Chicago Cubs",
+    "category": "MLB",
+    "time": "2026-06-25 23:10 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/delta/live_mlb_mets-cubs-live-streaming-1342024632/1"
+  },
+  {
+    "title": "New York Mets vs Chicago Cubs",
+    "category": "MLB",
+    "time": "2026-06-25 23:10 UTC",
+    "channel": "Server 4",
+    "link": "https://embed.st/embed/echo/new-york-mets-vs-chicago-cubs-baseball-179226/1"
+  },
+  {
     "title": "Boston Red Sox vs New York Yankees",
     "category": "MLB",
     "time": "2026-06-25 23:10 UTC",
@@ -175,6 +154,41 @@
     "link": "https://embed.st/embed/golf/23367/1"
   },
   {
+    "title": "Paraguay vs Australia",
+    "category": "Soccer",
+    "time": "2026-06-26 02:00 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/delta/live_world-championship-gr-d_paraguay-australia-live-streaming-1243812942/1"
+  },
+  {
+    "title": "Paraguay vs Australia",
+    "category": "Soccer",
+    "time": "2026-06-26 02:00 UTC",
+    "channel": "Server 4",
+    "link": "https://embed.st/embed/echo/paraguay-vs-australia-football-1489411/1"
+  },
+  {
+    "title": "Turkey vs USA",
+    "category": "Soccer",
+    "time": "2026-06-26 02:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/1"
+  },
+  {
+    "title": "Turkey vs USA",
+    "category": "Soccer",
+    "time": "2026-06-26 02:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/3"
+  },
+  {
+    "title": "Turkey vs USA",
+    "category": "Soccer",
+    "time": "2026-06-26 02:00 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/5"
+  },
+  {
     "title": "Las Vegas Aces vs Dallas Wings",
     "category": "WNBA",
     "time": "2026-06-26 02:00 UTC",
@@ -182,11 +196,25 @@
     "link": "https://embed.st/embed/admin/ppv-dallas-wings-vs-las-vegas-aces/1"
   },
   {
+    "title": "Las Vegas Aces vs Dallas Wings",
+    "category": "WNBA",
+    "time": "2026-06-26 02:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/delta/live_wnba_aces-wings-live-streaming-1211184603/1"
+  },
+  {
     "title": "Seattle Storm vs New York Liberty",
     "category": "WNBA",
     "time": "2026-06-26 02:00 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/admin/ppv-new-york-liberty-vs-seattle-storm/1"
+  },
+  {
+    "title": "Seattle Storm vs New York Liberty",
+    "category": "WNBA",
+    "time": "2026-06-26 02:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/delta/live_wnba_storm-liberty-live-streaming-1211185602/1"
   },
   {
     "title": "Norway vs France",
@@ -313,6 +341,13 @@
     "time": "2026-06-27 00:00 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23394/1"
+  },
+  {
+    "title": "Minnesota Twins vs Colorado Rockies",
+    "category": "MLB",
+    "time": "2026-06-27 00:10 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23422/1"
   },
   {
     "title": "Saskatchewan Roughriders vs Toronto Argonauts",
