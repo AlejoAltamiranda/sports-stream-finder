@@ -1,33 +1,5 @@
 [
   {
-    "title": "Norway vs France",
-    "category": "Soccer",
-    "time": "2026-06-26 19:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-norway-vs-france/1"
-  },
-  {
-    "title": "Norway vs France",
-    "category": "Soccer",
-    "time": "2026-06-26 19:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23391/1"
-  },
-  {
-    "title": "Norway vs France",
-    "category": "Soccer",
-    "time": "2026-06-26 19:00 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/delta/live_world-championship-gr-i_norway-france-live-streaming-1243883871/1"
-  },
-  {
-    "title": "Norway vs France",
-    "category": "Soccer",
-    "time": "2026-06-26 19:00 UTC",
-    "channel": "Server 4",
-    "link": "https://embed.st/embed/echo/norway-vs-france-football-1489416/1"
-  },
-  {
     "title": "Senegal vs Iraq",
     "category": "Soccer",
     "time": "2026-06-26 19:00 UTC",
@@ -154,6 +126,13 @@
     "link": "https://embed.st/embed/golf/23393/1"
   },
   {
+    "title": "Cape Verde vs Saudi Arabia",
+    "category": "Soccer",
+    "time": "2026-06-27 00:00 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/echo/cape-verde-islands-vs-saudi-arabia-football-1489413/1"
+  },
+  {
     "title": "Uruguay vs Spain",
     "category": "Soccer",
     "time": "2026-06-27 00:00 UTC",
@@ -215,6 +194,13 @@
     "time": "2026-06-27 01:45 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23425/1"
+  },
+  {
+    "title": "San Diego Padres vs Los Angeles Dodgers",
+    "category": "MLB",
+    "time": "2026-06-27 01:45 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/delta/live_mlb_padres-dodgers-live-streaming-1342183473/1"
   },
   {
     "title": "Golden State Valkyries vs Atlanta Dream",
