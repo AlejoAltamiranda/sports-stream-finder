@@ -1,257 +1,250 @@
 {
-  "scraping_date": "2026-06-26T14:37:13.849586",
-  "total_events": 58,
+  "scraping_date": "2026-06-26T19:59:10.473916",
+  "total_events": 57,
   "events": [
-    {
-      "title": "Austrian Grand Prix Practice 2",
-      "datetime": "Friday, Jun 26, 2026, 11:00 AM ET",
-      "league": "Formula 1",
-      "status": "22 minutes from now",
-      "event_url": "https://istreameast.cx/links/austrian-grand-prix-practice-2-2408158"
-    },
     {
       "title": "Norway vs France",
       "datetime": "Friday, Jun 26, 2026, 3:00 PM ET",
       "league": "Soccer",
-      "status": "4 hours from now",
+      "status": "LIVE",
       "event_url": "https://istreameast.cx/links/norway-vs-france-2391775"
     },
     {
       "title": "Senegal vs Iraq",
       "datetime": "Friday, Jun 26, 2026, 3:00 PM ET",
       "league": "Soccer",
-      "status": "4 hours from now",
+      "status": "LIVE",
       "event_url": "https://istreameast.cx/links/senegal-vs-iraq-2461119"
     },
     {
       "title": "SmackDown #1401",
       "datetime": "Friday, Jun 26, 2026, 3:00 PM ET",
       "league": "WWE",
-      "status": "4 hours from now",
+      "status": "LIVE",
       "event_url": "https://istreameast.cx/links/smackdown-1401-2490770"
     },
     {
       "title": "Pittsburgh Pirates vs Cincinnati Reds",
       "datetime": "Friday, Jun 26, 2026, 6:40 PM ET",
       "league": "MLB",
-      "status": "8 hours from now",
+      "status": "2 hours from now",
       "event_url": "https://istreameast.cx/links/pittsburgh-pirates-vs-cincinnati-reds-2388100"
     },
     {
       "title": "Detroit Tigers vs Houston Astros",
       "datetime": "Friday, Jun 26, 2026, 6:40 PM ET",
       "league": "MLB",
-      "status": "8 hours from now",
+      "status": "2 hours from now",
       "event_url": "https://istreameast.cx/links/detroit-tigers-vs-houston-astros-2388104"
     },
     {
       "title": "Baltimore Orioles vs Washington Nationals",
       "datetime": "Friday, Jun 26, 2026, 7:05 PM ET",
       "league": "MLB",
-      "status": "8 hours from now",
+      "status": "3 hours from now",
       "event_url": "https://istreameast.cx/links/baltimore-orioles-vs-washington-nationals-2388108"
     },
     {
       "title": "Toronto Blue Jays vs Texas Rangers",
       "datetime": "Friday, Jun 26, 2026, 7:07 PM ET",
       "league": "MLB",
-      "status": "8 hours from now",
+      "status": "3 hours from now",
       "event_url": "https://istreameast.cx/links/toronto-blue-jays-vs-texas-rangers-2388095"
     },
     {
       "title": "New York Mets vs Philadelphia Phillies",
       "datetime": "Friday, Jun 26, 2026, 7:10 PM ET",
       "league": "MLB",
-      "status": "8 hours from now",
+      "status": "3 hours from now",
       "event_url": "https://istreameast.cx/links/new-york-mets-vs-philadelphia-phillies-2388094"
     },
     {
       "title": "Tampa Bay Rays vs Arizona Diamondbacks",
       "datetime": "Friday, Jun 26, 2026, 7:10 PM ET",
       "league": "MLB",
-      "status": "8 hours from now",
+      "status": "3 hours from now",
       "event_url": "https://istreameast.cx/links/tampa-bay-rays-vs-arizona-diamondbacks-2388096"
     },
     {
       "title": "Cleveland Guardians vs Seattle Mariners",
       "datetime": "Friday, Jun 26, 2026, 7:10 PM ET",
       "league": "MLB",
-      "status": "8 hours from now",
+      "status": "3 hours from now",
       "event_url": "https://istreameast.cx/links/cleveland-guardians-vs-seattle-mariners-2388105"
     },
     {
       "title": "Boston Red Sox vs New York Yankees",
       "datetime": "Friday, Jun 26, 2026, 7:10 PM ET",
       "league": "MLB",
-      "status": "8 hours from now",
+      "status": "3 hours from now",
       "event_url": "https://istreameast.cx/links/boston-red-sox-vs-new-york-yankees-2388107"
     },
     {
       "title": "Connecticut Sun vs Washington Mystics",
       "datetime": "Friday, Jun 26, 2026, 7:30 PM ET",
       "league": "WNBA",
-      "status": "8 hours from now",
+      "status": "3 hours from now",
       "event_url": "https://istreameast.cx/links/connecticut-sun-vs-washington-mystics-2449078"
     },
     {
       "title": "Chicago Sky vs Portland Fire",
       "datetime": "Friday, Jun 26, 2026, 7:30 PM ET",
       "league": "WNBA",
-      "status": "8 hours from now",
+      "status": "3 hours from now",
       "event_url": "https://istreameast.cx/links/chicago-sky-vs-portland-fire-2469369"
     },
     {
       "title": "Chicago White Sox vs Kansas City Royals",
       "datetime": "Friday, Jun 26, 2026, 7:40 PM ET",
       "league": "MLB",
-      "status": "9 hours from now",
+      "status": "3 hours from now",
       "event_url": "https://istreameast.cx/links/chicago-white-sox-vs-kansas-city-royals-2388106"
     },
     {
       "title": "Milwaukee Brewers vs Chicago Cubs",
       "datetime": "Friday, Jun 26, 2026, 7:45 PM ET",
       "league": "MLB",
-      "status": "9 hours from now",
+      "status": "3 hours from now",
       "event_url": "https://istreameast.cx/links/milwaukee-brewers-vs-chicago-cubs-2388101"
     },
     {
       "title": "Cape Verde vs Saudi Arabia",
       "datetime": "Friday, Jun 26, 2026, 8:00 PM ET",
       "league": "Soccer",
-      "status": "9 hours from now",
+      "status": "4 hours from now",
       "event_url": "https://istreameast.cx/links/cape-verde-vs-saudi-arabia-2391772"
     },
     {
       "title": "Uruguay vs Spain",
       "datetime": "Friday, Jun 26, 2026, 8:00 PM ET",
       "league": "Soccer",
-      "status": "9 hours from now",
+      "status": "4 hours from now",
       "event_url": "https://istreameast.cx/links/uruguay-vs-spain-2391776"
     },
     {
       "title": "Minnesota Twins vs Colorado Rockies",
       "datetime": "Friday, Jun 26, 2026, 8:10 PM ET",
       "league": "MLB",
-      "status": "9 hours from now",
+      "status": "4 hours from now",
       "event_url": "https://istreameast.cx/links/minnesota-twins-vs-colorado-rockies-2388102"
     },
     {
       "title": "St. Louis Cardinals vs Miami Marlins",
       "datetime": "Friday, Jun 26, 2026, 8:15 PM ET",
       "league": "MLB",
-      "status": "9 hours from now",
+      "status": "4 hours from now",
       "event_url": "https://istreameast.cx/links/st-louis-cardinals-vs-miami-marlins-2388097"
     },
     {
       "title": "Saskatchewan Roughriders vs Toronto Argonauts",
       "datetime": "Friday, Jun 26, 2026, 9:00 PM ET",
       "league": "CFL",
-      "status": "10 hours from now",
+      "status": "5 hours from now",
       "event_url": "https://istreameast.cx/links/saskatchewan-roughriders-vs-toronto-argonauts-2432545"
     },
     {
       "title": "Los Angeles Angels vs Athletics",
       "datetime": "Friday, Jun 26, 2026, 9:38 PM ET",
       "league": "MLB",
-      "status": "11 hours from now",
+      "status": "5 hours from now",
       "event_url": "https://istreameast.cx/links/los-angeles-angels-vs-athletics-2388103"
     },
     {
       "title": "San Diego Padres vs Los Angeles Dodgers",
       "datetime": "Friday, Jun 26, 2026, 9:45 PM ET",
       "league": "MLB",
-      "status": "11 hours from now",
+      "status": "5 hours from now",
       "event_url": "https://istreameast.cx/links/san-diego-padres-vs-los-angeles-dodgers-2388099"
     },
     {
       "title": "Golden State Valkyries vs Atlanta Dream",
       "datetime": "Friday, Jun 26, 2026, 10:00 PM ET",
       "league": "WNBA",
-      "status": "11 hours from now",
+      "status": "6 hours from now",
       "event_url": "https://istreameast.cx/links/golden-state-valkyries-vs-atlanta-dream-2449079"
     },
     {
       "title": "San Francisco Giants vs Atlanta Braves",
       "datetime": "Friday, Jun 26, 2026, 10:15 PM ET",
       "league": "MLB",
-      "status": "11 hours from now",
+      "status": "6 hours from now",
       "event_url": "https://istreameast.cx/links/san-francisco-giants-vs-atlanta-braves-2388098"
     },
     {
       "title": "Egypt vs Iran",
       "datetime": "Friday, Jun 26, 2026, 11:00 PM ET",
       "league": "Soccer",
-      "status": "12 hours from now",
+      "status": "7 hours from now",
       "event_url": "https://istreameast.cx/links/egypt-vs-iran-2391773"
     },
     {
       "title": "New Zealand vs Belgium",
       "datetime": "Friday, Jun 26, 2026, 11:00 PM ET",
       "league": "Soccer",
-      "status": "12 hours from now",
+      "status": "7 hours from now",
       "event_url": "https://istreameast.cx/links/new-zealand-vs-belgium-2391774"
     },
     {
       "title": "Austrian Grand Prix Practice 3",
       "datetime": "Saturday, Jun 27, 2026, 6:30 AM ET",
       "league": "Formula 1",
-      "status": "19 hours from now",
+      "status": "14 hours from now",
       "event_url": "https://istreameast.cx/links/austrian-grand-prix-practice-3-2408159"
     },
     {
       "title": "UFC Fight Night 280 Fiziev vs Torres",
       "datetime": "Saturday, Jun 27, 2026, 9:00 AM ET",
       "league": "UFC",
-      "status": "22 hours from now",
+      "status": "17 hours from now",
       "event_url": "https://istreameast.cx/links/ufc-fight-night-280-fiziev-vs-torres-2468284"
     },
     {
       "title": "Netherlands Sprint Race",
       "datetime": "Saturday, Jun 27, 2026, 9:00 AM ET",
       "league": "MotoGP",
-      "status": "22 hours from now",
+      "status": "17 hours from now",
       "event_url": "https://istreameast.cx/links/netherlands-sprint-race-2366149"
     },
     {
       "title": "Austrian Grand Prix Qualifying",
       "datetime": "Saturday, Jun 27, 2026, 10:00 AM ET",
       "league": "Formula 1",
-      "status": "23 hours from now",
+      "status": "18 hours from now",
       "event_url": "https://istreameast.cx/links/austrian-grand-prix-qualifying-2408160"
     },
     {
       "title": "Night Of Champions",
       "datetime": "Saturday, Jun 27, 2026, 1:00 PM ET",
       "league": "WWE",
-      "status": "1 day from now",
+      "status": "21 hours from now",
       "event_url": "https://istreameast.cx/links/night-of-champions-2468414"
     },
     {
       "title": "Detroit Tigers vs Houston Astros",
       "datetime": "Saturday, Jun 27, 2026, 1:10 PM ET",
       "league": "MLB",
-      "status": "1 day from now",
+      "status": "21 hours from now",
       "event_url": "https://istreameast.cx/links/detroit-tigers-vs-houston-astros-2388118"
     },
     {
       "title": "Boston Red Sox vs New York Yankees",
       "datetime": "Saturday, Jun 27, 2026, 1:10 PM ET",
       "league": "MLB",
-      "status": "1 day from now",
+      "status": "21 hours from now",
       "event_url": "https://istreameast.cx/links/boston-red-sox-vs-new-york-yankees-2388121"
     },
     {
       "title": "Toronto Tempo vs Phoenix Mercury",
       "datetime": "Saturday, Jun 27, 2026, 2:00 PM ET",
       "league": "WNBA",
-      "status": "1 day from now",
+      "status": "22 hours from now",
       "event_url": "https://istreameast.cx/links/toronto-tempo-vs-phoenix-mercury-2449313"
     },
     {
       "title": "Toronto Blue Jays vs Texas Rangers",
       "datetime": "Saturday, Jun 27, 2026, 3:07 PM ET",
       "league": "MLB",
-      "status": "1 day from now",
+      "status": "23 hours from now",
       "event_url": "https://istreameast.cx/links/toronto-blue-jays-vs-texas-rangers-2388115"
     },
     {
@@ -370,21 +363,21 @@
       "title": "Dallas Wings vs Minnesota Lynx",
       "datetime": "Sunday, Jun 28, 2026, 2:00 PM ET",
       "league": "WNBA",
-      "status": "2 days from now",
+      "status": "1 day from now",
       "event_url": "https://istreameast.cx/links/dallas-wings-vs-minnesota-lynx-2449082"
     },
     {
       "title": "South Africa vs Canada",
       "datetime": "Sunday, Jun 28, 2026, 3:00 PM ET",
       "league": "Soccer",
-      "status": "2 days from now",
+      "status": "1 day from now",
       "event_url": "https://istreameast.cx/links/south-africa-vs-canada-2499618"
     },
     {
       "title": "Washington Mystics vs Portland Fire",
       "datetime": "Sunday, Jun 28, 2026, 3:00 PM ET",
       "league": "WNBA",
-      "status": "2 days from now",
+      "status": "1 day from now",
       "event_url": "https://istreameast.cx/links/washington-mystics-vs-portland-fire-2469370"
     },
     {
