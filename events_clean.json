@@ -1,26 +1,5 @@
 [
   {
-    "title": "Austrian Grand Prix Practice 3",
-    "category": "Formula 1",
-    "time": "2026-06-27 10:30 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-austrian-grand-prix-practice-3/1"
-  },
-  {
-    "title": "Austrian Grand Prix Practice 3",
-    "category": "Formula 1",
-    "time": "2026-06-27 10:30 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/admin/ppv-austrian-grand-prix-practice-3/3"
-  },
-  {
-    "title": "Austrian Grand Prix Practice 3",
-    "category": "Formula 1",
-    "time": "2026-06-27 10:30 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/golf/23371/1"
-  },
-  {
     "title": "UFC Fight Night 280 Fiziev vs Torres",
     "category": "UFC",
     "time": "2026-06-27 13:00 UTC",
@@ -33,6 +12,13 @@
     "time": "2026-06-27 13:00 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23446/1"
+  },
+  {
+    "title": "UFC Fight Night 280 Fiziev vs Torres",
+    "category": "UFC",
+    "time": "2026-06-27 13:00 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/echo/ppv-event-01-ufc-fight-night-fiziev-v-torres-ppv-01/1"
   },
   {
     "title": "Austrian Grand Prix Qualifying",
