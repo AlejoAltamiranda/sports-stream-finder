@@ -1,208 +1,166 @@
 {
-  "scraping_date": "2026-06-27T04:00:00.639087",
-  "total_events": 37,
+  "scraping_date": "2026-06-27T08:44:32.897408",
+  "total_events": 31,
   "events": [
-    {
-      "title": "Los Angeles Angels vs Athletics",
-      "datetime": "Friday, Jun 26, 2026, 9:38 PM ET",
-      "league": "MLB",
-      "status": "LIVE",
-      "event_url": "https://istreameast.cx/links/los-angeles-angels-vs-athletics-2388103"
-    },
-    {
-      "title": "San Diego Padres vs Los Angeles Dodgers",
-      "datetime": "Friday, Jun 26, 2026, 9:45 PM ET",
-      "league": "MLB",
-      "status": "LIVE",
-      "event_url": "https://istreameast.cx/links/san-diego-padres-vs-los-angeles-dodgers-2388099"
-    },
-    {
-      "title": "Golden State Valkyries vs Atlanta Dream",
-      "datetime": "Friday, Jun 26, 2026, 10:00 PM ET",
-      "league": "WNBA",
-      "status": "LIVE",
-      "event_url": "https://istreameast.cx/links/golden-state-valkyries-vs-atlanta-dream-2449079"
-    },
-    {
-      "title": "San Francisco Giants vs Atlanta Braves",
-      "datetime": "Friday, Jun 26, 2026, 10:15 PM ET",
-      "league": "MLB",
-      "status": "LIVE",
-      "event_url": "https://istreameast.cx/links/san-francisco-giants-vs-atlanta-braves-2388098"
-    },
-    {
-      "title": "Egypt vs Iran",
-      "datetime": "Friday, Jun 26, 2026, 11:00 PM ET",
-      "league": "Soccer",
-      "status": "LIVE",
-      "event_url": "https://istreameast.cx/links/egypt-vs-iran-2391773"
-    },
-    {
-      "title": "New Zealand vs Belgium",
-      "datetime": "Friday, Jun 26, 2026, 11:00 PM ET",
-      "league": "Soccer",
-      "status": "LIVE",
-      "event_url": "https://istreameast.cx/links/new-zealand-vs-belgium-2391774"
-    },
     {
       "title": "Austrian Grand Prix Practice 3",
       "datetime": "Saturday, Jun 27, 2026, 6:30 AM ET",
       "league": "Formula 1",
-      "status": "6 hours from now",
+      "status": "1 hour from now",
       "event_url": "https://istreameast.cx/links/austrian-grand-prix-practice-3-2408159"
     },
     {
       "title": "UFC Fight Night 280 Fiziev vs Torres",
       "datetime": "Saturday, Jun 27, 2026, 9:00 AM ET",
       "league": "UFC",
-      "status": "9 hours from now",
+      "status": "4 hours from now",
       "event_url": "https://istreameast.cx/links/ufc-fight-night-280-fiziev-vs-torres-2468284"
     },
     {
       "title": "Netherlands Sprint Race",
       "datetime": "Saturday, Jun 27, 2026, 9:00 AM ET",
       "league": "MotoGP",
-      "status": "9 hours from now",
+      "status": "4 hours from now",
       "event_url": "https://istreameast.cx/links/netherlands-sprint-race-2366149"
     },
     {
       "title": "Austrian Grand Prix Qualifying",
       "datetime": "Saturday, Jun 27, 2026, 10:00 AM ET",
       "league": "Formula 1",
-      "status": "10 hours from now",
+      "status": "5 hours from now",
       "event_url": "https://istreameast.cx/links/austrian-grand-prix-qualifying-2408160"
     },
     {
       "title": "Night Of Champions",
       "datetime": "Saturday, Jun 27, 2026, 1:00 PM ET",
       "league": "WWE",
-      "status": "13 hours from now",
+      "status": "8 hours from now",
       "event_url": "https://istreameast.cx/links/night-of-champions-2468414"
     },
     {
       "title": "Detroit Tigers vs Houston Astros",
       "datetime": "Saturday, Jun 27, 2026, 1:10 PM ET",
       "league": "MLB",
-      "status": "13 hours from now",
+      "status": "8 hours from now",
       "event_url": "https://istreameast.cx/links/detroit-tigers-vs-houston-astros-2388118"
     },
     {
       "title": "Boston Red Sox vs New York Yankees",
       "datetime": "Saturday, Jun 27, 2026, 1:10 PM ET",
       "league": "MLB",
-      "status": "13 hours from now",
+      "status": "8 hours from now",
       "event_url": "https://istreameast.cx/links/boston-red-sox-vs-new-york-yankees-2388121"
     },
     {
       "title": "Toronto Tempo vs Phoenix Mercury",
       "datetime": "Saturday, Jun 27, 2026, 2:00 PM ET",
       "league": "WNBA",
-      "status": "14 hours from now",
+      "status": "9 hours from now",
       "event_url": "https://istreameast.cx/links/toronto-tempo-vs-phoenix-mercury-2449313"
     },
     {
       "title": "Toronto Blue Jays vs Texas Rangers",
       "datetime": "Saturday, Jun 27, 2026, 3:07 PM ET",
       "league": "MLB",
-      "status": "15 hours from now",
+      "status": "10 hours from now",
       "event_url": "https://istreameast.cx/links/toronto-blue-jays-vs-texas-rangers-2388115"
     },
     {
       "title": "Pittsburgh Pirates vs Cincinnati Reds",
       "datetime": "Saturday, Jun 27, 2026, 4:05 PM ET",
       "league": "MLB",
-      "status": "16 hours from now",
+      "status": "11 hours from now",
       "event_url": "https://istreameast.cx/links/pittsburgh-pirates-vs-cincinnati-reds-2388114"
     },
     {
       "title": "New York Mets vs Philadelphia Phillies",
       "datetime": "Saturday, Jun 27, 2026, 4:10 PM ET",
       "league": "MLB",
-      "status": "16 hours from now",
+      "status": "11 hours from now",
       "event_url": "https://istreameast.cx/links/new-york-mets-vs-philadelphia-phillies-2388111"
     },
     {
       "title": "Croatia vs Ghana",
       "datetime": "Saturday, Jun 27, 2026, 5:00 PM ET",
       "league": "Soccer",
-      "status": "17 hours from now",
+      "status": "12 hours from now",
       "event_url": "https://istreameast.cx/links/croatia-vs-ghana-2391779"
     },
     {
       "title": "Panama vs England",
       "datetime": "Saturday, Jun 27, 2026, 5:00 PM ET",
       "league": "Soccer",
-      "status": "17 hours from now",
+      "status": "12 hours from now",
       "event_url": "https://istreameast.cx/links/panama-vs-england-2391781"
     },
     {
       "title": "PFL San Diego McKee vs Isbulaev",
       "datetime": "Saturday, Jun 27, 2026, 7:00 PM ET",
       "league": "UFC",
-      "status": "19 hours from now",
+      "status": "14 hours from now",
       "event_url": "https://istreameast.cx/links/pfl-san-diego-mckee-vs-isbulaev-2475845"
     },
     {
       "title": "Xander Zayas vs Jaron Ennis",
       "datetime": "Saturday, Jun 27, 2026, 7:00 PM ET",
       "league": "Boxing",
-      "status": "19 hours from now",
+      "status": "14 hours from now",
       "event_url": "https://istreameast.cx/links/xander-zayas-vs-jaron-ennis-2466558"
     },
     {
       "title": "BC Lions vs Calgary Stampeders",
       "datetime": "Saturday, Jun 27, 2026, 7:00 PM ET",
       "league": "CFL",
-      "status": "19 hours from now",
+      "status": "14 hours from now",
       "event_url": "https://istreameast.cx/links/bc-lions-vs-calgary-stampeders-2432546"
     },
     {
       "title": "Colombia vs Portugal",
       "datetime": "Saturday, Jun 27, 2026, 7:30 PM ET",
       "league": "Soccer",
-      "status": "19 hours from now",
+      "status": "14 hours from now",
       "event_url": "https://istreameast.cx/links/colombia-vs-portugal-2391778"
     },
     {
       "title": "DR Congo vs Uzbekistan",
       "datetime": "Saturday, Jun 27, 2026, 7:30 PM ET",
       "league": "Soccer",
-      "status": "19 hours from now",
+      "status": "14 hours from now",
       "event_url": "https://istreameast.cx/links/dr-congo-vs-uzbekistan-2461120"
     },
     {
       "title": "De Los Santos vs Valenzuela",
       "datetime": "Saturday, Jun 27, 2026, 8:00 PM ET",
       "league": "Boxing",
-      "status": "20 hours from now",
+      "status": "15 hours from now",
       "event_url": "https://istreameast.cx/links/de-los-santos-vs-valenzuela-2478615"
     },
     {
       "title": "Indiana Fever vs Los Angeles Sparks",
       "datetime": "Saturday, Jun 27, 2026, 8:00 PM ET",
       "league": "WNBA",
-      "status": "20 hours from now",
+      "status": "15 hours from now",
       "event_url": "https://istreameast.cx/links/indiana-fever-vs-los-angeles-sparks-2449080"
     },
     {
       "title": "Seattle Storm vs Atlanta Dream",
       "datetime": "Saturday, Jun 27, 2026, 9:00 PM ET",
       "league": "WNBA",
-      "status": "21 hours from now",
+      "status": "16 hours from now",
       "event_url": "https://istreameast.cx/links/seattle-storm-vs-atlanta-dream-2449081"
     },
     {
       "title": "Algeria vs Austria",
       "datetime": "Saturday, Jun 27, 2026, 10:00 PM ET",
       "league": "Soccer",
-      "status": "22 hours from now",
+      "status": "17 hours from now",
       "event_url": "https://istreameast.cx/links/algeria-vs-austria-2391777"
     },
     {
       "title": "Jordan vs Argentina",
       "datetime": "Saturday, Jun 27, 2026, 10:00 PM ET",
       "league": "Soccer",
-      "status": "22 hours from now",
+      "status": "17 hours from now",
       "event_url": "https://istreameast.cx/links/jordan-vs-argentina-2391780"
     },
     {
