@@ -4,20 +4,13 @@
     "category": "UFC",
     "time": "2026-06-27 13:00 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-ufc-fight-night-fiziev-vs-torres/1"
-  },
-  {
-    "title": "UFC Fight Night 280 Fiziev vs Torres",
-    "category": "UFC",
-    "time": "2026-06-27 13:00 UTC",
-    "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23446/1"
   },
   {
     "title": "UFC Fight Night 280 Fiziev vs Torres",
     "category": "UFC",
     "time": "2026-06-27 13:00 UTC",
-    "channel": "Server 3",
+    "channel": "Server 2",
     "link": "https://embed.st/embed/echo/ppv-event-01-ufc-fight-night-fiziev-v-torres-ppv-01/1"
   },
   {
@@ -138,6 +131,13 @@
     "time": "2026-06-27 21:00 UTC",
     "channel": "Server 3",
     "link": "https://embed.st/embed/echo/panama-vs-england-football-1489422/1"
+  },
+  {
+    "title": "Xander Zayas vs Jaron Ennis",
+    "category": "Boxing",
+    "time": "2026-06-27 23:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-xander-zayas-vs-jaron-boots-ennis/1"
   },
   {
     "title": "BC Lions vs Calgary Stampeders",
