@@ -1,66 +1,24 @@
 [
   {
-    "title": "Los Angeles Angels vs Athletics",
-    "category": "MLB",
-    "time": "2026-06-27 01:38 UTC",
+    "title": "Austrian Grand Prix Practice 3",
+    "category": "Formula 1",
+    "time": "2026-06-27 10:30 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/golf/23460/1"
+    "link": "https://embed.st/embed/admin/ppv-austrian-grand-prix-qualifying/1"
   },
   {
-    "title": "San Diego Padres vs Los Angeles Dodgers",
-    "category": "MLB",
-    "time": "2026-06-27 01:45 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/golf/23462/1"
-  },
-  {
-    "title": "Golden State Valkyries vs Atlanta Dream",
-    "category": "WNBA",
-    "time": "2026-06-27 02:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/delta/live_wnba_valkyries-atlanta-live-streaming-1211195592/1"
-  },
-  {
-    "title": "San Francisco Giants vs Atlanta Braves",
-    "category": "MLB",
-    "time": "2026-06-27 02:15 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/golf/23461/1"
-  },
-  {
-    "title": "Egypt vs Iran",
-    "category": "Soccer",
-    "time": "2026-06-27 03:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/delta/live_world-championship-gr-g_egypt-iran-live-streaming-1243826928/1"
-  },
-  {
-    "title": "New Zealand vs Belgium",
-    "category": "Soccer",
-    "time": "2026-06-27 03:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-new-zealand-vs-belgium/1"
-  },
-  {
-    "title": "New Zealand vs Belgium",
-    "category": "Soccer",
-    "time": "2026-06-27 03:00 UTC",
+    "title": "Austrian Grand Prix Practice 3",
+    "category": "Formula 1",
+    "time": "2026-06-27 10:30 UTC",
     "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23396/1"
+    "link": "https://embed.st/embed/admin/ppv-austrian-grand-prix-qualifying/3"
   },
   {
-    "title": "New Zealand vs Belgium",
-    "category": "Soccer",
-    "time": "2026-06-27 03:00 UTC",
+    "title": "Austrian Grand Prix Practice 3",
+    "category": "Formula 1",
+    "time": "2026-06-27 10:30 UTC",
     "channel": "Server 3",
-    "link": "https://embed.st/embed/delta/live_world-championship-gr-g_new-zealand-belgium-live-streaming-1243827927/1"
-  },
-  {
-    "title": "New Zealand vs Belgium",
-    "category": "Soccer",
-    "time": "2026-06-27 03:00 UTC",
-    "channel": "Server 4",
-    "link": "https://embed.st/embed/echo/new-zealand-vs-belgium-football-1489415/1"
+    "link": "https://embed.st/embed/golf/23371/1"
   },
   {
     "title": "UFC Fight Night 280 Fiziev vs Torres",
@@ -75,6 +33,41 @@
     "time": "2026-06-27 13:00 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23446/1"
+  },
+  {
+    "title": "Austrian Grand Prix Qualifying",
+    "category": "Formula 1",
+    "time": "2026-06-27 14:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-austrian-grand-prix-qualifying/1\""
+  },
+  {
+    "title": "Austrian Grand Prix Qualifying",
+    "category": "Formula 1",
+    "time": "2026-06-27 14:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/admin/ppv-austrian-grand-prix-qualifying/2"
+  },
+  {
+    "title": "Austrian Grand Prix Qualifying",
+    "category": "Formula 1",
+    "time": "2026-06-27 14:00 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/admin/ppv-austrian-grand-prix-qualifying/3"
+  },
+  {
+    "title": "Night Of Champions",
+    "category": "WWE",
+    "time": "2026-06-27 17:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-wwe-night-of-champions-riyadh/1"
+  },
+  {
+    "title": "Night Of Champions",
+    "category": "WWE",
+    "time": "2026-06-27 17:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/admin/ppv-wwe-night-of-champions-riyadh/2"
   },
   {
     "title": "Detroit Tigers vs Houston Astros",
@@ -145,13 +138,6 @@
     "time": "2026-06-27 21:00 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23407/1"
-  },
-  {
-    "title": "Xander Zayas vs Jaron Ennis",
-    "category": "Boxing",
-    "time": "2026-06-27 23:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/delta/live-event_xander-zayas-vs-jaron-boots-ennis-live-stream/1"
   },
   {
     "title": "BC Lions vs Calgary Stampeders",
@@ -231,11 +217,46 @@
     "link": "https://embed.st/embed/golf/23411/1"
   },
   {
+    "title": "Austrian Grand Prix",
+    "category": "Formula 1",
+    "time": "2026-06-28 13:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-austrian-grand-prix-race/1"
+  },
+  {
+    "title": "Austrian Grand Prix",
+    "category": "Formula 1",
+    "time": "2026-06-28 13:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/admin/ppv-austrian-grand-prix-race/2"
+  },
+  {
+    "title": "Austrian Grand Prix",
+    "category": "Formula 1",
+    "time": "2026-06-28 13:00 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/admin/ppv-austrian-grand-prix-race/3"
+  },
+  {
+    "title": "Austrian Grand Prix",
+    "category": "Formula 1",
+    "time": "2026-06-28 13:00 UTC",
+    "channel": "Server 4",
+    "link": "https://embed.st/embed/admin/ppv-austrian-grand-prix-race/4"
+  },
+  {
     "title": "South Africa vs Canada",
     "category": "Soccer",
     "time": "2026-06-28 19:00 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/admin/ppv-south-africa-vs-canada/1"
+  },
+  {
+    "title": "South Africa vs Canada",
+    "category": "Soccer",
+    "time": "2026-06-28 19:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23427/1"
   },
   {
     "title": "Montreal Alouettes vs Ottawa Redblacks",
