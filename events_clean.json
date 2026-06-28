@@ -1,33 +1,5 @@
 [
   {
-    "title": "Austrian Grand Prix",
-    "category": "Formula 1",
-    "time": "2026-06-28 13:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-austrian-grand-prix-race/1"
-  },
-  {
-    "title": "Austrian Grand Prix",
-    "category": "Formula 1",
-    "time": "2026-06-28 13:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/admin/ppv-austrian-grand-prix-race/2"
-  },
-  {
-    "title": "Austrian Grand Prix",
-    "category": "Formula 1",
-    "time": "2026-06-28 13:00 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/admin/ppv-austrian-grand-prix-race/3"
-  },
-  {
-    "title": "Austrian Grand Prix",
-    "category": "Formula 1",
-    "time": "2026-06-28 13:00 UTC",
-    "channel": "Server 4",
-    "link": "https://embed.st/embed/admin/ppv-austrian-grand-prix-race/4"
-  },
-  {
     "title": "Pittsburgh Pirates vs Cincinnati Reds",
     "category": "MLB",
     "time": "2026-06-28 17:35 UTC",
@@ -133,11 +105,137 @@
     "link": "https://embed.st/embed/echo/tampa-bay-rays-vs-arizona-diamondbacks-baseball-179261/1"
   },
   {
+    "title": "Detroit Tigers vs Houston Astros",
+    "category": "MLB",
+    "time": "2026-06-28 17:40 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-houston-astros-vs-detroit-tigers/1"
+  },
+  {
+    "title": "Detroit Tigers vs Houston Astros",
+    "category": "MLB",
+    "time": "2026-06-28 17:40 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23453/1"
+  },
+  {
+    "title": "Detroit Tigers vs Houston Astros",
+    "category": "MLB",
+    "time": "2026-06-28 17:40 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/echo/detroit-tigers-vs-houston-astros-baseball-179269/1"
+  },
+  {
+    "title": "Cleveland Guardians vs Seattle Mariners",
+    "category": "MLB",
+    "time": "2026-06-28 17:40 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-seattle-mariners-vs-cleveland-guardians/1"
+  },
+  {
+    "title": "Cleveland Guardians vs Seattle Mariners",
+    "category": "MLB",
+    "time": "2026-06-28 17:40 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23455/1"
+  },
+  {
+    "title": "Cleveland Guardians vs Seattle Mariners",
+    "category": "MLB",
+    "time": "2026-06-28 17:40 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/echo/cleveland-guardians-vs-seattle-mariners-baseball-179270/1"
+  },
+  {
     "title": "Dallas Wings vs Minnesota Lynx",
     "category": "WNBA",
     "time": "2026-06-28 18:00 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/admin/ppv-minnesota-lynx-vs-dallas-wings/1"
+  },
+  {
+    "title": "Milwaukee Brewers vs Chicago Cubs",
+    "category": "MLB",
+    "time": "2026-06-28 18:10 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-chicago-cubs-vs-milwaukee-brewers/1"
+  },
+  {
+    "title": "Milwaukee Brewers vs Chicago Cubs",
+    "category": "MLB",
+    "time": "2026-06-28 18:10 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23456/1"
+  },
+  {
+    "title": "Milwaukee Brewers vs Chicago Cubs",
+    "category": "MLB",
+    "time": "2026-06-28 18:10 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/echo/milwaukee-brewers-vs-chicago-cubs-baseball-179266/1"
+  },
+  {
+    "title": "Minnesota Twins vs Colorado Rockies",
+    "category": "MLB",
+    "time": "2026-06-28 18:10 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-colorado-rockies-vs-minnesota-twins/1"
+  },
+  {
+    "title": "Minnesota Twins vs Colorado Rockies",
+    "category": "MLB",
+    "time": "2026-06-28 18:10 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23457/1"
+  },
+  {
+    "title": "Minnesota Twins vs Colorado Rockies",
+    "category": "MLB",
+    "time": "2026-06-28 18:10 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/echo/minnesota-twins-vs-colorado-rockies-baseball-179267/1"
+  },
+  {
+    "title": "Chicago White Sox vs Kansas City Royals",
+    "category": "MLB",
+    "time": "2026-06-28 18:10 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-kansas-city-royals-vs-chicago-white-sox/1"
+  },
+  {
+    "title": "Chicago White Sox vs Kansas City Royals",
+    "category": "MLB",
+    "time": "2026-06-28 18:10 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23458/1"
+  },
+  {
+    "title": "Chicago White Sox vs Kansas City Royals",
+    "category": "MLB",
+    "time": "2026-06-28 18:10 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/echo/chicago-white-sox-vs-kansas-city-royals-baseball-179271/1"
+  },
+  {
+    "title": "St. Louis Cardinals vs Miami Marlins",
+    "category": "MLB",
+    "time": "2026-06-28 18:15 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-miami-marlins-vs-st-louis-cardinals/1"
+  },
+  {
+    "title": "St. Louis Cardinals vs Miami Marlins",
+    "category": "MLB",
+    "time": "2026-06-28 18:15 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23459/1"
+  },
+  {
+    "title": "St. Louis Cardinals vs Miami Marlins",
+    "category": "MLB",
+    "time": "2026-06-28 18:15 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/echo/stlouis-cardinals-vs-miami-marlins-baseball-179262/1"
   },
   {
     "title": "South Africa vs Canada",
@@ -168,11 +266,88 @@
     "link": "https://embed.st/embed/admin/ppv-portland-fire-vs-washington-mystics/1"
   },
   {
+    "title": "Los Angeles Angels vs Athletics",
+    "category": "MLB",
+    "time": "2026-06-28 19:15 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-athletics-vs-los-angeles-angels/1"
+  },
+  {
+    "title": "Los Angeles Angels vs Athletics",
+    "category": "MLB",
+    "time": "2026-06-28 19:15 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23460/1"
+  },
+  {
+    "title": "Los Angeles Angels vs Athletics",
+    "category": "MLB",
+    "time": "2026-06-28 19:15 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/echo/los-angeles-angels-vs-athletics-baseball-179268/1"
+  },
+  {
     "title": "Chicago Sky vs Las Vegas Aces",
     "category": "WNBA",
     "time": "2026-06-28 20:00 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/admin/ppv-las-vegas-aces-vs-chicago-sky/1"
+  },
+  {
+    "title": "San Francisco Giants vs Atlanta Braves",
+    "category": "MLB",
+    "time": "2026-06-28 20:05 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-atlanta-braves-vs-san-francisco-giants/1"
+  },
+  {
+    "title": "San Francisco Giants vs Atlanta Braves",
+    "category": "MLB",
+    "time": "2026-06-28 20:05 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23461/1"
+  },
+  {
+    "title": "San Francisco Giants vs Atlanta Braves",
+    "category": "MLB",
+    "time": "2026-06-28 20:05 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/echo/san-francisco-giants-vs-atlanta-braves-baseball-179263/1"
+  },
+  {
+    "title": "San Diego Padres vs Los Angeles Dodgers",
+    "category": "MLB",
+    "time": "2026-06-28 20:10 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-los-angeles-dodgers-vs-san-diego-padres/1"
+  },
+  {
+    "title": "San Diego Padres vs Los Angeles Dodgers",
+    "category": "MLB",
+    "time": "2026-06-28 20:10 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23462/1"
+  },
+  {
+    "title": "San Diego Padres vs Los Angeles Dodgers",
+    "category": "MLB",
+    "time": "2026-06-28 20:10 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/echo/san-diego-padres-vs-los-angeles-dodgers-baseball-179264/1"
+  },
+  {
+    "title": "Zuffa Boxing 8 De Los Santos vs Valenzuela",
+    "category": "Boxing",
+    "time": "2026-06-28 21:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23485/1"
+  },
+  {
+    "title": "Zuffa Boxing 8 De Los Santos vs Valenzuela",
+    "category": "Boxing",
+    "time": "2026-06-28 21:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23485/1"
   },
   {
     "title": "Golden State Valkyries vs New York Liberty",
@@ -187,6 +362,20 @@
     "time": "2026-06-28 23:00 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/admin/ppv-ottawa-red-blacks-vs-montreal-alouettes/1"
+  },
+  {
+    "title": "Boston Red Sox vs New York Yankees",
+    "category": "MLB",
+    "time": "2026-06-28 23:20 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-new-york-yankees-vs-boston-red-sox/1"
+  },
+  {
+    "title": "Boston Red Sox vs New York Yankees",
+    "category": "MLB",
+    "time": "2026-06-28 23:20 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23463/1"
   },
   {
     "title": "Brazil vs Japan",
@@ -215,5 +404,47 @@
     "time": "2026-06-29 20:30 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23464/1"
+  },
+  {
+    "title": "Baltimore Orioles vs Chicago White Sox",
+    "category": "MLB",
+    "time": "2026-06-29 22:35 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23468/1"
+  },
+  {
+    "title": "Philadelphia Phillies vs Pittsburgh Pirates",
+    "category": "MLB",
+    "time": "2026-06-29 22:40 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23469/1"
+  },
+  {
+    "title": "New York Yankees vs Detroit Tigers",
+    "category": "MLB",
+    "time": "2026-06-29 23:05 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23471/1"
+  },
+  {
+    "title": "Toronto Blue Jays vs New York Mets",
+    "category": "MLB",
+    "time": "2026-06-29 23:07 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23472/1"
+  },
+  {
+    "title": "Boston Red Sox vs Washington Nationals",
+    "category": "MLB",
+    "time": "2026-06-29 23:10 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23473/1"
+  },
+  {
+    "title": "Netherlands vs Morocco",
+    "category": "Soccer",
+    "time": "2026-06-30 01:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-netherlands-vs-morocco/1"
   }
 ]
