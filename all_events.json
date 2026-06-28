@@ -1,103 +1,103 @@
 {
-  "scraping_date": "2026-06-28T09:20:20.068924",
+  "scraping_date": "2026-06-28T14:01:59.360046",
   "total_events": 16,
   "events": [
     {
       "title": "Netherlands GP",
       "datetime": "Sunday, Jun 28, 2026, 8:00 AM ET",
       "league": "MotoGP",
-      "status": "2 hours from now",
+      "status": "LIVE",
       "event_url": "https://istreameast.cx/links/netherlands-gp-2366150"
     },
     {
       "title": "Austrian Grand Prix",
       "datetime": "Sunday, Jun 28, 2026, 9:00 AM ET",
       "league": "Formula 1",
-      "status": "3 hours from now",
+      "status": "LIVE",
       "event_url": "https://istreameast.cx/links/austrian-grand-prix-2408161"
     },
     {
       "title": "Pittsburgh Pirates vs Cincinnati Reds",
       "datetime": "Sunday, Jun 28, 2026, 1:35 PM ET",
       "league": "MLB",
-      "status": "8 hours from now",
+      "status": "3 hours from now",
       "event_url": "https://istreameast.cx/links/pittsburgh-pirates-vs-cincinnati-reds-2388130"
     },
     {
       "title": "Baltimore Orioles vs Washington Nationals",
       "datetime": "Sunday, Jun 28, 2026, 1:35 PM ET",
       "league": "MLB",
-      "status": "8 hours from now",
+      "status": "3 hours from now",
       "event_url": "https://istreameast.cx/links/baltimore-orioles-vs-washington-nationals-2388138"
     },
     {
       "title": "Toronto Blue Jays vs Texas Rangers",
       "datetime": "Sunday, Jun 28, 2026, 1:37 PM ET",
       "league": "MLB",
-      "status": "8 hours from now",
+      "status": "3 hours from now",
       "event_url": "https://istreameast.cx/links/toronto-blue-jays-vs-texas-rangers-2388125"
     },
     {
       "title": "New York Mets vs Philadelphia Phillies",
       "datetime": "Sunday, Jun 28, 2026, 1:40 PM ET",
       "league": "MLB",
-      "status": "8 hours from now",
+      "status": "3 hours from now",
       "event_url": "https://istreameast.cx/links/new-york-mets-vs-philadelphia-phillies-2388124"
     },
     {
       "title": "Tampa Bay Rays vs Arizona Diamondbacks",
       "datetime": "Sunday, Jun 28, 2026, 1:40 PM ET",
       "league": "MLB",
-      "status": "8 hours from now",
+      "status": "3 hours from now",
       "event_url": "https://istreameast.cx/links/tampa-bay-rays-vs-arizona-diamondbacks-2388126"
     },
     {
       "title": "Dallas Wings vs Minnesota Lynx",
       "datetime": "Sunday, Jun 28, 2026, 2:00 PM ET",
       "league": "WNBA",
-      "status": "8 hours from now",
+      "status": "3 hours from now",
       "event_url": "https://istreameast.cx/links/dallas-wings-vs-minnesota-lynx-2449082"
     },
     {
       "title": "South Africa vs Canada",
       "datetime": "Sunday, Jun 28, 2026, 3:00 PM ET",
       "league": "Soccer",
-      "status": "9 hours from now",
+      "status": "4 hours from now",
       "event_url": "https://istreameast.cx/links/south-africa-vs-canada-2499618"
     },
     {
       "title": "Washington Mystics vs Portland Fire",
       "datetime": "Sunday, Jun 28, 2026, 3:00 PM ET",
       "league": "WNBA",
-      "status": "9 hours from now",
+      "status": "4 hours from now",
       "event_url": "https://istreameast.cx/links/washington-mystics-vs-portland-fire-2469370"
     },
     {
       "title": "Chicago Sky vs Las Vegas Aces",
       "datetime": "Sunday, Jun 28, 2026, 4:00 PM ET",
       "league": "WNBA",
-      "status": "10 hours from now",
+      "status": "5 hours from now",
       "event_url": "https://istreameast.cx/links/chicago-sky-vs-las-vegas-aces-2449083"
     },
     {
       "title": "Zuffa Boxing 8 De Los Santos vs Valenzuela",
       "datetime": "Sunday, Jun 28, 2026, 5:00 PM ET",
       "league": "Boxing",
-      "status": "11 hours from now",
+      "status": "6 hours from now",
       "event_url": "https://istreameast.cx/links/zuffa-boxing-8-de-los-santos-vs-valenzuela-2478615"
     },
     {
       "title": "Golden State Valkyries vs New York Liberty",
       "datetime": "Sunday, Jun 28, 2026, 7:00 PM ET",
       "league": "WNBA",
-      "status": "13 hours from now",
+      "status": "8 hours from now",
       "event_url": "https://istreameast.cx/links/golden-state-valkyries-vs-new-york-liberty-2449084"
     },
     {
       "title": "Montreal Alouettes vs Ottawa Redblacks",
       "datetime": "Sunday, Jun 28, 2026, 7:00 PM ET",
       "league": "CFL",
-      "status": "13 hours from now",
+      "status": "8 hours from now",
       "event_url": "https://istreameast.cx/links/montreal-alouettes-vs-ottawa-redblacks-2432547"
     },
     {
