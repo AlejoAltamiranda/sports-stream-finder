@@ -1,54 +1,5 @@
 [
   {
-    "title": "Los Angeles Angels vs Athletics",
-    "category": "MLB",
-    "time": "2026-06-28 19:15 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-athletics-vs-los-angeles-angels/1"
-  },
-  {
-    "title": "Los Angeles Angels vs Athletics",
-    "category": "MLB",
-    "time": "2026-06-28 19:15 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23460/1"
-  },
-  {
-    "title": "San Francisco Giants vs Atlanta Braves",
-    "category": "MLB",
-    "time": "2026-06-28 20:05 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-atlanta-braves-vs-san-francisco-giants/1"
-  },
-  {
-    "title": "San Francisco Giants vs Atlanta Braves",
-    "category": "MLB",
-    "time": "2026-06-28 20:05 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23461/1"
-  },
-  {
-    "title": "San Diego Padres vs Los Angeles Dodgers",
-    "category": "MLB",
-    "time": "2026-06-28 20:10 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-los-angeles-dodgers-vs-san-diego-padres/1"
-  },
-  {
-    "title": "San Diego Padres vs Los Angeles Dodgers",
-    "category": "MLB",
-    "time": "2026-06-28 20:10 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23462/1"
-  },
-  {
-    "title": "San Diego Padres vs Los Angeles Dodgers",
-    "category": "MLB",
-    "time": "2026-06-28 20:10 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/echo/san-diego-padres-vs-los-angeles-dodgers-baseball-179264/1"
-  },
-  {
     "title": "Zuffa Boxing 8 De Los Santos vs Valenzuela",
     "category": "Boxing",
     "time": "2026-06-28 21:00 UTC",
@@ -61,20 +12,6 @@
     "time": "2026-06-28 21:00 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23485/1"
-  },
-  {
-    "title": "Golden State Valkyries vs New York Liberty",
-    "category": "WNBA",
-    "time": "2026-06-28 23:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-new-york-liberty-vs-golden-state-valkyries/1"
-  },
-  {
-    "title": "Montreal Alouettes vs Ottawa Redblacks",
-    "category": "CFL",
-    "time": "2026-06-28 23:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-ottawa-red-blacks-vs-montreal-alouettes/1"
   },
   {
     "title": "Boston Red Sox vs New York Yankees",
