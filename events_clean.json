@@ -4,13 +4,6 @@
     "category": "MLB",
     "time": "2026-07-01 16:35 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-chicago-white-sox-vs-baltimore-orioles/1"
-  },
-  {
-    "title": "Baltimore Orioles vs Chicago White Sox",
-    "category": "MLB",
-    "time": "2026-07-01 16:35 UTC",
-    "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23510/1"
   },
   {
@@ -28,13 +21,6 @@
     "link": "https://embed.st/embed/golf/23511/1"
   },
   {
-    "title": "Cleveland Guardians vs Texas Rangers",
-    "category": "MLB",
-    "time": "2026-07-01 17:10 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/echo/cleveland-guardians-vs-texas-rangers-baseball-179310/1"
-  },
-  {
     "title": "New York Yankees vs Detroit Tigers",
     "category": "MLB",
     "time": "2026-07-01 17:35 UTC",
@@ -47,13 +33,6 @@
     "time": "2026-07-01 17:35 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23512/1"
-  },
-  {
-    "title": "New York Yankees vs Detroit Tigers",
-    "category": "MLB",
-    "time": "2026-07-01 17:35 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/echo/new-york-yankees-vs-detroit-tigers-baseball-179305/1"
   },
   {
     "title": "Boston Red Sox vs Washington Nationals",
@@ -110,13 +89,6 @@
     "time": "2026-07-01 19:07 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23515/1"
-  },
-  {
-    "title": "Toronto Blue Jays vs New York Mets",
-    "category": "MLB",
-    "time": "2026-07-01 19:07 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/echo/toronto-blue-jays-vs-new-york-mets-baseball-179303/1"
   },
   {
     "title": "Belgium vs Senegal",
