@@ -4,21 +4,14 @@
     "category": "MLB",
     "time": "2026-07-01 22:40 UTC",
     "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-pittsburgh-pirates-vs-philadelphia-phillies/1"
+  },
+  {
+    "title": "Philadelphia Phillies vs Pittsburgh Pirates",
+    "category": "MLB",
+    "time": "2026-07-01 22:40 UTC",
+    "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23527/1"
-  },
-  {
-    "title": "Atlanta Braves vs St. Louis Cardinals",
-    "category": "MLB",
-    "time": "2026-07-01 23:15 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/golf/23531/1"
-  },
-  {
-    "title": "Kansas City Royals vs Tampa Bay Rays",
-    "category": "MLB",
-    "time": "2026-07-01 23:40 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/golf/23532/1"
   },
   {
     "title": "USA vs Bosnia-Herzegovina",
@@ -42,31 +35,17 @@
     "link": "https://embedindia.st/embed/wc/2026-07-01/usa-bih/uk"
   },
   {
-    "title": "Houston Astros vs Minnesota Twins",
+    "title": "Milwaukee Brewers vs Cincinnati Reds",
     "category": "MLB",
     "time": "2026-07-02 00:10 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-minnesota-twins-vs-houston-astros/1"
-  },
-  {
-    "title": "Houston Astros vs Minnesota Twins",
-    "category": "MLB",
-    "time": "2026-07-02 00:10 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23520/1"
-  },
-  {
-    "title": "Houston Astros vs Minnesota Twins",
-    "category": "MLB",
-    "time": "2026-07-02 00:10 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/echo/houston-astros-vs-minnesota-twins-baseball-179302/1"
+    "link": "https://embed.st/embed/admin/ppv-cincinnati-reds-vs-milwaukee-brewers/1"
   },
   {
     "title": "Milwaukee Brewers vs Cincinnati Reds",
     "category": "MLB",
     "time": "2026-07-02 00:10 UTC",
-    "channel": "Main Server",
+    "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23528/1"
   },
   {
@@ -74,55 +53,34 @@
     "category": "MLB",
     "time": "2026-07-02 00:40 UTC",
     "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-miami-marlins-vs-colorado-rockies/1"
+  },
+  {
+    "title": "Colorado Rockies vs Miami Marlins",
+    "category": "MLB",
+    "time": "2026-07-02 00:40 UTC",
+    "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23529/1"
   },
   {
-    "title": "Athletics vs Los Angeles Dodgers",
-    "category": "MLB",
-    "time": "2026-07-02 01:40 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-los-angeles-dodgers-vs-athletics/1"
-  },
-  {
-    "title": "Athletics vs Los Angeles Dodgers",
-    "category": "MLB",
-    "time": "2026-07-02 01:40 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23522/1"
-  },
-  {
-    "title": "Athletics vs Los Angeles Dodgers",
-    "category": "MLB",
-    "time": "2026-07-02 01:40 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/echo/athletics-vs-los-angeles-dodgers-baseball-179314/1"
-  },
-  {
     "title": "Arizona Diamondbacks vs San Francisco Giants",
     "category": "MLB",
     "time": "2026-07-02 01:40 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-san-francisco-giants-vs-arizona-diamondbacks/1"
-  },
-  {
-    "title": "Arizona Diamondbacks vs San Francisco Giants",
-    "category": "MLB",
-    "time": "2026-07-02 01:40 UTC",
-    "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23523/1"
-  },
-  {
-    "title": "Arizona Diamondbacks vs San Francisco Giants",
-    "category": "MLB",
-    "time": "2026-07-02 01:40 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/echo/arizona-diamondbacks-vs-san-francisco-giants-baseball-179315/1"
   },
   {
     "title": "Philadelphia Phillies vs Pittsburgh Pirates",
     "category": "MLB",
     "time": "2026-07-02 16:35 UTC",
     "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-pittsburgh-pirates-vs-philadelphia-phillies/1"
+  },
+  {
+    "title": "Philadelphia Phillies vs Pittsburgh Pirates",
+    "category": "MLB",
+    "time": "2026-07-02 16:35 UTC",
+    "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23527/1"
   },
   {
@@ -130,6 +88,13 @@
     "category": "MLB",
     "time": "2026-07-02 18:10 UTC",
     "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-cincinnati-reds-vs-milwaukee-brewers/1"
+  },
+  {
+    "title": "Milwaukee Brewers vs Cincinnati Reds",
+    "category": "MLB",
+    "time": "2026-07-02 18:10 UTC",
+    "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23528/1"
   },
   {
@@ -151,6 +116,13 @@
     "category": "MLB",
     "time": "2026-07-02 19:10 UTC",
     "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-miami-marlins-vs-colorado-rockies/1"
+  },
+  {
+    "title": "Colorado Rockies vs Miami Marlins",
+    "category": "MLB",
+    "time": "2026-07-02 19:10 UTC",
+    "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23529/1"
   },
   {
@@ -158,6 +130,13 @@
     "category": "MLB",
     "time": "2026-07-02 22:40 UTC",
     "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-chicago-white-sox-vs-cleveland-guardians/1"
+  },
+  {
+    "title": "Cleveland Guardians vs Chicago White Sox",
+    "category": "MLB",
+    "time": "2026-07-02 22:40 UTC",
+    "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23530/1"
   },
   {
@@ -179,14 +158,42 @@
     "category": "MLB",
     "time": "2026-07-02 23:15 UTC",
     "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-atlanta-braves/1"
+  },
+  {
+    "title": "Atlanta Braves vs St. Louis Cardinals",
+    "category": "MLB",
+    "time": "2026-07-02 23:15 UTC",
+    "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23531/1"
+  },
+  {
+    "title": "Washington Mystics vs Atlanta Dream",
+    "category": "WNBA",
+    "time": "2026-07-02 23:30 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-atlanta-dream-vs-washington-mystics/1"
   },
   {
     "title": "Kansas City Royals vs Tampa Bay Rays",
     "category": "MLB",
     "time": "2026-07-02 23:40 UTC",
     "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-kansas-city-royals/1"
+  },
+  {
+    "title": "Kansas City Royals vs Tampa Bay Rays",
+    "category": "MLB",
+    "time": "2026-07-02 23:40 UTC",
+    "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23532/1"
+  },
+  {
+    "title": "Connecticut Sun vs Dallas Wings",
+    "category": "WNBA",
+    "time": "2026-07-03 00:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-dallas-wings-vs-connecticut-sun/1"
   },
   {
     "title": "Calgary Stampeders vs Toronto Argonauts",
@@ -194,6 +201,13 @@
     "time": "2026-07-03 01:00 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/admin/ppv-toronto-argonauts-vs-calgary-stampeders/1"
+  },
+  {
+    "title": "Phoenix Mercury vs Seattle Storm",
+    "category": "WNBA",
+    "time": "2026-07-03 02:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-seattle-storm-vs-phoenix-mercury/1"
   },
   {
     "title": "Switzerland vs Algeria",
@@ -214,6 +228,13 @@
     "category": "Soccer",
     "time": "2026-07-03 18:00 UTC",
     "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-australia-vs-egypt/1"
+  },
+  {
+    "title": "Australia vs Egypt",
+    "category": "Soccer",
+    "time": "2026-07-03 18:00 UTC",
+    "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23524/1"
   },
   {
@@ -221,6 +242,13 @@
     "category": "Soccer",
     "time": "2026-07-03 22:00 UTC",
     "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-argentina-vs-cape-verde/1"
+  },
+  {
+    "title": "Argentina vs Cape Verde",
+    "category": "Soccer",
+    "time": "2026-07-03 22:00 UTC",
+    "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23525/1"
   },
   {
