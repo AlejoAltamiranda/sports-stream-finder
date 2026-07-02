@@ -14,13 +14,6 @@
     "link": "https://embed.st/embed/golf/23527/1"
   },
   {
-    "title": "Philadelphia Phillies vs Pittsburgh Pirates",
-    "category": "MLB",
-    "time": "2026-07-02 16:35 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/echo/philadelphia-phillies-vs-pittsburgh-pirates-baseball-179319/1"
-  },
-  {
     "title": "Milwaukee Brewers vs Cincinnati Reds",
     "category": "MLB",
     "time": "2026-07-02 18:10 UTC",
@@ -103,6 +96,13 @@
     "time": "2026-07-02 23:00 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23502/1"
+  },
+  {
+    "title": "Portugal vs Croatia",
+    "category": "Soccer",
+    "time": "2026-07-02 23:00 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/echo/portugal-vs-croatia-football-1567309/1"
   },
   {
     "title": "Atlanta Braves vs St. Louis Cardinals",
