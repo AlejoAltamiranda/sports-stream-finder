@@ -210,6 +210,20 @@
     "link": "https://embed.st/embed/admin/ppv-dallas-wings-vs-connecticut-sun/1"
   },
   {
+    "title": "SmackDown #1402",
+    "category": "WWE",
+    "time": "2026-07-03 00:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-wwe-friday-night-smackdown/1"
+  },
+  {
+    "title": "SmackDown #1402",
+    "category": "WWE",
+    "time": "2026-07-03 00:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/delta/live-event_friday-night-smackdown-live-stream/1"
+  },
+  {
     "title": "Calgary Stampeders vs Toronto Argonauts",
     "category": "CFL",
     "time": "2026-07-03 01:00 UTC",
@@ -236,6 +250,27 @@
     "time": "2026-07-03 03:00 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23503/1"
+  },
+  {
+    "title": "British Grand Prix Practice 1",
+    "category": "Formula 1",
+    "time": "2026-07-03 11:30 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-british-grand-prix-practice-1/1"
+  },
+  {
+    "title": "British Grand Prix Practice 1",
+    "category": "Formula 1",
+    "time": "2026-07-03 11:30 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/admin/ppv-british-grand-prix-practice-1/2"
+  },
+  {
+    "title": "British Grand Prix Practice 1",
+    "category": "Formula 1",
+    "time": "2026-07-03 11:30 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/admin/ppv-british-grand-prix-practice-1/3"
   },
   {
     "title": "Australia vs Egypt",
