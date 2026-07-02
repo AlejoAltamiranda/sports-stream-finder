@@ -2,107 +2,23 @@
   {
     "title": "Philadelphia Phillies vs Pittsburgh Pirates",
     "category": "MLB",
-    "time": "2026-07-01 22:40 UTC",
+    "time": "2026-07-02 16:35 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/admin/ppv-pittsburgh-pirates-vs-philadelphia-phillies/1"
   },
   {
     "title": "Philadelphia Phillies vs Pittsburgh Pirates",
     "category": "MLB",
-    "time": "2026-07-01 22:40 UTC",
+    "time": "2026-07-02 16:35 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23527/1"
   },
   {
-    "title": "Atlanta Braves vs St. Louis Cardinals",
+    "title": "Philadelphia Phillies vs Pittsburgh Pirates",
     "category": "MLB",
-    "time": "2026-07-01 23:15 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-atlanta-braves/1"
-  },
-  {
-    "title": "Atlanta Braves vs St. Louis Cardinals",
-    "category": "MLB",
-    "time": "2026-07-01 23:15 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23531/1"
-  },
-  {
-    "title": "Kansas City Royals vs Tampa Bay Rays",
-    "category": "MLB",
-    "time": "2026-07-01 23:40 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-kansas-city-royals/1"
-  },
-  {
-    "title": "Kansas City Royals vs Tampa Bay Rays",
-    "category": "MLB",
-    "time": "2026-07-01 23:40 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23532/1"
-  },
-  {
-    "title": "USA vs Bosnia-Herzegovina",
-    "category": "Soccer",
-    "time": "2026-07-02 00:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embedindia.st/embed/wc/2026-07-01/usa-bih/fox-4k"
-  },
-  {
-    "title": "USA vs Bosnia-Herzegovina",
-    "category": "Soccer",
-    "time": "2026-07-02 00:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embedindia.st/embed/wc/2026-07-01/usa-bih"
-  },
-  {
-    "title": "USA vs Bosnia-Herzegovina",
-    "category": "Soccer",
-    "time": "2026-07-02 00:00 UTC",
+    "time": "2026-07-02 16:35 UTC",
     "channel": "Server 3",
-    "link": "https://embedindia.st/embed/wc/2026-07-01/usa-bih/uk"
-  },
-  {
-    "title": "Milwaukee Brewers vs Cincinnati Reds",
-    "category": "MLB",
-    "time": "2026-07-02 00:10 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-cincinnati-reds-vs-milwaukee-brewers/1"
-  },
-  {
-    "title": "Milwaukee Brewers vs Cincinnati Reds",
-    "category": "MLB",
-    "time": "2026-07-02 00:10 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23528/1"
-  },
-  {
-    "title": "Colorado Rockies vs Miami Marlins",
-    "category": "MLB",
-    "time": "2026-07-02 00:40 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-miami-marlins-vs-colorado-rockies/1"
-  },
-  {
-    "title": "Colorado Rockies vs Miami Marlins",
-    "category": "MLB",
-    "time": "2026-07-02 00:40 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23529/1"
-  },
-  {
-    "title": "Philadelphia Phillies vs Pittsburgh Pirates",
-    "category": "MLB",
-    "time": "2026-07-02 16:35 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-pittsburgh-pirates-vs-philadelphia-phillies/1"
-  },
-  {
-    "title": "Philadelphia Phillies vs Pittsburgh Pirates",
-    "category": "MLB",
-    "time": "2026-07-02 16:35 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23527/1"
+    "link": "https://embed.st/embed/echo/philadelphia-phillies-vs-pittsburgh-pirates-baseball-179319/1"
   },
   {
     "title": "Milwaukee Brewers vs Cincinnati Reds",
@@ -117,6 +33,13 @@
     "time": "2026-07-02 18:10 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23528/1"
+  },
+  {
+    "title": "Milwaukee Brewers vs Cincinnati Reds",
+    "category": "MLB",
+    "time": "2026-07-02 18:10 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/echo/milwaukee-brewers-vs-cincinnati-reds-baseball-179316/1"
   },
   {
     "title": "Spain vs Austria",
@@ -145,6 +68,13 @@
     "time": "2026-07-02 19:10 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23529/1"
+  },
+  {
+    "title": "Colorado Rockies vs Miami Marlins",
+    "category": "MLB",
+    "time": "2026-07-02 19:10 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/echo/colorado-rockies-vs-miami-marlins-baseball-179322/1"
   },
   {
     "title": "Cleveland Guardians vs Chicago White Sox",
@@ -224,6 +154,20 @@
     "link": "https://embed.st/embed/delta/live-event_friday-night-smackdown-live-stream/1"
   },
   {
+    "title": "Texas Rangers vs Detroit Tigers",
+    "category": "MLB",
+    "time": "2026-07-03 00:05 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-detroit-tigers-vs-texas-rangers/1"
+  },
+  {
+    "title": "Texas Rangers vs Detroit Tigers",
+    "category": "MLB",
+    "time": "2026-07-03 00:05 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23533/1"
+  },
+  {
     "title": "Calgary Stampeders vs Toronto Argonauts",
     "category": "CFL",
     "time": "2026-07-03 01:00 UTC",
@@ -231,11 +175,39 @@
     "link": "https://embed.st/embed/admin/ppv-toronto-argonauts-vs-calgary-stampeders/1"
   },
   {
+    "title": "Seattle Mariners vs Los Angeles Angels",
+    "category": "MLB",
+    "time": "2026-07-03 01:40 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-los-angeles-angels-vs-seattle-mariners/1"
+  },
+  {
+    "title": "Seattle Mariners vs Los Angeles Angels",
+    "category": "MLB",
+    "time": "2026-07-03 01:40 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23534/1"
+  },
+  {
     "title": "Phoenix Mercury vs Seattle Storm",
     "category": "WNBA",
     "time": "2026-07-03 02:00 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/admin/ppv-seattle-storm-vs-phoenix-mercury/1"
+  },
+  {
+    "title": "Los Angeles Dodgers vs San Diego Padres",
+    "category": "MLB",
+    "time": "2026-07-03 02:10 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-san-diego-padres-vs-los-angeles-dodgers/1"
+  },
+  {
+    "title": "Los Angeles Dodgers vs San Diego Padres",
+    "category": "MLB",
+    "time": "2026-07-03 02:10 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23535/1"
   },
   {
     "title": "Switzerland vs Algeria",
@@ -287,6 +259,13 @@
     "link": "https://embed.st/embed/golf/23524/1"
   },
   {
+    "title": "Chicago Cubs vs St. Louis Cardinals",
+    "category": "MLB",
+    "time": "2026-07-03 20:05 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23538/1"
+  },
+  {
     "title": "Argentina vs Cape Verde",
     "category": "Soccer",
     "time": "2026-07-03 22:00 UTC",
@@ -301,10 +280,87 @@
     "link": "https://embed.st/embed/golf/23525/1"
   },
   {
+    "title": "Washington Nationals vs Pittsburgh Pirates",
+    "category": "MLB",
+    "time": "2026-07-03 22:45 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23539/1"
+  },
+  {
+    "title": "New York Yankees vs Minnesota Twins",
+    "category": "MLB",
+    "time": "2026-07-03 23:05 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23540/1"
+  },
+  {
+    "title": "Cleveland Guardians vs Chicago White Sox",
+    "category": "MLB",
+    "time": "2026-07-03 23:10 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23542/1"
+  },
+  {
+    "title": "Cincinnati Reds vs Baltimore Orioles",
+    "category": "MLB",
+    "time": "2026-07-03 23:10 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23541/1"
+  },
+  {
+    "title": "Atlanta Braves vs New York Mets",
+    "category": "MLB",
+    "time": "2026-07-03 23:15 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23543/1"
+  },
+  {
     "title": "Ottawa Redblacks vs Saskatchewan Roughriders",
     "category": "CFL",
     "time": "2026-07-03 23:30 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/admin/ppv-saskatchewan-roughriders-vs-ottawa-red-blacks/1"
+  },
+  {
+    "title": "Colombia vs Ghana",
+    "category": "Soccer",
+    "time": "2026-07-04 01:30 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-colombia-vs-ghana/1"
+  },
+  {
+    "title": "Colombia vs Ghana",
+    "category": "Soccer",
+    "time": "2026-07-04 01:30 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23526/1"
+  },
+  {
+    "title": "British Grand Prix Qualifying",
+    "category": "Formula 1",
+    "time": "2026-07-04 15:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-british-grand-prix-qualifying/1\""
+  },
+  {
+    "title": "British Grand Prix Qualifying",
+    "category": "Formula 1",
+    "time": "2026-07-04 15:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/admin/ppv-british-grand-prix-qualifying/2"
+  },
+  {
+    "title": "British Grand Prix Qualifying",
+    "category": "Formula 1",
+    "time": "2026-07-04 15:00 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/admin/ppv-british-grand-prix-qualifying/3"
+  },
+  {
+    "title": "BC Lions vs Edmonton Elks",
+    "category": "CFL",
+    "time": "2026-07-04 23:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-edmonton-elks-vs-bc-lions/1"
   }
 ]
