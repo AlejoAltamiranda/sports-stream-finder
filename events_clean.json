@@ -1,59 +1,10 @@
 [
   {
-    "title": "Philadelphia Phillies vs Pittsburgh Pirates",
-    "category": "MLB",
-    "time": "2026-07-02 16:35 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-pittsburgh-pirates-vs-philadelphia-phillies/1"
-  },
-  {
-    "title": "Philadelphia Phillies vs Pittsburgh Pirates",
-    "category": "MLB",
-    "time": "2026-07-02 16:35 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23527/1"
-  },
-  {
     "title": "Milwaukee Brewers vs Cincinnati Reds",
     "category": "MLB",
     "time": "2026-07-02 18:10 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-cincinnati-reds-vs-milwaukee-brewers/1"
-  },
-  {
-    "title": "Milwaukee Brewers vs Cincinnati Reds",
-    "category": "MLB",
-    "time": "2026-07-02 18:10 UTC",
-    "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23528/1"
-  },
-  {
-    "title": "Milwaukee Brewers vs Cincinnati Reds",
-    "category": "MLB",
-    "time": "2026-07-02 18:10 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/echo/milwaukee-brewers-vs-cincinnati-reds-baseball-179316/1"
-  },
-  {
-    "title": "Spain vs Austria",
-    "category": "Soccer",
-    "time": "2026-07-02 19:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-spain-vs-austria/1"
-  },
-  {
-    "title": "Spain vs Austria",
-    "category": "Soccer",
-    "time": "2026-07-02 19:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23501/1"
-  },
-  {
-    "title": "Spain vs Austria",
-    "category": "Soccer",
-    "time": "2026-07-02 19:00 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/echo/spain-vs-austria-football-1567311/1"
   },
   {
     "title": "Colorado Rockies vs Miami Marlins",
@@ -138,6 +89,13 @@
     "time": "2026-07-02 23:40 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23532/1"
+  },
+  {
+    "title": "Kansas City Royals vs Tampa Bay Rays",
+    "category": "MLB",
+    "time": "2026-07-02 23:40 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/echo/kansas-city-royals-vs-tampa-bay-rays-baseball-179324/1"
   },
   {
     "title": "Connecticut Sun vs Dallas Wings",
