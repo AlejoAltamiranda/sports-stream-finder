@@ -28,27 +28,6 @@
     "link": "https://dlstreams.top/stream/stream-60.php"
   },
   {
-    "title": "Australia vs Egypt",
-    "category": "Soccer",
-    "time": "2026-07-03 18:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-australia-vs-egypt/1"
-  },
-  {
-    "title": "Australia vs Egypt",
-    "category": "Soccer",
-    "time": "2026-07-03 18:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23524/1"
-  },
-  {
-    "title": "Australia vs Egypt",
-    "category": "Soccer",
-    "time": "2026-07-03 18:00 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/echo/australia-vs-egypt-football-1565178/1"
-  },
-  {
     "title": "Chicago Cubs vs St. Louis Cardinals",
     "category": "MLB",
     "time": "2026-07-03 20:05 UTC",
@@ -82,6 +61,13 @@
     "time": "2026-07-03 22:00 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23525/1"
+  },
+  {
+    "title": "Argentina vs Cape Verde",
+    "category": "Soccer",
+    "time": "2026-07-03 22:00 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/echo/argentina-vs-cape-verde-islands-football-1565179/1"
   },
   {
     "title": "Washington Nationals vs Pittsburgh Pirates",
@@ -294,20 +280,6 @@
     "link": "https://embed.st/embed/golf/23553/1"
   },
   {
-    "title": "Canada vs Morocco",
-    "category": "Soccer",
-    "time": "2026-07-04 17:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-canada-vs-morocco/1"
-  },
-  {
-    "title": "Canada vs Morocco",
-    "category": "Soccer",
-    "time": "2026-07-04 17:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23536/1"
-  },
-  {
     "title": "New York Yankees vs Minnesota Twins",
     "category": "MLB",
     "time": "2026-07-04 17:35 UTC",
@@ -327,20 +299,6 @@
     "time": "2026-07-04 20:10 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/golf/23556/1"
-  },
-  {
-    "title": "Paraguay vs France",
-    "category": "Soccer",
-    "time": "2026-07-04 21:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-paraguay-vs-france/1"
-  },
-  {
-    "title": "Paraguay vs France",
-    "category": "Soccer",
-    "time": "2026-07-04 21:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23537/1"
   },
   {
     "title": "BC Lions vs Edmonton Elks",
