@@ -1,33 +1,5 @@
 [
   {
-    "title": "Milwaukee Brewers vs Cincinnati Reds",
-    "category": "MLB",
-    "time": "2026-07-02 18:10 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/golf/23528/1"
-  },
-  {
-    "title": "Colorado Rockies vs Miami Marlins",
-    "category": "MLB",
-    "time": "2026-07-02 19:10 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-miami-marlins-vs-colorado-rockies/1"
-  },
-  {
-    "title": "Colorado Rockies vs Miami Marlins",
-    "category": "MLB",
-    "time": "2026-07-02 19:10 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23529/1"
-  },
-  {
-    "title": "Colorado Rockies vs Miami Marlins",
-    "category": "MLB",
-    "time": "2026-07-02 19:10 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/echo/colorado-rockies-vs-miami-marlins-baseball-179322/1"
-  },
-  {
     "title": "Cleveland Guardians vs Chicago White Sox",
     "category": "MLB",
     "time": "2026-07-02 22:40 UTC",
@@ -42,20 +14,6 @@
     "link": "https://embed.st/embed/admin/ppv-portugal-vs-croatia/1"
   },
   {
-    "title": "Portugal vs Croatia",
-    "category": "Soccer",
-    "time": "2026-07-02 23:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23502/1"
-  },
-  {
-    "title": "Portugal vs Croatia",
-    "category": "Soccer",
-    "time": "2026-07-02 23:00 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/echo/portugal-vs-croatia-football-1567309/1"
-  },
-  {
     "title": "Atlanta Braves vs St. Louis Cardinals",
     "category": "MLB",
     "time": "2026-07-02 23:15 UTC",
@@ -68,6 +26,13 @@
     "time": "2026-07-02 23:15 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23531/1"
+  },
+  {
+    "title": "Atlanta Braves vs St. Louis Cardinals",
+    "category": "MLB",
+    "time": "2026-07-02 23:15 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/echo/atlanta-braves-vs-stlouis-cardinals-baseball-179321/1"
   },
   {
     "title": "Washington Mystics vs Atlanta Dream",
@@ -133,6 +98,13 @@
     "link": "https://embed.st/embed/golf/23533/1"
   },
   {
+    "title": "Texas Rangers vs Detroit Tigers",
+    "category": "MLB",
+    "time": "2026-07-03 00:05 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/echo/texas-rangers-vs-detroit-tigers-baseball-179317/1"
+  },
+  {
     "title": "Calgary Stampeders vs Toronto Argonauts",
     "category": "CFL",
     "time": "2026-07-03 01:00 UTC",
@@ -154,6 +126,13 @@
     "link": "https://embed.st/embed/golf/23534/1"
   },
   {
+    "title": "Seattle Mariners vs Los Angeles Angels",
+    "category": "MLB",
+    "time": "2026-07-03 01:40 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/echo/seattle-mariners-vs-los-angeles-angels-baseball-179318/1"
+  },
+  {
     "title": "Phoenix Mercury vs Seattle Storm",
     "category": "WNBA",
     "time": "2026-07-03 02:00 UTC",
@@ -165,14 +144,7 @@
     "category": "MLB",
     "time": "2026-07-03 02:10 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-san-diego-padres-vs-los-angeles-dodgers/1"
-  },
-  {
-    "title": "Los Angeles Dodgers vs San Diego Padres",
-    "category": "MLB",
-    "time": "2026-07-03 02:10 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23535/1"
+    "link": "https://embed.st/embed/golf/23549/1"
   },
   {
     "title": "Switzerland vs Algeria",
@@ -187,6 +159,13 @@
     "time": "2026-07-03 03:00 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23503/1"
+  },
+  {
+    "title": "Switzerland vs Algeria",
+    "category": "Soccer",
+    "time": "2026-07-03 03:00 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/echo/switzerland-vs-algeria-football-1567312/1"
   },
   {
     "title": "British Grand Prix Practice 1",
@@ -287,6 +266,20 @@
     "link": "https://embed.st/embed/admin/ppv-saskatchewan-roughriders-vs-ottawa-red-blacks/1"
   },
   {
+    "title": "Colorado Rockies vs San Francisco Giants",
+    "category": "MLB",
+    "time": "2026-07-04 00:10 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23544/1"
+  },
+  {
+    "title": "Houston Astros vs Tampa Bay Rays",
+    "category": "MLB",
+    "time": "2026-07-04 00:15 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23545/1"
+  },
+  {
     "title": "Colombia vs Ghana",
     "category": "Soccer",
     "time": "2026-07-04 01:30 UTC",
@@ -299,6 +292,27 @@
     "time": "2026-07-04 01:30 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23526/1"
+  },
+  {
+    "title": "Los Angeles Angels vs Boston Red Sox",
+    "category": "MLB",
+    "time": "2026-07-04 01:38 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23546/1"
+  },
+  {
+    "title": "Athletics vs Miami Marlins",
+    "category": "MLB",
+    "time": "2026-07-04 01:40 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23547/1"
+  },
+  {
+    "title": "Arizona Diamondbacks vs Milwaukee Brewers",
+    "category": "MLB",
+    "time": "2026-07-04 01:45 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23548/1"
   },
   {
     "title": "British Grand Prix Qualifying",
@@ -320,6 +334,20 @@
     "time": "2026-07-04 15:00 UTC",
     "channel": "Server 3",
     "link": "https://embed.st/embed/admin/ppv-british-grand-prix-qualifying/3"
+  },
+  {
+    "title": "Canada vs Morocco",
+    "category": "Soccer",
+    "time": "2026-07-04 17:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23536/1"
+  },
+  {
+    "title": "Paraguay vs France",
+    "category": "Soccer",
+    "time": "2026-07-04 21:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23537/1"
   },
   {
     "title": "BC Lions vs Edmonton Elks",
