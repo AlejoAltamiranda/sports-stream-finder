@@ -28,34 +28,6 @@
     "link": "https://embed.st/embed/golf/23573/1"
   },
   {
-    "title": "Golden State Warriors vs Milwaukee Bucks",
-    "category": "NBA",
-    "time": "2026-07-04 19:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-milwaukee-bucks-vs-golden-state-warriors-blue/1"
-  },
-  {
-    "title": "Golden State Warriors vs Milwaukee Bucks",
-    "category": "NBA",
-    "time": "2026-07-04 19:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23588/1"
-  },
-  {
-    "title": "Oklahoma City Thunder vs Memphis Grizzlies",
-    "category": "NBA",
-    "time": "2026-07-04 19:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-memphis-grizzlies-vs-oklahoma-city-thunder/1"
-  },
-  {
-    "title": "Oklahoma City Thunder vs Memphis Grizzlies",
-    "category": "NBA",
-    "time": "2026-07-04 19:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23589/1"
-  },
-  {
     "title": "Texas Rangers vs Detroit Tigers",
     "category": "MLB",
     "time": "2026-07-04 20:05 UTC",
@@ -68,55 +40,6 @@
     "time": "2026-07-04 20:10 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/golf/23582/1"
-  },
-  {
-    "title": "Sacramento Kings vs Brooklyn Nets",
-    "category": "NBA",
-    "time": "2026-07-04 21:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-brooklyn-nets-vs-sacramento-kings/1"
-  },
-  {
-    "title": "Sacramento Kings vs Brooklyn Nets",
-    "category": "NBA",
-    "time": "2026-07-04 21:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23590/1"
-  },
-  {
-    "title": "Utah Jazz vs Atlanta Hawks",
-    "category": "NBA",
-    "time": "2026-07-04 21:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-atlanta-hawks-vs-utah-jazz/1"
-  },
-  {
-    "title": "Utah Jazz vs Atlanta Hawks",
-    "category": "NBA",
-    "time": "2026-07-04 21:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23591/1"
-  },
-  {
-    "title": "Paraguay vs France",
-    "category": "Soccer",
-    "time": "2026-07-04 21:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-paraguay-vs-france/1"
-  },
-  {
-    "title": "Paraguay vs France",
-    "category": "Soccer",
-    "time": "2026-07-04 21:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23537/1"
-  },
-  {
-    "title": "Paraguay vs France",
-    "category": "Soccer",
-    "time": "2026-07-04 21:00 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/echo/paraguay-vs-france-football-1569870/1"
   },
   {
     "title": "BC Lions vs Edmonton Elks",
@@ -186,14 +109,7 @@
     "category": "MLB",
     "time": "2026-07-05 01:38 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-boston-red-sox-vs-los-angeles-angels/1"
-  },
-  {
-    "title": "Los Angeles Angels vs Boston Red Sox",
-    "category": "MLB",
-    "time": "2026-07-05 01:38 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23564/1"
+    "link": "https://embed.st/embed/golf/23584/1"
   },
   {
     "title": "Arizona Diamondbacks vs Milwaukee Brewers",
@@ -355,5 +271,26 @@
     "time": "2026-07-06 00:00 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23552/1"
+  },
+  {
+    "title": "Portugal vs Spain",
+    "category": "Soccer",
+    "time": "2026-07-06 19:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23568/1"
+  },
+  {
+    "title": "Memphis Grizzlies vs Atlanta Hawks",
+    "category": "NBA",
+    "time": "2026-07-06 23:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23599/1"
+  },
+  {
+    "title": "Golden State Warriors vs Miami Heat",
+    "category": "NBA",
+    "time": "2026-07-06 23:30 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23600/1"
   }
 ]
