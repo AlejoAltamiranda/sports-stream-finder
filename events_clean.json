@@ -21,62 +21,6 @@
     "link": "https://embed.st/embed/admin/ppv-british-grand-prix-qualifying/3"
   },
   {
-    "title": "New York Yankees vs Minnesota Twins",
-    "category": "MLB",
-    "time": "2026-07-04 17:35 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-minnesota-twins-vs-new-york-yankees/1"
-  },
-  {
-    "title": "New York Yankees vs Minnesota Twins",
-    "category": "MLB",
-    "time": "2026-07-04 17:35 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23573/1"
-  },
-  {
-    "title": "Texas Rangers vs Detroit Tigers",
-    "category": "MLB",
-    "time": "2026-07-04 20:05 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-detroit-tigers-vs-texas-rangers/1"
-  },
-  {
-    "title": "Texas Rangers vs Detroit Tigers",
-    "category": "MLB",
-    "time": "2026-07-04 20:05 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23577/1"
-  },
-  {
-    "title": "Houston Astros vs Tampa Bay Rays",
-    "category": "MLB",
-    "time": "2026-07-04 23:10 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-houston-astros/1"
-  },
-  {
-    "title": "Houston Astros vs Tampa Bay Rays",
-    "category": "MLB",
-    "time": "2026-07-04 23:10 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23578/1"
-  },
-  {
-    "title": "Cleveland Guardians vs Chicago White Sox",
-    "category": "MLB",
-    "time": "2026-07-04 23:10 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-chicago-white-sox-vs-cleveland-guardians/1"
-  },
-  {
-    "title": "Cleveland Guardians vs Chicago White Sox",
-    "category": "MLB",
-    "time": "2026-07-04 23:10 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23574/1"
-  },
-  {
     "title": "Cincinnati Reds vs Baltimore Orioles",
     "category": "MLB",
     "time": "2026-07-04 23:10 UTC",
@@ -89,20 +33,6 @@
     "time": "2026-07-04 23:10 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23572/1"
-  },
-  {
-    "title": "Atlanta Braves vs New York Mets",
-    "category": "MLB",
-    "time": "2026-07-05 00:08 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/golf/23606/1"
-  },
-  {
-    "title": "Kansas City Royals vs Philadelphia Phillies",
-    "category": "MLB",
-    "time": "2026-07-05 00:10 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/golf/23603/1"
   },
   {
     "title": "Arizona Diamondbacks vs Milwaukee Brewers",
@@ -119,39 +49,18 @@
     "link": "https://embed.st/embed/golf/23602/1"
   },
   {
-    "title": "British Grand Prix",
-    "category": "Formula 1",
-    "time": "2026-07-05 14:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-british-grand-prix-race/1"
-  },
-  {
-    "title": "British Grand Prix",
-    "category": "Formula 1",
-    "time": "2026-07-05 14:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/admin/ppv-british-grand-prix-race/2"
-  },
-  {
-    "title": "British Grand Prix",
-    "category": "Formula 1",
-    "time": "2026-07-05 14:00 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/admin/ppv-british-grand-prix-race/3"
-  },
-  {
-    "title": "British Grand Prix",
-    "category": "Formula 1",
-    "time": "2026-07-05 14:00 UTC",
-    "channel": "Server 4",
-    "link": "https://embed.st/embed/admin/ppv-british-grand-prix-race/4"
-  },
-  {
-    "title": "Atlanta Braves vs New York Mets",
+    "title": "Cincinnati Reds vs Baltimore Orioles",
     "category": "MLB",
-    "time": "2026-07-05 16:30 UTC",
+    "time": "2026-07-05 17:05 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/golf/23606/1"
+    "link": "https://embed.st/embed/admin/ppv-baltimore-orioles-vs-cincinnati-reds/1"
+  },
+  {
+    "title": "Cincinnati Reds vs Baltimore Orioles",
+    "category": "MLB",
+    "time": "2026-07-05 17:05 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23572/1"
   },
   {
     "title": "Brazil vs Norway",
