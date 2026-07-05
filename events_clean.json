@@ -1,19 +1,5 @@
 [
   {
-    "title": "Washington Nationals vs Pittsburgh Pirates",
-    "category": "MLB",
-    "time": "2026-07-04 15:05 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-pittsburgh-pirates-vs-washington-nationals/1"
-  },
-  {
-    "title": "Washington Nationals vs Pittsburgh Pirates",
-    "category": "MLB",
-    "time": "2026-07-04 15:05 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23571/1"
-  },
-  {
     "title": "New York Yankees vs Minnesota Twins",
     "category": "MLB",
     "time": "2026-07-04 17:35 UTC",
@@ -26,34 +12,6 @@
     "time": "2026-07-04 17:35 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23573/1"
-  },
-  {
-    "title": "Texas Rangers vs Detroit Tigers",
-    "category": "MLB",
-    "time": "2026-07-04 20:05 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-detroit-tigers-vs-texas-rangers/1"
-  },
-  {
-    "title": "Texas Rangers vs Detroit Tigers",
-    "category": "MLB",
-    "time": "2026-07-04 20:05 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23577/1"
-  },
-  {
-    "title": "Seattle Mariners vs Toronto Blue Jays",
-    "category": "MLB",
-    "time": "2026-07-04 20:10 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-seattle-mariners/1"
-  },
-  {
-    "title": "Seattle Mariners vs Toronto Blue Jays",
-    "category": "MLB",
-    "time": "2026-07-04 20:10 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23582/1"
   },
   {
     "title": "Houston Astros vs Tampa Bay Rays",
@@ -82,62 +40,6 @@
     "time": "2026-07-04 23:10 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23574/1"
-  },
-  {
-    "title": "Cincinnati Reds vs Baltimore Orioles",
-    "category": "MLB",
-    "time": "2026-07-04 23:10 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-baltimore-orioles-vs-cincinnati-reds/1"
-  },
-  {
-    "title": "Cincinnati Reds vs Baltimore Orioles",
-    "category": "MLB",
-    "time": "2026-07-04 23:10 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23572/1"
-  },
-  {
-    "title": "Arizona Diamondbacks vs Milwaukee Brewers",
-    "category": "MLB",
-    "time": "2026-07-05 01:40 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-arizona-diamondbacks/1"
-  },
-  {
-    "title": "Arizona Diamondbacks vs Milwaukee Brewers",
-    "category": "MLB",
-    "time": "2026-07-05 01:40 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23602/1"
-  },
-  {
-    "title": "Cincinnati Reds vs Baltimore Orioles",
-    "category": "MLB",
-    "time": "2026-07-05 17:05 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-baltimore-orioles-vs-cincinnati-reds/1"
-  },
-  {
-    "title": "Cincinnati Reds vs Baltimore Orioles",
-    "category": "MLB",
-    "time": "2026-07-05 17:05 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23572/1"
-  },
-  {
-    "title": "Milwaukee Bucks vs Brooklyn Nets",
-    "category": "NBA",
-    "time": "2026-07-05 19:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-brooklyn-nets-vs-milwaukee-bucks/1"
-  },
-  {
-    "title": "Milwaukee Bucks vs Brooklyn Nets",
-    "category": "NBA",
-    "time": "2026-07-05 19:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23592/1"
   },
   {
     "title": "Toronto Tempo vs Dallas Wings",
@@ -173,19 +75,5 @@
     "time": "2026-07-05 23:00 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/admin/ppv-winnipeg-blue-bombers-vs-hamilton-tiger-cats/1"
-  },
-  {
-    "title": "Portugal vs Spain",
-    "category": "Soccer",
-    "time": "2026-07-06 19:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-portugal-vs-spain/1"
-  },
-  {
-    "title": "Portugal vs Spain",
-    "category": "Soccer",
-    "time": "2026-07-06 19:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23568/1"
   }
 ]
