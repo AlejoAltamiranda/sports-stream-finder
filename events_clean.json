@@ -1,54 +1,5 @@
 [
   {
-    "title": "New York Yankees vs Minnesota Twins",
-    "category": "MLB",
-    "time": "2026-07-04 17:35 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-minnesota-twins-vs-new-york-yankees/1"
-  },
-  {
-    "title": "New York Yankees vs Minnesota Twins",
-    "category": "MLB",
-    "time": "2026-07-04 17:35 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23573/1"
-  },
-  {
-    "title": "Houston Astros vs Tampa Bay Rays",
-    "category": "MLB",
-    "time": "2026-07-04 23:10 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-houston-astros/1"
-  },
-  {
-    "title": "Houston Astros vs Tampa Bay Rays",
-    "category": "MLB",
-    "time": "2026-07-04 23:10 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23578/1"
-  },
-  {
-    "title": "Cleveland Guardians vs Chicago White Sox",
-    "category": "MLB",
-    "time": "2026-07-04 23:10 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-chicago-white-sox-vs-cleveland-guardians/1"
-  },
-  {
-    "title": "Cleveland Guardians vs Chicago White Sox",
-    "category": "MLB",
-    "time": "2026-07-04 23:10 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23574/1"
-  },
-  {
-    "title": "Toronto Tempo vs Dallas Wings",
-    "category": "WNBA",
-    "time": "2026-07-05 19:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-dallas-wings-vs-toronto-tempo/1"
-  },
-  {
     "title": "Brazil vs Norway",
     "category": "Soccer",
     "time": "2026-07-05 20:00 UTC",
@@ -61,19 +12,5 @@
     "time": "2026-07-05 20:00 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23551/1"
-  },
-  {
-    "title": "Las Vegas Aces vs Indiana Fever",
-    "category": "WNBA",
-    "time": "2026-07-05 23:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-indiana-fever-vs-las-vegas-aces/1"
-  },
-  {
-    "title": "Hamilton Tiger-Cats vs Winnipeg Blue Bombers",
-    "category": "CFL",
-    "time": "2026-07-05 23:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-winnipeg-blue-bombers-vs-hamilton-tiger-cats/1"
   }
 ]
