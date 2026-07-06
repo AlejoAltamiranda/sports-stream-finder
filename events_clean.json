@@ -4,42 +4,7 @@
     "category": "MLB",
     "time": "2026-07-06 18:10 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-philadelphia-phillies-vs-kansas-city-royals/1"
-  },
-  {
-    "title": "Kansas City Royals vs Philadelphia Phillies",
-    "category": "MLB",
-    "time": "2026-07-06 18:10 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/echo/kansas-city-royals-vs-philadelphia-phillies-baseball-179374/1"
-  },
-  {
-    "title": "Kansas City Royals vs Philadelphia Phillies",
-    "category": "MLB",
-    "time": "2026-07-06 18:10 UTC",
-    "channel": "Server 3",
     "link": "https://embed.st/embed/golf/23603/1"
-  },
-  {
-    "title": "Portugal vs Spain",
-    "category": "Soccer",
-    "time": "2026-07-06 19:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-portugal-vs-spain/1"
-  },
-  {
-    "title": "Portugal vs Spain",
-    "category": "Soccer",
-    "time": "2026-07-06 19:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/echo/portugal-vs-spain-football-1576756/1"
-  },
-  {
-    "title": "Portugal vs Spain",
-    "category": "Soccer",
-    "time": "2026-07-06 19:00 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/golf/23568/1"
   },
   {
     "title": "Tampa Bay Rays vs New York Yankees",
@@ -77,6 +42,13 @@
     "link": "https://embed.st/embed/golf/23606/1"
   },
   {
+    "title": "Washington Mystics vs Golden State Valkyries",
+    "category": "WNBA",
+    "time": "2026-07-06 23:30 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-golden-state-valkyries-vs-washington-mystics/1"
+  },
+  {
     "title": "St. Louis Cardinals vs Milwaukee Brewers",
     "category": "MLB",
     "time": "2026-07-06 23:45 UTC",
@@ -95,6 +67,13 @@
     "category": "Soccer",
     "time": "2026-07-07 00:00 UTC",
     "channel": "Server 2",
+    "link": "https://embed.st/embed/echo/usa-vs-belgium-football-1570715/1"
+  },
+  {
+    "title": "USA vs Belgium",
+    "category": "Soccer",
+    "time": "2026-07-07 00:00 UTC",
+    "channel": "Server 3",
     "link": "https://embed.st/embed/golf/23569/1"
   },
   {
@@ -137,6 +116,13 @@
     "category": "MLB",
     "time": "2026-07-07 01:45 UTC",
     "channel": "Server 2",
+    "link": "https://embed.st/embed/echo/san-francisco-giants-vs-toronto-blue-jays-baseball-179372/1"
+  },
+  {
+    "title": "San Francisco Giants vs Toronto Blue Jays",
+    "category": "MLB",
+    "time": "2026-07-07 01:45 UTC",
+    "channel": "Server 3",
     "link": "https://embed.st/embed/golf/23609/1"
   },
   {
@@ -158,6 +144,13 @@
     "category": "MLB",
     "time": "2026-07-07 02:10 UTC",
     "channel": "Server 2",
+    "link": "https://embed.st/embed/echo/los-angeles-dodgers-vs-colorado-rockies-baseball-179373/1"
+  },
+  {
+    "title": "Los Angeles Dodgers vs Colorado Rockies",
+    "category": "MLB",
+    "time": "2026-07-07 02:10 UTC",
+    "channel": "Server 3",
     "link": "https://embed.st/embed/golf/23610/1"
   },
   {
@@ -165,6 +158,13 @@
     "category": "Soccer",
     "time": "2026-07-07 16:00 UTC",
     "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-argentina-vs-egypt/1"
+  },
+  {
+    "title": "Argentina vs Egypt",
+    "category": "Soccer",
+    "time": "2026-07-07 16:00 UTC",
+    "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23585/1"
   },
   {
