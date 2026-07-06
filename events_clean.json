@@ -67,14 +67,14 @@
     "category": "MLB",
     "time": "2026-07-06 23:15 UTC",
     "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23606/1"
+    "link": "https://embed.st/embed/echo/atlanta-braves-vs-new-york-mets-baseball-179375/1"
   },
   {
-    "title": "Washington Mystics vs Golden State Valkyries",
-    "category": "WNBA",
-    "time": "2026-07-06 23:30 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-golden-state-valkyries-vs-washington-mystics/1"
+    "title": "Atlanta Braves vs New York Mets",
+    "category": "MLB",
+    "time": "2026-07-06 23:15 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/golf/23606/1"
   },
   {
     "title": "St. Louis Cardinals vs Milwaukee Brewers",
@@ -116,6 +116,13 @@
     "category": "MLB",
     "time": "2026-07-07 01:40 UTC",
     "channel": "Server 2",
+    "link": "https://embed.st/embed/echo/san-diego-padres-vs-arizona-diamondbacks-baseball-179371/1"
+  },
+  {
+    "title": "San Diego Padres vs Arizona Diamondbacks",
+    "category": "MLB",
+    "time": "2026-07-07 01:40 UTC",
+    "channel": "Server 3",
     "link": "https://embed.st/embed/golf/23608/1"
   },
   {
@@ -158,13 +165,6 @@
     "category": "Soccer",
     "time": "2026-07-07 16:00 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-argentina-vs-egypt/1"
-  },
-  {
-    "title": "Argentina vs Egypt",
-    "category": "Soccer",
-    "time": "2026-07-07 16:00 UTC",
-    "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23585/1"
   },
   {
