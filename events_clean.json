@@ -21,34 +21,6 @@
     "link": "https://embedindia.st/embed/wc/2026-07-07/arg-egy/fox-4k-hevc"
   },
   {
-    "title": "Vardar vs KuPS",
-    "category": "Soccer",
-    "time": "2026-07-07 17:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/echo/vardar-skopje-vs-kups-football-1554373/1"
-  },
-  {
-    "title": "UNA Strassen vs La Fiorita",
-    "category": "Soccer",
-    "time": "2026-07-07 17:15 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/echo/una-strassen-vs-la-fiorita-football-1554410/1"
-  },
-  {
-    "title": "Floriana vs Shamrock Rovers",
-    "category": "Soccer",
-    "time": "2026-07-07 17:30 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/echo/floriana-vs-shamrock-rovers-football-1554364/1"
-  },
-  {
-    "title": "Elbasani vs BATE Borisov",
-    "category": "Soccer",
-    "time": "2026-07-07 18:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/echo/af-elbasani-vs-bate-borisov-football-1554389/1"
-  },
-  {
     "title": "St. Louis Cardinals vs Milwaukee Brewers",
     "category": "MLB",
     "time": "2026-07-07 18:15 UTC",
@@ -301,6 +273,20 @@
     "link": "https://embed.st/embed/golf/23647/1"
   },
   {
+    "title": "Memphis Grizzlies vs Atlanta Hawks",
+    "category": "NBA",
+    "time": "2026-07-07 23:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-atlanta-hawks-vs-memphis-grizzlies/1"
+  },
+  {
+    "title": "Memphis Grizzlies vs Atlanta Hawks",
+    "category": "NBA",
+    "time": "2026-07-07 23:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23639/1"
+  },
+  {
     "title": "New York Mets vs Kansas City Royals",
     "category": "MLB",
     "time": "2026-07-07 23:10 UTC",
@@ -420,6 +406,20 @@
     "link": "https://embed.st/embed/admin/ppv-dallas-wings-vs-new-york-liberty/1"
   },
   {
+    "title": "NXT #845",
+    "category": "WWE",
+    "time": "2026-07-08 00:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-wwe-nxt/1"
+  },
+  {
+    "title": "NXT #845",
+    "category": "WWE",
+    "time": "2026-07-08 00:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/admin/ppv-wwe-nxt/2"
+  },
+  {
     "title": "Texas Rangers vs Los Angeles Angels",
     "category": "MLB",
     "time": "2026-07-08 00:05 UTC",
@@ -439,6 +439,20 @@
     "time": "2026-07-08 00:05 UTC",
     "channel": "Server 3",
     "link": "https://embed.st/embed/golf/23653/1"
+  },
+  {
+    "title": "Utah Jazz vs Oklahoma City Thunder",
+    "category": "NBA",
+    "time": "2026-07-08 01:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-oklahoma-city-thunder-vs-utah-jazz/1"
+  },
+  {
+    "title": "Utah Jazz vs Oklahoma City Thunder",
+    "category": "NBA",
+    "time": "2026-07-08 01:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23640/1"
   },
   {
     "title": "San Diego Padres vs Arizona Diamondbacks",
@@ -649,5 +663,12 @@
     "time": "2026-07-08 22:40 UTC",
     "channel": "Server 4",
     "link": "https://embed.st/embed/golf/23645/1"
+  },
+  {
+    "title": "France vs Morocco",
+    "category": "Soccer",
+    "time": "2026-07-09 20:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/golf/23636/1"
   }
 ]
