@@ -11,13 +11,6 @@
     "category": "MLB",
     "time": "2026-07-08 19:45 UTC",
     "channel": "Server 2",
-    "link": "https://embed.st/embed/echo/san-francisco-giants-vs-toronto-blue-jays-baseball-179395/1"
-  },
-  {
-    "title": "San Francisco Giants vs Toronto Blue Jays",
-    "category": "MLB",
-    "time": "2026-07-08 19:45 UTC",
-    "channel": "Server 3",
     "link": "https://embed.st/embed/golf/23641/1"
   },
   {
@@ -593,6 +586,13 @@
     "time": "2026-07-09 18:45 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/echo/nsi-runavik-vs-hamrun-spartans-football-1554407/1"
+  },
+  {
+    "title": "Pen-y-Bont vs FC Santa Coloma",
+    "category": "Soccer",
+    "time": "2026-07-09 18:45 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/echo/penybont-vs-fc-santa-coloma-football-1554408/1"
   },
   {
     "title": "New Orleans Pelicans vs Minnesota Timberwolves",
