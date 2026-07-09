@@ -1,73 +1,10 @@
 [
   {
-    "title": "Pittsburgh Pirates vs Atlanta Braves",
-    "category": "MLB",
-    "time": "2026-07-09 16:35 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/golf/23664/1"
-  },
-  {
-    "title": "Tampa Bay Rays vs New York Yankees",
-    "category": "MLB",
-    "time": "2026-07-09 17:10 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/golf/23666/1"
-  },
-  {
-    "title": "New York Mets vs Kansas City Royals",
-    "category": "MLB",
-    "time": "2026-07-09 17:10 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/golf/23665/1"
-  },
-  {
     "title": "Baltimore Orioles vs Chicago Cubs",
     "category": "MLB",
     "time": "2026-07-09 17:35 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-chicago-cubs-vs-baltimore-orioles/1"
-  },
-  {
-    "title": "Baltimore Orioles vs Chicago Cubs",
-    "category": "MLB",
-    "time": "2026-07-09 17:35 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23687/1"
-  },
-  {
-    "title": "Minnesota Twins vs Cleveland Guardians",
-    "category": "MLB",
-    "time": "2026-07-09 17:40 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-cleveland-guardians-vs-minnesota-twins/1"
-  },
-  {
-    "title": "Minnesota Twins vs Cleveland Guardians",
-    "category": "MLB",
-    "time": "2026-07-09 17:40 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/echo/minnesota-twins-vs-cleveland-guardians-baseball-179413/1"
-  },
-  {
-    "title": "Minnesota Twins vs Cleveland Guardians",
-    "category": "MLB",
-    "time": "2026-07-09 17:40 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/golf/23667/1"
-  },
-  {
-    "title": "CSKA Sofia vs Derry City",
-    "category": "Soccer",
-    "time": "2026-07-09 18:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/echo/cska-sofia-vs-derry-city-football-1554441/1"
-  },
-  {
-    "title": "Vllaznia Shkodër vs Malisheva",
-    "category": "Soccer",
-    "time": "2026-07-09 18:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/echo/vllaznia-shkoder-vs-malisheva-football-1554413/1"
+    "link": "https://embed.st/embed/golf/23669/1"
   },
   {
     "title": "Chicago White Sox vs Boston Red Sox",
@@ -82,41 +19,6 @@
     "time": "2026-07-09 18:10 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23668/1"
-  },
-  {
-    "title": "NSÍ Runavík vs Ħamrun Spartans",
-    "category": "Soccer",
-    "time": "2026-07-09 18:45 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/echo/nsi-runavik-vs-hamrun-spartans-football-1554407/1"
-  },
-  {
-    "title": "Pen-y-Bont vs FC Santa Coloma",
-    "category": "Soccer",
-    "time": "2026-07-09 18:45 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/echo/penybont-vs-fc-santa-coloma-football-1554408/1"
-  },
-  {
-    "title": "Petrovac vs Žalgiris Vilnius",
-    "category": "Soccer",
-    "time": "2026-07-09 18:45 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/echo/petrovac-vs-fk-zalgiris-vilnius-football-1554409/1"
-  },
-  {
-    "title": "FK Sarajevo vs Inter Turku",
-    "category": "Soccer",
-    "time": "2026-07-09 19:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/echo/fk-sarajevo-vs-inter-turku-football-1554400/1"
-  },
-  {
-    "title": "Stjarnan vs Víkingur Gøta",
-    "category": "Soccer",
-    "time": "2026-07-09 19:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/echo/stjarnan-vs-vikingur-gota-football-1554412/1"
   },
   {
     "title": "New Orleans Pelicans vs Minnesota Timberwolves",
@@ -168,20 +70,6 @@
     "link": "https://embed.st/embed/golf/23636/1"
   },
   {
-    "title": "Atlanta Hawks vs San Antonio Spurs",
-    "category": "NBA",
-    "time": "2026-07-09 20:30 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-san-antonio-spurs-vs-atlanta-hawks/1"
-  },
-  {
-    "title": "Atlanta Hawks vs San Antonio Spurs",
-    "category": "NBA",
-    "time": "2026-07-09 20:30 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23658/1"
-  },
-  {
     "title": "Philadelphia 76ers vs Detroit Pistons",
     "category": "NBA",
     "time": "2026-07-09 21:30 UTC",
@@ -193,6 +81,13 @@
     "category": "NBA",
     "time": "2026-07-09 21:30 UTC",
     "channel": "Server 2",
+    "link": "https://embed.st/embed/echo/philadelphia-76ers-vs-detroit-pistons-basketball-502065/1"
+  },
+  {
+    "title": "Philadelphia 76ers vs Detroit Pistons",
+    "category": "NBA",
+    "time": "2026-07-09 21:30 UTC",
+    "channel": "Server 3",
     "link": "https://embed.st/embed/golf/23659/1"
   },
   {
@@ -235,6 +130,13 @@
     "category": "NBA",
     "time": "2026-07-09 23:00 UTC",
     "channel": "Server 2",
+    "link": "https://embed.st/embed/echo/dallas-mavericks-vs-golden-state-warriors-basketball-502066/1"
+  },
+  {
+    "title": "Dallas Mavericks vs Golden State Warriors",
+    "category": "NBA",
+    "time": "2026-07-09 23:00 UTC",
+    "channel": "Server 3",
     "link": "https://embed.st/embed/golf/23660/1"
   },
   {
@@ -250,6 +152,20 @@
     "time": "2026-07-09 23:10 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23672/1"
+  },
+  {
+    "title": "Orlando Magic vs Charlotte Hornets",
+    "category": "NBA",
+    "time": "2026-07-09 23:30 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-charlotte-hornets-vs-orlando-magic/1"
+  },
+  {
+    "title": "Orlando Magic vs Charlotte Hornets",
+    "category": "NBA",
+    "time": "2026-07-09 23:30 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23661/1"
   },
   {
     "title": "St. Louis Cardinals vs Milwaukee Brewers",
@@ -390,6 +306,34 @@
     "time": "2026-07-10 03:00 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23663/1"
+  },
+  {
+    "title": "Spain vs Belgium",
+    "category": "Soccer",
+    "time": "2026-07-10 19:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-spain-vs-belgium/1"
+  },
+  {
+    "title": "Spain vs Belgium",
+    "category": "Soccer",
+    "time": "2026-07-10 19:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/admin/ppv-spain-vs-belgium/3"
+  },
+  {
+    "title": "Spain vs Belgium",
+    "category": "Soccer",
+    "time": "2026-07-10 19:00 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/admin/ppv-spain-vs-belgium/5"
+  },
+  {
+    "title": "Spain vs Belgium",
+    "category": "Soccer",
+    "time": "2026-07-10 19:00 UTC",
+    "channel": "Server 4",
+    "link": "https://embed.st/embed/golf/23656/1"
   },
   {
     "title": "Miami Heat vs Milwaukee Bucks",
