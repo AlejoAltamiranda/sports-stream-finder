@@ -11,7 +11,7 @@
     "category": "MLB",
     "time": "2026-07-08 22:35 UTC",
     "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23669/1"
+    "link": "https://embed.st/embed/golf/23687/1"
   },
   {
     "title": "Pittsburgh Pirates vs Atlanta Braves",
@@ -546,11 +546,25 @@
     "link": "https://embed.st/embed/admin/ppv-milwaukee-bucks-vs-miami-heat/1"
   },
   {
+    "title": "Miami Heat vs Milwaukee Bucks",
+    "category": "NBA",
+    "time": "2026-07-10 20:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23679/1"
+  },
+  {
     "title": "Indiana Pacers vs Cleveland Cavaliers",
     "category": "NBA",
     "time": "2026-07-10 20:30 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/admin/ppv-cleveland-cavaliers-vs-indiana-pacers/1"
+  },
+  {
+    "title": "Indiana Pacers vs Cleveland Cavaliers",
+    "category": "NBA",
+    "time": "2026-07-10 20:30 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23680/1"
   },
   {
     "title": "New York Knicks vs Brooklyn Nets",
@@ -560,10 +574,24 @@
     "link": "https://embed.st/embed/admin/ppv-brooklyn-nets-vs-new-york-knicks/1"
   },
   {
+    "title": "New York Knicks vs Brooklyn Nets",
+    "category": "NBA",
+    "time": "2026-07-10 22:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23681/1"
+  },
+  {
     "title": "Denver Nuggets vs Houston Rockets",
     "category": "NBA",
     "time": "2026-07-10 22:30 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/admin/ppv-houston-rockets-vs-denver-nuggets/1"
+  },
+  {
+    "title": "Denver Nuggets vs Houston Rockets",
+    "category": "NBA",
+    "time": "2026-07-10 22:30 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23682/1"
   }
 ]
