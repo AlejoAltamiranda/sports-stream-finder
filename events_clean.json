@@ -1,52 +1,24 @@
 [
   {
-    "title": "San Diego Padres vs Arizona Diamondbacks",
-    "category": "MLB",
-    "time": "2026-07-10 01:40 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/golf/23675/1"
-  },
-  {
     "title": "San Francisco Giants vs Colorado Rockies",
     "category": "MLB",
     "time": "2026-07-10 01:45 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/golf/23676/1"
-  },
-  {
-    "title": "San Francisco Giants vs Colorado Rockies",
-    "category": "MLB",
-    "time": "2026-07-10 01:45 UTC",
-    "channel": "Server 2",
     "link": "https://embed.st/embed/admin/ppv-colorado-rockies-vs-san-francisco-giants/1"
   },
   {
     "title": "San Francisco Giants vs Colorado Rockies",
     "category": "MLB",
     "time": "2026-07-10 01:45 UTC",
-    "channel": "Server 3",
+    "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23702/1"
   },
   {
     "title": "San Francisco Giants vs Colorado Rockies",
     "category": "MLB",
     "time": "2026-07-10 01:45 UTC",
-    "channel": "Server 4",
+    "channel": "Server 3",
     "link": "https://embed.st/embed/echo/san-francisco-giants-vs-colorado-rockies-baseball-179438/1"
-  },
-  {
-    "title": "Los Angeles Clippers vs Sacramento Kings",
-    "category": "NBA",
-    "time": "2026-07-10 03:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-sacramento-kings-vs-la-clippers/1"
-  },
-  {
-    "title": "Los Angeles Clippers vs Sacramento Kings",
-    "category": "NBA",
-    "time": "2026-07-10 03:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23663/1"
   },
   {
     "title": "Spain vs Belgium",
