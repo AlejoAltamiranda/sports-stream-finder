@@ -1,96 +1,5 @@
 [
   {
-    "title": "Baltimore Orioles vs Chicago Cubs",
-    "category": "MLB",
-    "time": "2026-07-09 17:35 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/golf/23669/1"
-  },
-  {
-    "title": "Chicago White Sox vs Boston Red Sox",
-    "category": "MLB",
-    "time": "2026-07-09 18:10 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-boston-red-sox-vs-chicago-white-sox/1"
-  },
-  {
-    "title": "Chicago White Sox vs Boston Red Sox",
-    "category": "MLB",
-    "time": "2026-07-09 18:10 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23668/1"
-  },
-  {
-    "title": "New Orleans Pelicans vs Minnesota Timberwolves",
-    "category": "NBA",
-    "time": "2026-07-09 19:30 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-minnesota-timberwolves-vs-new-orleans-pelicans/1"
-  },
-  {
-    "title": "New Orleans Pelicans vs Minnesota Timberwolves",
-    "category": "NBA",
-    "time": "2026-07-09 19:30 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23657/1"
-  },
-  {
-    "title": "France vs Morocco",
-    "category": "Soccer",
-    "time": "2026-07-09 20:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-france-vs-morocco/1"
-  },
-  {
-    "title": "France vs Morocco",
-    "category": "Soccer",
-    "time": "2026-07-09 20:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/admin/ppv-france-vs-morocco/3"
-  },
-  {
-    "title": "France vs Morocco",
-    "category": "Soccer",
-    "time": "2026-07-09 20:00 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/admin/ppv-france-vs-morocco/5"
-  },
-  {
-    "title": "France vs Morocco",
-    "category": "Soccer",
-    "time": "2026-07-09 20:00 UTC",
-    "channel": "Server 4",
-    "link": "https://embed.st/embed/echo/france-vs-morocco-football-1578539/1"
-  },
-  {
-    "title": "France vs Morocco",
-    "category": "Soccer",
-    "time": "2026-07-09 20:00 UTC",
-    "channel": "Server 5",
-    "link": "https://embed.st/embed/golf/23636/1"
-  },
-  {
-    "title": "Philadelphia 76ers vs Detroit Pistons",
-    "category": "NBA",
-    "time": "2026-07-09 21:30 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-detroit-pistons-vs-philadelphia-76-ers/1"
-  },
-  {
-    "title": "Philadelphia 76ers vs Detroit Pistons",
-    "category": "NBA",
-    "time": "2026-07-09 21:30 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/echo/philadelphia-76ers-vs-detroit-pistons-basketball-502065/1"
-  },
-  {
-    "title": "Philadelphia 76ers vs Detroit Pistons",
-    "category": "NBA",
-    "time": "2026-07-09 21:30 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/golf/23659/1"
-  },
-  {
     "title": "Miami Marlins vs Seattle Mariners",
     "category": "MLB",
     "time": "2026-07-09 22:40 UTC",
@@ -102,21 +11,7 @@
     "category": "MLB",
     "time": "2026-07-09 22:40 UTC",
     "channel": "Server 2",
-    "link": "https://embed.st/embed/echo/miami-marlins-vs-seattle-mariners-baseball-179414/1"
-  },
-  {
-    "title": "Miami Marlins vs Seattle Mariners",
-    "category": "MLB",
-    "time": "2026-07-09 22:40 UTC",
-    "channel": "Server 3",
     "link": "https://embed.st/embed/golf/23671/1"
-  },
-  {
-    "title": "Detroit Tigers vs Athletics",
-    "category": "MLB",
-    "time": "2026-07-09 22:40 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/golf/23670/1"
   },
   {
     "title": "Dallas Mavericks vs Golden State Warriors",
@@ -130,28 +25,7 @@
     "category": "NBA",
     "time": "2026-07-09 23:00 UTC",
     "channel": "Server 2",
-    "link": "https://embed.st/embed/echo/dallas-mavericks-vs-golden-state-warriors-basketball-502066/1"
-  },
-  {
-    "title": "Dallas Mavericks vs Golden State Warriors",
-    "category": "NBA",
-    "time": "2026-07-09 23:00 UTC",
-    "channel": "Server 3",
     "link": "https://embed.st/embed/golf/23660/1"
-  },
-  {
-    "title": "Cincinnati Reds vs Philadelphia Phillies",
-    "category": "MLB",
-    "time": "2026-07-09 23:10 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-philadelphia-phillies-vs-cincinnati-reds/1"
-  },
-  {
-    "title": "Cincinnati Reds vs Philadelphia Phillies",
-    "category": "MLB",
-    "time": "2026-07-09 23:10 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23672/1"
   },
   {
     "title": "Orlando Magic vs Charlotte Hornets",
@@ -172,6 +46,13 @@
     "category": "MLB",
     "time": "2026-07-09 23:45 UTC",
     "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-st-louis-cardinals/1"
+  },
+  {
+    "title": "St. Louis Cardinals vs Milwaukee Brewers",
+    "category": "MLB",
+    "time": "2026-07-09 23:45 UTC",
+    "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23673/1"
   },
   {
@@ -182,24 +63,17 @@
     "link": "https://embed.st/embed/admin/ppv-seattle-storm-vs-atlanta-dream/1"
   },
   {
-    "title": "Texas Rangers vs Los Angeles Angels",
-    "category": "MLB",
-    "time": "2026-07-10 00:05 UTC",
+    "title": "Washington Wizards vs Utah Jazz",
+    "category": "NBA",
+    "time": "2026-07-10 01:00 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-los-angeles-angels-vs-texas-rangers/1"
-  },
-  {
-    "title": "Texas Rangers vs Los Angeles Angels",
-    "category": "MLB",
-    "time": "2026-07-10 00:05 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23674/1"
+    "link": "https://embed.st/embed/admin/ppv-utah-jazz-vs-washington-wizards/1"
   },
   {
     "title": "Washington Wizards vs Utah Jazz",
     "category": "NBA",
     "time": "2026-07-10 01:00 UTC",
-    "channel": "Main Server",
+    "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23662/1"
   },
   {
@@ -208,27 +82,6 @@
     "time": "2026-07-10 01:00 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/admin/ppv-ottawa-red-blacks-vs-edmonton-elks/1"
-  },
-  {
-    "title": "Edmonton Elks vs Ottawa Redblacks",
-    "category": "CFL",
-    "time": "2026-07-10 01:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/admin/ppv-ottawa-red-blacks-vs-edmonton-elks/3"
-  },
-  {
-    "title": "Edmonton Elks vs Ottawa Redblacks",
-    "category": "CFL",
-    "time": "2026-07-10 01:00 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/admin/ppv-ottawa-red-blacks-vs-edmonton-elks/5"
-  },
-  {
-    "title": "San Diego Padres vs Arizona Diamondbacks",
-    "category": "MLB",
-    "time": "2026-07-10 01:40 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/golf/23675/1"
   },
   {
     "title": "San Francisco Giants vs Colorado Rockies",
@@ -259,53 +112,11 @@
     "link": "https://embed.st/embed/admin/ppv-indiana-fever-vs-phoenix-mercury/1"
   },
   {
-    "title": "Phoenix Mercury vs Indiana Fever",
-    "category": "WNBA",
-    "time": "2026-07-10 02:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/admin/ppv-indiana-fever-vs-phoenix-mercury/3"
-  },
-  {
-    "title": "Phoenix Mercury vs Indiana Fever",
-    "category": "WNBA",
-    "time": "2026-07-10 02:00 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/admin/ppv-indiana-fever-vs-phoenix-mercury/5"
-  },
-  {
     "title": "Portland Fire vs Las Vegas Aces",
     "category": "WNBA",
     "time": "2026-07-10 02:00 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/admin/ppv-las-vegas-aces-vs-portland-fire/1"
-  },
-  {
-    "title": "Portland Fire vs Las Vegas Aces",
-    "category": "WNBA",
-    "time": "2026-07-10 02:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/admin/ppv-las-vegas-aces-vs-portland-fire/3"
-  },
-  {
-    "title": "Portland Fire vs Las Vegas Aces",
-    "category": "WNBA",
-    "time": "2026-07-10 02:00 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/admin/ppv-las-vegas-aces-vs-portland-fire/5"
-  },
-  {
-    "title": "Los Angeles Clippers vs Sacramento Kings",
-    "category": "NBA",
-    "time": "2026-07-10 03:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/echo/los-angeles-clippers-vs-sacramento-kings-basketball-502069/1"
-  },
-  {
-    "title": "Los Angeles Clippers vs Sacramento Kings",
-    "category": "NBA",
-    "time": "2026-07-10 03:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23663/1"
   },
   {
     "title": "Spain vs Belgium",
@@ -334,111 +145,6 @@
     "time": "2026-07-10 19:00 UTC",
     "channel": "Server 4",
     "link": "https://embed.st/embed/golf/23656/1"
-  },
-  {
-    "title": "Miami Heat vs Milwaukee Bucks",
-    "category": "NBA",
-    "time": "2026-07-10 20:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/golf/23679/1"
-  },
-  {
-    "title": "Indiana Pacers vs Cleveland Cavaliers",
-    "category": "NBA",
-    "time": "2026-07-10 20:30 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-cleveland-cavaliers-vs-indiana-pacers/1"
-  },
-  {
-    "title": "New York Knicks vs Brooklyn Nets",
-    "category": "NBA",
-    "time": "2026-07-10 22:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-brooklyn-nets-vs-new-york-knicks/1"
-  },
-  {
-    "title": "New York Knicks vs Brooklyn Nets",
-    "category": "NBA",
-    "time": "2026-07-10 22:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23681/1"
-  },
-  {
-    "title": "Denver Nuggets vs Houston Rockets",
-    "category": "NBA",
-    "time": "2026-07-10 22:30 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/golf/23682/1"
-  },
-  {
-    "title": "Pittsburgh Pirates vs Milwaukee Brewers",
-    "category": "MLB",
-    "time": "2026-07-10 22:40 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/golf/23688/1"
-  },
-  {
-    "title": "Detroit Tigers vs Philadelphia Phillies",
-    "category": "MLB",
-    "time": "2026-07-10 22:40 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/echo/detroit-tigers-vs-philadelphia-phillies-baseball-179431/1"
-  },
-  {
-    "title": "Detroit Tigers vs Philadelphia Phillies",
-    "category": "MLB",
-    "time": "2026-07-10 22:40 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23689/1"
-  },
-  {
-    "title": "Washington Nationals vs New York Yankees",
-    "category": "MLB",
-    "time": "2026-07-10 22:45 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/golf/23690/1"
-  },
-  {
-    "title": "Baltimore Orioles vs Kansas City Royals",
-    "category": "MLB",
-    "time": "2026-07-10 23:05 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/golf/23691/1"
-  },
-  {
-    "title": "Tampa Bay Rays vs Seattle Mariners",
-    "category": "MLB",
-    "time": "2026-07-10 23:10 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/golf/23694/1"
-  },
-  {
-    "title": "Miami Marlins vs Cleveland Guardians",
-    "category": "MLB",
-    "time": "2026-07-10 23:10 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/golf/23693/1"
-  },
-  {
-    "title": "Cincinnati Reds vs Chicago Cubs",
-    "category": "MLB",
-    "time": "2026-07-10 23:10 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/golf/23692/1"
-  },
-  {
-    "title": "Los Angeles Lakers vs Oklahoma City Thunder",
-    "category": "NBA",
-    "time": "2026-07-11 02:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/golf/23685/1"
-  },
-  {
-    "title": "Phoenix Suns vs Portland Trail Blazers",
-    "category": "NBA",
-    "time": "2026-07-11 03:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/golf/23686/1"
   },
   {
     "title": "UFC 329 McGregor vs Holloway 2",
