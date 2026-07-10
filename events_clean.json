@@ -18,7 +18,7 @@
     "category": "MLB",
     "time": "2026-07-10 01:45 UTC",
     "channel": "Server 3",
-    "link": "https://embed.st/embed/echo/san-francisco-giants-vs-colorado-rockies-baseball-179438/1"
+    "link": "https://embed.st/embed/golf/23715/1"
   },
   {
     "title": "Spain vs Belgium",
@@ -123,7 +123,7 @@
     "category": "MLB",
     "time": "2026-07-10 22:40 UTC",
     "channel": "Server 3",
-    "link": "https://embed.st/embed/echo/pittsburgh-pirates-vs-milwaukee-brewers-baseball-179440/1"
+    "link": "https://embed.st/embed/golf/23713/1"
   },
   {
     "title": "Detroit Tigers vs Philadelphia Phillies",
@@ -144,7 +144,7 @@
     "category": "MLB",
     "time": "2026-07-10 22:40 UTC",
     "channel": "Server 3",
-    "link": "https://embed.st/embed/echo/detroit-tigers-vs-philadelphia-phillies-baseball-179445/1"
+    "link": "https://embed.st/embed/golf/23719/1"
   },
   {
     "title": "Washington Nationals vs New York Yankees",
@@ -165,7 +165,7 @@
     "category": "MLB",
     "time": "2026-07-10 22:45 UTC",
     "channel": "Server 3",
-    "link": "https://embed.st/embed/echo/washington-nationals-vs-new-york-yankees-baseball-179434/1"
+    "link": "https://embed.st/embed/golf/23714/1"
   },
   {
     "title": "Baltimore Orioles vs Kansas City Royals",
@@ -186,7 +186,7 @@
     "category": "MLB",
     "time": "2026-07-10 23:05 UTC",
     "channel": "Server 3",
-    "link": "https://embed.st/embed/echo/baltimore-orioles-vs-kansas-city-royals-baseball-179448/1"
+    "link": "https://embed.st/embed/golf/23720/1"
   },
   {
     "title": "Tampa Bay Rays vs Seattle Mariners",
@@ -207,7 +207,7 @@
     "category": "MLB",
     "time": "2026-07-10 23:10 UTC",
     "channel": "Server 3",
-    "link": "https://embed.st/embed/echo/tampa-bay-rays-vs-seattle-mariners-baseball-179436/1"
+    "link": "https://embed.st/embed/golf/23718/1"
   },
   {
     "title": "Miami Marlins vs Cleveland Guardians",
@@ -228,7 +228,7 @@
     "category": "MLB",
     "time": "2026-07-10 23:10 UTC",
     "channel": "Server 3",
-    "link": "https://embed.st/embed/echo/miami-marlins-vs-cleveland-guardians-baseball-179443/1"
+    "link": "https://embed.st/embed/golf/23717/1"
   },
   {
     "title": "Cincinnati Reds vs Chicago Cubs",
@@ -249,7 +249,7 @@
     "category": "MLB",
     "time": "2026-07-10 23:10 UTC",
     "channel": "Server 3",
-    "link": "https://embed.st/embed/echo/cincinnati-reds-vs-chicago-cubs-baseball-179446/1"
+    "link": "https://embed.st/embed/golf/23722/1"
   },
   {
     "title": "Connecticut Sun vs Golden State Valkyries",
@@ -357,11 +357,25 @@
     "link": "https://embed.st/embed/admin/ppv-miami-heat-vs-orlando-magic/1"
   },
   {
+    "title": "Orlando Magic vs Miami Heat",
+    "category": "NBA",
+    "time": "2026-07-11 19:30 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23703/1"
+  },
+  {
     "title": "Charlotte Hornets vs New Orleans Pelicans",
     "category": "NBA",
     "time": "2026-07-11 20:00 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/admin/ppv-new-orleans-pelicans-vs-charlotte-hornets/1"
+  },
+  {
+    "title": "Charlotte Hornets vs New Orleans Pelicans",
+    "category": "NBA",
+    "time": "2026-07-11 20:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23704/1"
   },
   {
     "title": "Norway vs England",
@@ -420,11 +434,25 @@
     "link": "https://embed.st/embed/admin/ppv-indiana-pacers-vs-philadelphia-76-ers/1"
   },
   {
+    "title": "Philadelphia 76ers vs Indiana Pacers",
+    "category": "NBA",
+    "time": "2026-07-11 21:30 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23705/1"
+  },
+  {
     "title": "San Antonio Spurs vs New York Knicks",
     "category": "NBA",
     "time": "2026-07-11 22:00 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/admin/ppv-new-york-knicks-vs-san-antonio-spurs/1"
+  },
+  {
+    "title": "San Antonio Spurs vs New York Knicks",
+    "category": "NBA",
+    "time": "2026-07-11 22:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23706/1"
   },
   {
     "title": "Montreal Alouettes vs Calgary Stampeders",
@@ -439,5 +467,12 @@
     "time": "2026-07-11 23:30 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/admin/ppv-denver-nuggets-vs-minnesota-timberwolves/1"
+  },
+  {
+    "title": "Minnesota Timberwolves vs Denver Nuggets",
+    "category": "NBA",
+    "time": "2026-07-11 23:30 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/golf/23707/1"
   }
 ]
