@@ -1,26 +1,5 @@
 [
   {
-    "title": "San Francisco Giants vs Colorado Rockies",
-    "category": "MLB",
-    "time": "2026-07-10 01:45 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-colorado-rockies-vs-san-francisco-giants/1"
-  },
-  {
-    "title": "San Francisco Giants vs Colorado Rockies",
-    "category": "MLB",
-    "time": "2026-07-10 01:45 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23702/1"
-  },
-  {
-    "title": "San Francisco Giants vs Colorado Rockies",
-    "category": "MLB",
-    "time": "2026-07-10 01:45 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/golf/23715/1"
-  },
-  {
     "title": "Spain vs Belgium",
     "category": "Soccer",
     "time": "2026-07-10 19:00 UTC",
@@ -46,6 +25,13 @@
     "category": "Soccer",
     "time": "2026-07-10 19:00 UTC",
     "channel": "Server 4",
+    "link": "https://embed.st/embed/echo/spain-vs-belgium-football-1581821/1"
+  },
+  {
+    "title": "Spain vs Belgium",
+    "category": "Soccer",
+    "time": "2026-07-10 19:00 UTC",
+    "channel": "Server 5",
     "link": "https://embed.st/embed/golf/23656/1"
   },
   {
@@ -166,27 +152,6 @@
     "time": "2026-07-10 22:45 UTC",
     "channel": "Server 3",
     "link": "https://embed.st/embed/golf/23714/1"
-  },
-  {
-    "title": "Baltimore Orioles vs Kansas City Royals",
-    "category": "MLB",
-    "time": "2026-07-10 23:05 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-kansas-city-royals-vs-baltimore-orioles/1"
-  },
-  {
-    "title": "Baltimore Orioles vs Kansas City Royals",
-    "category": "MLB",
-    "time": "2026-07-10 23:05 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23691/1"
-  },
-  {
-    "title": "Baltimore Orioles vs Kansas City Royals",
-    "category": "MLB",
-    "time": "2026-07-10 23:05 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/golf/23720/1"
   },
   {
     "title": "Tampa Bay Rays vs Seattle Mariners",
@@ -315,27 +280,6 @@
     "link": "https://embed.st/embed/golf/23685/1"
   },
   {
-    "title": "Los Angeles Sparks vs Chicago Sky",
-    "category": "WNBA",
-    "time": "2026-07-11 02:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-chicago-sky-vs-los-angeles-sparks/1"
-  },
-  {
-    "title": "Phoenix Suns vs Portland Trail Blazers",
-    "category": "NBA",
-    "time": "2026-07-11 03:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-portland-trail-blazers-vs-phoenix-suns/1"
-  },
-  {
-    "title": "Phoenix Suns vs Portland Trail Blazers",
-    "category": "NBA",
-    "time": "2026-07-11 03:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23686/1"
-  },
-  {
     "title": "Tanzania U17 vs Australia U17",
     "category": "Soccer",
     "time": "2026-07-11 08:00 UTC",
@@ -439,27 +383,6 @@
     "time": "2026-07-11 21:30 UTC",
     "channel": "Server 2",
     "link": "https://embed.st/embed/golf/23705/1"
-  },
-  {
-    "title": "San Antonio Spurs vs New York Knicks",
-    "category": "NBA",
-    "time": "2026-07-11 22:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-new-york-knicks-vs-san-antonio-spurs/1"
-  },
-  {
-    "title": "San Antonio Spurs vs New York Knicks",
-    "category": "NBA",
-    "time": "2026-07-11 22:00 UTC",
-    "channel": "Server 2",
-    "link": "https://embed.st/embed/golf/23706/1"
-  },
-  {
-    "title": "Montreal Alouettes vs Calgary Stampeders",
-    "category": "CFL",
-    "time": "2026-07-11 23:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-calgary-stampeders-vs-montreal-alouettes/1"
   },
   {
     "title": "Minnesota Timberwolves vs Denver Nuggets",
