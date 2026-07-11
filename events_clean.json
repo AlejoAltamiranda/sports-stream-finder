@@ -1,5 +1,117 @@
 [
   {
+    "title": "Chicago White Sox vs Athletics",
+    "category": "MLB",
+    "time": "2026-07-10 23:40 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-athletics-vs-chicago-white-sox/1"
+  },
+  {
+    "title": "Chicago White Sox vs Athletics",
+    "category": "MLB",
+    "time": "2026-07-10 23:40 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/echo/chicago-white-sox-vs-athletics-baseball-179456/1"
+  },
+  {
+    "title": "Texas Rangers vs Houston Astros",
+    "category": "MLB",
+    "time": "2026-07-11 00:05 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-houston-astros-vs-texas-rangers/1"
+  },
+  {
+    "title": "Texas Rangers vs Houston Astros",
+    "category": "MLB",
+    "time": "2026-07-11 00:05 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/echo/texas-rangers-vs-houston-astros-baseball-179451/1"
+  },
+  {
+    "title": "Minnesota Twins vs Los Angeles Angels",
+    "category": "MLB",
+    "time": "2026-07-11 00:10 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-los-angeles-angels-vs-minnesota-twins/1"
+  },
+  {
+    "title": "Minnesota Twins vs Los Angeles Angels",
+    "category": "MLB",
+    "time": "2026-07-11 00:10 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/echo/minnesota-twins-vs-los-angeles-angels-baseball-179460/1"
+  },
+  {
+    "title": "Toronto Raptors vs Boston Celtics",
+    "category": "NBA",
+    "time": "2026-07-11 01:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/echo/toronto-raptors-vs-boston-celtics-basketball-502075/1"
+  },
+  {
+    "title": "San Diego Padres vs Toronto Blue Jays",
+    "category": "MLB",
+    "time": "2026-07-11 01:40 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-san-diego-padres/1"
+  },
+  {
+    "title": "San Diego Padres vs Toronto Blue Jays",
+    "category": "MLB",
+    "time": "2026-07-11 01:40 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/echo/san-diego-padres-vs-toronto-blue-jays-baseball-179455/1"
+  },
+  {
+    "title": "Los Angeles Dodgers vs Arizona Diamondbacks",
+    "category": "MLB",
+    "time": "2026-07-11 02:10 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-arizona-diamondbacks-vs-los-angeles-dodgers/1"
+  },
+  {
+    "title": "Los Angeles Dodgers vs Arizona Diamondbacks",
+    "category": "MLB",
+    "time": "2026-07-11 02:10 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/echo/los-angeles-dodgers-vs-arizona-diamondbacks-baseball-179430/1"
+  },
+  {
+    "title": "Los Angeles Dodgers vs Arizona Diamondbacks",
+    "category": "MLB",
+    "time": "2026-07-11 02:10 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/echo/los-angeles-dodgers-vs-arizona-diamondbacks-baseball-179462/1"
+  },
+  {
+    "title": "San Francisco Giants vs Colorado Rockies",
+    "category": "MLB",
+    "time": "2026-07-11 02:15 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-colorado-rockies-vs-san-francisco-giants/1"
+  },
+  {
+    "title": "San Francisco Giants vs Colorado Rockies",
+    "category": "MLB",
+    "time": "2026-07-11 02:15 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/echo/san-francisco-giants-vs-colorado-rockies-baseball-179424/1"
+  },
+  {
+    "title": "San Francisco Giants vs Colorado Rockies",
+    "category": "MLB",
+    "time": "2026-07-11 02:15 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/echo/san-francisco-giants-vs-colorado-rockies-baseball-179454/1"
+  },
+  {
+    "title": "Phoenix Suns vs Portland Trail Blazers",
+    "category": "NBA",
+    "time": "2026-07-11 03:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-portland-trail-blazers-vs-phoenix-suns/1"
+  },
+  {
     "title": "Tanzania U17 vs Australia U17",
     "category": "Soccer",
     "time": "2026-07-11 08:00 UTC",
@@ -14,6 +126,13 @@
     "link": "https://embed.st/embed/echo/china-pr-u17-vs-nigeria-u17-football-1583650/1"
   },
   {
+    "title": "Minnesota Lynx vs New York Liberty",
+    "category": "WNBA",
+    "time": "2026-07-11 17:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-new-york-liberty-vs-minnesota-lynx/1"
+  },
+  {
     "title": "Minnesota Twins vs Los Angeles Angels",
     "category": "MLB",
     "time": "2026-07-11 18:10 UTC",
@@ -25,20 +144,6 @@
     "category": "MLB",
     "time": "2026-07-11 18:10 UTC",
     "channel": "Server 2",
-    "link": "https://embed.st/embed/echo/minnesota-twins-vs-los-angeles-angels-baseball-179428/1"
-  },
-  {
-    "title": "Minnesota Twins vs Los Angeles Angels",
-    "category": "MLB",
-    "time": "2026-07-11 18:10 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/echo/minnesota-twins-vs-los-angeles-angels-baseball-179442/1"
-  },
-  {
-    "title": "Minnesota Twins vs Los Angeles Angels",
-    "category": "MLB",
-    "time": "2026-07-11 18:10 UTC",
-    "channel": "Server 4",
     "link": "https://embed.st/embed/echo/minnesota-twins-vs-los-angeles-angels-baseball-179460/1"
   },
   {
@@ -53,21 +158,14 @@
     "category": "MLB",
     "time": "2026-07-11 18:10 UTC",
     "channel": "Server 2",
-    "link": "https://embed.st/embed/echo/chicago-white-sox-vs-athletics-baseball-179433/1"
-  },
-  {
-    "title": "Chicago White Sox vs Athletics",
-    "category": "MLB",
-    "time": "2026-07-11 18:10 UTC",
-    "channel": "Server 3",
-    "link": "https://embed.st/embed/echo/chicago-white-sox-vs-athletics-baseball-179447/1"
-  },
-  {
-    "title": "Chicago White Sox vs Athletics",
-    "category": "MLB",
-    "time": "2026-07-11 18:10 UTC",
-    "channel": "Server 4",
     "link": "https://embed.st/embed/echo/chicago-white-sox-vs-athletics-baseball-179456/1"
+  },
+  {
+    "title": "Orlando Magic vs Miami Heat",
+    "category": "NBA",
+    "time": "2026-07-11 19:30 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-miami-heat-vs-orlando-magic/1"
   },
   {
     "title": "Charlotte Hornets vs New Orleans Pelicans",
@@ -75,6 +173,13 @@
     "time": "2026-07-11 20:00 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/admin/ppv-new-orleans-pelicans-vs-charlotte-hornets/1"
+  },
+  {
+    "title": "Atlanta Dream vs Portland Fire",
+    "category": "WNBA",
+    "time": "2026-07-11 20:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-portland-fire-vs-atlanta-dream/1"
   },
   {
     "title": "Washington Nationals vs New York Yankees",
@@ -88,13 +193,6 @@
     "category": "MLB",
     "time": "2026-07-11 20:05 UTC",
     "channel": "Server 2",
-    "link": "https://embed.st/embed/echo/washington-nationals-vs-new-york-yankees-baseball-179434/1"
-  },
-  {
-    "title": "Washington Nationals vs New York Yankees",
-    "category": "MLB",
-    "time": "2026-07-11 20:05 UTC",
-    "channel": "Server 3",
     "link": "https://embed.st/embed/echo/washington-nationals-vs-new-york-yankees-baseball-179449/1"
   },
   {
@@ -116,13 +214,6 @@
     "category": "MLB",
     "time": "2026-07-11 20:05 UTC",
     "channel": "Server 3",
-    "link": "https://embed.st/embed/echo/san-francisco-giants-vs-colorado-rockies-baseball-179438/1"
-  },
-  {
-    "title": "San Francisco Giants vs Colorado Rockies",
-    "category": "MLB",
-    "time": "2026-07-11 20:05 UTC",
-    "channel": "Server 4",
     "link": "https://embed.st/embed/echo/san-francisco-giants-vs-colorado-rockies-baseball-179454/1"
   },
   {
@@ -137,13 +228,6 @@
     "category": "MLB",
     "time": "2026-07-11 20:05 UTC",
     "channel": "Server 2",
-    "link": "https://embed.st/embed/echo/pittsburgh-pirates-vs-milwaukee-brewers-baseball-179440/1"
-  },
-  {
-    "title": "Pittsburgh Pirates vs Milwaukee Brewers",
-    "category": "MLB",
-    "time": "2026-07-11 20:05 UTC",
-    "channel": "Server 3",
     "link": "https://embed.st/embed/echo/pittsburgh-pirates-vs-milwaukee-brewers-baseball-179450/1"
   },
   {
@@ -168,6 +252,34 @@
     "link": "https://embed.st/embed/admin/ppv-norway-vs-england/5"
   },
   {
+    "title": "Norway vs England",
+    "category": "Soccer",
+    "time": "2026-07-11 21:00 UTC",
+    "channel": "Server 4",
+    "link": "https://embed.st/embed/echo/england-vs-india-fifth-t20-international-game-19993637/1"
+  },
+  {
+    "title": "UFC 329 McGregor vs Holloway 2",
+    "category": "UFC",
+    "time": "2026-07-11 21:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-ufc-329-mc-gregor-vs-holloway-2/1"
+  },
+  {
+    "title": "UFC 329 McGregor vs Holloway 2",
+    "category": "UFC",
+    "time": "2026-07-11 21:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/admin/ppv-ufc-329-mc-gregor-vs-holloway-2/3"
+  },
+  {
+    "title": "UFC 329 McGregor vs Holloway 2",
+    "category": "UFC",
+    "time": "2026-07-11 21:00 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/admin/ppv-ufc-329-mc-gregor-vs-holloway-2/5"
+  },
+  {
     "title": "Philadelphia 76ers vs Indiana Pacers",
     "category": "NBA",
     "time": "2026-07-11 21:30 UTC",
@@ -180,6 +292,13 @@
     "time": "2026-07-11 22:00 UTC",
     "channel": "Main Server",
     "link": "https://embed.st/embed/admin/ppv-new-york-knicks-vs-san-antonio-spurs/1"
+  },
+  {
+    "title": "Las Vegas Aces vs Phoenix Mercury",
+    "category": "WNBA",
+    "time": "2026-07-11 22:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-phoenix-mercury-vs-las-vegas-aces/1"
   },
   {
     "title": "Montreal Alouettes vs Calgary Stampeders",
@@ -203,6 +322,27 @@
     "link": "https://embed.st/embed/admin/ppv-atlanta-hawks-vs-brooklyn-nets/1"
   },
   {
+    "title": "Argentina vs Switzerland",
+    "category": "Soccer",
+    "time": "2026-07-12 01:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-argentina-vs-switzerland/1"
+  },
+  {
+    "title": "Argentina vs Switzerland",
+    "category": "Soccer",
+    "time": "2026-07-12 01:00 UTC",
+    "channel": "Server 2",
+    "link": "https://embed.st/embed/admin/ppv-argentina-vs-switzerland/3"
+  },
+  {
+    "title": "Argentina vs Switzerland",
+    "category": "Soccer",
+    "time": "2026-07-12 01:00 UTC",
+    "channel": "Server 3",
+    "link": "https://embed.st/embed/admin/ppv-argentina-vs-switzerland/5"
+  },
+  {
     "title": "Toronto Raptors vs Houston Rockets",
     "category": "NBA",
     "time": "2026-07-12 01:30 UTC",
@@ -210,32 +350,32 @@
     "link": "https://embed.st/embed/admin/ppv-houston-rockets-vs-toronto-raptors/1"
   },
   {
+    "title": "Dallas Mavericks vs Los Angeles Lakers",
+    "category": "NBA",
+    "time": "2026-07-12 02:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/admin/ppv-los-angeles-lakers-vs-dallas-mavericks/1"
+  },
+  {
     "title": "New Orleans Pelicans vs Phoenix Suns",
     "category": "NBA",
     "time": "2026-07-12 19:00 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/echo/new-orleans-pelicans-vs-phoenix-suns-basketball-502086/1"
+    "link": "https://embed.st/embed/admin/ppv-phoenix-suns-vs-new-orleans-pelicans/1"
   },
   {
     "title": "Detroit Pistons vs Cleveland Cavaliers",
     "category": "NBA",
     "time": "2026-07-12 20:00 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/echo/detroit-pistons-vs-cleveland-cavaliers-basketball-502087/1"
+    "link": "https://embed.st/embed/admin/ppv-cleveland-cavaliers-vs-detroit-pistons/1"
   },
   {
     "title": "Boston Celtics vs Charlotte Hornets",
     "category": "NBA",
     "time": "2026-07-12 21:00 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/echo/boston-celtics-vs-charlotte-hornets-basketball-502088/1"
-  },
-  {
-    "title": "Golden State Warriors vs Oklahoma City Thunder",
-    "category": "NBA",
-    "time": "2026-07-12 22:00 UTC",
-    "channel": "Main Server",
-    "link": "https://embed.st/embed/echo/golden-state-warriors-vs-oklahoma-city-thunder-basketball-502089/1"
+    "link": "https://embed.st/embed/admin/ppv-charlotte-hornets-vs-boston-celtics/1"
   },
   {
     "title": "Saskatchewan Roughriders vs Hamilton Tiger-Cats",
