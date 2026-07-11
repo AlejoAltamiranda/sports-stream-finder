@@ -182,18 +182,25 @@
     "link": "https://embed.st/embed/echo/san-diego-padres-vs-toronto-blue-jays-baseball-179455/1"
   },
   {
-    "title": "San Francisco Giants vs Colorado Rockies",
+    "title": "Los Angeles Dodgers vs Arizona Diamondbacks",
     "category": "MLB",
-    "time": "2026-07-11 02:15 UTC",
+    "time": "2026-07-11 02:10 UTC",
     "channel": "Main Server",
-    "link": "https://embed.st/embed/admin/ppv-colorado-rockies-vs-san-francisco-giants/1"
+    "link": "https://embed.st/embed/admin/ppv-arizona-diamondbacks-vs-los-angeles-dodgers/1"
   },
   {
-    "title": "San Francisco Giants vs Colorado Rockies",
+    "title": "Los Angeles Dodgers vs Arizona Diamondbacks",
     "category": "MLB",
-    "time": "2026-07-11 02:15 UTC",
+    "time": "2026-07-11 02:10 UTC",
     "channel": "Server 2",
-    "link": "https://embed.st/embed/echo/san-francisco-giants-vs-colorado-rockies-baseball-179454/1"
+    "link": "https://embed.st/embed/echo/los-angeles-dodgers-vs-arizona-diamondbacks-baseball-179462/1"
+  },
+  {
+    "title": "China U17 vs Nigeria U17",
+    "category": "Soccer",
+    "time": "2026-07-11 11:35 UTC",
+    "channel": "Main Server",
+    "link": "https://embed.st/embed/echo/china-pr-u17-vs-nigeria-u17-football-1583650/1"
   },
   {
     "title": "Minnesota Lynx vs New York Liberty",
