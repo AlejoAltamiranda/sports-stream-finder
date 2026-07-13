@@ -1,6 +1,6 @@
 {
-  "scraping_date": "2026-07-13T03:33:55.140181",
-  "total_events": 56,
+  "scraping_date": "2026-07-13T09:38:55.311219",
+  "total_events": 59,
   "events": [
     {
       "title": "Pittsburgh Pirates vs Milwaukee Brewers",
@@ -171,6 +171,13 @@
       "event_url": "https://istreameast.cx/links/dallas-wings-vs-chicago-sky-2449106"
     },
     {
+      "title": "Saskatchewan Roughriders vs Hamilton Tiger-Cats",
+      "datetime": "Sunday, Jul 12, 2026, 7:00 PM ET",
+      "league": "CFL",
+      "status": "5 hours from now",
+      "event_url": "https://istreameast.cx/links/saskatchewan-roughriders-vs-hamilton-tiger-cats-2432555"
+    },
+    {
       "title": "Washington Wizards vs Sacramento Kings",
       "datetime": "Sunday, Jul 12, 2026, 8:00 PM ET",
       "league": "NBA",
@@ -178,101 +185,115 @@
       "event_url": "https://istreameast.cx/links/washington-wizards-vs-sacramento-kings-2505653"
     },
     {
+      "title": "Milwaukee Bucks vs San Antonio Spurs",
+      "datetime": "Sunday, Jul 12, 2026, 9:00 PM ET",
+      "league": "NBA",
+      "status": "7 hours from now",
+      "event_url": "https://istreameast.cx/links/milwaukee-bucks-vs-san-antonio-spurs-2505654"
+    },
+    {
+      "title": "Las Vegas Aces vs Indiana Fever",
+      "datetime": "Sunday, Jul 12, 2026, 9:00 PM ET",
+      "league": "WNBA",
+      "status": "7 hours from now",
+      "event_url": "https://istreameast.cx/links/las-vegas-aces-vs-indiana-fever-2449107"
+    },
+    {
       "title": "Utah Jazz vs Los Angeles Clippers",
       "datetime": "Sunday, Jul 12, 2026, 10:00 PM ET",
       "league": "NBA",
-      "status": "LIVE",
+      "status": "8 hours from now",
       "event_url": "https://istreameast.cx/links/utah-jazz-vs-los-angeles-clippers-2505655"
     },
     {
       "title": "Vietnam vs Gangwon FC",
       "datetime": "Monday, Jul 13, 2026, 4:00 AM ET",
       "league": "Soccer",
-      "status": "4 hours from now",
+      "status": "LIVE",
       "event_url": "https://istreameast.cx/links/vietnam-vs-gangwon-fc-2523477"
     },
     {
       "title": "New York Knicks vs Detroit Pistons",
       "datetime": "Monday, Jul 13, 2026, 4:00 PM ET",
       "league": "NBA",
-      "status": "16 hours from now",
+      "status": "10 hours from now",
       "event_url": "https://istreameast.cx/links/new-york-knicks-vs-detroit-pistons-2505656"
     },
     {
       "title": "Indiana Pacers vs Toronto Raptors",
       "datetime": "Monday, Jul 13, 2026, 4:30 PM ET",
       "league": "NBA",
-      "status": "16 hours from now",
+      "status": "10 hours from now",
       "event_url": "https://istreameast.cx/links/indiana-pacers-vs-toronto-raptors-2505657"
     },
     {
       "title": "Boston Celtics vs Atlanta Hawks",
       "datetime": "Monday, Jul 13, 2026, 6:00 PM ET",
       "league": "NBA",
-      "status": "18 hours from now",
+      "status": "12 hours from now",
       "event_url": "https://istreameast.cx/links/boston-celtics-vs-atlanta-hawks-2505658"
     },
     {
       "title": "Memphis Grizzlies vs Dallas Mavericks",
       "datetime": "Monday, Jul 13, 2026, 7:00 PM ET",
       "league": "NBA",
-      "status": "19 hours from now",
+      "status": "13 hours from now",
       "event_url": "https://istreameast.cx/links/memphis-grizzlies-vs-dallas-mavericks-2505659"
     },
     {
       "title": "Atlanta Dream vs Los Angeles Sparks",
       "datetime": "Monday, Jul 13, 2026, 7:00 PM ET",
       "league": "WNBA",
-      "status": "19 hours from now",
+      "status": "13 hours from now",
       "event_url": "https://istreameast.cx/links/atlanta-dream-vs-los-angeles-sparks-2449108"
     },
     {
       "title": "Cleveland Cavaliers vs Miami Heat",
       "datetime": "Monday, Jul 13, 2026, 8:00 PM ET",
       "league": "NBA",
-      "status": "20 hours from now",
+      "status": "14 hours from now",
       "event_url": "https://istreameast.cx/links/cleveland-cavaliers-vs-miami-heat-2505660"
     },
     {
       "title": "RAW #1729",
       "datetime": "Monday, Jul 13, 2026, 8:00 PM ET",
       "league": "WWE",
-      "status": "20 hours from now",
+      "status": "14 hours from now",
       "event_url": "https://istreameast.cx/links/raw-1729-2514756"
     },
     {
       "title": "NXT #846",
       "datetime": "Monday, Jul 13, 2026, 8:00 PM ET",
       "league": "WWE",
-      "status": "20 hours from now",
+      "status": "14 hours from now",
       "event_url": "https://istreameast.cx/links/nxt-846-2528070"
     },
     {
       "title": "Utah Jazz vs Chicago Bulls",
       "datetime": "Monday, Jul 13, 2026, 9:00 PM ET",
       "league": "NBA",
-      "status": "21 hours from now",
+      "status": "15 hours from now",
       "event_url": "https://istreameast.cx/links/utah-jazz-vs-chicago-bulls-2505661"
     },
     {
       "title": "Minnesota Lynx vs Phoenix Mercury",
       "datetime": "Monday, Jul 13, 2026, 9:00 PM ET",
       "league": "WNBA",
-      "status": "21 hours from now",
+      "status": "15 hours from now",
       "event_url": "https://istreameast.cx/links/minnesota-lynx-vs-phoenix-mercury-2449109"
     },
     {
       "title": "Milwaukee Bucks vs Phoenix Suns",
       "datetime": "Monday, Jul 13, 2026, 10:00 PM ET",
       "league": "NBA",
-      "status": "22 hours from now",
+      "status": "16 hours from now",
       "event_url": "https://istreameast.cx/links/milwaukee-bucks-vs-phoenix-suns-2505662"
     },
     {
       "title": "Portland Trail Blazers vs Minnesota Timberwolves",
       "datetime": "Monday, Jul 13, 2026, 11:00 PM ET",
       "league": "NBA",
-      "status": "23 hours from now",
+      "status": "17 hours from now",
       "event_url": "https://istreameast.cx/links/portland-trail-blazers-vs-minnesota-timberwolves-2505663"
     },
     {
