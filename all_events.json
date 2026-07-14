@@ -1,14 +1,7 @@
 {
-  "scraping_date": "2026-07-14T08:19:19.509418",
-  "total_events": 47,
+  "scraping_date": "2026-07-14T13:58:17.666120",
+  "total_events": 46,
   "events": [
-    {
-      "title": "Home Run Derby 2026",
-      "datetime": "Monday, Jul 13, 2026, 8:00 PM ET",
-      "league": "MLB",
-      "status": "LIVE",
-      "event_url": "https://istreameast.cx/links/home-run-derby-2026-0122223556"
-    },
     {
       "title": "New York Knicks vs Detroit Pistons",
       "datetime": "Monday, Jul 13, 2026, 4:00 PM ET",
@@ -97,140 +90,140 @@
       "title": "KuPS vs Vardar",
       "datetime": "Tuesday, Jul 14, 2026, 11:00 AM ET",
       "league": "Soccer",
-      "status": "6 hours from now",
+      "status": "1 hour from now",
       "event_url": "https://istreameast.cx/links/kups-vs-vardar-2491750"
     },
     {
       "title": "Connecticut Sun vs Portland Fire",
       "datetime": "Tuesday, Jul 14, 2026, 11:00 AM ET",
       "league": "WNBA",
-      "status": "6 hours from now",
+      "status": "1 hour from now",
       "event_url": "https://istreameast.cx/links/connecticut-sun-vs-portland-fire-2469374"
     },
     {
       "title": "Inter Club d'Escaldes vs Lincoln Red Imps",
       "datetime": "Tuesday, Jul 14, 2026, 12:00 PM ET",
       "league": "Soccer",
-      "status": "7 hours from now",
+      "status": "2 hours from now",
       "event_url": "https://istreameast.cx/links/inter-club-d-escaldes-vs-lincoln-red-imps-2491753"
     },
     {
       "title": "Iberia 1999 vs Flora Tallinn",
       "datetime": "Tuesday, Jul 14, 2026, 12:00 PM ET",
       "league": "Soccer",
-      "status": "7 hours from now",
+      "status": "2 hours from now",
       "event_url": "https://istreameast.cx/links/iberia-1999-vs-flora-tallinn-2491754"
     },
     {
       "title": "Győri ETO vs Víkingur Reykjavík",
       "datetime": "Tuesday, Jul 14, 2026, 1:00 PM ET",
       "league": "Soccer",
-      "status": "8 hours from now",
+      "status": "3 hours from now",
       "event_url": "https://istreameast.cx/links/gyori-eto-vs-vikingur-reykjavik-2491751"
     },
     {
       "title": "Riga FC vs Ararat-Armenia",
       "datetime": "Tuesday, Jul 14, 2026, 1:00 PM ET",
       "league": "Soccer",
-      "status": "8 hours from now",
+      "status": "3 hours from now",
       "event_url": "https://istreameast.cx/links/riga-fc-vs-ararat-armenia-2491756"
     },
     {
       "title": "The New Saints vs Sabah Baku",
       "datetime": "Tuesday, Jul 14, 2026, 1:30 PM ET",
       "league": "Soccer",
-      "status": "9 hours from now",
+      "status": "3 hours from now",
       "event_url": "https://istreameast.cx/links/the-new-saints-vs-sabah-baku-2491745"
     },
     {
       "title": "Levski Sofia vs Borac Banja Luka",
       "datetime": "Tuesday, Jul 14, 2026, 1:30 PM ET",
       "league": "Soccer",
-      "status": "9 hours from now",
+      "status": "3 hours from now",
       "event_url": "https://istreameast.cx/links/levski-sofia-vs-borac-banja-luka-2491747"
     },
     {
       "title": "Drita vs Kauno Žalgiris",
       "datetime": "Tuesday, Jul 14, 2026, 2:00 PM ET",
       "league": "Soccer",
-      "status": "9 hours from now",
+      "status": "4 hours from now",
       "event_url": "https://istreameast.cx/links/drita-vs-kauno-zalgiris-2491757"
     },
     {
       "title": "Shamrock Rovers vs Floriana",
       "datetime": "Tuesday, Jul 14, 2026, 3:00 PM ET",
       "league": "Soccer",
-      "status": "10 hours from now",
+      "status": "5 hours from now",
       "event_url": "https://istreameast.cx/links/shamrock-rovers-vs-floriana-2491748"
     },
     {
       "title": "Larne vs Tre Fiori",
       "datetime": "Tuesday, Jul 14, 2026, 3:00 PM ET",
       "league": "Soccer",
-      "status": "10 hours from now",
+      "status": "5 hours from now",
       "event_url": "https://istreameast.cx/links/larne-vs-tre-fiori-2491755"
     },
     {
       "title": "La Fiorita vs UNA Strassen",
       "datetime": "Tuesday, Jul 14, 2026, 3:00 PM ET",
       "league": "Soccer",
-      "status": "10 hours from now",
+      "status": "5 hours from now",
       "event_url": "https://istreameast.cx/links/la-fiorita-vs-una-strassen-2491838"
     },
     {
       "title": "France vs Spain",
       "datetime": "Tuesday, Jul 14, 2026, 3:00 PM ET",
       "league": "Soccer",
-      "status": "10 hours from now",
+      "status": "5 hours from now",
       "event_url": "https://istreameast.cx/links/france-vs-spain-2528031"
     },
     {
       "title": "Houston Rockets vs Philadelphia 76ers",
       "datetime": "Tuesday, Jul 14, 2026, 4:00 PM ET",
       "league": "NBA",
-      "status": "11 hours from now",
+      "status": "6 hours from now",
       "event_url": "https://istreameast.cx/links/houston-rockets-vs-philadelphia-76ers-2505664"
     },
     {
       "title": "Brooklyn Nets vs Sacramento Kings",
       "datetime": "Tuesday, Jul 14, 2026, 6:00 PM ET",
       "league": "NBA",
-      "status": "13 hours from now",
+      "status": "8 hours from now",
       "event_url": "https://istreameast.cx/links/brooklyn-nets-vs-sacramento-kings-2505665"
     },
     {
       "title": "Golden State Warriors vs Memphis Grizzlies",
       "datetime": "Tuesday, Jul 14, 2026, 7:00 PM ET",
       "league": "NBA",
-      "status": "14 hours from now",
+      "status": "9 hours from now",
       "event_url": "https://istreameast.cx/links/golden-state-warriors-vs-memphis-grizzlies-2505666"
     },
     {
       "title": "Toronto Tempo vs Washington Mystics",
       "datetime": "Tuesday, Jul 14, 2026, 7:00 PM ET",
       "league": "WNBA",
-      "status": "14 hours from now",
+      "status": "9 hours from now",
       "event_url": "https://istreameast.cx/links/toronto-tempo-vs-washington-mystics-2449318"
     },
     {
       "title": "Chicago Bulls vs Washington Wizards",
       "datetime": "Tuesday, Jul 14, 2026, 8:00 PM ET",
       "league": "NBA",
-      "status": "15 hours from now",
+      "status": "10 hours from now",
       "event_url": "https://istreameast.cx/links/chicago-bulls-vs-washington-wizards-2505667"
     },
     {
       "title": "Oklahoma City Thunder vs Denver Nuggets",
       "datetime": "Tuesday, Jul 14, 2026, 9:00 PM ET",
       "league": "NBA",
-      "status": "16 hours from now",
+      "status": "11 hours from now",
       "event_url": "https://istreameast.cx/links/oklahoma-city-thunder-vs-denver-nuggets-2505668"
     },
     {
       "title": "Los Angeles Lakers vs Los Angeles Clippers",
       "datetime": "Tuesday, Jul 14, 2026, 10:00 PM ET",
       "league": "NBA",
-      "status": "17 hours from now",
+      "status": "12 hours from now",
       "event_url": "https://istreameast.cx/links/los-angeles-lakers-vs-los-angeles-clippers-2505669"
     },
     {
