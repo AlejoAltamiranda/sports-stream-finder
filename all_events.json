@@ -1,14 +1,7 @@
 {
-  "scraping_date": "2026-07-15T08:25:11.253406",
-  "total_events": 68,
+  "scraping_date": "2026-07-15T13:55:27.492721",
+  "total_events": 67,
   "events": [
-    {
-      "title": "National League All Stars vs American League All Stars",
-      "datetime": "Tuesday, Jul 14, 2026, 8:00 PM ET",
-      "league": "MLB",
-      "status": "LIVE",
-      "event_url": "https://istreameast.cx/links/american-league-all-stars-national-league-all-stars-00000233567853"
-    },
     {
       "title": "Iberia 1999 vs Flora Tallinn",
       "datetime": "Tuesday, Jul 14, 2026, 12:00 PM ET",
@@ -146,126 +139,126 @@
       "title": "Malisheva vs Vllaznia Shkodër",
       "datetime": "Wednesday, Jul 15, 2026, 10:30 AM ET",
       "league": "Soccer",
-      "status": "6 hours from now",
+      "status": "34 minutes from now",
       "event_url": "https://istreameast.cx/links/malisheva-vs-vllaznia-shkoder-2491848"
     },
     {
       "title": "Chicago Sky vs Seattle Storm",
       "datetime": "Wednesday, Jul 15, 2026, 12:00 PM ET",
       "league": "WNBA",
-      "status": "7 hours from now",
+      "status": "2 hours from now",
       "event_url": "https://istreameast.cx/links/chicago-sky-vs-seattle-storm-2449110"
     },
     {
       "title": "Minnesota Lynx vs Los Angeles Sparks",
       "datetime": "Wednesday, Jul 15, 2026, 1:00 PM ET",
       "league": "WNBA",
-      "status": "8 hours from now",
+      "status": "3 hours from now",
       "event_url": "https://istreameast.cx/links/minnesota-lynx-vs-los-angeles-sparks-2449111"
     },
     {
       "title": "Universitatea Craiova vs Maxline Vitebsk",
       "datetime": "Wednesday, Jul 15, 2026, 1:30 PM ET",
       "league": "Soccer",
-      "status": "9 hours from now",
+      "status": "3 hours from now",
       "event_url": "https://istreameast.cx/links/universitatea-craiova-vs-maxline-vitebsk-2491746"
     },
     {
       "title": "Atert Bissen vs KÍ Klaksvík",
       "datetime": "Wednesday, Jul 15, 2026, 2:15 PM ET",
       "league": "Soccer",
-      "status": "9 hours from now",
+      "status": "4 hours from now",
       "event_url": "https://istreameast.cx/links/atert-bissen-vs-ki-klaksvik-2491758"
     },
     {
       "title": "Dečić vs Liepāja",
       "datetime": "Wednesday, Jul 15, 2026, 2:30 PM ET",
       "league": "Soccer",
-      "status": "10 hours from now",
+      "status": "4 hours from now",
       "event_url": "https://istreameast.cx/links/decic-vs-liepaja-2505686"
     },
     {
       "title": "Sutjeska vs Kairat Almaty",
       "datetime": "Wednesday, Jul 15, 2026, 3:00 PM ET",
       "league": "Soccer",
-      "status": "10 hours from now",
+      "status": "5 hours from now",
       "event_url": "https://istreameast.cx/links/sutjeska-vs-kairat-almaty-2491749"
     },
     {
       "title": "Egnatia vs Petrocub Hîncești",
       "datetime": "Wednesday, Jul 15, 2026, 3:00 PM ET",
       "league": "Soccer",
-      "status": "10 hours from now",
+      "status": "5 hours from now",
       "event_url": "https://istreameast.cx/links/egnatia-vs-petrocub-hincesti-2491752"
     },
     {
       "title": "England vs Argentina",
       "datetime": "Wednesday, Jul 15, 2026, 3:00 PM ET",
       "league": "Soccer",
-      "status": "10 hours from now",
+      "status": "5 hours from now",
       "event_url": "https://istreameast.cx/links/england-vs-argentina-2528727"
     },
     {
       "title": "Minnesota Timberwolves vs Indiana Pacers",
       "datetime": "Wednesday, Jul 15, 2026, 3:30 PM ET",
       "league": "NBA",
-      "status": "11 hours from now",
+      "status": "5 hours from now",
       "event_url": "https://istreameast.cx/links/minnesota-timberwolves-vs-indiana-pacers-2505670"
     },
     {
       "title": "Philadelphia 76ers vs Orlando Magic",
       "datetime": "Wednesday, Jul 15, 2026, 4:00 PM ET",
       "league": "NBA",
-      "status": "11 hours from now",
+      "status": "6 hours from now",
       "event_url": "https://istreameast.cx/links/philadelphia-76ers-vs-orlando-magic-2505671"
     },
     {
       "title": "Cleveland Cavaliers vs New Orleans Pelicans",
       "datetime": "Wednesday, Jul 15, 2026, 5:30 PM ET",
       "league": "NBA",
-      "status": "13 hours from now",
+      "status": "7 hours from now",
       "event_url": "https://istreameast.cx/links/cleveland-cavaliers-vs-new-orleans-pelicans-2505672"
     },
     {
       "title": "Detroit Pistons vs Phoenix Suns",
       "datetime": "Wednesday, Jul 15, 2026, 6:00 PM ET",
       "league": "NBA",
-      "status": "13 hours from now",
+      "status": "8 hours from now",
       "event_url": "https://istreameast.cx/links/detroit-pistons-vs-phoenix-suns-2505673"
     },
     {
       "title": "Charlotte Hornets vs Milwaukee Bucks",
       "datetime": "Wednesday, Jul 15, 2026, 7:30 PM ET",
       "league": "NBA",
-      "status": "15 hours from now",
+      "status": "9 hours from now",
       "event_url": "https://istreameast.cx/links/charlotte-hornets-vs-milwaukee-bucks-2505674"
     },
     {
       "title": "Sacramento Kings vs Boston Celtics",
       "datetime": "Wednesday, Jul 15, 2026, 8:00 PM ET",
       "league": "NBA",
-      "status": "15 hours from now",
+      "status": "10 hours from now",
       "event_url": "https://istreameast.cx/links/sacramento-kings-vs-boston-celtics-2505675"
     },
     {
       "title": "Indiana Fever vs Golden State Valkyries",
       "datetime": "Wednesday, Jul 15, 2026, 8:00 PM ET",
       "league": "WNBA",
-      "status": "15 hours from now",
+      "status": "10 hours from now",
       "event_url": "https://istreameast.cx/links/indiana-fever-vs-golden-state-valkyries-2449112"
     },
     {
       "title": "San Antonio Spurs vs Utah Jazz",
       "datetime": "Wednesday, Jul 15, 2026, 9:30 PM ET",
       "league": "NBA",
-      "status": "17 hours from now",
+      "status": "11 hours from now",
       "event_url": "https://istreameast.cx/links/san-antonio-spurs-vs-utah-jazz-2505676"
     },
     {
       "title": "Los Angeles Clippers vs Washington Wizards",
       "datetime": "Wednesday, Jul 15, 2026, 10:30 PM ET",
       "league": "NBA",
-      "status": "18 hours from now",
+      "status": "12 hours from now",
       "event_url": "https://istreameast.cx/links/los-angeles-clippers-vs-washington-wizards-2505677"
     },
     {
