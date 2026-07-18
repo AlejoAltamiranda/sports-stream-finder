@@ -1,6 +1,6 @@
 {
-  "scraping_date": "2026-07-18T08:01:43.602428",
-  "total_events": 49,
+  "scraping_date": "2026-07-18T13:27:45.829745",
+  "total_events": 48,
   "events": [
     {
       "title": "Boston Red Sox vs Tampa Bay Rays",
@@ -164,150 +164,143 @@
       "event_url": "https://istreameast.cx/links/la-galaxy-vs-los-angeles-fc-2406932"
     },
     {
-      "title": "Belgian Grand Prix Practice 3",
-      "datetime": "Saturday, Jul 18, 2026, 6:30 AM ET",
-      "league": "Formula 1",
-      "status": "2 hours from now",
-      "event_url": "https://istreameast.cx/links/belgian-grand-prix-practice-3-2408169"
-    },
-    {
       "title": "Vietnam vs Myanmar",
       "datetime": "Saturday, Jul 18, 2026, 8:00 AM ET",
       "league": "Soccer",
-      "status": "3 hours from now",
+      "status": "LIVE",
       "event_url": "https://istreameast.cx/links/vietnam-vs-myanmar-2529318"
     },
     {
       "title": "Harlem Eubank vs David Papot",
       "datetime": "Saturday, Jul 18, 2026, 10:00 AM ET",
       "league": "Boxing",
-      "status": "5 hours from now",
+      "status": "32 minutes from now",
       "event_url": "https://istreameast.cx/links/harlem-eubank-vs-david-papot-2483551"
     },
     {
       "title": "Belgian Grand Prix Qualifying",
       "datetime": "Saturday, Jul 18, 2026, 10:00 AM ET",
       "league": "Formula 1",
-      "status": "5 hours from now",
+      "status": "32 minutes from now",
       "event_url": "https://istreameast.cx/links/belgian-grand-prix-qualifying-2408170"
     },
     {
       "title": "PFL Austin Eblen vs Kasanganay 2",
       "datetime": "Saturday, Jul 18, 2026, 12:00 PM ET",
       "league": "UFC",
-      "status": "7 hours from now",
+      "status": "2 hours from now",
       "event_url": "https://istreameast.cx/links/pfl-austin-eblen-vs-kasanganay-2-2475846"
     },
     {
       "title": "Chicago Cubs vs Minnesota Twins",
       "datetime": "Saturday, Jul 18, 2026, 2:20 PM ET",
       "league": "MLB",
-      "status": "10 hours from now",
+      "status": "4 hours from now",
       "event_url": "https://istreameast.cx/links/chicago-cubs-vs-minnesota-twins-2388354"
     },
     {
       "title": "Toronto Blue Jays vs Chicago White Sox",
       "datetime": "Saturday, Jul 18, 2026, 3:07 PM ET",
       "league": "MLB",
-      "status": "11 hours from now",
+      "status": "5 hours from now",
       "event_url": "https://istreameast.cx/links/toronto-blue-jays-vs-chicago-white-sox-2388345"
     },
     {
       "title": "Colorado Rockies vs Cincinnati Reds",
       "datetime": "Saturday, Jul 18, 2026, 3:10 PM ET",
       "league": "MLB",
-      "status": "11 hours from now",
+      "status": "5 hours from now",
       "event_url": "https://istreameast.cx/links/colorado-rockies-vs-cincinnati-reds-2388352"
     },
     {
       "title": "Calgary Stampeders vs Montreal Alouettes",
       "datetime": "Saturday, Jul 18, 2026, 4:00 PM ET",
       "league": "CFL",
-      "status": "11 hours from now",
+      "status": "6 hours from now",
       "event_url": "https://istreameast.cx/links/calgary-stampeders-vs-montreal-alouettes-2432557"
     },
     {
       "title": "Philadelphia Phillies vs New York Mets",
       "datetime": "Saturday, Jul 18, 2026, 4:05 PM ET",
       "league": "MLB",
-      "status": "12 hours from now",
+      "status": "6 hours from now",
       "event_url": "https://istreameast.cx/links/philadelphia-phillies-vs-new-york-mets-2388347"
     },
     {
       "title": "Kansas City Royals vs San Diego Padres",
       "datetime": "Saturday, Jul 18, 2026, 4:10 PM ET",
       "league": "MLB",
-      "status": "12 hours from now",
+      "status": "6 hours from now",
       "event_url": "https://istreameast.cx/links/kansas-city-royals-vs-san-diego-padres-2388344"
     },
     {
       "title": "Milwaukee Brewers vs Miami Marlins",
       "datetime": "Saturday, Jul 18, 2026, 4:10 PM ET",
       "league": "MLB",
-      "status": "12 hours from now",
+      "status": "6 hours from now",
       "event_url": "https://istreameast.cx/links/milwaukee-brewers-vs-miami-marlins-2388349"
     },
     {
       "title": "France vs England",
       "datetime": "Saturday, Jul 18, 2026, 5:00 PM ET",
       "league": "Soccer",
-      "status": "12 hours from now",
+      "status": "7 hours from now",
       "event_url": "https://istreameast.cx/links/france-vs-england-2533360"
     },
     {
       "title": "UFC Fight Night 281 Du Plessis vs Usman",
       "datetime": "Saturday, Jul 18, 2026, 5:00 PM ET",
       "league": "UFC",
-      "status": "12 hours from now",
+      "status": "7 hours from now",
       "event_url": "https://istreameast.cx/links/ufc-fight-night-281-du-plessis-vs-usman-2468286"
     },
     {
       "title": "Hamilton Tiger-Cats vs Toronto Argonauts",
       "datetime": "Saturday, Jul 18, 2026, 7:00 PM ET",
       "league": "CFL",
-      "status": "14 hours from now",
+      "status": "9 hours from now",
       "event_url": "https://istreameast.cx/links/hamilton-tiger-cats-vs-toronto-argonauts-2432558"
     },
     {
       "title": "Indiana Fever vs New York Liberty",
       "datetime": "Saturday, Jul 18, 2026, 8:00 PM ET",
       "league": "WNBA",
-      "status": "15 hours from now",
+      "status": "10 hours from now",
       "event_url": "https://istreameast.cx/links/indiana-fever-vs-new-york-liberty-2449117"
     },
     {
       "title": "Minnesota Lynx vs Portland Fire",
       "datetime": "Saturday, Jul 18, 2026, 8:00 PM ET",
       "league": "WNBA",
-      "status": "15 hours from now",
+      "status": "10 hours from now",
       "event_url": "https://istreameast.cx/links/minnesota-lynx-vs-portland-fire-2469376"
     },
     {
       "title": "Saturday Nights Main Event #45",
       "datetime": "Saturday, Jul 18, 2026, 8:00 PM ET",
       "league": "WWE",
-      "status": "15 hours from now",
+      "status": "10 hours from now",
       "event_url": "https://istreameast.cx/links/saturday-nights-main-event-45-2468415"
     },
     {
       "title": "LFG Legends and Future Greats #3.13 Who Dares Win",
       "datetime": "Saturday, Jul 18, 2026, 8:00 PM ET",
       "league": "WWE",
-      "status": "15 hours from now",
+      "status": "10 hours from now",
       "event_url": "https://istreameast.cx/links/lfg-legends-and-future-greats-3-13-who-dares-win-2528075"
     },
     {
       "title": "Golden State Valkyries vs Washington Mystics",
       "datetime": "Saturday, Jul 18, 2026, 8:30 PM ET",
       "league": "WNBA",
-      "status": "16 hours from now",
+      "status": "11 hours from now",
       "event_url": "https://istreameast.cx/links/golden-state-valkyries-vs-washington-mystics-2449118"
     },
     {
       "title": "Belgian Grand Prix",
       "datetime": "Sunday, Jul 19, 2026, 9:00 AM ET",
       "league": "Formula 1",
-      "status": "1 day from now",
+      "status": "23 hours from now",
       "event_url": "https://istreameast.cx/links/belgian-grand-prix-2408171"
     },
     {
