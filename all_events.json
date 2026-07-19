@@ -1,5 +1,5 @@
 {
-  "scraping_date": "2026-07-19T08:27:22.878980",
+  "scraping_date": "2026-07-19T13:37:38.009326",
   "total_events": 40,
   "events": [
     {
@@ -195,91 +195,91 @@
       "title": "Belgian Grand Prix",
       "datetime": "Sunday, Jul 19, 2026, 9:00 AM ET",
       "league": "Formula 1",
-      "status": "4 hours from now",
+      "status": "LIVE",
       "event_url": "https://istreameast.cx/links/belgian-grand-prix-2408171"
     },
     {
       "title": "Toronto Blue Jays vs Chicago White Sox",
       "datetime": "Sunday, Jul 19, 2026, 12:15 PM ET",
       "league": "MLB",
-      "status": "7 hours from now",
+      "status": "2 hours from now",
       "event_url": "https://istreameast.cx/links/toronto-blue-jays-vs-chicago-white-sox-2388359"
     },
     {
       "title": "Dallas Wings vs Los Angeles Sparks",
       "datetime": "Sunday, Jul 19, 2026, 1:00 PM ET",
       "league": "WNBA",
-      "status": "8 hours from now",
+      "status": "3 hours from now",
       "event_url": "https://istreameast.cx/links/dallas-wings-vs-los-angeles-sparks-2449119"
     },
     {
       "title": "Philadelphia Phillies vs New York Mets",
       "datetime": "Sunday, Jul 19, 2026, 1:35 PM ET",
       "league": "MLB",
-      "status": "9 hours from now",
+      "status": "3 hours from now",
       "event_url": "https://istreameast.cx/links/philadelphia-phillies-vs-new-york-mets-2388361"
     },
     {
       "title": "Boston Red Sox vs Tampa Bay Rays",
       "datetime": "Sunday, Jul 19, 2026, 1:35 PM ET",
       "league": "MLB",
-      "status": "9 hours from now",
+      "status": "3 hours from now",
       "event_url": "https://istreameast.cx/links/boston-red-sox-vs-tampa-bay-rays-2388370"
     },
     {
       "title": "Atlanta Braves vs Texas Rangers",
       "datetime": "Sunday, Jul 19, 2026, 1:35 PM ET",
       "league": "MLB",
-      "status": "9 hours from now",
+      "status": "3 hours from now",
       "event_url": "https://istreameast.cx/links/atlanta-braves-vs-texas-rangers-2388371"
     },
     {
       "title": "Cleveland Guardians vs Pittsburgh Pirates",
       "datetime": "Sunday, Jul 19, 2026, 1:40 PM ET",
       "league": "MLB",
-      "status": "9 hours from now",
+      "status": "4 hours from now",
       "event_url": "https://istreameast.cx/links/cleveland-guardians-vs-pittsburgh-pirates-2388368"
     },
     {
       "title": "Spain vs Argentina",
       "datetime": "Sunday, Jul 19, 2026, 3:00 PM ET",
       "league": "Soccer",
-      "status": "10 hours from now",
+      "status": "5 hours from now",
       "event_url": "https://istreameast.cx/links/spain-vs-argentina-2533361"
     },
     {
       "title": "Atlanta Dream vs Chicago Sky",
       "datetime": "Sunday, Jul 19, 2026, 4:00 PM ET",
       "league": "WNBA",
-      "status": "11 hours from now",
+      "status": "6 hours from now",
       "event_url": "https://istreameast.cx/links/atlanta-dream-vs-chicago-sky-2449120"
     },
     {
       "title": "Phoenix Mercury vs Connecticut Sun",
       "datetime": "Sunday, Jul 19, 2026, 7:00 PM ET",
       "league": "WNBA",
-      "status": "14 hours from now",
+      "status": "9 hours from now",
       "event_url": "https://istreameast.cx/links/phoenix-mercury-vs-connecticut-sun-2449121"
     },
     {
       "title": "Ottawa Redblacks vs Winnipeg Blue Bombers",
       "datetime": "Sunday, Jul 19, 2026, 7:00 PM ET",
       "league": "CFL",
-      "status": "14 hours from now",
+      "status": "9 hours from now",
       "event_url": "https://istreameast.cx/links/ottawa-redblacks-vs-winnipeg-blue-bombers-2432559"
     },
     {
       "title": "RAW #1730",
       "datetime": "Sunday, Jul 19, 2026, 8:00 PM ET",
       "league": "WWE",
-      "status": "15 hours from now",
+      "status": "10 hours from now",
       "event_url": "https://istreameast.cx/links/raw-1730-2540935"
     },
     {
       "title": "U-Next Boxing 6",
       "datetime": "Monday, Jul 20, 2026, 4:00 AM ET",
       "league": "Boxing",
-      "status": "23 hours from now",
+      "status": "18 hours from now",
       "event_url": "https://istreameast.cx/links/u-next-boxing-6-2528766"
     }
   ]
