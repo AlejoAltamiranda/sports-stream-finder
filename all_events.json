@@ -1,6 +1,6 @@
 {
-  "scraping_date": "2026-07-20T03:41:22.945812",
-  "total_events": 46,
+  "scraping_date": "2026-07-20T09:26:35.846468",
+  "total_events": 48,
   "events": [
     {
       "title": "Toronto Blue Jays vs Chicago White Sox",
@@ -136,94 +136,108 @@
       "event_url": "https://istreameast.cx/links/phoenix-mercury-vs-connecticut-sun-2449121"
     },
     {
+      "title": "Ottawa Redblacks vs Winnipeg Blue Bombers",
+      "datetime": "Sunday, Jul 19, 2026, 7:00 PM ET",
+      "league": "CFL",
+      "status": "5 hours from now",
+      "event_url": "https://istreameast.cx/links/ottawa-redblacks-vs-winnipeg-blue-bombers-2432559"
+    },
+    {
+      "title": "New York Yankees vs Los Angeles Dodgers",
+      "datetime": "Sunday, Jul 19, 2026, 7:20 PM ET",
+      "league": "MLB",
+      "status": "5 hours from now",
+      "event_url": "https://istreameast.cx/links/new-york-yankees-vs-los-angeles-dodgers-2388362"
+    },
+    {
       "title": "RAW #1730",
       "datetime": "Sunday, Jul 19, 2026, 8:00 PM ET",
       "league": "WWE",
-      "status": "LIVE",
+      "status": "6 hours from now",
       "event_url": "https://istreameast.cx/links/raw-1730-2540935"
     },
     {
       "title": "U-Next Boxing 6",
       "datetime": "Monday, Jul 20, 2026, 4:00 AM ET",
       "league": "Boxing",
-      "status": "4 hours from now",
+      "status": "LIVE",
       "event_url": "https://istreameast.cx/links/u-next-boxing-6-2528766"
     },
     {
       "title": "Cleveland Guardians vs Minnesota Twins",
       "datetime": "Monday, Jul 20, 2026, 6:40 PM ET",
       "league": "MLB",
-      "status": "18 hours from now",
+      "status": "13 hours from now",
       "event_url": "https://istreameast.cx/links/cleveland-guardians-vs-minnesota-twins-2388383"
     },
     {
       "title": "New York Yankees vs Pittsburgh Pirates",
       "datetime": "Monday, Jul 20, 2026, 7:05 PM ET",
       "league": "MLB",
-      "status": "19 hours from now",
+      "status": "13 hours from now",
       "event_url": "https://istreameast.cx/links/new-york-yankees-vs-pittsburgh-pirates-2388378"
     },
     {
       "title": "Toronto Blue Jays vs Tampa Bay Rays",
       "datetime": "Monday, Jul 20, 2026, 7:07 PM ET",
       "league": "MLB",
-      "status": "19 hours from now",
+      "status": "13 hours from now",
       "event_url": "https://istreameast.cx/links/toronto-blue-jays-vs-tampa-bay-rays-2388374"
     },
     {
       "title": "Philadelphia Phillies vs Los Angeles Dodgers",
       "datetime": "Monday, Jul 20, 2026, 7:10 PM ET",
       "league": "MLB",
-      "status": "19 hours from now",
+      "status": "13 hours from now",
       "event_url": "https://istreameast.cx/links/philadelphia-phillies-vs-los-angeles-dodgers-2388377"
     },
     {
       "title": "Boston Red Sox vs Baltimore Orioles",
       "datetime": "Monday, Jul 20, 2026, 7:10 PM ET",
       "league": "MLB",
-      "status": "19 hours from now",
+      "status": "13 hours from now",
       "event_url": "https://istreameast.cx/links/boston-red-sox-vs-baltimore-orioles-2388385"
     },
     {
       "title": "Atlanta Braves vs San Diego Padres",
       "datetime": "Monday, Jul 20, 2026, 7:15 PM ET",
       "league": "MLB",
-      "status": "19 hours from now",
+      "status": "13 hours from now",
       "event_url": "https://istreameast.cx/links/atlanta-braves-vs-san-diego-padres-2388386"
     },
     {
       "title": "Dallas Wings vs New York Liberty",
       "datetime": "Monday, Jul 20, 2026, 8:00 PM ET",
       "league": "WNBA",
-      "status": "20 hours from now",
+      "status": "14 hours from now",
       "event_url": "https://istreameast.cx/links/dallas-wings-vs-new-york-liberty-2449113"
     },
     {
       "title": "Toronto Tempo vs Las Vegas Aces",
       "datetime": "Monday, Jul 20, 2026, 8:00 PM ET",
       "league": "WNBA",
-      "status": "20 hours from now",
+      "status": "14 hours from now",
       "event_url": "https://istreameast.cx/links/toronto-tempo-vs-las-vegas-aces-2449320"
     },
     {
       "title": "NXT #847",
       "datetime": "Monday, Jul 20, 2026, 8:00 PM ET",
       "league": "WWE",
-      "status": "20 hours from now",
+      "status": "14 hours from now",
       "event_url": "https://istreameast.cx/links/nxt-847-2540937"
     },
     {
       "title": "Golden State Valkyries vs Washington Mystics",
       "datetime": "Monday, Jul 20, 2026, 10:00 PM ET",
       "league": "WNBA",
-      "status": "22 hours from now",
+      "status": "16 hours from now",
       "event_url": "https://istreameast.cx/links/golden-state-valkyries-vs-washington-mystics-2449122"
     },
     {
       "title": "Seattle Storm vs Minnesota Lynx",
       "datetime": "Monday, Jul 20, 2026, 10:00 PM ET",
       "league": "WNBA",
-      "status": "22 hours from now",
+      "status": "16 hours from now",
       "event_url": "https://istreameast.cx/links/seattle-storm-vs-minnesota-lynx-2449123"
     },
     {
