@@ -1,6 +1,6 @@
 {
-  "scraping_date": "2026-07-26T08:34:30.741210",
-  "total_events": 44,
+  "scraping_date": "2026-07-26T13:41:18.237215",
+  "total_events": 45,
   "events": [
     {
       "title": "Anthony Joshua vs Kristian Prenga",
@@ -192,6 +192,13 @@
       "event_url": "https://istreameast.cx/links/louisville-city-vs-trinidad-and-tobago-2523479"
     },
     {
+      "title": "Errol Spence Jr. vs Tim Tszyu",
+      "datetime": "Saturday, Jul 25, 2026, 8:00 PM ET",
+      "league": "Boxing",
+      "status": "6 hours from now",
+      "event_url": "https://istreameast.cx/links/errol-spence-jr-vs-tim-tszyu-2483552"
+    },
+    {
       "title": "Minnesota United vs Vancouver Whitecaps",
       "datetime": "Saturday, Jul 25, 2026, 8:30 PM ET",
       "league": "Soccer",
@@ -244,70 +251,70 @@
       "title": "Hungarian Grand Prix",
       "datetime": "Sunday, Jul 26, 2026, 9:00 AM ET",
       "league": "Formula 1",
-      "status": "4 hours from now",
+      "status": "LIVE",
       "event_url": "https://istreameast.cx/links/hungarian-grand-prix-2408176"
     },
     {
       "title": "Tampa Bay Rays vs Cleveland Guardians",
       "datetime": "Sunday, Jul 26, 2026, 12:15 PM ET",
       "league": "MLB",
-      "status": "7 hours from now",
+      "status": "2 hours from now",
       "event_url": "https://istreameast.cx/links/tampa-bay-rays-vs-cleveland-guardians-2388456"
     },
     {
       "title": "Washington Nationals vs Arizona Diamondbacks",
       "datetime": "Sunday, Jul 26, 2026, 1:35 PM ET",
       "league": "MLB",
-      "status": "9 hours from now",
+      "status": "3 hours from now",
       "event_url": "https://istreameast.cx/links/washington-nationals-vs-arizona-diamondbacks-2388454"
     },
     {
       "title": "Pittsburgh Pirates vs Chicago Cubs",
       "datetime": "Sunday, Jul 26, 2026, 1:35 PM ET",
       "league": "MLB",
-      "status": "9 hours from now",
+      "status": "3 hours from now",
       "event_url": "https://istreameast.cx/links/pittsburgh-pirates-vs-chicago-cubs-2388459"
     },
     {
       "title": "Boston Red Sox vs Toronto Blue Jays",
       "datetime": "Sunday, Jul 26, 2026, 1:35 PM ET",
       "league": "MLB",
-      "status": "9 hours from now",
+      "status": "3 hours from now",
       "event_url": "https://istreameast.cx/links/boston-red-sox-vs-toronto-blue-jays-2388466"
     },
     {
       "title": "Baltimore Orioles vs Atlanta Braves",
       "datetime": "Sunday, Jul 26, 2026, 1:35 PM ET",
       "league": "MLB",
-      "status": "9 hours from now",
+      "status": "3 hours from now",
       "event_url": "https://istreameast.cx/links/baltimore-orioles-vs-atlanta-braves-2388467"
     },
     {
       "title": "New York Mets vs Los Angeles Dodgers",
       "datetime": "Sunday, Jul 26, 2026, 1:40 PM ET",
       "league": "MLB",
-      "status": "9 hours from now",
+      "status": "3 hours from now",
       "event_url": "https://istreameast.cx/links/new-york-mets-vs-los-angeles-dodgers-2388461"
     },
     {
       "title": "Zuffa Boxing 9 Berlanga vs Butler",
       "datetime": "Sunday, Jul 26, 2026, 5:00 PM ET",
       "league": "Boxing",
-      "status": "12 hours from now",
+      "status": "7 hours from now",
       "event_url": "https://istreameast.cx/links/zuffa-boxing-9-berlanga-vs-butler-2483563"
     },
     {
       "title": "Minnesota United vs Liberia",
       "datetime": "Sunday, Jul 26, 2026, 6:00 PM ET",
       "league": "Soccer",
-      "status": "13 hours from now",
+      "status": "8 hours from now",
       "event_url": "https://istreameast.cx/links/minnesota-united-vs-liberia-2483344"
     },
     {
       "title": "Montreal Alouettes vs Hamilton Tiger-Cats",
       "datetime": "Sunday, Jul 26, 2026, 7:00 PM ET",
       "league": "CFL",
-      "status": "14 hours from now",
+      "status": "9 hours from now",
       "event_url": "https://istreameast.cx/links/montreal-alouettes-vs-hamilton-tiger-cats-2432563"
     }
   ]
