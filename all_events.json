@@ -1,446 +1,208 @@
 {
-  "scraping_date": "2026-08-26T06:58:00.101352",
-  "total_events": 97,
+  "scraping_date": "2026-08-26T13:03:10.411336",
+  "total_events": 98,
   "events": [
-    {
-      "title": "Abha vs Al-Khaleej",
-      "datetime": "Tuesday, Aug 25, 2026, 12:05 PM ET",
-      "league": "Soccer",
-      "status": "4 hours from now",
-      "event_url": "https://istreameast.cx/links/abha-vs-al-khaleej-2573321"
-    },
-    {
-      "title": "Al-Taawoun vs Al-Fayha",
-      "datetime": "Tuesday, Aug 25, 2026, 12:10 PM ET",
-      "league": "Soccer",
-      "status": "4 hours from now",
-      "event_url": "https://istreameast.cx/links/al-taawoun-vs-al-fayha-2573322"
-    },
-    {
-      "title": "Sabah Baku vs Hapoel Be'er Sheva",
-      "datetime": "Tuesday, Aug 25, 2026, 12:45 PM ET",
-      "league": "Soccer",
-      "status": "5 hours from now",
-      "event_url": "https://istreameast.cx/links/sabah-baku-vs-hapoel-be-er-sheva-2570479"
-    },
-    {
-      "title": "Al-Ettifaq vs Al-Nassr",
-      "datetime": "Tuesday, Aug 25, 2026, 2:00 PM ET",
-      "league": "Soccer",
-      "status": "6 hours from now",
-      "event_url": "https://istreameast.cx/links/al-ettifaq-vs-al-nassr-2573323"
-    },
-    {
-      "title": "Al-Shabab vs Al-Riyadh",
-      "datetime": "Tuesday, Aug 25, 2026, 2:00 PM ET",
-      "league": "Soccer",
-      "status": "6 hours from now",
-      "event_url": "https://istreameast.cx/links/al-shabab-vs-al-riyadh-2573324"
-    },
-    {
-      "title": "Cardiff City vs Norwich City",
-      "datetime": "Tuesday, Aug 25, 2026, 2:00 PM ET",
-      "league": "Soccer",
-      "status": "6 hours from now",
-      "event_url": "https://istreameast.cx/links/cardiff-city-vs-norwich-city-2570487"
-    },
-    {
-      "title": "Doncaster Rovers vs Middlesbrough",
-      "datetime": "Tuesday, Aug 25, 2026, 2:30 PM ET",
-      "league": "Soccer",
-      "status": "6 hours from now",
-      "event_url": "https://istreameast.cx/links/doncaster-rovers-vs-middlesbrough-2570493"
-    },
-    {
-      "title": "Southampton vs West Ham United",
-      "datetime": "Tuesday, Aug 25, 2026, 2:45 PM ET",
-      "league": "Soccer",
-      "status": "7 hours from now",
-      "event_url": "https://istreameast.cx/links/southampton-vs-west-ham-united-2570486"
-    },
-    {
-      "title": "Ipswich Town vs Leicester City",
-      "datetime": "Tuesday, Aug 25, 2026, 2:45 PM ET",
-      "league": "Soccer",
-      "status": "7 hours from now",
-      "event_url": "https://istreameast.cx/links/ipswich-town-vs-leicester-city-2570490"
-    },
-    {
-      "title": "Barnsley vs Crewe Alexandra",
-      "datetime": "Tuesday, Aug 25, 2026, 2:45 PM ET",
-      "league": "Soccer",
-      "status": "7 hours from now",
-      "event_url": "https://istreameast.cx/links/barnsley-vs-crewe-alexandra-2570491"
-    },
-    {
-      "title": "Blackpool vs Lincoln City",
-      "datetime": "Tuesday, Aug 25, 2026, 2:45 PM ET",
-      "league": "Soccer",
-      "status": "7 hours from now",
-      "event_url": "https://istreameast.cx/links/blackpool-vs-lincoln-city-2570494"
-    },
-    {
-      "title": "Stevenage vs Reading",
-      "datetime": "Tuesday, Aug 25, 2026, 2:45 PM ET",
-      "league": "Soccer",
-      "status": "7 hours from now",
-      "event_url": "https://istreameast.cx/links/stevenage-vs-reading-2570495"
-    },
-    {
-      "title": "Cambridge United vs Millwall",
-      "datetime": "Tuesday, Aug 25, 2026, 2:45 PM ET",
-      "league": "Soccer",
-      "status": "7 hours from now",
-      "event_url": "https://istreameast.cx/links/cambridge-united-vs-millwall-2570496"
-    },
-    {
-      "title": "Watford vs Peterborough United",
-      "datetime": "Tuesday, Aug 25, 2026, 2:45 PM ET",
-      "league": "Soccer",
-      "status": "7 hours from now",
-      "event_url": "https://istreameast.cx/links/watford-vs-peterborough-united-2570497"
-    },
-    {
-      "title": "Blackburn Rovers vs Sheffield United",
-      "datetime": "Tuesday, Aug 25, 2026, 2:45 PM ET",
-      "league": "Soccer",
-      "status": "7 hours from now",
-      "event_url": "https://istreameast.cx/links/blackburn-rovers-vs-sheffield-united-2570498"
-    },
-    {
-      "title": "Sheffield Wednesday vs Wolverhampton Wanderers",
-      "datetime": "Tuesday, Aug 25, 2026, 2:45 PM ET",
-      "league": "Soccer",
-      "status": "7 hours from now",
-      "event_url": "https://istreameast.cx/links/sheffield-wednesday-vs-wolverhampton-wanderers-2570499"
-    },
-    {
-      "title": "Stoke City vs Hull City",
-      "datetime": "Tuesday, Aug 25, 2026, 2:45 PM ET",
-      "league": "Soccer",
-      "status": "7 hours from now",
-      "event_url": "https://istreameast.cx/links/stoke-city-vs-hull-city-2570500"
-    },
-    {
-      "title": "Fleetwood Town vs Shrewsbury Town",
-      "datetime": "Tuesday, Aug 25, 2026, 2:45 PM ET",
-      "league": "Soccer",
-      "status": "7 hours from now",
-      "event_url": "https://istreameast.cx/links/fleetwood-town-vs-shrewsbury-town-2570501"
-    },
-    {
-      "title": "Walsall vs Leyton Orient",
-      "datetime": "Tuesday, Aug 25, 2026, 2:45 PM ET",
-      "league": "Soccer",
-      "status": "7 hours from now",
-      "event_url": "https://istreameast.cx/links/walsall-vs-leyton-orient-2570502"
-    },
-    {
-      "title": "Plymouth Argyle vs Coventry City",
-      "datetime": "Tuesday, Aug 25, 2026, 2:45 PM ET",
-      "league": "Soccer",
-      "status": "7 hours from now",
-      "event_url": "https://istreameast.cx/links/plymouth-argyle-vs-coventry-city-2570503"
-    },
-    {
-      "title": "Valencia vs Real Betis",
-      "datetime": "Tuesday, Aug 25, 2026, 3:00 PM ET",
-      "league": "Soccer",
-      "status": "7 hours from now",
-      "event_url": "https://istreameast.cx/links/valencia-vs-real-betis-2506171"
-    },
-    {
-      "title": "LASK vs Celtic",
-      "datetime": "Tuesday, Aug 25, 2026, 3:00 PM ET",
-      "league": "Soccer",
-      "status": "7 hours from now",
-      "event_url": "https://istreameast.cx/links/lask-vs-celtic-2558134"
-    },
-    {
-      "title": "Bodø/Glimt vs NEC Nijmegen",
-      "datetime": "Tuesday, Aug 25, 2026, 3:00 PM ET",
-      "league": "Soccer",
-      "status": "7 hours from now",
-      "event_url": "https://istreameast.cx/links/bodo-glimt-vs-nec-nijmegen-2570480"
-    },
-    {
-      "title": "Birmingham City vs Brentford",
-      "datetime": "Tuesday, Aug 25, 2026, 3:00 PM ET",
-      "league": "Soccer",
-      "status": "7 hours from now",
-      "event_url": "https://istreameast.cx/links/birmingham-city-vs-brentford-2570489"
-    },
-    {
-      "title": "Nottingham Forest vs Leeds United",
-      "datetime": "Tuesday, Aug 25, 2026, 3:00 PM ET",
-      "league": "Soccer",
-      "status": "7 hours from now",
-      "event_url": "https://istreameast.cx/links/nottingham-forest-vs-leeds-united-2570504"
-    },
-    {
-      "title": "Miami Marlins vs Boston Red Sox",
-      "datetime": "Tuesday, Aug 25, 2026, 6:40 PM ET",
-      "league": "MLB",
-      "status": "10 hours from now",
-      "event_url": "https://istreameast.cx/links/miami-marlins-vs-boston-red-sox-2388862"
-    },
-    {
-      "title": "Detroit Tigers vs Tampa Bay Rays",
-      "datetime": "Tuesday, Aug 25, 2026, 6:40 PM ET",
-      "league": "MLB",
-      "status": "10 hours from now",
-      "event_url": "https://istreameast.cx/links/detroit-tigers-vs-tampa-bay-rays-2388864"
-    },
-    {
-      "title": "Washington Nationals vs Colorado Rockies",
-      "datetime": "Tuesday, Aug 25, 2026, 6:45 PM ET",
-      "league": "MLB",
-      "status": "11 hours from now",
-      "event_url": "https://istreameast.cx/links/washington-nationals-vs-colorado-rockies-2388855"
-    },
-    {
-      "title": "Connecticut Sun vs Chicago Sky",
-      "datetime": "Tuesday, Aug 25, 2026, 7:00 PM ET",
-      "league": "WNBA",
-      "status": "11 hours from now",
-      "event_url": "https://istreameast.cx/links/connecticut-sun-vs-chicago-sky-2449191"
-    },
-    {
-      "title": "New York Yankees vs Houston Astros",
-      "datetime": "Tuesday, Aug 25, 2026, 7:05 PM ET",
-      "league": "MLB",
-      "status": "11 hours from now",
-      "event_url": "https://istreameast.cx/links/new-york-yankees-vs-houston-astros-2388860"
-    },
-    {
-      "title": "Toronto Blue Jays vs Kansas City Royals",
-      "datetime": "Tuesday, Aug 25, 2026, 7:07 PM ET",
-      "league": "MLB",
-      "status": "11 hours from now",
-      "event_url": "https://istreameast.cx/links/toronto-blue-jays-vs-kansas-city-royals-2388856"
-    },
-    {
-      "title": "New York Mets vs Milwaukee Brewers",
-      "datetime": "Tuesday, Aug 25, 2026, 7:10 PM ET",
-      "league": "MLB",
-      "status": "11 hours from now",
-      "event_url": "https://istreameast.cx/links/new-york-mets-vs-milwaukee-brewers-2388861"
-    },
-    {
-      "title": "Atlanta Braves vs Los Angeles Dodgers",
-      "datetime": "Tuesday, Aug 25, 2026, 7:15 PM ET",
-      "league": "MLB",
-      "status": "11 hours from now",
-      "event_url": "https://istreameast.cx/links/atlanta-braves-vs-los-angeles-dodgers-2388866"
-    },
-    {
-      "title": "Chicago White Sox vs Texas Rangers",
-      "datetime": "Tuesday, Aug 25, 2026, 7:40 PM ET",
-      "league": "MLB",
-      "status": "11 hours from now",
-      "event_url": "https://istreameast.cx/links/chicago-white-sox-vs-texas-rangers-2388865"
-    },
-    {
-      "title": "St. Louis Cardinals vs Baltimore Orioles",
-      "datetime": "Tuesday, Aug 25, 2026, 7:45 PM ET",
-      "league": "MLB",
-      "status": "12 hours from now",
-      "event_url": "https://istreameast.cx/links/st-louis-cardinals-vs-baltimore-orioles-2388857"
-    },
-    {
-      "title": "Dana Whites Contender Series season 10 Week 3",
-      "datetime": "Tuesday, Aug 25, 2026, 8:00 PM ET",
-      "league": "UFC",
-      "status": "LIVE",
-      "event_url": "https://istreameast.cx/links/dana-whites-contender-series-season-10-week-3-2558800"
-    },
-    {
-      "title": "Dallas Wings vs Portland Fire",
-      "datetime": "Tuesday, Aug 25, 2026, 8:00 PM ET",
-      "league": "WNBA",
-      "status": "12 hours from now",
-      "event_url": "https://istreameast.cx/links/dallas-wings-vs-portland-fire-2469388"
-    },
-    {
-      "title": "NXT #852",
-      "datetime": "Tuesday, Aug 25, 2026, 8:00 PM ET",
-      "league": "WWE",
-      "status": "12 hours from now",
-      "event_url": "https://istreameast.cx/links/nxt-852-2579118"
-    },
-    {
-      "title": "Los Angeles Angels vs Cleveland Guardians",
-      "datetime": "Tuesday, Aug 25, 2026, 9:38 PM ET",
-      "league": "MLB",
-      "status": "13 hours from now",
-      "event_url": "https://istreameast.cx/links/los-angeles-angels-vs-cleveland-guardians-2388863"
-    },
-    {
-      "title": "San Diego Padres vs Pittsburgh Pirates",
-      "datetime": "Tuesday, Aug 25, 2026, 9:40 PM ET",
-      "league": "MLB",
-      "status": "13 hours from now",
-      "event_url": "https://istreameast.cx/links/san-diego-padres-vs-pittsburgh-pirates-2388854"
-    },
-    {
-      "title": "Seattle Mariners vs Philadelphia Phillies",
-      "datetime": "Tuesday, Aug 25, 2026, 9:40 PM ET",
-      "league": "MLB",
-      "status": "13 hours from now",
-      "event_url": "https://istreameast.cx/links/seattle-mariners-vs-philadelphia-phillies-2388858"
-    },
-    {
-      "title": "Athletics vs Minnesota Twins",
-      "datetime": "Tuesday, Aug 25, 2026, 9:40 PM ET",
-      "league": "MLB",
-      "status": "13 hours from now",
-      "event_url": "https://istreameast.cx/links/athletics-vs-minnesota-twins-2388867"
-    },
-    {
-      "title": "Arizona Diamondbacks vs Chicago Cubs",
-      "datetime": "Tuesday, Aug 25, 2026, 9:40 PM ET",
-      "league": "MLB",
-      "status": "13 hours from now",
-      "event_url": "https://istreameast.cx/links/arizona-diamondbacks-vs-chicago-cubs-2388868"
-    },
-    {
-      "title": "San Francisco Giants vs Cincinnati Reds",
-      "datetime": "Tuesday, Aug 25, 2026, 9:45 PM ET",
-      "league": "MLB",
-      "status": "14 hours from now",
-      "event_url": "https://istreameast.cx/links/san-francisco-giants-vs-cincinnati-reds-2388859"
-    },
-    {
-      "title": "Phoenix Mercury vs Washington Mystics",
-      "datetime": "Tuesday, Aug 25, 2026, 10:00 PM ET",
-      "league": "WNBA",
-      "status": "14 hours from now",
-      "event_url": "https://istreameast.cx/links/phoenix-mercury-vs-washington-mystics-2449192"
-    },
     {
       "title": "Al-Faisaly vs Al-Fateh",
       "datetime": "Wednesday, Aug 26, 2026, 12:00 PM ET",
       "league": "Soccer",
-      "status": "9 hours from now",
+      "status": "2 hours from now",
       "event_url": "https://istreameast.cx/links/al-faisaly-vs-al-fateh-2573325"
     },
     {
       "title": "Rapid Vienna vs Heart of Midlothian",
       "datetime": "Wednesday, Aug 26, 2026, 12:45 PM ET",
       "league": "Soccer",
-      "status": "9 hours from now",
+      "status": "3 hours from now",
       "event_url": "https://istreameast.cx/links/rapid-vienna-vs-heart-of-midlothian-2572962"
     },
     {
       "title": "Detroit Tigers vs Tampa Bay Rays",
       "datetime": "Wednesday, Aug 26, 2026, 1:10 PM ET",
       "league": "MLB",
-      "status": "10 hours from now",
+      "status": "4 hours from now",
       "event_url": "https://istreameast.cx/links/detroit-tigers-vs-tampa-bay-rays-2388878"
     },
     {
       "title": "Al-Diriyah vs Al-Kholood",
       "datetime": "Wednesday, Aug 26, 2026, 2:00 PM ET",
       "league": "Soccer",
-      "status": "11 hours from now",
+      "status": "4 hours from now",
       "event_url": "https://istreameast.cx/links/al-diriyah-vs-al-kholood-2573326"
     },
     {
       "title": "Newcastle United vs West Bromwich Albion",
       "datetime": "Wednesday, Aug 26, 2026, 2:45 PM ET",
       "league": "Soccer",
-      "status": "11 hours from now",
+      "status": "5 hours from now",
       "event_url": "https://istreameast.cx/links/newcastle-united-vs-west-bromwich-albion-2570485"
     },
     {
       "title": "Tottenham Hotspur vs Charlton Athletic",
       "datetime": "Wednesday, Aug 26, 2026, 2:45 PM ET",
       "league": "Soccer",
-      "status": "11 hours from now",
+      "status": "5 hours from now",
       "event_url": "https://istreameast.cx/links/tottenham-hotspur-vs-charlton-athletic-2570488"
     },
     {
       "title": "Bradford City vs Burnley",
       "datetime": "Wednesday, Aug 26, 2026, 2:45 PM ET",
       "league": "Soccer",
-      "status": "11 hours from now",
+      "status": "5 hours from now",
       "event_url": "https://istreameast.cx/links/bradford-city-vs-burnley-2570492"
     },
     {
       "title": "Real Madrid vs Real Sociedad",
       "datetime": "Wednesday, Aug 26, 2026, 3:00 PM ET",
       "league": "Soccer",
-      "status": "12 hours from now",
+      "status": "5 hours from now",
       "event_url": "https://istreameast.cx/links/real-madrid-vs-real-sociedad-2506175"
     },
     {
       "title": "Celje vs Slovan Bratislava",
       "datetime": "Wednesday, Aug 26, 2026, 3:00 PM ET",
       "league": "Soccer",
-      "status": "12 hours from now",
+      "status": "5 hours from now",
       "event_url": "https://istreameast.cx/links/celje-vs-slovan-bratislava-2570481"
     },
     {
       "title": "Lyon vs Fenerbahçe",
       "datetime": "Wednesday, Aug 26, 2026, 3:00 PM ET",
       "league": "Soccer",
-      "status": "12 hours from now",
+      "status": "5 hours from now",
       "event_url": "https://istreameast.cx/links/lyon-vs-fenerbahce-2570482"
     },
     {
       "title": "AEK Athens vs Levski Sofia",
       "datetime": "Wednesday, Aug 26, 2026, 3:00 PM ET",
       "league": "Soccer",
-      "status": "12 hours from now",
+      "status": "5 hours from now",
       "event_url": "https://istreameast.cx/links/aek-athens-vs-levski-sofia-2570483"
     },
     {
       "title": "Viking vs Dinamo Zagreb",
       "datetime": "Wednesday, Aug 26, 2026, 3:00 PM ET",
       "league": "Soccer",
-      "status": "12 hours from now",
+      "status": "5 hours from now",
       "event_url": "https://istreameast.cx/links/viking-vs-dinamo-zagreb-2570484"
+    },
+    {
+      "title": "Preston North End vs Everton",
+      "datetime": "Wednesday, Aug 26, 2026, 3:00 PM ET",
+      "league": "Soccer",
+      "status": "5 hours from now",
+      "event_url": "https://istreameast.cx/links/preston-north-end-vs-everton-2570505"
     },
     {
       "title": "Arizona Diamondbacks vs Chicago Cubs",
       "datetime": "Wednesday, Aug 26, 2026, 3:40 PM ET",
       "league": "MLB",
-      "status": "12 hours from now",
+      "status": "6 hours from now",
       "event_url": "https://istreameast.cx/links/arizona-diamondbacks-vs-chicago-cubs-2388882"
     },
     {
       "title": "San Francisco Giants vs Cincinnati Reds",
       "datetime": "Wednesday, Aug 26, 2026, 3:45 PM ET",
       "league": "MLB",
-      "status": "12 hours from now",
+      "status": "6 hours from now",
       "event_url": "https://istreameast.cx/links/san-francisco-giants-vs-cincinnati-reds-2388873"
     },
     {
       "title": "Los Angeles Angels vs Cleveland Guardians",
       "datetime": "Wednesday, Aug 26, 2026, 4:07 PM ET",
       "league": "MLB",
-      "status": "13 hours from now",
+      "status": "7 hours from now",
       "event_url": "https://istreameast.cx/links/los-angeles-angels-vs-cleveland-guardians-2388877"
     },
     {
       "title": "Seattle Mariners vs Philadelphia Phillies",
       "datetime": "Wednesday, Aug 26, 2026, 4:10 PM ET",
       "league": "MLB",
-      "status": "13 hours from now",
+      "status": "7 hours from now",
       "event_url": "https://istreameast.cx/links/seattle-mariners-vs-philadelphia-phillies-2388872"
+    },
+    {
+      "title": "San Diego Padres vs Pittsburgh Pirates",
+      "datetime": "Wednesday, Aug 26, 2026, 4:10 PM ET",
+      "league": "MLB",
+      "status": "7 hours from now",
+      "event_url": "https://istreameast.cx/links/san-diego-padres-vs-pittsburgh-pirates-2388874"
+    },
+    {
+      "title": "Miami Marlins vs Boston Red Sox",
+      "datetime": "Wednesday, Aug 26, 2026, 6:40 PM ET",
+      "league": "MLB",
+      "status": "9 hours from now",
+      "event_url": "https://istreameast.cx/links/miami-marlins-vs-boston-red-sox-2388883"
+    },
+    {
+      "title": "Washington Nationals vs Colorado Rockies",
+      "datetime": "Wednesday, Aug 26, 2026, 6:45 PM ET",
+      "league": "MLB",
+      "status": "9 hours from now",
+      "event_url": "https://istreameast.cx/links/washington-nationals-vs-colorado-rockies-2388870"
     },
     {
       "title": "Connecticut Sun vs Golden State Valkyries",
       "datetime": "Wednesday, Aug 26, 2026, 7:00 PM ET",
       "league": "WNBA",
-      "status": "16 hours from now",
+      "status": "9 hours from now",
       "event_url": "https://istreameast.cx/links/connecticut-sun-vs-golden-state-valkyries-2449193"
+    },
+    {
+      "title": "New York Yankees vs Houston Astros",
+      "datetime": "Wednesday, Aug 26, 2026, 7:05 PM ET",
+      "league": "MLB",
+      "status": "10 hours from now",
+      "event_url": "https://istreameast.cx/links/new-york-yankees-vs-houston-astros-2388869"
+    },
+    {
+      "title": "Toronto Blue Jays vs Kansas City Royals",
+      "datetime": "Wednesday, Aug 26, 2026, 7:07 PM ET",
+      "league": "MLB",
+      "status": "10 hours from now",
+      "event_url": "https://istreameast.cx/links/toronto-blue-jays-vs-kansas-city-royals-2388871"
+    },
+    {
+      "title": "New York Mets vs Milwaukee Brewers",
+      "datetime": "Wednesday, Aug 26, 2026, 7:10 PM ET",
+      "league": "MLB",
+      "status": "10 hours from now",
+      "event_url": "https://istreameast.cx/links/new-york-mets-vs-milwaukee-brewers-2388876"
+    },
+    {
+      "title": "Atlanta Braves vs Los Angeles Dodgers",
+      "datetime": "Wednesday, Aug 26, 2026, 7:15 PM ET",
+      "league": "MLB",
+      "status": "10 hours from now",
+      "event_url": "https://istreameast.cx/links/atlanta-braves-vs-los-angeles-dodgers-2388880"
+    },
+    {
+      "title": "Chicago White Sox vs Texas Rangers",
+      "datetime": "Wednesday, Aug 26, 2026, 7:40 PM ET",
+      "league": "MLB",
+      "status": "10 hours from now",
+      "event_url": "https://istreameast.cx/links/chicago-white-sox-vs-texas-rangers-2388879"
+    },
+    {
+      "title": "St. Louis Cardinals vs Baltimore Orioles",
+      "datetime": "Wednesday, Aug 26, 2026, 7:45 PM ET",
+      "league": "MLB",
+      "status": "10 hours from now",
+      "event_url": "https://istreameast.cx/links/st-louis-cardinals-vs-baltimore-orioles-2388875"
+    },
+    {
+      "title": "Athletics vs Minnesota Twins",
+      "datetime": "Wednesday, Aug 26, 2026, 9:05 PM ET",
+      "league": "MLB",
+      "status": "12 hours from now",
+      "event_url": "https://istreameast.cx/links/athletics-vs-minnesota-twins-2388881"
     },
     {
       "title": "Seattle Storm vs Toronto Tempo",
       "datetime": "Wednesday, Aug 26, 2026, 10:00 PM ET",
       "league": "WNBA",
-      "status": "19 hours from now",
+      "status": "12 hours from now",
       "event_url": "https://istreameast.cx/links/seattle-storm-vs-toronto-tempo-2449330"
     },
     {
@@ -584,6 +346,13 @@
       "event_url": "https://istreameast.cx/links/riga-fc-vs-ki-klaksvik-2575142"
     },
     {
+      "title": "Washington Nationals vs Colorado Rockies",
+      "datetime": "Thursday, Aug 27, 2026, 1:05 PM ET",
+      "league": "MLB",
+      "status": "1 day from now",
+      "event_url": "https://istreameast.cx/links/washington-nationals-vs-colorado-rockies-2388885"
+    },
+    {
       "title": "AGF Aarhus vs Benfica",
       "datetime": "Thursday, Aug 27, 2026, 2:00 PM ET",
       "league": "Soccer",
@@ -624,6 +393,13 @@
       "league": "Soccer",
       "status": "1 day from now",
       "event_url": "https://istreameast.cx/links/st-gallen-vs-fc-nordsjaelland-2572963"
+    },
+    {
+      "title": "St. Louis Cardinals vs Baltimore Orioles",
+      "datetime": "Thursday, Aug 27, 2026, 2:15 PM ET",
+      "league": "MLB",
+      "status": "1 day from now",
+      "event_url": "https://istreameast.cx/links/st-louis-cardinals-vs-baltimore-orioles-2388884"
     },
     {
       "title": "Celta Vigo vs Osasuna",
@@ -668,6 +444,13 @@
       "event_url": "https://istreameast.cx/links/borac-banja-luka-vs-vikingur-reykjavik-2572967"
     },
     {
+      "title": "Chelsea vs Luton Town",
+      "datetime": "Thursday, Aug 27, 2026, 2:30 PM ET",
+      "league": "Soccer",
+      "status": "1 day from now",
+      "event_url": "https://istreameast.cx/links/chelsea-vs-luton-town-2570506"
+    },
+    {
       "title": "Barcelona vs Athletic Bilbao",
       "datetime": "Thursday, Aug 27, 2026, 3:00 PM ET",
       "league": "Soccer",
@@ -675,11 +458,235 @@
       "event_url": "https://istreameast.cx/links/barcelona-vs-athletic-bilbao-2506169"
     },
     {
+      "title": "Fulham vs AFC Wimbledon",
+      "datetime": "Thursday, Aug 27, 2026, 3:00 PM ET",
+      "league": "Soccer",
+      "status": "1 day from now",
+      "event_url": "https://istreameast.cx/links/fulham-vs-afc-wimbledon-2570507"
+    },
+    {
       "title": "Buffalo Bills vs Pittsburgh Steelers",
       "datetime": "Thursday, Aug 27, 2026, 7:00 PM ET",
       "league": "NFL",
       "status": "1 day from now",
       "event_url": "https://istreameast.cx/links/buffalo-bills-vs-pittsburgh-steelers-2475363"
+    },
+    {
+      "title": "New York Yankees vs Houston Astros",
+      "datetime": "Thursday, Aug 27, 2026, 7:05 PM ET",
+      "league": "MLB",
+      "status": "1 day from now",
+      "event_url": "https://istreameast.cx/links/new-york-yankees-vs-houston-astros-2388888"
+    },
+    {
+      "title": "Toronto Blue Jays vs Kansas City Royals",
+      "datetime": "Thursday, Aug 27, 2026, 7:07 PM ET",
+      "league": "MLB",
+      "status": "1 day from now",
+      "event_url": "https://istreameast.cx/links/toronto-blue-jays-vs-kansas-city-royals-2388886"
+    },
+    {
+      "title": "New York Mets vs Milwaukee Brewers",
+      "datetime": "Thursday, Aug 27, 2026, 7:10 PM ET",
+      "league": "MLB",
+      "status": "1 day from now",
+      "event_url": "https://istreameast.cx/links/new-york-mets-vs-milwaukee-brewers-2388889"
+    },
+    {
+      "title": "Cleveland Browns vs New England Patriots",
+      "datetime": "Thursday, Aug 27, 2026, 8:00 PM ET",
+      "league": "NFL",
+      "status": "1 day from now",
+      "event_url": "https://istreameast.cx/links/cleveland-browns-vs-new-england-patriots-2475364"
+    },
+    {
+      "title": "Las Vegas Raiders vs San Francisco 49ers",
+      "datetime": "Thursday, Aug 27, 2026, 8:00 PM ET",
+      "league": "NFL",
+      "status": "1 day from now",
+      "event_url": "https://istreameast.cx/links/las-vegas-raiders-vs-san-francisco-49ers-2480391"
+    },
+    {
+      "title": "New York Liberty vs Golden State Valkyries",
+      "datetime": "Thursday, Aug 27, 2026, 8:00 PM ET",
+      "league": "WNBA",
+      "status": "1 day from now",
+      "event_url": "https://istreameast.cx/links/new-york-liberty-vs-golden-state-valkyries-2449194"
+    },
+    {
+      "title": "Los Angeles Chargers vs Los Angeles Rams",
+      "datetime": "Thursday, Aug 27, 2026, 10:00 PM ET",
+      "league": "NFL",
+      "status": "1 day from now",
+      "event_url": "https://istreameast.cx/links/los-angeles-chargers-vs-los-angeles-rams-2475365"
+    },
+    {
+      "title": "Phoenix Mercury vs Washington Mystics",
+      "datetime": "Thursday, Aug 27, 2026, 10:00 PM ET",
+      "league": "WNBA",
+      "status": "1 day from now",
+      "event_url": "https://istreameast.cx/links/phoenix-mercury-vs-washington-mystics-2449195"
+    },
+    {
+      "title": "Aragón Free Practice 1",
+      "datetime": "Friday, Aug 28, 2026, 4:45 AM ET",
+      "league": "MotoGP",
+      "status": "1 day from now",
+      "event_url": "https://istreameast.cx/links/aragon-free-practice-1-2568469"
+    },
+    {
+      "title": "Road to UFC Season 5 Semifinals",
+      "datetime": "Friday, Aug 28, 2026, 6:00 AM ET",
+      "league": "UFC",
+      "status": "1 day from now",
+      "event_url": "https://istreameast.cx/links/road-to-ufc-season-5-semifinals-2581084"
+    },
+    {
+      "title": "Aragón Practice",
+      "datetime": "Friday, Aug 28, 2026, 9:00 AM ET",
+      "league": "MotoGP",
+      "status": "1 day from now",
+      "event_url": "https://istreameast.cx/links/aragon-practice-2568470"
+    },
+    {
+      "title": "Al-Riyadh vs Neom",
+      "datetime": "Friday, Aug 28, 2026, 11:50 AM ET",
+      "league": "Soccer",
+      "status": "2 days from now",
+      "event_url": "https://istreameast.cx/links/al-riyadh-vs-neom-2573327"
+    },
+    {
+      "title": "Al-Fayha vs Abha",
+      "datetime": "Friday, Aug 28, 2026, 12:00 PM ET",
+      "league": "Soccer",
+      "status": "2 days from now",
+      "event_url": "https://istreameast.cx/links/al-fayha-vs-abha-2573328"
+    },
+    {
+      "title": "Racing de Santander vs Elche",
+      "datetime": "Friday, Aug 28, 2026, 1:00 PM ET",
+      "league": "Soccer",
+      "status": "2 days from now",
+      "event_url": "https://istreameast.cx/links/racing-de-santander-vs-elche-2506198"
+    },
+    {
+      "title": "Al-Khaleej vs Al-Hilal",
+      "datetime": "Friday, Aug 28, 2026, 2:00 PM ET",
+      "league": "Soccer",
+      "status": "2 days from now",
+      "event_url": "https://istreameast.cx/links/al-khaleej-vs-al-hilal-2573329"
+    },
+    {
+      "title": "Al-Nassr vs Al-Taawoun",
+      "datetime": "Friday, Aug 28, 2026, 2:00 PM ET",
+      "league": "Soccer",
+      "status": "2 days from now",
+      "event_url": "https://istreameast.cx/links/al-nassr-vs-al-taawoun-2573330"
+    },
+    {
+      "title": "Groningen vs Fortuna Sittard",
+      "datetime": "Friday, Aug 28, 2026, 2:00 PM ET",
+      "league": "Soccer",
+      "status": "2 days from now",
+      "event_url": "https://istreameast.cx/links/groningen-vs-fortuna-sittard-2489091"
+    },
+    {
+      "title": "Bayern Munich vs Stuttgart",
+      "datetime": "Friday, Aug 28, 2026, 2:30 PM ET",
+      "league": "Soccer",
+      "status": "2 days from now",
+      "event_url": "https://istreameast.cx/links/bayern-munich-vs-stuttgart-2508333"
+    },
+    {
+      "title": "AC Milan vs Venezia",
+      "datetime": "Friday, Aug 28, 2026, 2:45 PM ET",
+      "league": "Soccer",
+      "status": "2 days from now",
+      "event_url": "https://istreameast.cx/links/ac-milan-vs-venezia-2482150"
+    },
+    {
+      "title": "Lille vs Paris Saint-Germain",
+      "datetime": "Friday, Aug 28, 2026, 2:45 PM ET",
+      "league": "Soccer",
+      "status": "2 days from now",
+      "event_url": "https://istreameast.cx/links/lille-vs-paris-saint-germain-2489479"
+    },
+    {
+      "title": "Crystal Palace vs Manchester City",
+      "datetime": "Friday, Aug 28, 2026, 3:00 PM ET",
+      "league": "Soccer",
+      "status": "2 days from now",
+      "event_url": "https://istreameast.cx/links/crystal-palace-vs-manchester-city-2494015"
+    },
+    {
+      "title": "Wrexham vs Birmingham City",
+      "datetime": "Friday, Aug 28, 2026, 3:00 PM ET",
+      "league": "Soccer",
+      "status": "2 days from now",
+      "event_url": "https://istreameast.cx/links/wrexham-vs-birmingham-city-2501284"
+    },
+    {
+      "title": "Rio Ave vs Sporting CP",
+      "datetime": "Friday, Aug 28, 2026, 3:15 PM ET",
+      "league": "Soccer",
+      "status": "2 days from now",
+      "event_url": "https://istreameast.cx/links/rio-ave-vs-sporting-cp-2513964"
+    },
+    {
+      "title": "Deportivo Alavés vs Villarreal",
+      "datetime": "Friday, Aug 28, 2026, 3:30 PM ET",
+      "league": "Soccer",
+      "status": "2 days from now",
+      "event_url": "https://istreameast.cx/links/deportivo-alaves-vs-villarreal-2506194"
+    },
+    {
+      "title": "Baltimore Ravens vs Washington Commanders",
+      "datetime": "Friday, Aug 28, 2026, 6:00 PM ET",
+      "league": "NFL",
+      "status": "2 days from now",
+      "event_url": "https://istreameast.cx/links/baltimore-ravens-vs-washington-commanders-2475368"
+    },
+    {
+      "title": "Miami Dolphins vs Atlanta Falcons",
+      "datetime": "Friday, Aug 28, 2026, 7:00 PM ET",
+      "league": "NFL",
+      "status": "2 days from now",
+      "event_url": "https://istreameast.cx/links/miami-dolphins-vs-atlanta-falcons-2475366"
+    },
+    {
+      "title": "Carolina Panthers vs Houston Texans",
+      "datetime": "Friday, Aug 28, 2026, 7:00 PM ET",
+      "league": "NFL",
+      "status": "2 days from now",
+      "event_url": "https://istreameast.cx/links/carolina-panthers-vs-houston-texans-2475367"
+    },
+    {
+      "title": "New York Jets vs New York Giants",
+      "datetime": "Friday, Aug 28, 2026, 7:30 PM ET",
+      "league": "NFL",
+      "status": "2 days from now",
+      "event_url": "https://istreameast.cx/links/new-york-jets-vs-new-york-giants-2475369"
+    },
+    {
+      "title": "Jacksonville Jaguars vs Tampa Bay Buccaneers",
+      "datetime": "Friday, Aug 28, 2026, 7:30 PM ET",
+      "league": "NFL",
+      "status": "2 days from now",
+      "event_url": "https://istreameast.cx/links/jacksonville-jaguars-vs-tampa-bay-buccaneers-2475370"
+    },
+    {
+      "title": "Indiana Fever vs Connecticut Sun",
+      "datetime": "Friday, Aug 28, 2026, 7:30 PM ET",
+      "league": "WNBA",
+      "status": "2 days from now",
+      "event_url": "https://istreameast.cx/links/indiana-fever-vs-connecticut-sun-2449196"
+    },
+    {
+      "title": "Atlanta Dream vs Portland Fire",
+      "datetime": "Friday, Aug 28, 2026, 7:30 PM ET",
+      "league": "WNBA",
+      "status": "2 days from now",
+      "event_url": "https://istreameast.cx/links/atlanta-dream-vs-portland-fire-2469389"
     }
   ]
 }
