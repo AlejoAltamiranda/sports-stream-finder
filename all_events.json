@@ -1,6 +1,6 @@
 {
-  "scraping_date": "2026-09-02T03:57:49.674685",
-  "total_events": 51,
+  "scraping_date": "2026-09-02T11:00:38.405487",
+  "total_events": 54,
   "events": [
     {
       "title": "Parma vs Cremonese",
@@ -125,133 +125,154 @@
       "title": "Dana Whites Contender Series season 10 Week 4",
       "datetime": "Tuesday, Sep 1, 2026, 7:00 PM ET",
       "league": "UFC",
-      "status": "LIVE",
+      "status": "11 hours from now",
       "event_url": "https://istreameast.cx/links/dana-whites-contender-series-season-10-week-4-2558801"
+    },
+    {
+      "title": "Minnesota Twins vs Detroit Tigers",
+      "datetime": "Tuesday, Sep 1, 2026, 7:40 PM ET",
+      "league": "MLB",
+      "status": "12 hours from now",
+      "event_url": "https://istreameast.cx/links/minnesota-twins-vs-detroit-tigers-2388951"
+    },
+    {
+      "title": "Kansas City Royals vs Miami Marlins",
+      "datetime": "Tuesday, Sep 1, 2026, 7:40 PM ET",
+      "league": "MLB",
+      "status": "12 hours from now",
+      "event_url": "https://istreameast.cx/links/kansas-city-royals-vs-miami-marlins-2388954"
+    },
+    {
+      "title": "Chicago Cubs vs Milwaukee Brewers",
+      "datetime": "Tuesday, Sep 1, 2026, 7:40 PM ET",
+      "league": "MLB",
+      "status": "12 hours from now",
+      "event_url": "https://istreameast.cx/links/chicago-cubs-vs-milwaukee-brewers-2388958"
     },
     {
       "title": "NXT #853",
       "datetime": "Tuesday, Sep 1, 2026, 8:00 PM ET",
       "league": "WWE",
-      "status": "LIVE",
+      "status": "12 hours from now",
       "event_url": "https://istreameast.cx/links/nxt-853-2594497"
     },
     {
       "title": "Texas Rangers vs Athletics",
       "datetime": "Tuesday, Sep 1, 2026, 8:05 PM ET",
       "league": "MLB",
-      "status": "LIVE",
+      "status": "12 hours from now",
       "event_url": "https://istreameast.cx/links/texas-rangers-vs-athletics-2388949"
     },
     {
       "title": "Houston Astros vs Chicago White Sox",
       "datetime": "Tuesday, Sep 1, 2026, 8:10 PM ET",
       "league": "MLB",
-      "status": "LIVE",
+      "status": "12 hours from now",
       "event_url": "https://istreameast.cx/links/houston-astros-vs-chicago-white-sox-2388961"
     },
     {
       "title": "Colorado Rockies vs Baltimore Orioles",
       "datetime": "Tuesday, Sep 1, 2026, 8:40 PM ET",
       "league": "MLB",
-      "status": "LIVE",
+      "status": "13 hours from now",
       "event_url": "https://istreameast.cx/links/colorado-rockies-vs-baltimore-orioles-2388955"
     },
     {
       "title": "Los Angeles Angels vs New York Yankees",
       "datetime": "Tuesday, Sep 1, 2026, 9:38 PM ET",
       "league": "MLB",
-      "status": "LIVE",
+      "status": "13 hours from now",
       "event_url": "https://istreameast.cx/links/los-angeles-angels-vs-new-york-yankees-2388947"
     },
     {
       "title": "Arizona Diamondbacks vs Philadelphia Phillies",
       "datetime": "Tuesday, Sep 1, 2026, 9:40 PM ET",
       "league": "MLB",
-      "status": "LIVE",
+      "status": "14 hours from now",
       "event_url": "https://istreameast.cx/links/arizona-diamondbacks-vs-philadelphia-phillies-2388960"
     },
     {
       "title": "Los Angeles Dodgers vs St. Louis Cardinals",
       "datetime": "Tuesday, Sep 1, 2026, 10:10 PM ET",
       "league": "MLB",
-      "status": "LIVE",
+      "status": "14 hours from now",
       "event_url": "https://istreameast.cx/links/los-angeles-dodgers-vs-st-louis-cardinals-2388952"
     },
     {
       "title": "Sassuolo vs Frosinone",
       "datetime": "Wednesday, Sep 2, 2026, 9:00 AM ET",
       "league": "Soccer",
-      "status": "9 hours from now",
+      "status": "1 hour from now",
       "event_url": "https://istreameast.cx/links/sassuolo-vs-frosinone-2579097"
     },
     {
       "title": "Udinese vs Venezia",
       "datetime": "Wednesday, Sep 2, 2026, 12:00 PM ET",
       "league": "Soccer",
-      "status": "12 hours from now",
+      "status": "4 hours from now",
       "event_url": "https://istreameast.cx/links/udinese-vs-venezia-2577930"
     },
     {
       "title": "Cincinnati Reds vs San Diego Padres",
       "datetime": "Wednesday, Sep 2, 2026, 12:40 PM ET",
       "league": "MLB",
-      "status": "12 hours from now",
+      "status": "5 hours from now",
       "event_url": "https://istreameast.cx/links/cincinnati-reds-vs-san-diego-padres-2388968"
     },
     {
       "title": "Washington Nationals vs Atlanta Braves",
       "datetime": "Wednesday, Sep 2, 2026, 1:05 PM ET",
       "league": "MLB",
-      "status": "13 hours from now",
+      "status": "6 hours from now",
       "event_url": "https://istreameast.cx/links/washington-nationals-vs-atlanta-braves-2388976"
     },
     {
       "title": "Texas Rangers vs Athletics",
       "datetime": "Wednesday, Sep 2, 2026, 2:35 PM ET",
       "league": "MLB",
-      "status": "14 hours from now",
+      "status": "7 hours from now",
       "event_url": "https://istreameast.cx/links/texas-rangers-vs-athletics-2388963"
     },
     {
       "title": "Millwall vs Wrexham",
       "datetime": "Wednesday, Sep 2, 2026, 2:45 PM ET",
       "league": "Soccer",
-      "status": "14 hours from now",
+      "status": "7 hours from now",
       "event_url": "https://istreameast.cx/links/millwall-vs-wrexham-2501294"
     },
     {
       "title": "West Bromwich Albion vs Charlton Athletic",
       "datetime": "Wednesday, Sep 2, 2026, 2:45 PM ET",
       "league": "Soccer",
-      "status": "14 hours from now",
+      "status": "7 hours from now",
       "event_url": "https://istreameast.cx/links/west-bromwich-albion-vs-charlton-athletic-2501295"
     },
     {
       "title": "Queens Park Rangers vs Cardiff City",
       "datetime": "Wednesday, Sep 2, 2026, 2:45 PM ET",
       "league": "Soccer",
-      "status": "14 hours from now",
+      "status": "7 hours from now",
       "event_url": "https://istreameast.cx/links/queens-park-rangers-vs-cardiff-city-2501296"
     },
     {
       "title": "Burnley vs Middlesbrough",
       "datetime": "Wednesday, Sep 2, 2026, 3:00 PM ET",
       "league": "Soccer",
-      "status": "15 hours from now",
+      "status": "7 hours from now",
       "event_url": "https://istreameast.cx/links/burnley-vs-middlesbrough-2501293"
     },
     {
       "title": "Colorado Rockies vs Baltimore Orioles",
       "datetime": "Wednesday, Sep 2, 2026, 3:10 PM ET",
       "league": "MLB",
-      "status": "15 hours from now",
+      "status": "8 hours from now",
       "event_url": "https://istreameast.cx/links/colorado-rockies-vs-baltimore-orioles-2388971"
     },
     {
       "title": "Arizona Diamondbacks vs Philadelphia Phillies",
       "datetime": "Wednesday, Sep 2, 2026, 3:40 PM ET",
       "league": "MLB",
-      "status": "15 hours from now",
+      "status": "8 hours from now",
       "event_url": "https://istreameast.cx/links/arizona-diamondbacks-vs-philadelphia-phillies-2388975"
     },
     {
